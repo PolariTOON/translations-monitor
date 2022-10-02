@@ -274,7 +274,7 @@ level1_boss_2_3 has missing translations el,es,id,it,ja,nl,sv,tr
 level1_boss_3 has extra translations de,el,es,fr,id,it,ja,nl,pl,pt,ru,sv
 level1_boss_4 has extra translations de,el,es,fr,id,it,ja,nl,pl,pt,ru,sv
 level1_boss_5 has extra translations de,el,es,fr,id,it,ja,nl,pl,pt,ru,sv
-level1_boss__1 has extra translations tr
+level1_boss__1 has extra translations tr (2)
 level1_boss__2 has extra translations tr
 level1_boss__3 has extra translations tr
 level1_boss__4 has extra translations tr
@@ -290,8 +290,11 @@ level1_start_cutscene_2 has extra translations el,es,id,it,ja,nl,pl,ru,sv,tr
 level1_start_cutscene_3 has extra translations el,es,id,it,ja,nl,pl,ru,sv,tr
 level1_start_cutscene_4 has extra translations el,es,id,it,ja,nl,pl,ru,sv,tr
 level1_tutorial_0 has extra translations de,el,es,fr,id,it,ja,nl,pl,pt,ru,tr
+level1_tutorial_1 has extra translations fr (2),pl (2),pt (2),ru (2)
 level1_tutorial_1 has missing translations es,sv
+level1_tutorial_2 has extra translations fr (2),pl (2),pt (2),ru (2)
 level1_tutorial_2 has missing translations sv
+level1_tutorial_3 has extra translations fr (2),pl (2),pt (2),ru (2)
 level1_tutorial_3 has missing translations sv
 level2_boss_1 has missing translations tr
 level2_boss_2 has missing translations el,es,id,it,ja,nl,sv,tr
@@ -408,6 +411,12 @@ tristopio_practice has missing translations el,sv
 tristopio_practice_info has missing translations el,sv
 tristopio_start has missing translations el,sv
 turtle has extra translations pl,sv
+tutorial_shicka_1 has extra translations pl (2),ru (2)
+tutorial_shicka_2 has extra translations pl (2),ru (2)
+tutorial_shicka_3 has extra translations pl (2),ru (2)
+tutorial_shicka_4 has extra translations pl (2),ru (2)
+tutorial_shicka_5 has extra translations pl (2),ru (2)
+tutorial_shicka_6 has extra translations pl (2),ru (2)
 tutorial_sign_01 has missing translations el,es,id,it,ja,nl,pl,ru,sv,tr
 tutorial_sign_02 has missing translations el,es,id,it,ja,nl,pl,ru,sv,tr
 tutorial_sign_03 has missing translations el,es,id,it,ja,nl,pl,ru,sv,tr
@@ -462,4 +471,5 @@ ui_unlock has missing translations sv
 ui_version has missing translations el,es,id,it,ja,nl,ru,sv,tr
 ui_watch has missing translations el,sv
 ui_watch_trailer has missing translations sv
+ui_website has extra translations es (2)
 ui_website has missing translations el,it,sv

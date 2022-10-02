@@ -2419,7 +2419,7 @@
 			"Maska bandyty"
 		],
 		"pt": [
-			"Bandit mask"
+			"Máscara de bandido"
 		],
 		"ru": [
 			"Bandit mask"
@@ -2531,7 +2531,7 @@
 			"Irokez"
 		],
 		"pt": [
-			"Punk hair"
+			"Cabelo punk"
 		],
 		"ru": [
 			"Punk hair"
@@ -2587,7 +2587,7 @@
 			"Crown"
 		],
 		"pt": [
-			"Crown"
+			"Coroa"
 		],
 		"ru": [
 			"Crown"
@@ -2615,7 +2615,7 @@
 			"Białe oczy"
 		],
 		"pt": [
-			"White eyes"
+			"Olhos brancos"
 		],
 		"ru": [
 			"White eyes"
@@ -2643,7 +2643,7 @@
 			"DUŻE OCZY"
 		],
 		"pt": [
-			"BIG EYES"
+			"OLHÕES"
 		],
 		"ru": [
 			"BIG EYES"
@@ -2671,7 +2671,7 @@
 			"DUŻE USZY"
 		],
 		"pt": [
-			"BIG EARS"
+			"ORELHÕES"
 		],
 		"ru": [
 			"BIG EARS"
@@ -2699,7 +2699,7 @@
 			"Długie włosy (czarne)"
 		],
 		"pt": [
-			"Long hair (black)"
+			"Cabelos longos (negro)"
 		],
 		"ru": [
 			"Long hair (black)"
@@ -2727,7 +2727,7 @@
 			"Maska gazowa"
 		],
 		"pt": [
-			"Gas mask"
+			"Máscara de gás"
 		],
 		"ru": [
 			"Gas mask"
@@ -2755,7 +2755,7 @@
 			"Spuchnięta głowa"
 		],
 		"pt": [
-			"Swollen head"
+			"Cabeça inflada"
 		],
 		"ru": [
 			"Swollen head"
@@ -2783,7 +2783,7 @@
 			"Niedźwiedź Polarny"
 		],
 		"pt": [
-			"Polar bear"
+			"Urso polar"
 		],
 		"ru": [
 			"Polar bear"
@@ -2811,7 +2811,7 @@
 			"Grube ciało"
 		],
 		"pt": [
-			"Fat body"
+			"Corpo gordo"
 		],
 		"ru": [
 			"Fat body"
@@ -2839,7 +2839,7 @@
 			"Muskularne ciało"
 		],
 		"pt": [
-			"Muscular body"
+			"Corpo musculoso"
 		],
 		"ru": [
 			"Muscular body"
@@ -2867,7 +2867,7 @@
 			"Muszka"
 		],
 		"pt": [
-			"Bowtie"
+			"Gravata-borboleta"
 		],
 		"ru": [
 			"Bowtie"
@@ -2895,7 +2895,7 @@
 			"Złoty niedźwiedź"
 		],
 		"pt": [
-			"Golden bear"
+			"Urso dourado"
 		],
 		"ru": [
 			"Golden bear"
@@ -2923,7 +2923,7 @@
 			"Złota Shicka"
 		],
 		"pt": [
-			"Golden Shicka"
+			"Shicka dourada"
 		],
 		"ru": [
 			"Golden Shicka"
@@ -2951,7 +2951,7 @@
 			"Czerwona Shicka"
 		],
 		"pt": [
-			"Red Shicka"
+			"Shicka vermelha"
 		],
 		"ru": [
 			"Red Shicka"
@@ -2979,7 +2979,7 @@
 			"Zielona Shicka"
 		],
 		"pt": [
-			"Green Shicka"
+			"Shicka verde"
 		],
 		"ru": [
 			"Green Shicka"
@@ -3007,7 +3007,7 @@
 			"Różowy niedźwiedź"
 		],
 		"pt": [
-			"Pink bear"
+			"Urso rosa"
 		],
 		"ru": [
 			"Pink bear"
@@ -3035,7 +3035,7 @@
 			"Okulary"
 		],
 		"pt": [
-			"Glasses"
+			"Óculos"
 		],
 		"ru": [
 			"Glasses"
@@ -3063,7 +3063,7 @@
 			"Koszula Capitalusa"
 		],
 		"pt": [
-			"Capitalus' suit"
+			"Roupa do Capitalus"
 		],
 		"ru": [
 			"Capitalus' suit"
@@ -3707,7 +3707,7 @@
 			"Koszulka (król)"
 		],
 		"pt": [
-			"Camisa (mito)"
+			"Túnica (rei)"
 		],
 		"ru": [
 			"Shirt (king)"
@@ -6801,7 +6801,7 @@
 			"Sklep pamiątkowy Maybee"
 		],
 		"pt": [
-			"Maybee's gift shop"
+			"Loja de Presentes da Maybee"
 		],
 		"ru": [],
 		"sv": [],
@@ -9952,7 +9952,8 @@
 		"ru": [],
 		"sv": [],
 		"tr": [
-			"Baaren! Beni kurtarmak için geldin! Dikkatli ol, bu golem çok tehlikeli!"
+			"Baaren! Beni kurtarmak için geldin! Dikkatli ol, bu golem çok tehlikeli!",
+			"İşte ünlü Kocaayak. Şimdilik vuruşlarından kaçalım. Karşı saldırıya geçmeden önce yorulmasını bekleyin."
 		]
 	},
 	"level1_boss__2": {
@@ -10987,7 +10988,8 @@
 		],
 		"es": [],
 		"fr": [
-			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages."
+			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages.",
+			"Avant de sauver des ours, nous devons ouvrir la porte à pièces. Nous avons besoin de ramasser 60 pièces pour l'ouvrir."
 		],
 		"id": [
 			"Sebelum kita dapat menyimpan beruang, kita perlu membuka pintu koin. Kita perlu untuk mengumpulkan 60 koin untuk membukanya."
@@ -11002,13 +11004,16 @@
 			"Voordat we een beer redden, moeten we de muntendeur openen. We moeten 60 munten verzamelen om het te openen."
 		],
 		"pl": [
-			"Przed uratowaniem niedźwiedzia musimy otworzyć drzwi monetowe. Musimy zebrać 60 monet, aby je otworzyć."
+			"Przed uratowaniem niedźwiedzia musimy otworzyć drzwi monetowe. Musimy zebrać 60 monet, aby je otworzyć.",
+			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
 		],
 		"pt": [
-			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!"
+			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!",
+			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
 		],
 		"ru": [
-			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
+			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages.",
+			"Прежде чем спасать медведя, нужно открыть дверь за монеты. Нужно собрать 60 монет, чтобы открыть её."
 		],
 		"sv": [],
 		"tr": [
@@ -11029,7 +11034,8 @@
 			"Once the coin door is opened, it will remain open next time we visit the level and these stones should be replaced by bears to save."
 		],
 		"fr": [
-			"Dès que nous aurons libéré assez de nos amis, nous seront en mesure d'ouvrir cette grille."
+			"Dès que nous aurons libéré assez de nos amis, nous seront en mesure d'ouvrir cette grille.",
+			"Une fois la porte à pièces ouverte, elle le restera quand nous visiterons le niveau à nouveau et ces pierres seront remplacées par des ours à sauver."
 		],
 		"id": [
 			"Setelah pintu koin dibuka, pintu itu akan tetap terbuka setiap kali kita mengunjungi tingkat dan batu-batu ini akan diganti dengan beruang untuk diselamatkan."
@@ -11044,13 +11050,16 @@
 			"Als de muntendeur eenmaal geopend is, blijft hij de volgende keer dat we het level bezoeken open en moeten deze stenen worden vervangen door beren om te redden."
 		],
 		"pl": [
-			"Po otwarciu drzwi monetowych, pozostaną otwarte następnym razem odwiedzamy poziom i te kamienie powinny być zastąpione przez niedźwiedzie, aby zapisać."
+			"Po otwarciu drzwi monetowych, pozostaną otwarte następnym razem odwiedzamy poziom i te kamienie powinny być zastąpione przez niedźwiedzie, aby zapisać.",
+			"Raz uratujemy wystarczająco naszych przyjaciół, otworzymy tą bramę."
 		],
 		"pt": [
-			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar."
+			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar.",
+			"Once we free enough of our friends, we will be able to open this gate."
 		],
 		"ru": [
-			"Once we free enough of our friends, we will be able to open this gate."
+			"Once we free enough of our friends, we will be able to open this gate.",
+			"Как только дверца для монет откроется, она останется открытой при следующем посещении уровня, и эти камни должны быть заменены медведями для спасения."
 		],
 		"sv": [],
 		"tr": [
@@ -11071,7 +11080,8 @@
 			"Coins and enemies will reappear each time we exit a level."
 		],
 		"fr": [
-			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau."
+			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau.",
+			"Les pièces et les ennemis réapparaîtront à chaque fois que nous quitterons un niveau."
 		],
 		"id": [
 			"Koin dan musuh akan muncul kembali setiap kali kita keluar tingkat."
@@ -11086,13 +11096,16 @@
 			"Munten en vijanden zullen opnieuw verschijnen elke keer als we een level verlaten."
 		],
 		"pl": [
-			"Monety i wrogowie pojawią się ponownie za każdym razem, gdy wyjdziemy z poziomu."
+			"Monety i wrogowie pojawią się ponownie za każdym razem, gdy wyjdziemy z poziomu.",
+			"Również, warto zapamiętać, że monety będą pojawiać się z powrotem za każdym razem jak wyjdziemy z poziomu."
 		],
 		"pt": [
-			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase."
+			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase.",
+			"Aliás, note que as moedas vão reaparecer cada vez que saírmos da fase."
 		],
 		"ru": [
-			"Also, note that coins will reappear each time we leave the level."
+			"Also, note that coins will reappear each time we leave the level.",
+			"Монеты и враги будут появляться каждый раз, когда мы выходим с уровня."
 		],
 		"sv": [],
 		"tr": [
@@ -19062,13 +19075,15 @@
 			"Hey baaren, je bent er! ik wist me te verbergen wanneer de bijen kwamen. je bent de enige beer die ze niet hebben gevangen"
 		],
 		"pl": [
-			"Hej Baaren, tu jesteś! Udało mi się ukryć, gdy pszczoły tutaj przybyły. Jesteś jedynym niedźwiedziem, którego nie złapali..."
+			"Hej Baaren, tu jesteś! Udało mi się ukryć, gdy pszczoły tutaj przybyły. Jesteś jedynym niedźwiedziem, którego nie złapali...",
+			"Hey Baaren, there you are! The bees attacked the village and captured everyone! I managed to hide when they arrived."
 		],
 		"pt": [
 			"Ei Baaren, Aí está você! As abelhas atacaram a vila e capturaram todos! Eu consegui me esconder quando elas chegaram."
 		],
 		"ru": [
-			"Эй, Баарен, вот ты где ! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли."
+			"Эй, Баарен, вот ты где ! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли.",
+			"Эй, Баарен, вот ты где! Мне удалось спрятаться, когда сюда прибыли пчёлы. Ты единственный медведь, которого они не захватили..."
 		],
 		"sv": [
 			"Hey Baaren, there you are! I managed to hide when the bees arrived here. You are the only bear that they didn't capture..."
@@ -19106,13 +19121,15 @@
 			"Ik denk dat we een team moeten vormen om onze vrienden te bevrijden. ik kan je advies geven over de omgeving."
 		],
 		"pl": [
-			"Myślę, że powinniśmy współpracować, aby uwolnić naszych przyjaciół! Mogłabym dać kilka rad na temat okolicy."
+			"Myślę, że powinniśmy współpracować, aby uwolnić naszych przyjaciół! Mogłabym dać kilka rad na temat okolicy.",
+			"Were you just… sleeping? Avoiding a raid by taking a nap away from the village, that’s very you."
 		],
 		"pt": [
 			"Você estava só... dormindo? Evitar uma invasão tirando uma soneca longe da vila, bem a sua cara."
 		],
 		"ru": [
-			"Ты просто... спал? Избежать нашествие, вздремнув подальше от деревни, это очень по твоему."
+			"Ты просто... спал? Избежать нашествие, вздремнув подальше от деревни, это очень по твоему.",
+			"Я думаю, мы должны объединиться, чтобы освободить наших друзей. Я дам тебе несколько советов об окрестностях."
 		],
 		"sv": [
 			"I think we should team up to free our friends. I could give you some advice about the surroundings."
@@ -19150,13 +19167,15 @@
 			"Ik zag dat beren werden ontvoerd en naar Schilpaddendorp werden gebracht."
 		],
 		"pl": [
-			"Widziałem jak pszczoły zabierają niedźwiedzie do Żółwiej Wioski..."
+			"Widziałem jak pszczoły zabierają niedźwiedzie do Żółwiej Wioski...",
+			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
 		],
 		"pt": [
 			"Enfim, nós deveriamos fazer um time para resgatar nossos amigos! Eu podia te dar algumas dicas sobre os arredores. Mochileiros como eu sabem muito sobre o reino."
 		],
 		"ru": [
-			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
+			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom.",
+			"Я увидела пчёл, ведущих медведей в Черепашью деревню."
 		],
 		"sv": [
 			"I saw bees taking the bears to the Turtle village."
@@ -19194,13 +19213,15 @@
 			"Gelukkig werkt het platform naar het schilpaddendorp nog! waar wacht je nog op, kom op we gaan!"
 		],
 		"pl": [
-			"Na szczęście platforma, która prowadzi do Żółwiej Wioski nadal działa! Chodźmy je uwolnić!"
+			"Na szczęście platforma, która prowadzi do Żółwiej Wioski nadal działa! Chodźmy je uwolnić!",
+			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!"
 		],
 		"pt": [
 			"Eu vi abelhas levando ursos para a Cidade das Tartarugas, a gente deveria ir lá primeiro. Felizmente pra nós, a plataforma que nos leva até ela ainda funciona. Vamos lá!"
 		],
 		"ru": [
-			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!"
+			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!",
+			"К счастью, платформа, которая ведет в Черепашью деревню, всё ещё работает, давай освободим их!"
 		],
 		"sv": [
 			"Fortunately the platform that leads to the Turtle village is still working, let's go free them!"
@@ -19238,13 +19259,15 @@
 			"We kunnen dan naar de Sneeuw Vallei gaan."
 		],
 		"pl": [
-			"Moglibyśmy wtedy udać się do Śnieżnej Doliny."
+			"Moglibyśmy wtedy udać się do Śnieżnej Doliny.",
+			"We could then go to the Snow Valley..."
 		],
 		"pt": [
 			"Então poderíamos ir ao Vale Nevado..."
 		],
 		"ru": [
-			"We could then go to the Snow Valley..."
+			"We could then go to the Snow Valley...",
+			"Мы можем пойти в заснеженную долину."
 		],
 		"sv": [
 			"We could then go to the snowy valley."
@@ -19282,13 +19305,15 @@
 			"We Zouden ook De Beemothep woestijn kunnen onderzoeken."
 		],
 		"pl": [
-			"Moglibyśmy również zwiedzić Pustynie Beemothep..."
+			"Moglibyśmy również zwiedzić Pustynie Beemothep...",
+			"... and then explore the Beemothep Desert."
 		],
 		"pt": [
 			"...e depois explorar o Deserto Beemothep."
 		],
 		"ru": [
-			"... and then explore the Beemothep Desert."
+			"... and then explore the Beemothep Desert.",
+			"Можем также исследовать пустыню Бимотеп."
 		],
 		"sv": [
 			"We could also explore the Beemothep desert."
@@ -25618,6 +25643,7 @@
 			"Visit website/store"
 		],
 		"es": [
+			"Visitar sitio web/tienda",
 			"Visitar sitio web/tienda"
 		],
 		"fr": [
