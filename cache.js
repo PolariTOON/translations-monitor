@@ -17,6 +17,9 @@ const sheets = Object.assign(Object.create(null), {
 	"tr": "1XN24kknIFeW0P37VBxEwzjOdBh9ZrioCDLj1NlW1rLw",
 });
 const locales = Object.create(null);
+for (const locale of Object.keys(sheets)) {
+	locales[locale] = Object.create(null);
+}
 for (const [locale, sheet] of Object.entries(sheets)) {
 	try {
 		const response = await fetch(`https://docs.google.com/spreadsheets/d/${sheet}/export?format=tsv`);
@@ -38,7 +41,10 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 			if (value === "") {
 				continue;
 			}
-			(locales[locale] ??= Object.create(null))[key] ??= value;
+			for (const locale of Object.keys(sheets)) {
+				locales[locale][key] ??= [];
+			}
+			locales[locale][key].push(value);
 		}
 		console.log(`Got sheet ${locale}`);
 	} catch (error) {
@@ -78,5 +84,5 @@ const sortedKeys = Object.fromEntries(sortEntries(Object.entries(keys).map(([key
 await fs.promises.mkdir("cache", {
 	recursive: true,
 });
-await fs.promises.writeFile(`cache/locales.json`, JSON.stringify(sortedLocales, null, "\t"));
-await fs.promises.writeFile(`cache/keys.json`, JSON.stringify(sortedKeys, null, "\t"));
+await fs.promises.writeFile(`cache/locales.json`, `${JSON.stringify(sortedLocales, null, "\t")}\n`);
+await fs.promises.writeFile(`cache/keys.json`, `${JSON.stringify(sortedKeys, null, "\t")}\n`);

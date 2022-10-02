@@ -1,35 +1,22 @@
 import fs from "fs";
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
-const knownLocales = [
-	"de",
-	"el",
-	"en",
-	"es",
-	"fr",
-	"id",
-	"it",
-	"ja",
-	"nl",
-	"pl",
-	"pt",
-	"ru",
-	"sv",
-	"tr",
-];
 const warns = [];
 for (const [key, locales] of Object.entries(keys)) {
-	const en = locales["en"];
-	if (en == null) {
-		const extraLocales = Object.keys(locales).filter((locale) => {
-			return locale !== "en";
-		});
-		if (extraLocales.length !== 0) {
-			warns.push(`${key} has extra translations ${extraLocales}`);
+	const length = locales["en"].length !== 0 ? 1 : 0;
+	const extraLocales = Object.keys(locales).filter((locale) => {
+		return locales[locale].length > length;
+	}).map((locale) => {
+		const {length} = locales[locale];
+		if (length === 1) {
+			return locale;
 		}
-		continue;
+		return `${locale} (${length})`;
+	});
+	if (extraLocales.length !== 0) {
+		warns.push(`${key} has extra translations ${extraLocales}`);
 	}
-	const missingLocales = knownLocales.filter((locale) => {
-		return locale !== "en" && locales[locale] == null;
+	const missingLocales = Object.keys(locales).filter((locale) => {
+		return locales[locale].length < length;
 	});
 	if (missingLocales.length !== 0) {
 		warns.push(`${key} has missing translations ${missingLocales}`);
