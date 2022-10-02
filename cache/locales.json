@@ -6977,6 +6977,7 @@
 			"Watch the trailer on YouTube"
 		],
 		"ui_website": [
+			"Visitar sitio web/tienda",
 			"Visitar sitio web/tienda"
 		],
 		"ui_yes": [
@@ -7843,13 +7844,16 @@
 			"Appuie ici pour suivre le tutoriel du niveau"
 		],
 		"level1_tutorial_1": [
-			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages."
+			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages.",
+			"Avant de sauver des ours, nous devons ouvrir la porte à pièces. Nous avons besoin de ramasser 60 pièces pour l'ouvrir."
 		],
 		"level1_tutorial_2": [
-			"Dès que nous aurons libéré assez de nos amis, nous seront en mesure d'ouvrir cette grille."
+			"Dès que nous aurons libéré assez de nos amis, nous seront en mesure d'ouvrir cette grille.",
+			"Une fois la porte à pièces ouverte, elle le restera quand nous visiterons le niveau à nouveau et ces pierres seront remplacées par des ours à sauver."
 		],
 		"level1_tutorial_3": [
-			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau."
+			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau.",
+			"Les pièces et les ennemis réapparaîtront à chaque fois que nous quitterons un niveau."
 		],
 		"level2_boss_1": [
 			"Voici le fameux Yéti. Évitons ses attaques pour le moment. Attends qu'il s'épuise avant d'attaquer."
@@ -16195,13 +16199,16 @@
 			"Dotknij tutaj żeby pokazać samouczek"
 		],
 		"level1_tutorial_1": [
-			"Przed uratowaniem niedźwiedzia musimy otworzyć drzwi monetowe. Musimy zebrać 60 monet, aby je otworzyć."
+			"Przed uratowaniem niedźwiedzia musimy otworzyć drzwi monetowe. Musimy zebrać 60 monet, aby je otworzyć.",
+			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
 		],
 		"level1_tutorial_2": [
-			"Po otwarciu drzwi monetowych, pozostaną otwarte następnym razem odwiedzamy poziom i te kamienie powinny być zastąpione przez niedźwiedzie, aby zapisać."
+			"Po otwarciu drzwi monetowych, pozostaną otwarte następnym razem odwiedzamy poziom i te kamienie powinny być zastąpione przez niedźwiedzie, aby zapisać.",
+			"Raz uratujemy wystarczająco naszych przyjaciół, otworzymy tą bramę."
 		],
 		"level1_tutorial_3": [
-			"Monety i wrogowie pojawią się ponownie za każdym razem, gdy wyjdziemy z poziomu."
+			"Monety i wrogowie pojawią się ponownie za każdym razem, gdy wyjdziemy z poziomu.",
+			"Również, warto zapamiętać, że monety będą pojawiać się z powrotem za każdym razem jak wyjdziemy z poziomu."
 		],
 		"level2_boss_1": [
 			"Oto słynny Yeti... Na razie unikajmy jego ataków. Poczekaj, aż się wyczerpie, zanim zaatakujemy."
@@ -16835,22 +16842,28 @@
 			"Żółw"
 		],
 		"tutorial_shicka_1": [
-			"Hej Baaren, tu jesteś! Udało mi się ukryć, gdy pszczoły tutaj przybyły. Jesteś jedynym niedźwiedziem, którego nie złapali..."
+			"Hej Baaren, tu jesteś! Udało mi się ukryć, gdy pszczoły tutaj przybyły. Jesteś jedynym niedźwiedziem, którego nie złapali...",
+			"Hey Baaren, there you are! The bees attacked the village and captured everyone! I managed to hide when they arrived."
 		],
 		"tutorial_shicka_2": [
-			"Myślę, że powinniśmy współpracować, aby uwolnić naszych przyjaciół! Mogłabym dać kilka rad na temat okolicy."
+			"Myślę, że powinniśmy współpracować, aby uwolnić naszych przyjaciół! Mogłabym dać kilka rad na temat okolicy.",
+			"Were you just… sleeping? Avoiding a raid by taking a nap away from the village, that’s very you."
 		],
 		"tutorial_shicka_3": [
-			"Widziałem jak pszczoły zabierają niedźwiedzie do Żółwiej Wioski..."
+			"Widziałem jak pszczoły zabierają niedźwiedzie do Żółwiej Wioski...",
+			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
 		],
 		"tutorial_shicka_4": [
-			"Na szczęście platforma, która prowadzi do Żółwiej Wioski nadal działa! Chodźmy je uwolnić!"
+			"Na szczęście platforma, która prowadzi do Żółwiej Wioski nadal działa! Chodźmy je uwolnić!",
+			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!"
 		],
 		"tutorial_shicka_5": [
-			"Moglibyśmy wtedy udać się do Śnieżnej Doliny."
+			"Moglibyśmy wtedy udać się do Śnieżnej Doliny.",
+			"We could then go to the Snow Valley..."
 		],
 		"tutorial_shicka_6": [
-			"Moglibyśmy również zwiedzić Pustynie Beemothep..."
+			"Moglibyśmy również zwiedzić Pustynie Beemothep...",
+			"... and then explore the Beemothep Desert."
 		],
 		"tutorial_sign_01": [],
 		"tutorial_sign_02": [],
@@ -17463,7 +17476,7 @@
 			"Tartaruga"
 		],
 		"cosmetic_001": [
-			"Bandit mask"
+			"Máscara de bandido"
 		],
 		"cosmetic_002": [
 			"Boné (vermelho)"
@@ -17475,64 +17488,64 @@
 			"Unicórnio"
 		],
 		"cosmetic_005": [
-			"Punk hair"
+			"Cabelo punk"
 		],
 		"cosmetic_006": [
 			"Fez"
 		],
 		"cosmetic_007": [
-			"Crown"
+			"Coroa"
 		],
 		"cosmetic_008": [
-			"White eyes"
+			"Olhos brancos"
 		],
 		"cosmetic_009": [
-			"BIG EYES"
+			"OLHÕES"
 		],
 		"cosmetic_010": [
-			"BIG EARS"
+			"ORELHÕES"
 		],
 		"cosmetic_011": [
-			"Long hair (black)"
+			"Cabelos longos (negro)"
 		],
 		"cosmetic_012": [
-			"Gas mask"
+			"Máscara de gás"
 		],
 		"cosmetic_013": [
-			"Swollen head"
+			"Cabeça inflada"
 		],
 		"cosmetic_014": [
-			"Polar bear"
+			"Urso polar"
 		],
 		"cosmetic_015": [
-			"Fat body"
+			"Corpo gordo"
 		],
 		"cosmetic_016": [
-			"Muscular body"
+			"Corpo musculoso"
 		],
 		"cosmetic_017": [
-			"Bowtie"
+			"Gravata-borboleta"
 		],
 		"cosmetic_018": [
-			"Golden bear"
+			"Urso dourado"
 		],
 		"cosmetic_019": [
-			"Golden Shicka"
+			"Shicka dourada"
 		],
 		"cosmetic_020": [
-			"Red Shicka"
+			"Shicka vermelha"
 		],
 		"cosmetic_021": [
-			"Green Shicka"
+			"Shicka verde"
 		],
 		"cosmetic_022": [
-			"Pink bear"
+			"Urso rosa"
 		],
 		"cosmetic_023": [
-			"Glasses"
+			"Óculos"
 		],
 		"cosmetic_024": [
-			"Capitalus' suit"
+			"Roupa do Capitalus"
 		],
 		"cosmetic_025": [
 			"Auréola de anjo"
@@ -17601,7 +17614,7 @@
 			"Sem cabeça"
 		],
 		"cosmetic_047": [
-			"Camisa (mito)"
+			"Túnica (rei)"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -17868,7 +17881,7 @@
 			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
 		],
 		"hive_shop": [
-			"Maybee's gift shop"
+			"Loja de Presentes da Maybee"
 		],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
@@ -18161,13 +18174,16 @@
 			"Toque aqui para ver o tutorial da fase"
 		],
 		"level1_tutorial_1": [
-			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!"
+			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!",
+			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
 		],
 		"level1_tutorial_2": [
-			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar."
+			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar.",
+			"Once we free enough of our friends, we will be able to open this gate."
 		],
 		"level1_tutorial_3": [
-			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase."
+			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase.",
+			"Aliás, note que as moedas vão reaparecer cada vez que saírmos da fase."
 		],
 		"level2_boss_1": [
 			"Aqui está o renomado Yeti... Vamos evitar ataques por enquanto. Espere ele ficar exausto."
@@ -20159,13 +20175,16 @@
 			"Нажмите здесь, чтобы показать обучение."
 		],
 		"level1_tutorial_1": [
-			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
+			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages.",
+			"Прежде чем спасать медведя, нужно открыть дверь за монеты. Нужно собрать 60 монет, чтобы открыть её."
 		],
 		"level1_tutorial_2": [
-			"Once we free enough of our friends, we will be able to open this gate."
+			"Once we free enough of our friends, we will be able to open this gate.",
+			"Как только дверца для монет откроется, она останется открытой при следующем посещении уровня, и эти камни должны быть заменены медведями для спасения."
 		],
 		"level1_tutorial_3": [
-			"Also, note that coins will reappear each time we leave the level."
+			"Also, note that coins will reappear each time we leave the level.",
+			"Монеты и враги будут появляться каждый раз, когда мы выходим с уровня."
 		],
 		"level2_boss_1": [
 			"Вот это знаменитый Йети. Избегай его атак. Не нападай, пока он не устанет."
@@ -20783,22 +20802,28 @@
 		],
 		"turtle": [],
 		"tutorial_shicka_1": [
-			"Эй, Баарен, вот ты где ! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли."
+			"Эй, Баарен, вот ты где ! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли.",
+			"Эй, Баарен, вот ты где! Мне удалось спрятаться, когда сюда прибыли пчёлы. Ты единственный медведь, которого они не захватили..."
 		],
 		"tutorial_shicka_2": [
-			"Ты просто... спал? Избежать нашествие, вздремнув подальше от деревни, это очень по твоему."
+			"Ты просто... спал? Избежать нашествие, вздремнув подальше от деревни, это очень по твоему.",
+			"Я думаю, мы должны объединиться, чтобы освободить наших друзей. Я дам тебе несколько советов об окрестностях."
 		],
 		"tutorial_shicka_3": [
-			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
+			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom.",
+			"Я увидела пчёл, ведущих медведей в Черепашью деревню."
 		],
 		"tutorial_shicka_4": [
-			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!"
+			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!",
+			"К счастью, платформа, которая ведет в Черепашью деревню, всё ещё работает, давай освободим их!"
 		],
 		"tutorial_shicka_5": [
-			"We could then go to the Snow Valley..."
+			"We could then go to the Snow Valley...",
+			"Мы можем пойти в заснеженную долину."
 		],
 		"tutorial_shicka_6": [
-			"... and then explore the Beemothep Desert."
+			"... and then explore the Beemothep Desert.",
+			"Можем также исследовать пустыню Бимотеп."
 		],
 		"tutorial_sign_01": [],
 		"tutorial_sign_02": [],
@@ -23229,7 +23254,8 @@
 		"level1_boss_4": [],
 		"level1_boss_5": [],
 		"level1_boss__1": [
-			"Baaren! Beni kurtarmak için geldin! Dikkatli ol, bu golem çok tehlikeli!"
+			"Baaren! Beni kurtarmak için geldin! Dikkatli ol, bu golem çok tehlikeli!",
+			"İşte ünlü Kocaayak. Şimdilik vuruşlarından kaçalım. Karşı saldırıya geçmeden önce yorulmasını bekleyin."
 		],
 		"level1_boss__2": [
 			"Sana saldırdığında, kendini yormasını sağla. Golem gücünü topladığında, hasar vermek için ona yumruk at."
