@@ -33,11 +33,11 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 			if (cells.length < 2) {
 				continue;
 			}
-			const key = cells[0].replace(/^ *([^\t\n ]*?) *$/, "$1");
+			const key = cells[0].replace(/^ *([^\t\n]*?) *$/, "$1");
 			if (key === "") {
 				continue;
 			}
-			const value = cells[1].replace(/^ *([^\t\n ]*?) *$/, "$1");
+			const value = cells[1].replace(/^ *([^\t\n]*?) *$/, "$1");
 			if (value === "") {
 				continue;
 			}
