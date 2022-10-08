@@ -57,7 +57,7 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 		if (keys.length === 0) {
 			continue;
 		}
-		formattedLocaleWarns.push(`${locale} has ${warn} translations ${keys}`);
+		formattedLocaleWarns.push(`${locale} has ${warn} translations ${keys.join(", ")}`);
 		formattedLocaleWarn.push(`The following keys have ${warn} translations:\n${keys.map((key) => {
 			return `- ${key}`;
 		}).join("\n")}\n`);
@@ -70,7 +70,7 @@ for (const [key, warns] of Object.entries(keyWarns)) {
 		if (locales.length === 0) {
 			continue;
 		}
-		formattedKeyWarns.push(`${key} has ${warn} translations ${locales}`);
+		formattedKeyWarns.push(`${key} has ${warn} translations ${locales.join(", ")}`);
 		formattedKeyWarn.push(`The following locales have ${warn} translations:\n${locales.map((locale) => {
 			return `- ${locale}`;
 		}).join("\n")}\n`);
