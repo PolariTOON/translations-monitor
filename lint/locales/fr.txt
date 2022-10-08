@@ -67,3 +67,18 @@ The following keys have missing translations:
 - hive_task_level
 - ui_coins_found
 - ui_progression
+The following keys have transparent translations:
+- char_crocodile
+- char_fennec
+- cosmetic_006
+- cosmetic_048
+- cosmetic_094
+- mission_parkour
+- time_format
+- ui_game_over
+- ui_gyroscope
+- ui_light_probes
+- ui_lightmaps
+- ui_performance
+- ui_quality1
+- ui_version

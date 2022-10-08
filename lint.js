@@ -2,31 +2,42 @@ import fs from "fs";
 const locales = JSON.parse(await fs.promises.readFile("cache/locales.json"));
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
 const localeWarns = Object.create(null);
+const keyWarns = Object.create(null);
 for (const locale of Object.keys(locales)) {
 	localeWarns[locale] = Object.create(null);
 	localeWarns[locale].extra = [];
 	localeWarns[locale].missing = [];
+	localeWarns[locale].transparent = [];
 }
-const keyWarns = Object.create(null);
 for (const [key, locales] of Object.entries(keys)) {
 	keyWarns[key] = Object.create(null);
 	keyWarns[key].extra = [];
 	keyWarns[key].missing = [];
+	keyWarns[key].transparent = [];
 	const length = locales["en"].length !== 0 ? 1 : 0;
 	const extraLocales = Object.keys(locales).filter((locale) => {
 		return locales[locale].length > length;
+	});
+	const missingLocales = Object.keys(locales).filter((locale) => {
+		return locales[locale].length < length;
+	});
+	const transparentLocales = Object.keys(locales).filter((locale) => {
+		return locale !== "en" && locales[locale].filter((transparent) => {
+			return locales["en"].includes(transparent);
+		}).length !== 0;
 	});
 	for (const locale of extraLocales) {
 		const {length} = locales[locale];
 		localeWarns[locale].extra.push(length === 1 ? key : `${key} (${length})`);
 		keyWarns[key].extra.push(length === 1 ? locale : `${locale} (${length})`);
 	}
-	const missingLocales = Object.keys(locales).filter((locale) => {
-		return locales[locale].length < length;
-	});
 	for (const locale of missingLocales) {
 		localeWarns[locale].missing.push(key);
 		keyWarns[key].missing.push(locale);
+	}
+	for (const locale of transparentLocales) {
+		localeWarns[locale].transparent.push(key);
+		keyWarns[key].transparent.push(locale);
 	}
 }
 await fs.promises.mkdir("lint", {
@@ -39,37 +50,29 @@ await fs.promises.mkdir("lint/keys", {
 	recursive: true,
 });
 const formattedLocaleWarns = [];
+const formattedKeyWarns = [];
 for (const [locale, warns] of Object.entries(localeWarns)) {
-	const {extra, missing} = warns;
 	const formattedLocaleWarn = [];
-	if (extra.length !== 0) {
-		formattedLocaleWarns.push(`${locale} has extra translations ${extra}`);
-		formattedLocaleWarn.push(`The following keys have extra translations:\n${extra.map((extra) => {
-			return `- ${extra}`;
-		}).join("\n")}\n`);
-	}
-	if (missing.length !== 0) {
-		formattedLocaleWarns.push(`${locale} has missing translations ${missing}`);
-		formattedLocaleWarn.push(`The following keys have missing translations:\n${missing.map((missing) => {
-			return `- ${missing}`;
+	for (const [warn, keys] of Object.entries(warns)) {
+		if (keys.length === 0) {
+			continue;
+		}
+		formattedLocaleWarns.push(`${locale} has ${warn} translations ${keys}`);
+		formattedLocaleWarn.push(`The following keys have ${warn} translations:\n${keys.map((key) => {
+			return `- ${key}`;
 		}).join("\n")}\n`);
 	}
 	await fs.promises.writeFile(`lint/locales/${locale}.txt`, formattedLocaleWarn.join(""));
 }
-const formattedKeyWarns = [];
 for (const [key, warns] of Object.entries(keyWarns)) {
-	const {extra, missing} = warns;
 	const formattedKeyWarn = [];
-	if (extra.length !== 0) {
-		formattedKeyWarns.push(`${key} has extra translations ${extra}`);
-		formattedKeyWarn.push(`The following locales have extra translations:\n${extra.map((extra) => {
-			return `- ${extra}`;
-		}).join("\n")}\n`);
-	}
-	if (missing.length !== 0) {
-		formattedKeyWarns.push(`${key} has missing translations ${missing}`);
-		formattedKeyWarn.push(`The following locales have missing translations:\n${missing.map((missing) => {
-			return `- ${missing}`;
+	for (const [warn, locales] of Object.entries(warns)) {
+		if (locales.length === 0) {
+			continue;
+		}
+		formattedKeyWarns.push(`${key} has ${warn} translations ${locales}`);
+		formattedKeyWarn.push(`The following locales have ${warn} translations:\n${locales.map((locale) => {
+			return `- ${locale}`;
 		}).join("\n")}\n`);
 	}
 	await fs.promises.writeFile(`lint/keys/${key}.txt`, formattedKeyWarn.join(""));

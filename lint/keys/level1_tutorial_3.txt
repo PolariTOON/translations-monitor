@@ -5,3 +5,6 @@ The following locales have extra translations:
 - ru (2)
 The following locales have missing translations:
 - sv
+The following locales have transparent translations:
+- de
+- ru

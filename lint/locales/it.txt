@@ -362,3 +362,9 @@ The following keys have missing translations:
 - ui_progression
 - ui_version
 - ui_website
+The following keys have transparent translations:
+- char_fennec
+- mission_parkour
+- mission_race
+- time_format
+- ui_framerate

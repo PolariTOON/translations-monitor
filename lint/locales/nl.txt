@@ -336,3 +336,19 @@ The following keys have missing translations:
 - ui_game_over
 - ui_progression
 - ui_version
+The following keys have transparent translations:
+- action_center_camera
+- binding_axis
+- char_fennec
+- hub_bear_30
+- mission_parkour
+- time_format
+- title_gameplay
+- title_graphics1
+- ui_binding
+- ui_fancy_shaders
+- ui_fps_counter
+- ui_framerate
+- ui_in
+- ui_invert_camera
+- ui_start
