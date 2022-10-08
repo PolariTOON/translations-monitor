@@ -4,3 +4,5 @@ The following locales have missing translations:
 - ja
 - pl
 - sv
+The following locales have transparent translations:
+- de

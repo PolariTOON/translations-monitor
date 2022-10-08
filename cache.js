@@ -17,6 +17,7 @@ const sheets = Object.assign(Object.create(null), {
 	"tr": "1XN24kknIFeW0P37VBxEwzjOdBh9ZrioCDLj1NlW1rLw",
 });
 const locales = Object.create(null);
+const keys = Object.create(null);
 for (const locale of Object.keys(sheets)) {
 	locales[locale] = Object.create(null);
 }
@@ -51,7 +52,6 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 		console.warn(`Error while getting sheet ${locale}`);
 	}
 }
-const keys = Object.create(null);
 for (const [locale, values] of Object.entries(locales)) {
 	for (const [key, value] of Object.entries(values)) {
 		(keys[key] ??= Object.create(null))[locale] ??= value;

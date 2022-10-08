@@ -6,3 +6,8 @@ The following locales have extra translations:
 The following locales have missing translations:
 - es
 - sv
+The following locales have transparent translations:
+- de
+- pl
+- pt
+- ru

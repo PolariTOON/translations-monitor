@@ -360,3 +360,6 @@ The following keys have missing translations:
 - ui_game_over
 - ui_progression
 - ui_version
+The following keys have transparent translations:
+- time_format
+- ui_watch_trailer

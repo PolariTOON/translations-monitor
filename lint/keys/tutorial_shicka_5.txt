@@ -1,3 +1,7 @@
 The following locales have extra translations:
 - pl (2)
 - ru (2)
+The following locales have transparent translations:
+- de
+- pl
+- ru

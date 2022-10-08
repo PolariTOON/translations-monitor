@@ -1,2 +1,6 @@
 The following locales have missing translations:
 - sv
+The following locales have transparent translations:
+- de
+- el
+- es

@@ -1,0 +1,4 @@
+The following locales have transparent translations:
+- el
+- es
+- sv
