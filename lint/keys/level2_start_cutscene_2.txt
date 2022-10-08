@@ -1,0 +1,2 @@
+The following locales have missing translations:
+- pt

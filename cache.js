@@ -73,13 +73,13 @@ const sortedLocales = Object.fromEntries(sortEntries(Object.entries(locales).map
 	return [
 		locale,
 		Object.fromEntries(sortEntries(Object.entries(keys))),
-	]
+	];
 })));
 const sortedKeys = Object.fromEntries(sortEntries(Object.entries(keys).map(([key, locales]) => {
 	return [
 		key,
 		Object.fromEntries(sortEntries(Object.entries(locales))),
-	]
+	];
 })));
 await fs.promises.mkdir("cache", {
 	recursive: true,

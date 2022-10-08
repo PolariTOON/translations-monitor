@@ -1,0 +1,3 @@
+The following locales have extra translations:
+- pt
+- ru

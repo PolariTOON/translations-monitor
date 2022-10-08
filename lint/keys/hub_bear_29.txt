@@ -1,0 +1,6 @@
+The following locales have missing translations:
+- el
+- it
+- ja
+- pl
+- sv
