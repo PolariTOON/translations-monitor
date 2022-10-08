@@ -62,7 +62,7 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 			return `- ${key}`;
 		}).join("\n")}\n`);
 	}
-	await fs.promises.writeFile(`lint/locales/${locale}.txt`, formattedLocaleWarn.join(""));
+	await fs.promises.writeFile(`lint/locales/${locale.replace(/[./]/g, "_")}.txt`, formattedLocaleWarn.join(""));
 }
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
@@ -75,7 +75,7 @@ for (const [key, warns] of Object.entries(keyWarns)) {
 			return `- ${locale}`;
 		}).join("\n")}\n`);
 	}
-	await fs.promises.writeFile(`lint/keys/${key}.txt`, formattedKeyWarn.join(""));
+	await fs.promises.writeFile(`lint/keys/${key.replace(/[./]/g, "_")}.txt`, formattedKeyWarn.join(""));
 }
 await fs.promises.writeFile("lint/locales.txt", formattedLocaleWarns.length !== 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
 await fs.promises.writeFile("lint/keys.txt", formattedKeyWarns.length !== 0 ? `${formattedKeyWarns.join("\n")}\n` : "");
