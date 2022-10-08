@@ -10,7 +10,6 @@ The following keys have extra translations:
 - level1_boss_3
 - level1_boss_4
 - level1_boss_5
-- level1_introe_4
 - level1_tutorial_0
 - level1_tutorial_1 (2)
 - level1_tutorial_2 (2)
@@ -66,13 +65,10 @@ The following keys have missing translations:
 - char_maybee
 - char_shicka
 - char_tristopio
-- hive_task_boss
-- hive_task_gold
-- hive_task_level
-- level1_intro_4
-- level2_start_cutscene_2
-- ui_coins_found
-- ui_progression
+- cosmetic_099
+- cosmetic_100
+- cosmetic_101
+- cosmetic_102
 The following keys have transparent translations:
 - cosmetic_006
 - cosmetic_048
@@ -90,7 +86,6 @@ The following keys have transparent translations:
 - level1_tutorial_2
 - mission_parkour
 - mission_race
-- party_bee_2
 - party_turtle_1
 - party_turtle_2
 - time_format

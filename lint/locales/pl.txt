@@ -94,6 +94,10 @@ The following keys have extra translations:
 - ui_cosm_won
 The following keys have missing translations:
 - action_brake
+- cosmetic_099
+- cosmetic_100
+- cosmetic_101
+- cosmetic_102
 - cosmetic_default
 - hive_task_boss
 - hive_task_gold

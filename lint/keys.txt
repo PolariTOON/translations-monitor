@@ -305,6 +305,10 @@ cosmetic_097 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_097 has transparent translations de, ru
 cosmetic_098 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_098 has transparent translations de, ru
+cosmetic_099 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+cosmetic_100 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+cosmetic_101 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+cosmetic_102 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
 cosmetic_default has missing translations el, es, id, it, ja, nl, pl, sv, tr
 cosmetic_default has transparent translations de, ru
 crocodile has extra translations pl, sv
@@ -362,9 +366,9 @@ hive_maybee has missing translations el, es, id, it, ja, nl, sv, tr
 hive_maybee has transparent translations de, pl, pt, ru
 hive_shop has missing translations el, es, id, it, ja, nl, ru, sv, tr
 hive_shop has transparent translations de
-hive_task_boss has missing translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hive_task_gold has missing translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hive_task_level has missing translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+hive_task_boss has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
+hive_task_gold has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
+hive_task_level has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
 hub_bear_01 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
 hub_bear_02 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
 hub_bear_03 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
@@ -476,8 +480,7 @@ level1_boss__5 has extra translations tr
 level1_intro_1 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
 level1_intro_2 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
 level1_intro_3 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_intro_4 has missing translations el, es, id, it, ja, nl, pl, pt, ru, sv, tr
-level1_introe_4 has extra translations pt
+level1_intro_4 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
 level1_sign_2 has transparent translations sv
 level1_sign_3 has transparent translations sv
 level1_sign_4 has transparent translations sv
@@ -528,7 +531,6 @@ level2_sign_3 has transparent translations es, sv
 level2_sign_4 has transparent translations es
 level2_sign_5 has transparent translations es, sv
 level2_start_cutscene_1 has transparent translations es
-level2_start_cutscene_2 has missing translations pt
 level2_start_cutscene_2 has transparent translations es, sv
 level2_start_cutscene_3 has transparent translations es
 level2_start_cutscene_4 has transparent translations es
@@ -663,7 +665,7 @@ mouse has extra translations pl, sv
 party_bee_1 has missing translations el, es, id, it, ja, nl, sv, tr
 party_bee_1 has transparent translations de, ru
 party_bee_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_bee_2 has transparent translations de, pt, ru
+party_bee_2 has transparent translations de, ru
 party_bee_3 has missing translations el, es, id, it, ja, nl, sv, tr
 party_bee_3 has transparent translations de, ru
 party_capitalos has missing translations el, es, id, it, ja, nl, sv, tr
@@ -876,7 +878,7 @@ ui_coin_detector has transparent translations es, sv
 ui_coin_detector_confirm has transparent translations el, es, sv
 ui_coin_detector_desc has transparent translations es, sv
 ui_coins has transparent translations es
-ui_coins_found has missing translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+ui_coins_found has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
 ui_connected has transparent translations es, sv
 ui_cosm_already_own has extra translations pl, sv
 ui_cosm_buy has missing translations el, sv
@@ -959,7 +961,8 @@ ui_open_shop has transparent translations de
 ui_options has transparent translations es
 ui_oxygen has transparent translations es, sv
 ui_performance has transparent translations de, es, fr, pt, sv
-ui_progression has missing translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+ui_progression has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
+ui_progression has transparent translations fr
 ui_quality has transparent translations es, sv
 ui_quality0 has transparent translations es, sv
 ui_quality1 has transparent translations de, es, fr, id, pt, sv

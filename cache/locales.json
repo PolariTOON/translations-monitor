@@ -458,6 +458,10 @@
 		"cosmetic_098": [
 			"Turtle shell"
 		],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [
 			"Default"
 		],
@@ -811,7 +815,6 @@
 		"level1_intro_4": [
 			"Verdächtige Geräusche sind in der Nähe vom Brunnen gehört worden. Ich rate dir, diesen Bereich mal genauer anzusehen."
 		],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Willkommen im Schildkrötendorf !"
 		],
@@ -2184,6 +2187,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -2487,7 +2494,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Καλώς ήρθες στο Χωριό των Χελωνών !"
 		],
@@ -3932,6 +3938,18 @@
 		"cosmetic_098": [
 			"Turtle shell"
 		],
+		"cosmetic_099": [
+			"Sand pile"
+		],
+		"cosmetic_100": [
+			"Tiny bear"
+		],
+		"cosmetic_101": [
+			"Purple bear"
+		],
+		"cosmetic_102": [
+			"Golden Hat"
+		],
 		"cosmetic_default": [
 			"Default"
 		],
@@ -4269,7 +4287,6 @@
 		"level1_intro_4": [
 			"Suspicious noises were heard near this well, we should check it out."
 		],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Welcome to Turtletown!"
 		],
@@ -5644,6 +5661,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -5967,7 +5988,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"¡Bienvendio al Pueblo Tortuga!"
 		],
@@ -7439,6 +7459,18 @@
 		"cosmetic_098": [
 			"Carapace de tortue"
 		],
+		"cosmetic_099": [
+			"Tas de sable"
+		],
+		"cosmetic_100": [
+			"Ours rikiki"
+		],
+		"cosmetic_101": [
+			"Ours violet"
+		],
+		"cosmetic_102": [
+			"Chapeau doré"
+		],
 		"cosmetic_default": [
 			"Défaut"
 		],
@@ -7553,9 +7585,15 @@
 		"hive_shop": [
 			"Boutique de souvenirs d'Isabeille"
 		],
-		"hive_task_boss": [],
-		"hive_task_gold": [],
-		"hive_task_level": [],
+		"hive_task_boss": [
+			"Sauver le royaume"
+		],
+		"hive_task_gold": [
+			"Obtenir tout les temps d'or"
+		],
+		"hive_task_level": [
+			"Libérer 8 ours dans {0}"
+		],
 		"hub_bear_01": [
 			"Merci de m'avoir sauvé dans la grotte du golem !"
 		],
@@ -7792,7 +7830,6 @@
 		"level1_intro_4": [
 			"Des bruits suspects ont été entendus près de ce puits, nous devrions aller voir."
 		],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Bienvenue à Tortibourg !"
 		],
@@ -8623,7 +8660,9 @@
 		"ui_coins": [
 			"pièces"
 		],
-		"ui_coins_found": [],
+		"ui_coins_found": [
+			"Pièces trouvées"
+		],
 		"ui_connected": [
 			"Connecté"
 		],
@@ -8817,7 +8856,9 @@
 		"ui_performance": [
 			"Performance"
 		],
-		"ui_progression": [],
+		"ui_progression": [
+			"Progression: {0}%"
+		],
 		"ui_quality": [
 			"Qualité"
 		],
@@ -9188,6 +9229,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -9511,7 +9556,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Selamat Datang ke Kampung Penyu!"
 		],
@@ -10760,6 +10804,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -11067,7 +11115,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Benvenuti al Villaggio delle Tartarughe!"
 		],
@@ -12308,6 +12355,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -12615,7 +12666,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"亀の村へようこそ"
 		],
@@ -13882,6 +13932,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -14205,7 +14259,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Welkom in schildpaddendorp!"
 		],
@@ -15756,6 +15809,10 @@
 		"cosmetic_098": [
 			"Skorupa żółwia"
 		],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [
 			"Krokodyl"
@@ -16137,7 +16194,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Witaj w Żółwiej Wiosce!"
 		],
@@ -17343,7 +17399,7 @@
 			"O jogo Corrida é um contra-relógio. Após cada volta, você ganha moedas com base no tempo que levou pra completá-la."
 		],
 		"arcade_1_2": [
-			"Entre no veículo pressionando B. Enquanto estiver no ar, tente permanecer equilibrado usando os controles de ar."
+			"Entre no veículo pressionando B. Enquanto estiver no ar, tente se manter equilibrado usando os controles de ar."
 		],
 		"arcade_1_3": [],
 		"arcade_2_1": [
@@ -17769,6 +17825,10 @@
 		"cosmetic_098": [
 			"Casco de tartaruga"
 		],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [
 			"Padrão"
 		],
@@ -17827,7 +17887,7 @@
 			"Exibir dicas da Shicka"
 		],
 		"help_speedrun_mode": [
-			"O temporizador estará sempre rodando e só irá parar quando você derrotar o chefe final. O jogo não será salvo."
+			"O temporizador estará sempre rodando e só vai parar quando você derrotar o chefe final. O jogo não será salvo."
 		],
 		"help_timer": [
 			"Mostra um temporizador (útil pra speedruns)"
@@ -17883,9 +17943,15 @@
 		"hive_shop": [
 			"Loja de Presentes da Maybee"
 		],
-		"hive_task_boss": [],
-		"hive_task_gold": [],
-		"hive_task_level": [],
+		"hive_task_boss": [
+			"Salve o reino"
+		],
+		"hive_task_gold": [
+			"Consiga todos os tempos dourados"
+		],
+		"hive_task_level": [
+			"Salve 8 ursos no(a) {0}"
+		],
 		"hub_bear_01": [
 			"Obrigado por me salvar da caverna do Golem!"
 		],
@@ -18073,7 +18139,7 @@
 			"Baaren! Você veio pra me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
 		],
 		"level1_boss_1_1": [
-			"Baaren! Você veio me salvar! Tome cuidado, o Golem Tartaruga é muito perigoso!"
+			"Baaren! Você veio me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
 		],
 		"level1_boss_1_2": [
 			"Quando ele estiver te perseguindo, evite seus ataques e espere até que fique exausto antes de atacar-lo devolta."
@@ -18119,8 +18185,7 @@
 		"level1_intro_3": [
 			"Algumas tartarugas foram infectadas com o mel roxo; cuidado com elas!"
 		],
-		"level1_intro_4": [],
-		"level1_introe_4": [
+		"level1_intro_4": [
 			"Barulhos suspeitos foram ouvidos perto de um poço; nós devemos ir checar!"
 		],
 		"level1_sign_1": [
@@ -18245,7 +18310,9 @@
 		"level2_start_cutscene_1": [
 			"O Vale Nevado também foi atacado pelas abelhas..."
 		],
-		"level2_start_cutscene_2": [],
+		"level2_start_cutscene_2": [
+			"Alguns pinguins e renas que vivem aqui não foram contaminados. Fale com eles pra pegar informações sobre a redondeza."
+		],
 		"level2_start_cutscene_3": [
 			"Cuidado com os monstros debaixo da neve! Fique nas plataformas pra não incomodar eles!"
 		],
@@ -18536,7 +18603,7 @@
 			"Eu sinto muito por machucar pessoas, só estavamos seguindo ordenszz…"
 		],
 		"party_bee_2": [
-			"How do you call a bee with messy hair?//...//A frisbee."
+			"O que a abelha disse para um urso ladrão?//...//\"Ei, isso é mel\"."
 		],
 		"party_bee_3": [
 			"Uou, você salvou todos os ursosszz! Bom trabalho! Nós devemos ser péssimas em esconder jaulaszz."
@@ -18685,7 +18752,7 @@
 			"Temos que encontrar algo pesado pra manter a gangorra no lugar."
 		],
 		"shicka_1_6": [
-			"Veja! Outro mochileiro como eu! Somos de uma espécie rara e dependemos de nossos portadores."
+			"Olha! Outro mochileiro como eu! Nós somos de uma espécie rara e dependemos de nossos portadores."
 		],
 		"shicka_2_1": [
 			"Cuidado com estas serras!"
@@ -18904,7 +18971,7 @@
 			"ursos salvos"
 		],
 		"ui_best_time": [
-			"Melhor Tempo"
+			"Melhor tempo"
 		],
 		"ui_bestcoins": [
 			"Recorde de moedas:"
@@ -18951,7 +19018,9 @@
 		"ui_coins": [
 			"moedas"
 		],
-		"ui_coins_found": [],
+		"ui_coins_found": [
+			"Moedas coletadas"
+		],
 		"ui_connected": [
 			"Conectado"
 		],
@@ -19037,7 +19106,7 @@
 			"Começar!"
 		],
 		"ui_gold_time": [
-			"Tempo de Ouro"
+			"Tempo dourado"
 		],
 		"ui_gyro_controls": [],
 		"ui_gyroscope": [
@@ -19145,7 +19214,9 @@
 		"ui_performance": [
 			"Performance"
 		],
-		"ui_progression": [],
+		"ui_progression": [
+			"Progresso: {0}%"
+		],
 		"ui_quality": [
 			"Beleza visual"
 		],
@@ -19720,6 +19791,10 @@
 		"cosmetic_098": [
 			"Turtle shell"
 		],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [
 			"Default"
 		],
@@ -20113,7 +20188,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Добро пожаловать в Черепашью деревню!"
 		],
@@ -21471,6 +21545,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [
 			"Krokodil"
@@ -21778,7 +21856,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Welcome to Turtle village!"
 		],
@@ -22949,6 +23026,10 @@
 		"cosmetic_096": [],
 		"cosmetic_097": [],
 		"cosmetic_098": [],
+		"cosmetic_099": [],
+		"cosmetic_100": [],
+		"cosmetic_101": [],
+		"cosmetic_102": [],
 		"cosmetic_default": [],
 		"crocodile": [],
 		"fennec": [],
@@ -23273,7 +23354,6 @@
 		"level1_intro_2": [],
 		"level1_intro_3": [],
 		"level1_intro_4": [],
-		"level1_introe_4": [],
 		"level1_sign_1": [
 			"Kaplumbağa Köyü'ne hoş geldin!"
 		],

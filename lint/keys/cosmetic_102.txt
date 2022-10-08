@@ -7,8 +7,7 @@ The following locales have missing translations:
 - ja
 - nl
 - pl
+- pt
 - ru
 - sv
 - tr
-The following locales have transparent translations:
-- fr

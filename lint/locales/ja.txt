@@ -222,6 +222,10 @@ The following keys have missing translations:
 - cosmetic_096
 - cosmetic_097
 - cosmetic_098
+- cosmetic_099
+- cosmetic_100
+- cosmetic_101
+- cosmetic_102
 - cosmetic_default
 - hive_boss_1_1
 - hive_boss_1_2
