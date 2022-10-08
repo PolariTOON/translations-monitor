@@ -62,11 +62,6 @@ The following keys have missing translations:
 - char_crogo
 - char_shicka
 - char_tristopio
-- hive_task_boss
-- hive_task_gold
-- hive_task_level
-- ui_coins_found
-- ui_progression
 The following keys have transparent translations:
 - char_crocodile
 - char_fennec
@@ -80,5 +75,6 @@ The following keys have transparent translations:
 - ui_light_probes
 - ui_lightmaps
 - ui_performance
+- ui_progression
 - ui_quality1
 - ui_version

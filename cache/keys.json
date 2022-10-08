@@ -343,7 +343,7 @@
 			"Aby dostać się do pojazdu, naciśnij przycisk B. Będąc w powietrzu, staraj się zachować równowagę za pomocą guzików kontroli."
 		],
 		"pt": [
-			"Entre no veículo pressionando B. Enquanto estiver no ar, tente permanecer equilibrado usando os controles de ar."
+			"Entre no veículo pressionando B. Enquanto estiver no ar, tente se manter equilibrado usando os controles de ar."
 		],
 		"ru": [
 			"Нажмите В, чтобы сесть в машину."
@@ -5143,6 +5143,86 @@
 		"sv": [],
 		"tr": []
 	},
+	"cosmetic_099": {
+		"de": [],
+		"el": [],
+		"en": [
+			"Sand pile"
+		],
+		"es": [],
+		"fr": [
+			"Tas de sable"
+		],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"cosmetic_100": {
+		"de": [],
+		"el": [],
+		"en": [
+			"Tiny bear"
+		],
+		"es": [],
+		"fr": [
+			"Ours rikiki"
+		],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"cosmetic_101": {
+		"de": [],
+		"el": [],
+		"en": [
+			"Purple bear"
+		],
+		"es": [],
+		"fr": [
+			"Ours violet"
+		],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"cosmetic_102": {
+		"de": [],
+		"el": [],
+		"en": [
+			"Golden Hat"
+		],
+		"es": [],
+		"fr": [
+			"Chapeau doré"
+		],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
 	"cosmetic_default": {
 		"de": [
 			"Default"
@@ -6277,7 +6357,7 @@
 			"Timer jest zawsze uruchomiony i zatrzymuje się tylko wtedy, gdy pokonasz ostatniego bossa. Zapisywanie jest wyłączone."
 		],
 		"pt": [
-			"O temporizador estará sempre rodando e só irá parar quando você derrotar o chefe final. O jogo não será salvo."
+			"O temporizador estará sempre rodando e só vai parar quando você derrotar o chefe final. O jogo não será salvo."
 		],
 		"ru": [
 			"Таймер постоянно идёт и перестаёт работать только тогда, когда Вы победите последнего босса. Сохранения отключены."
@@ -6814,13 +6894,17 @@
 			"Save the kingdom"
 		],
 		"es": [],
-		"fr": [],
+		"fr": [
+			"Sauver le royaume"
+		],
 		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
 		"pl": [],
-		"pt": [],
+		"pt": [
+			"Salve o reino"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -6832,13 +6916,17 @@
 			"Get all gold times"
 		],
 		"es": [],
-		"fr": [],
+		"fr": [
+			"Obtenir tout les temps d'or"
+		],
 		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
 		"pl": [],
-		"pt": [],
+		"pt": [
+			"Consiga todos os tempos dourados"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -6850,13 +6938,17 @@
 			"Save 8 bears in {0}"
 		],
 		"es": [],
-		"fr": [],
+		"fr": [
+			"Libérer 8 ours dans {0}"
+		],
 		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
 		"pl": [],
-		"pt": [],
+		"pt": [
+			"Salve 8 ursos no(a) {0}"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -9601,7 +9693,7 @@
 			"Baaren! You came to save me! Be careful, the Turtle Golem is very dangerous!"
 		],
 		"pt": [
-			"Baaren! Você veio me salvar! Tome cuidado, o Golem Tartaruga é muito perigoso!"
+			"Baaren! Você veio me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
 		],
 		"ru": [
 			"Baaren! You came to save me! Be careful, the Turtle Golem is very dangerous!"
@@ -10112,22 +10204,6 @@
 		"fr": [
 			"Des bruits suspects ont été entendus près de ce puits, nous devrions aller voir."
 		],
-		"id": [],
-		"it": [],
-		"ja": [],
-		"nl": [],
-		"pl": [],
-		"pt": [],
-		"ru": [],
-		"sv": [],
-		"tr": []
-	},
-	"level1_introe_4": {
-		"de": [],
-		"el": [],
-		"en": [],
-		"es": [],
-		"fr": [],
 		"id": [],
 		"it": [],
 		"ja": [],
@@ -11957,7 +12033,9 @@
 		"pl": [
 			"Niektóre pingwiny i renifery, które tu żyją, nie zostały skażone. Porozmawiaj z nimi, aby zebrać informacje o otoczeniu."
 		],
-		"pt": [],
+		"pt": [
+			"Alguns pinguins e renas que vivem aqui não foram contaminados. Fale com eles pra pegar informações sobre a redondeza."
+		],
 		"ru": [
 			"Некоторые пингвины и северные олени, которые здесь живут, не были заражены. Поговори с ними, чтобы собрать информацию об окрестностях."
 		],
@@ -15862,7 +15940,7 @@
 			"Dlaczego pszczoła brzęczy?//...//Bo nie umie gwizdać!"
 		],
 		"pt": [
-			"How do you call a bee with messy hair?//...//A frisbee."
+			"O que a abelha disse para um urso ladrão?//...//\"Ei, isso é mel\"."
 		],
 		"ru": [
 			"How do you call a bee with messy hair?//...//A frisbee."
@@ -17484,7 +17562,7 @@
 			"Zobacz! Inny plecakowicz tak jak ja. Jesteśmy częścią rzadkiego gatunku i jesteśmy zależni od naszego nosiciela."
 		],
 		"pt": [
-			"Veja! Outro mochileiro como eu! Somos de uma espécie rara e dependemos de nossos portadores."
+			"Olha! Outro mochileiro como eu! Nós somos de uma espécie rara e dependemos de nossos portadores."
 		],
 		"ru": [
 			"Посмотри-ка! Еще один рюкзак, как и я. Мы являемся частью редкого вида, и мы зависим от нашего носителя."
@@ -20638,7 +20716,7 @@
 			"Najlepszy Czas"
 		],
 		"pt": [
-			"Melhor Tempo"
+			"Melhor tempo"
 		],
 		"ru": [
 			"Лучшее время"
@@ -21305,13 +21383,17 @@
 			"Coins found"
 		],
 		"es": [],
-		"fr": [],
+		"fr": [
+			"Pièces trouvées"
+		],
 		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
 		"pl": [],
-		"pt": [],
+		"pt": [
+			"Moedas coletadas"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -22522,7 +22604,7 @@
 			"Złoty Czas"
 		],
 		"pt": [
-			"Tempo de Ouro"
+			"Tempo dourado"
 		],
 		"ru": [
 			"Наилучшее время"
@@ -24069,13 +24151,17 @@
 			"Progression: {0}%"
 		],
 		"es": [],
-		"fr": [],
+		"fr": [
+			"Progression: {0}%"
+		],
 		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
 		"pl": [],
-		"pt": [],
+		"pt": [
+			"Progresso: {0}%"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []

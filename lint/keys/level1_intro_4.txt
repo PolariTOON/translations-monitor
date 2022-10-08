@@ -6,7 +6,6 @@ The following locales have missing translations:
 - ja
 - nl
 - pl
-- pt
 - ru
 - sv
 - tr

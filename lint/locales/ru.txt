@@ -120,6 +120,10 @@ The following keys have missing translations:
 - char_maybee
 - char_shicka
 - char_tristopio
+- cosmetic_099
+- cosmetic_100
+- cosmetic_101
+- cosmetic_102
 - hive_shop
 - hive_task_boss
 - hive_task_gold
