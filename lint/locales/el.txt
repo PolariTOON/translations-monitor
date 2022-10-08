@@ -1,3 +1,4 @@
+Translation coverage: 45.11%
 The following keys have extra translations:
 - arcade_1_3
 - arcade_intro_2

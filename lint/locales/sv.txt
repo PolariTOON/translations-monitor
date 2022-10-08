@@ -1,3 +1,4 @@
+Translation coverage: 41.80%
 The following keys have extra translations:
 - arcade_intro_2
 - brother
