@@ -1,0 +1,14 @@
+The following locales have extra translations:
+- de
+- el
+- es
+- fr
+- id
+- it
+- ja
+- nl
+- pl
+- pt
+- ru
+- sv
+- tr

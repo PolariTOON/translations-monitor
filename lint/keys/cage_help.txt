@@ -1,0 +1,4 @@
+The following locales have extra translations:
+- de
+- el
+- sv

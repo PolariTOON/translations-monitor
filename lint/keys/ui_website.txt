@@ -1,0 +1,6 @@
+The following locales have extra translations:
+- es (2)
+The following locales have missing translations:
+- el
+- it
+- sv

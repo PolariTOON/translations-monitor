@@ -29,28 +29,50 @@ for (const [key, locales] of Object.entries(keys)) {
 		keyWarns[key].missing.push(locale);
 	}
 }
+await fs.promises.mkdir("lint", {
+	recursive: true,
+});
+await fs.promises.mkdir("lint/locales", {
+	recursive: true,
+});
+await fs.promises.mkdir("lint/keys", {
+	recursive: true,
+});
 const formattedLocaleWarns = [];
 for (const [locale, warns] of Object.entries(localeWarns)) {
 	const {extra, missing} = warns;
+	const formattedLocaleWarn = [];
 	if (extra.length !== 0) {
-		formattedLocaleWarns.push(`${locale} has extra translations ${extra}`)
+		formattedLocaleWarns.push(`${locale} has extra translations ${extra}`);
+		formattedLocaleWarn.push(`The following keys have extra translations:\n${extra.map((extra) => {
+			return `- ${extra}`;
+		}).join("\n")}\n`);
 	}
 	if (missing.length !== 0) {
-		formattedLocaleWarns.push(`${locale} has missing translations ${missing}`)
+		formattedLocaleWarns.push(`${locale} has missing translations ${missing}`);
+		formattedLocaleWarn.push(`The following keys have missing translations:\n${missing.map((missing) => {
+			return `- ${missing}`;
+		}).join("\n")}\n`);
 	}
+	await fs.promises.writeFile(`lint/locales/${locale}.txt`, formattedLocaleWarn.join(""));
 }
 const formattedKeyWarns = [];
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const {extra, missing} = warns;
+	const formattedKeyWarn = [];
 	if (extra.length !== 0) {
-		formattedKeyWarns.push(`${key} has extra translations ${extra}`)
+		formattedKeyWarns.push(`${key} has extra translations ${extra}`);
+		formattedKeyWarn.push(`The following locales have extra translations:\n${extra.map((extra) => {
+			return `- ${extra}`;
+		}).join("\n")}\n`);
 	}
 	if (missing.length !== 0) {
-		formattedKeyWarns.push(`${key} has missing translations ${missing}`)
+		formattedKeyWarns.push(`${key} has missing translations ${missing}`);
+		formattedKeyWarn.push(`The following locales have missing translations:\n${missing.map((missing) => {
+			return `- ${missing}`;
+		}).join("\n")}\n`);
 	}
+	await fs.promises.writeFile(`lint/keys/${key}.txt`, formattedKeyWarn.join(""));
 }
-await fs.promises.mkdir("lint", {
-	recursive: true,
-});
 await fs.promises.writeFile("lint/locales.txt", formattedLocaleWarns.length !== 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
 await fs.promises.writeFile("lint/keys.txt", formattedKeyWarns.length !== 0 ? `${formattedKeyWarns.join("\n")}\n` : "");

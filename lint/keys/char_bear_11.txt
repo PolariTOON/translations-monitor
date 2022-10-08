@@ -1,0 +1,13 @@
+The following locales have missing translations:
+- de
+- el
+- es
+- fr
+- id
+- it
+- ja
+- nl
+- pt
+- ru
+- sv
+- tr
