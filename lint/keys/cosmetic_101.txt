@@ -1,3 +1,4 @@
+Translation coverage: 7.69%
 The following locales have missing translations:
 - de
 - el

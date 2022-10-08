@@ -1,3 +1,4 @@
+Translation coverage: 84.62%
 The following locales have missing translations:
 - es
 - sv
