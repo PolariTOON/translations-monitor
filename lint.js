@@ -1,6 +1,10 @@
 import fs from "fs";
 const locales = JSON.parse(await fs.promises.readFile("cache/locales.json"));
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
+const localeCount = Object.keys(locales).length - 1;
+const keyCount = Object.keys(keys).filter((key) => {
+	return keys[key]["en"].length !== 0;
+}).length;
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
 for (const locale of Object.keys(locales)) {
@@ -70,6 +74,7 @@ const formattedLocaleWarns = [];
 const formattedKeyWarns = [];
 for (const [locale, warns] of Object.entries(localeWarns)) {
 	const formattedLocaleWarn = [];
+	formattedLocaleWarn.push(`Translation coverage: ${((1 - warns.missing.length / keyCount) * 100).toFixed(2)}%\n`);
 	for (const [warn, keys] of Object.entries(warns)) {
 		if (keys.length < 1) {
 			continue;
@@ -83,6 +88,7 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 }
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
+	formattedKeyWarn.push(`Translation coverage: ${((1 - warns.missing.length / localeCount) * 100).toFixed(2)}%\n`);
 	for (const [warn, locales] of Object.entries(warns)) {
 		if (locales.length < 1) {
 			continue;

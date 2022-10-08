@@ -1,3 +1,4 @@
+Translation coverage: 92.31%
 The following locales have missing translations:
 - sv
 The following locales have transparent translations:

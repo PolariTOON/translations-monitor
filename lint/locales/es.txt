@@ -1,3 +1,4 @@
+Translation coverage: 57.10%
 The following keys have extra translations:
 - final_boss_1_1
 - final_boss_1_2
