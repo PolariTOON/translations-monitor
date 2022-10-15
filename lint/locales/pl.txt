@@ -54,9 +54,6 @@ The following keys have extra translations:
 - level1_start_cutscene_3
 - level1_start_cutscene_4
 - level1_tutorial_0
-- level1_tutorial_1 (2)
-- level1_tutorial_2 (2)
-- level1_tutorial_3 (2)
 - level3_boss_1
 - level3_boss_2
 - level3_boss_3
@@ -74,12 +71,6 @@ The following keys have extra translations:
 - scientist
 - sign
 - turtle
-- tutorial_shicka_1 (2)
-- tutorial_shicka_2 (2)
-- tutorial_shicka_3 (2)
-- tutorial_shicka_4 (2)
-- tutorial_shicka_5 (2)
-- tutorial_shicka_6 (2)
 - tutorial_sign_1
 - tutorial_sign_2
 - tutorial_sign_3
@@ -134,6 +125,16 @@ The following keys have missing translations:
 - tutorial_sign_09
 - ui_coins_found
 - ui_progression
+The following keys have multiple translations:
+- level1_tutorial_1 (2)
+- level1_tutorial_2 (2)
+- level1_tutorial_3 (2)
+- tutorial_shicka_1 (2)
+- tutorial_shicka_2 (2)
+- tutorial_shicka_3 (2)
+- tutorial_shicka_4 (2)
+- tutorial_shicka_5 (2)
+- tutorial_shicka_6 (2)
 The following keys have transparent translations:
 - char_baaren
 - char_bear_01

@@ -7,33 +7,42 @@ for (const locale of Object.keys(locales)) {
 	localeWarns[locale] = Object.create(null);
 	localeWarns[locale].extra = [];
 	localeWarns[locale].missing = [];
+	localeWarns[locale].multiple = [];
 	localeWarns[locale].transparent = [];
 }
 for (const [key, locales] of Object.entries(keys)) {
 	keyWarns[key] = Object.create(null);
 	keyWarns[key].extra = [];
 	keyWarns[key].missing = [];
+	keyWarns[key].multiple = [];
 	keyWarns[key].transparent = [];
-	const length = locales["en"].length !== 0 ? 1 : 0;
+	const length = locales["en"].length;
 	const extraLocales = Object.keys(locales).filter((locale) => {
-		return locales[locale].length > length;
+		return length < 1 && locales[locale].length > 0;
 	});
 	const missingLocales = Object.keys(locales).filter((locale) => {
-		return locales[locale].length < length;
+		return length > 0 && locales[locale].length < 1;
+	});
+	const multipleLocales = Object.keys(locales).filter((locale) => {
+		return length > 0 && locales[locale].length > 1;
 	});
 	const transparentLocales = Object.keys(locales).filter((locale) => {
 		return locale !== "en" && locales[locale].filter((transparent) => {
 			return locales["en"].includes(transparent);
-		}).length !== 0;
+		}).length > 0;
 	});
 	for (const locale of extraLocales) {
-		const {length} = locales[locale];
-		localeWarns[locale].extra.push(length === 1 ? key : `${key} (${length})`);
-		keyWarns[key].extra.push(length === 1 ? locale : `${locale} (${length})`);
+		localeWarns[locale].extra.push(key);
+		keyWarns[key].extra.push(locale);
 	}
 	for (const locale of missingLocales) {
 		localeWarns[locale].missing.push(key);
 		keyWarns[key].missing.push(locale);
+	}
+	for (const locale of multipleLocales) {
+		const {length} = locales[locale];
+		localeWarns[locale].multiple.push(`${key} (${length})`);
+		keyWarns[key].multiple.push(`${locale} (${length})`);
 	}
 	for (const locale of transparentLocales) {
 		localeWarns[locale].transparent.push(key);
@@ -62,7 +71,7 @@ const formattedKeyWarns = [];
 for (const [locale, warns] of Object.entries(localeWarns)) {
 	const formattedLocaleWarn = [];
 	for (const [warn, keys] of Object.entries(warns)) {
-		if (keys.length === 0) {
+		if (keys.length < 1) {
 			continue;
 		}
 		formattedLocaleWarns.push(`${locale} has ${warn} translations ${keys.join(", ")}`);
@@ -75,7 +84,7 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
 	for (const [warn, locales] of Object.entries(warns)) {
-		if (locales.length === 0) {
+		if (locales.length < 1) {
 			continue;
 		}
 		formattedKeyWarns.push(`${key} has ${warn} translations ${locales.join(", ")}`);
@@ -85,5 +94,5 @@ for (const [key, warns] of Object.entries(keyWarns)) {
 	}
 	await fs.promises.writeFile(`lint/keys/${key.replace(/[./]/g, "_")}.txt`, formattedKeyWarn.join(""));
 }
-await fs.promises.writeFile("lint/locales.txt", formattedLocaleWarns.length !== 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
-await fs.promises.writeFile("lint/keys.txt", formattedKeyWarns.length !== 0 ? `${formattedKeyWarns.join("\n")}\n` : "");
+await fs.promises.writeFile("lint/locales.txt", formattedLocaleWarns.length > 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
+await fs.promises.writeFile("lint/keys.txt", formattedKeyWarns.length > 0 ? `${formattedKeyWarns.join("\n")}\n` : "");

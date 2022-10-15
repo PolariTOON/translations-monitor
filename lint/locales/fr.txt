@@ -11,9 +11,6 @@ The following keys have extra translations:
 - level1_boss_4
 - level1_boss_5
 - level1_tutorial_0
-- level1_tutorial_1 (2)
-- level1_tutorial_2 (2)
-- level1_tutorial_3 (2)
 - level3_boss_1
 - level3_boss_2
 - level3_boss_3
@@ -62,6 +59,10 @@ The following keys have missing translations:
 - char_crogo
 - char_shicka
 - char_tristopio
+The following keys have multiple translations:
+- level1_tutorial_1 (2)
+- level1_tutorial_2 (2)
+- level1_tutorial_3 (2)
 The following keys have transparent translations:
 - char_crocodile
 - char_fennec

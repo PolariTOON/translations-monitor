@@ -39,7 +39,7 @@ The following keys have extra translations:
 - intro_7
 - intro_8
 - intro_9
-- level1_boss__1 (2)
+- level1_boss__1
 - level1_boss__2
 - level1_boss__3
 - level1_boss__4
