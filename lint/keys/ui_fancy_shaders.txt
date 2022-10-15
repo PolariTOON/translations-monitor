@@ -1,4 +1,4 @@
-Translation coverage: 100.00%
+Translation coverage: 14 / 14 required (100.00%), 0 / 0 optional (100.00%)
 The following locales have transparent translations:
 - de
 - el
