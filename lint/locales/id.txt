@@ -1,4 +1,4 @@
-Translation coverage: 57.26%
+Translation coverage: 361 / 593 required (60.88%), 2 / 41 optional (4.88%)
 The following keys have extra translations:
 - arcade_intro_2
 - final_boss_1_1

@@ -1,4 +1,4 @@
-Translation coverage: 57.10%
+Translation coverage: 360 / 593 required (60.71%), 2 / 41 optional (4.88%)
 The following keys have extra translations:
 - final_boss_1_1
 - final_boss_1_2

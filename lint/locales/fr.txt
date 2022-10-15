@@ -1,4 +1,4 @@
-Translation coverage: 94.01%
+Translation coverage: 593 / 593 required (100.00%), 3 / 41 optional (7.32%)
 The following keys have extra translations:
 - hub_level4_intro_1
 - hub_level4_intro_2
