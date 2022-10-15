@@ -275,7 +275,6 @@ The following keys have transparent translations:
 - hive_ending_2
 - hive_ending_3
 - hive_ending_4
-- hive_maybee
 - level1_boss_1_1
 - level1_boss_1_2
 - level1_boss_1_3

@@ -3948,7 +3948,7 @@
 			"Purple bear"
 		],
 		"cosmetic_102": [
-			"Golden Hat"
+			"Ghost trail"
 		],
 		"cosmetic_default": [
 			"Default"
@@ -4059,7 +4059,7 @@
 			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
 		],
 		"hive_maybee": [
-			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
+			"Bears are awful but maybee I can beenefit off of you. I'm beesy doing beesiness."
 		],
 		"hive_shop": [
 			"Maybee's gift shop"
@@ -4068,7 +4068,7 @@
 			"Save the kingdom"
 		],
 		"hive_task_gold": [
-			"Get all gold times"
+			"Beat all the gold times"
 		],
 		"hive_task_level": [
 			"Save 8 bears in {0}"
@@ -7140,7 +7140,7 @@
 			"Fennec"
 		],
 		"char_maybee": [
-			"Isabeille"
+			"Izzzabeille"
 		],
 		"char_mouse": [
 			"Souris"
@@ -7463,13 +7463,13 @@
 			"Tas de sable"
 		],
 		"cosmetic_100": [
-			"Ours rikiki"
+			"Ours riquiqui"
 		],
 		"cosmetic_101": [
 			"Ours violet"
 		],
 		"cosmetic_102": [
-			"Chapeau doré"
+			"Traînée fantôme"
 		],
 		"cosmetic_default": [
 			"Défaut"
@@ -7583,13 +7583,13 @@
 			"Lezzz oursz comme toi m'effrayent, maizzz ont du potensziel. Offrant montzzz et merveilles, jzze peux m'en faire mon miel. Jzze n'ai pas mon pareil pour me faire de l'ozzzeille."
 		],
 		"hive_shop": [
-			"Boutique de souvenirs d'Isabeille"
+			"Boutique de szouvenirs d'Izzzabeille"
 		],
 		"hive_task_boss": [
 			"Sauver le royaume"
 		],
 		"hive_task_gold": [
-			"Obtenir tout les temps d'or"
+			"Battre tous les temps d'or"
 		],
 		"hive_task_level": [
 			"Libérer 8 ours dans {0}"
@@ -8857,7 +8857,7 @@
 			"Performance"
 		],
 		"ui_progression": [
-			"Progression: {0}%"
+			"Progression : {0}%"
 		],
 		"ui_quality": [
 			"Qualité"
@@ -15465,7 +15465,7 @@
 			"Felix"
 		],
 		"char_bee": [
-			"Pszczoła"
+			"Bee"
 		],
 		"char_brother": [
 			"Brat Baarena"
@@ -15495,7 +15495,7 @@
 			"Pingwin"
 		],
 		"char_queen": [
-			"Królowa Beeatrycja"
+			"Queen Beeatrice"
 		],
 		"char_reindeer": [
 			"Renifer"
@@ -15935,7 +15935,7 @@
 			"The spell wasn't calibrated for a Backpacker! Oh no... no no NO! It went so wrong!"
 		],
 		"hive_boss_3_1": [
-			"Okej Shicka, nadszedł czas żeby zawalczyć z prawdziwym mną!"
+			"Okay Shicka, it's time to fight the real me!"
 		],
 		"hive_ending_1": [
 			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
@@ -16093,25 +16093,25 @@
 			"Los królestwa spoczywa w twoich rękach. Możesz to zrobić!"
 		],
 		"intro_1_1": [
-			"Przez wieki, istniało tu królestwo gdzie kreatury żyły w pokoju pod panowaniem dynastii pszczół."
+			"For centuries, there existed a kingdom where creatures lived in peace under the ruling of the Bee dynasty."
 		],
 		"intro_1_2": [
-			"Królowa Beeatrycja, królowa przyczół, była ukochaną władczynią, była fer i była doceniana przez wszystkich. Balans pomiędzy kreaturami był wspaniały."
+			"Queen Beeatrice, the bee queen, was a beloved ruler, she was fair and appreciated by all. The balance between all creatures was perfect."
 		],
 		"intro_1_3": [
-			"Do momentu gdy..."
+			"Until..."
 		],
 		"intro_2": [
 			"Królowa Pszczół panowała nad królestwem. Była uczciwa i doceniana przez wszystkich."
 		],
 		"intro_2_1": [
-			"… pszczoły zaczęły produkować inny rodzaj miodu w ulu. Niedługo potem, ten nowy smak i ten fioletowy kolor zostały pokochane przez wszystkich."
+			"… the bees started producing a different kind of honey in the hive. Shortly after, this new flavor and this purple color were beloved by everybody."
 		],
 		"intro_2_2": [
-			"Niestety, kreatury które skonsumowały go niedługo stawał się stawać szalone i atakować ich przyjaciół jak dzikie zwierzęta."
+			"Unfortunately, creatures that consumed it soon began to turn crazy and attack their friends like mindless animals."
 		],
 		"intro_2_3": [
-			"Nikt nie wie dlaczego pszczoły zaczęły siać spustoszenie w własnym królestwie, i jego mieszkańcy byli za słabi żeby zawalczyć."
+			"Nobody knows why the bees started to wreak havoc upon their own kingdom, and its inhabitants were too weak to fight back."
 		],
 		"intro_3": [
 			"Ta równowaga była idealna, aż do dnia, w którym przybył..."
@@ -16162,16 +16162,16 @@
 			"Also, pay attention to rocks falling from the ceiling! I believe in you, Baaren!"
 		],
 		"level1_boss_1_4": [
-			"Uwaga, atakuję cię!!!"
+			"Watch out, it's attacking you!!!"
 		],
 		"level1_boss_2": [
 			"Kiedy ładuje się, zaczekaj aż się wyczerpie. Kiedy jest oszołomiony, uderz go, aby zadać obrażenia."
 		],
 		"level1_boss_2_1": [
-			"Udało ci się, dobra robota! Możesz wziąć klucz i przyjść tutaj żeby mnie uratować."
+			"You did it, great job! You can take the key and come here to free me."
 		],
 		"level1_boss_2_2": [
-			"przy okazji, dzisiaj zauważyłem wcześniej tu twojego brata, nie wyglądał za najlepiej. Mam nadzieję że go znajdziesz."
+			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you find him."
 		],
 		"level1_boss_2_3": [
 			"I wonder what your brother was doing here. I haven’t seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it’s the next destination from here."
@@ -16260,11 +16260,11 @@
 		],
 		"level1_tutorial_2": [
 			"Po otwarciu drzwi monetowych, pozostaną otwarte następnym razem odwiedzamy poziom i te kamienie powinny być zastąpione przez niedźwiedzie, aby zapisać.",
-			"Raz uratujemy wystarczająco naszych przyjaciół, otworzymy tą bramę."
+			"Once we free enough of our friends, we will be able to open this gate."
 		],
 		"level1_tutorial_3": [
 			"Monety i wrogowie pojawią się ponownie za każdym razem, gdy wyjdziemy z poziomu.",
-			"Również, warto zapamiętać, że monety będą pojawiać się z powrotem za każdym razem jak wyjdziemy z poziomu."
+			"Also, note that coins will reappear each time we leave the level."
 		],
 		"level2_boss_1": [
 			"Oto słynny Yeti... Na razie unikajmy jego ataków. Poczekaj, aż się wyczerpie, zanim zaatakujemy."
@@ -16273,7 +16273,7 @@
 			"Did you see that? There was someone over there! who was… purple."
 		],
 		"level2_boss_3": [
-			"Coś jest z tym wszystkim nie tak..."
+			"Something doesn’t seem right about all this..."
 		],
 		"level2_boss_4": [
 			"Anyway, we should save this bear and then investigate the Beemothep Desert."
@@ -16618,85 +16618,85 @@
 			"Mysz"
 		],
 		"party_bee_1": [
-			"Jest mi bardzzzo przykro za ranienie wszzystkich, podążaliśmy za rozzzkazami…"
+			"I’m so sorry for hurting people, we were just following orderszz…"
 		],
 		"party_bee_2": [
-			"Dlaczego pszczoła brzęczy?//...//Bo nie umie gwizdać!"
+			"How do you call a bee with messy hair?//...//A frisbee."
 		],
 		"party_bee_3": [
-			"Wow, uratowałeś wszzystkie niedźwiedzzzie! Dobra robota! Musimy być słabi w chowaniu klatek."
+			"Wow, you saved all the bearszz! Good job! We must be bad at hiding cageszz."
 		],
 		"party_capitalos": [
-			"Zostałeś zaproszony na imprezę za darmo?!"
+			"You got invited to the party for free?!"
 		],
 		"party_capitalus": [
-			"Ile nowych klientów! STONKS!"
+			"So many new clients! STONKS!"
 		],
 		"party_crocodile_1": [
-			"Powierzę jest o wiele chłodniejsze niż na pustyni."
+			"The air is sure colder here than in the desert."
 		],
 		"party_crocodile_2": [
-			"To jest mój pierwszy raz w rzece, jest to zabawne!"
+			"This is my first time in a river, it feels funny!"
 		],
 		"party_crocodile_3": [
-			"Wodospady są imponujące! Nigdy nie widziałem jednego w swoim życiu."
+			"Waterfalls are impressive! I have never seen one in my life."
 		],
 		"party_crocodile_4": [
-			"To miejsce jest piękne… Jestem w podziwie."
+			"This place is beautiful… I’m impressed."
 		],
 		"party_fennec_1": [
-			"Jaki ładny sklep!"
+			"What a nice shop!"
 		],
 		"party_fennec_2": [
-			"Królowa Beeatrycja jest ogromna… huh, to znaczy chciałem powiedzieć że jest cudowna."
+			"Queen Beeatrice is ginormous… huh, I meant to say beautiful."
 		],
 		"party_fennec_3": [
-			"Nigdy nie widziałem takiej zielonej trawy."
+			"I have never seen grass this green."
 		],
 		"party_fennec_4": [
-			"Masz to swoją własną małą pustynię!"
+			"You have your own little desert here!"
 		],
 		"party_fennec_5": [
-			"Nie ufam temu naukowcowi."
+			"I don’t trust this scientist."
 		],
 		"party_penguin_1": [
-			"W tym miejscu nie ma śniegu, ani lodu?… A woda to… płyn…"
+			"This place neither has snow nor ice… and the water is… liquid…"
 		],
 		"party_penguin_2": [
-			"Jaki wspaniały widok!"
+			"What a great view!"
 		],
 		"party_queen": [
-			"Dzzziękuję zzza uratowanie królestwa! Zzzorganizowałam przyjemne przyjęcie dla wszystkich, miejsce frajdę!"
+			"Thanks for savvving the kingdom! I organizzzed a cool party for you, have fun!"
 		],
 		"party_reindeer_1": [
-			"Żyj długo królowo Beeatrycjo!"
+			"Long live Queen Beeatrice!"
 		],
 		"party_reindeer_2": [
-			"Jest mi za gorąco w tym miejscu."
+			"This place is definitely too hot for me."
 		],
 		"party_reindeer_3": [
-			"Ała! Mam konfetti w moim oku, to boli!"
+			"Ouch! I got a confetti in my eye, it hurts!"
 		],
 		"party_tristopio": [
-			"Przyjęcie! Przyjęcie! Przyjęcie! Przyjęcie! Przyjęcie!"
+			"Party! Party! Party! Party! Party!"
 		],
 		"party_turtle_1": [
-			"Gdzie żółwie idą gdy zaczyna padać?//…//Do shelltera!"
+			"Where does a turtle go when it’s raining?//…//To a shellter!"
 		],
 		"party_turtle_2": [
-			"Czy widziałeś moją shellmurke?"
+			"Have you seen my shellphone?"
 		],
 		"party_turtle_3": [
-			"Jestem zadowolony, że wyszedłem ze swojej skorupy i przyszedłem na to przyjęcie."
+			"I’m glad I got out of my shell and came to the party."
 		],
 		"party_turtle_4": [
-			"Wszędzie kolory!"
+			"Colors everywhere!"
 		],
 		"party_turtle_5": [
-			"To bardzo miłe ze strony pszczoły żeby zrobić to przyjęcie razem, ale to nie zwróci mi mojego domu które zniszczyły…"
+			"That’s very kind of the bees to put together this party, but it won’t bring back my house that they destroyed…"
 		],
 		"party_turtle_6": [
-			"Zajęło mi to 6 miesięcy by się tu dostać."
+			"It took me 6 months to get up here."
 		],
 		"penguin": [
 			"Pingwin"
@@ -17938,7 +17938,7 @@
 			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
 		],
 		"hive_maybee": [
-			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
+			"Bears are awful but maybee I can beenefit off of you. I'm beesy doing beesiness."
 		],
 		"hive_shop": [
 			"Loja de Presentes da Maybee"
@@ -18461,7 +18461,7 @@
 			"Talvez você possa ir lá pra ver o que está causando a dor e remover."
 		],
 		"level4_hairless_rat": [
-			"Olá ursinho nanico. Sou Violette, a ratinha sem pelos. Os outros ratos são malvados, me baniram porque eu não tenho pelos. Eu não mordo, apenas gentil(???). Eu só quero fazer amigos. Você é meu amigo?"
+			"Olá ursinho nanico. Sou Violette, a ratinha sem pelos. Os outros ratos são malvados, me baniram porque eu não tenho pelos. Eu não mordo, apenas gentil(???). Eu só quero fazer amigo. Você é meu amigo?"
 		],
 		"level4_intro_1": [
 			"Uau, ficar pequenino é uma sensação esquisita... Esta casa parece gigantesca!"
@@ -18603,7 +18603,7 @@
 			"Eu sinto muito por machucar pessoas, só estavamos seguindo ordenszz…"
 		],
 		"party_bee_2": [
-			"O que a abelha disse para um urso ladrão?//...//\"Ei, isso é mel\"."
+			"O que a abelha egoísta disse pro urso?//...//\"Não vou dividir, isso é mel!\""
 		],
 		"party_bee_3": [
 			"Uou, você salvou todos os ursosszz! Bom trabalho! Nós devemos ser péssimas em esconder jaulaszz."
@@ -18692,7 +18692,7 @@
 		],
 		"scientist": [],
 		"scientist_cutscene_1_1": [
-			"Oi Baaren! Hmm, acho que eu tenho uma ideia de onde esse mel roxo está vindo."
+			"Oi Baaren! Hmm, acho que eu posso ter uma ideia de onde esse mel roxo está vindo."
 		],
 		"scientist_cutscene_1_2": [
 			"Há 8 anos atrás, eu ouvi dizer sobre um misterioso e poderoso artefato. Fui para Grande Piramide de Beemothep e \"peguei emprestado\" o Kernel para minha pesquisa."

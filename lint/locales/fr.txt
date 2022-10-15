@@ -77,6 +77,5 @@ The following keys have transparent translations:
 - ui_light_probes
 - ui_lightmaps
 - ui_performance
-- ui_progression
 - ui_quality1
 - ui_version

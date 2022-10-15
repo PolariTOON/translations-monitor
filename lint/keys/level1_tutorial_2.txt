@@ -8,5 +8,6 @@ The following locales have multiple translations:
 - ru (2)
 The following locales have transparent translations:
 - de
+- pl
 - pt
 - ru
