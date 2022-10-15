@@ -1,4 +1,4 @@
-Translation coverage: 100.00%
+Translation coverage: 0 / 0 required (100.00%), 0 / 0 optional (100.00%)
 The following locales have extra translations:
 - pt
 - ru

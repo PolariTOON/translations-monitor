@@ -1,10 +1,6 @@
 import fs from "fs";
 const locales = JSON.parse(await fs.promises.readFile("cache/locales.json"));
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
-const localeCount = Object.keys(locales).length - 1;
-const keyCount = Object.keys(keys).filter((key) => {
-	return keys[key]["en"].length !== 0;
-}).length;
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
 for (const locale of Object.keys(locales)) {
@@ -72,9 +68,28 @@ await fs.promises.mkdir("lint/keys", {
 });
 const formattedLocaleWarns = [];
 const formattedKeyWarns = [];
+function isRequired(locale, key) {
+	return ["en", "ja"].includes(locale) || !key.startsWith("char_bear_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "ui_light_probes", "ui_lightmaps"].includes(key);
+}
 for (const [locale, warns] of Object.entries(localeWarns)) {
 	const formattedLocaleWarn = [];
-	formattedLocaleWarn.push(`Translation coverage: ${((1 - warns.missing.length / keyCount) * 100).toFixed(2)}%\n`);
+	const requiredMissingKeyCount = warns.missing.filter((key) => {
+		return isRequired(locale, key);
+	}).length;
+	const requiredKeyCount = Object.keys(keys).filter((key) => {
+		return keys[key]["en"].length > 0 && isRequired(locale, key);
+	}).length;
+	const optionalMissingKeyCount = warns.missing.filter((key) => {
+		return !isRequired(locale, key);
+	}).length;
+	const optionalKeyCount = Object.keys(keys).filter((key) => {
+		return keys[key]["en"].length > 0 && !isRequired(locale, key);
+	}).length;
+	const levels = [
+		`${requiredKeyCount - requiredMissingKeyCount} / ${requiredKeyCount} required (${((1 - (requiredKeyCount > 0 ? requiredMissingKeyCount / requiredKeyCount : 0)) * 100).toFixed(2)}%)`,
+		`${optionalKeyCount - optionalMissingKeyCount} / ${optionalKeyCount} optional (${((1 - (optionalKeyCount > 0 ? optionalMissingKeyCount / optionalKeyCount : 0)) * 100).toFixed(2)}%)`,
+	];
+	formattedLocaleWarn.push(`Translation coverage: ${levels.join(", ")}\n`);
 	for (const [warn, keys] of Object.entries(warns)) {
 		if (keys.length < 1) {
 			continue;
@@ -88,7 +103,23 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 }
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
-	formattedKeyWarn.push(`Translation coverage: ${((1 - warns.missing.length / localeCount) * 100).toFixed(2)}%\n`);
+	const requiredMissingLocaleCount = warns.missing.filter((locale) => {
+		return isRequired(locale, key);
+	}).length;
+	const requiredLocaleCount = Object.keys(locales).filter((locale) => {
+		return keys[key]["en"].length > 0 && isRequired(locale, key);
+	}).length;
+	const optionalMissingLocaleCount = warns.missing.filter((locale) => {
+		return !isRequired(locale, key);
+	}).length;
+	const optionalLocaleCount = Object.keys(locales).filter((locale) => {
+		return keys[key]["en"].length > 0 && !isRequired(locale, key);
+	}).length;
+	const levels = [
+		`${requiredLocaleCount - requiredMissingLocaleCount} / ${requiredLocaleCount} required (${((1 - (requiredLocaleCount > 0 ? requiredMissingLocaleCount / requiredLocaleCount : 0)) * 100).toFixed(2)}%)`,
+		`${optionalLocaleCount - optionalMissingLocaleCount} / ${optionalLocaleCount} optional (${((1 - (optionalLocaleCount > 0 ? optionalMissingLocaleCount / optionalLocaleCount : 0)) * 100).toFixed(2)}%)`,
+	];
+	formattedKeyWarn.push(`Translation coverage: ${levels.join(", ")}\n`);
 	for (const [warn, locales] of Object.entries(warns)) {
 		if (locales.length < 1) {
 			continue;
