@@ -1,4 +1,4 @@
-Translation coverage: 93.53%
+Translation coverage: 552 / 593 required (93.09%), 41 / 41 optional (100.00%)
 The following keys have extra translations:
 - action_break
 - brother
