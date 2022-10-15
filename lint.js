@@ -43,7 +43,15 @@ for (const [key, locales] of Object.entries(keys)) {
 await fs.promises.mkdir("lint", {
 	recursive: true,
 });
+await fs.promises.rm("lint/locales", {
+	force: true,
+	recursive: true,
+});
 await fs.promises.mkdir("lint/locales", {
+	recursive: true,
+});
+await fs.promises.rm("lint/keys", {
+	force: true,
 	recursive: true,
 });
 await fs.promises.mkdir("lint/keys", {
