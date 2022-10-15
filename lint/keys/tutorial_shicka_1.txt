@@ -1,4 +1,4 @@
-The following locales have extra translations:
+The following locales have multiple translations:
 - pl (2)
 - ru (2)
 The following locales have transparent translations:
