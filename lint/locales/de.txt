@@ -193,7 +193,6 @@ The following keys have transparent translations:
 - hive_ending_2
 - hive_ending_3
 - hive_ending_4
-- hive_maybee
 - hive_shop
 - hub_bear_25
 - hub_bear_26
