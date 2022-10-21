@@ -107,3 +107,16 @@ The following keys have transparent translations:
 - ui_start
 - ui_timer
 - ui_tokens
+The following keys have English-looking translations:
+- arcade_race_4
+- boss_rat
+- cosmetic_029
+- cosmetic_074
+- cosmetic_087
+- cosmetic_104
+- filter_21
+- help_shicka_tips
+- party_bee_2
+- tutorial_tip_title_02
+- ui_aboutbutton
+- ui_game_over

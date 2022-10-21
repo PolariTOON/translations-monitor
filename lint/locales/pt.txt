@@ -97,3 +97,11 @@ The following keys have transparent translations:
 - ui_game_over
 - ui_motion_blur
 - ui_quality1
+The following keys have English-looking translations:
+- action_move_y
+- char_bear_05
+- hub_bear_29
+- title_sound
+- ui_day_2
+- ui_game_over
+- ui_shadows

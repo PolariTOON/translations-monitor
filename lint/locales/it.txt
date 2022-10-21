@@ -97,3 +97,11 @@ The following keys have transparent translations:
 - mission_race
 - time_format
 - ui_game_over
+The following keys have English-looking translations:
+- cosmetic_020
+- cosmetic_075
+- cosmetic_104
+- ui_birds
+- ui_game_over
+- ui_quality1
+- ui_shadows
