@@ -21,7 +21,11 @@ The following keys have extra translations:
 - level4_boss_4
 - level4_boss_5
 - level4_boss_6
-The following keys have missing translations:
+The following keys have extra, but optional, translations:
+- char_maybee
+- ui_light_probes
+- ui_lightmaps
+The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
 - char_bear_02
