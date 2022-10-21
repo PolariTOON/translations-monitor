@@ -1,10 +1,17 @@
 import fs from "fs";
+import cld from "cld";
 const locales = JSON.parse(await fs.promises.readFile("cache/locales.json"));
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
 function isRequired(locale, key) {
 	return ["el", "en", "ru", "ja"].includes(locale) || ["filter_00"].includes(key) || !key.startsWith("char_bear_") && !key.startsWith("filter_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "char_violette", "cosmetic_094", "cosmetic_104", "iap_premium_title"].includes(key);
+}
+async function asyncFilter(array, callback) {
+	const selected = await Promise.all(array.map(callback));
+	return array.filter((item, index) => {
+		return selected[index];
+	});
 }
 for (const locale of Object.keys(locales)) {
 	localeWarns[locale] = Object.create(null);
@@ -14,6 +21,7 @@ for (const locale of Object.keys(locales)) {
 	localeWarns[locale]["missing, but optional,"] = [];
 	localeWarns[locale].multiple = [];
 	localeWarns[locale].transparent = [];
+	localeWarns[locale]["English-looking"] = [];
 }
 for (const [key, locales] of Object.entries(keys)) {
 	keyWarns[key] = Object.create(null);
@@ -23,6 +31,7 @@ for (const [key, locales] of Object.entries(keys)) {
 	keyWarns[key]["missing, but optional,"] = [];
 	keyWarns[key].multiple = [];
 	keyWarns[key].transparent = [];
+	keyWarns[key]["English-looking"] = [];
 	const length = locales["en"].length;
 	const extraLocales = Object.keys(locales).filter((locale) => {
 		return length < 1 && locales[locale].length > 0;
@@ -40,8 +49,22 @@ for (const [key, locales] of Object.entries(keys)) {
 		return locales[locale].length > 1;
 	});
 	const transparentLocales = Object.keys(locales).filter((locale) => {
-		return locale !== "en" && locales[locale].filter((transparent) => {
-			return locales["en"].includes(transparent);
+		return locale !== "en" && locales[locale].filter((value) => {
+			return locales["en"].includes(value);
+		}).length > 0;
+	});
+	const englishLookingLocales = await asyncFilter(Object.keys(locales), async (locale) => {
+		return locale !== "en" && await asyncFilter(locales[locale], async (value) => {
+			const englishLooking = await (async () => {
+				try {
+					return (await cld.detect(value)).languages.filter((language) => {
+						return language.code === "en";
+					}).length > 0;
+				} catch {
+					return false;
+				}
+			})();
+			return englishLooking;
 		}).length > 0;
 	});
 	for (const locale of extraLocales) {
@@ -68,6 +91,10 @@ for (const [key, locales] of Object.entries(keys)) {
 	for (const locale of transparentLocales) {
 		localeWarns[locale].transparent.push(key);
 		keyWarns[key].transparent.push(locale);
+	}
+	for (const locale of englishLookingLocales) {
+		localeWarns[locale]["English-looking"].push(key);
+		keyWarns[key]["English-looking"].push(locale);
 	}
 }
 await fs.promises.mkdir("lint", {
