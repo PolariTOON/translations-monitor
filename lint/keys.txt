@@ -25,77 +25,151 @@ boss_turtle_golem has missing translations sv
 boss_yeti has missing translations sv
 brother has extra translations pl, sv
 cage_help has extra translations de, el, sv
-char_baaren has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_baaren has extra, but optional, translations pl
+char_baaren has missing translations ja
+char_baaren has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_baaren has transparent translations pl
-char_bear_01 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_01 has extra, but optional, translations pl
+char_bear_01 has missing translations ja
+char_bear_01 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_01 has transparent translations pl
-char_bear_02 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_02 has extra, but optional, translations pl
+char_bear_02 has missing translations ja
+char_bear_02 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_02 has transparent translations pl
-char_bear_03 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_03 has extra, but optional, translations pl
+char_bear_03 has missing translations ja
+char_bear_03 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_03 has transparent translations pl
-char_bear_04 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_05 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_06 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_04 has extra, but optional, translations pl
+char_bear_04 has missing translations ja
+char_bear_04 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_05 has extra, but optional, translations pl
+char_bear_05 has missing translations ja
+char_bear_05 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_06 has extra, but optional, translations pl
+char_bear_06 has missing translations ja
+char_bear_06 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_06 has transparent translations pl
-char_bear_07 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_07 has extra, but optional, translations pl
+char_bear_07 has missing translations ja
+char_bear_07 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_07 has transparent translations pl
-char_bear_08 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_08 has extra, but optional, translations pl
+char_bear_08 has missing translations ja
+char_bear_08 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_08 has transparent translations pl
-char_bear_09 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_09 has extra, but optional, translations pl
+char_bear_09 has missing translations ja
+char_bear_09 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_09 has transparent translations pl
-char_bear_10 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_11 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_10 has extra, but optional, translations pl
+char_bear_10 has missing translations ja
+char_bear_10 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_11 has extra, but optional, translations pl
+char_bear_11 has missing translations ja
+char_bear_11 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_11 has transparent translations pl
-char_bear_12 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_12 has extra, but optional, translations pl
+char_bear_12 has missing translations ja
+char_bear_12 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_12 has transparent translations pl
-char_bear_13 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_13 has extra, but optional, translations pl
+char_bear_13 has missing translations ja
+char_bear_13 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_13 has transparent translations pl
-char_bear_14 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_15 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_14 has extra, but optional, translations pl
+char_bear_14 has missing translations ja
+char_bear_14 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_15 has extra, but optional, translations pl
+char_bear_15 has missing translations ja
+char_bear_15 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_15 has transparent translations pl
-char_bear_16 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_16 has extra, but optional, translations pl
+char_bear_16 has missing translations ja
+char_bear_16 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_16 has transparent translations pl
-char_bear_17 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_18 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_17 has extra, but optional, translations pl
+char_bear_17 has missing translations ja
+char_bear_17 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_18 has extra, but optional, translations pl
+char_bear_18 has missing translations ja
+char_bear_18 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_18 has transparent translations pl
-char_bear_19 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_20 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_19 has extra, but optional, translations pl
+char_bear_19 has missing translations ja
+char_bear_19 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_20 has extra, but optional, translations pl
+char_bear_20 has missing translations ja
+char_bear_20 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_20 has transparent translations pl
-char_bear_21 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_21 has extra, but optional, translations pl
+char_bear_21 has missing translations ja
+char_bear_21 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_21 has transparent translations pl
-char_bear_22 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_22 has extra, but optional, translations pl
+char_bear_22 has missing translations ja
+char_bear_22 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_22 has transparent translations pl
-char_bear_23 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_23 has extra, but optional, translations pl
+char_bear_23 has missing translations ja
+char_bear_23 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_23 has transparent translations pl
-char_bear_24 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_24 has extra, but optional, translations pl
+char_bear_24 has missing translations ja
+char_bear_24 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_24 has transparent translations pl
-char_bear_25 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_25 has extra, but optional, translations pl
+char_bear_25 has missing translations ja
+char_bear_25 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_25 has transparent translations pl
-char_bear_26 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_27 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_28 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_26 has extra, but optional, translations pl
+char_bear_26 has missing translations ja
+char_bear_26 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_27 has extra, but optional, translations pl
+char_bear_27 has missing translations ja
+char_bear_27 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_28 has extra, but optional, translations pl
+char_bear_28 has missing translations ja
+char_bear_28 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_28 has transparent translations pl
-char_bear_29 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
-char_bear_30 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_29 has extra, but optional, translations pl
+char_bear_29 has missing translations ja
+char_bear_29 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_30 has extra, but optional, translations pl
+char_bear_30 has missing translations ja
+char_bear_30 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_30 has transparent translations pl
-char_bear_31 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_31 has extra, but optional, translations pl
+char_bear_31 has missing translations ja
+char_bear_31 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_31 has transparent translations pl
-char_bear_32 has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_bear_32 has extra, but optional, translations pl
+char_bear_32 has missing translations ja
+char_bear_32 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_32 has transparent translations pl
 char_bee has missing translations el, es, id, it, ja, nl, sv, tr
 char_bee has transparent translations de, pl, ru
 char_brother has missing translations sv
-char_capitalos has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_capitalos has extra, but optional, translations pl
+char_capitalos has missing translations ja
+char_capitalos has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_capitalos has transparent translations pl
-char_capitalus has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_capitalus has extra, but optional, translations pl
+char_capitalus has missing translations ja
+char_capitalus has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_capitalus has transparent translations pl
 char_crocodile has missing translations sv
 char_crocodile has transparent translations fr
-char_crogo has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_crogo has extra, but optional, translations pl
+char_crogo has missing translations ja
+char_crogo has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_crogo has transparent translations pl
 char_fennec has missing translations sv
 char_fennec has transparent translations de, fr, id, it, nl
-char_maybee has missing translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+char_maybee has extra, but optional, translations fr, pl
+char_maybee has missing translations ja
+char_maybee has missing, but optional, translations de, el, es, id, it, nl, pt, ru, sv, tr
 char_maybee has transparent translations pl
 char_mouse has missing translations sv
 char_penguin has missing translations sv
@@ -103,10 +177,14 @@ char_queen has missing translations el, es, id, it, ja, nl, sv, tr
 char_queen has transparent translations de, pl, ru
 char_reindeer has missing translations sv
 char_scientist has missing translations sv
-char_shicka has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_shicka has extra, but optional, translations pl
+char_shicka has missing translations ja
+char_shicka has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_shicka has transparent translations pl
 char_sign has missing translations sv
-char_tristopio has missing translations de, el, es, fr, id, it, ja, nl, pt, ru, sv, tr
+char_tristopio has extra, but optional, translations pl
+char_tristopio has missing translations ja
+char_tristopio has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_tristopio has transparent translations pl
 char_turtle has missing translations sv
 cosmetic_001 has missing translations el, es, id, it, ja, nl, sv, tr
@@ -478,6 +556,7 @@ level1_boss_3 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru,
 level1_boss_4 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
 level1_boss_5 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
 level1_boss__1 has extra translations tr
+level1_boss__1 has multiple translations tr (2)
 level1_boss__2 has extra translations tr
 level1_boss__3 has extra translations tr
 level1_boss__4 has extra translations tr
@@ -941,7 +1020,9 @@ ui_level2 has transparent translations es, sv
 ui_level3 has transparent translations es, sv
 ui_level4 has transparent translations de, el, es
 ui_life has transparent translations es, sv
+ui_light_probes has extra, but optional, translations de, el, es, fr, id, it, nl, pl, pt, ru, sv, tr
 ui_light_probes has transparent translations de, el, es, fr, sv
+ui_lightmaps has extra, but optional, translations de, el, es, fr, id, it, nl, pl, pt, ru, sv, tr
 ui_lightmaps has transparent translations de, el, es, fr, id, sv
 ui_load has transparent translations es, sv
 ui_load_ad has missing translations sv

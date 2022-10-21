@@ -3,28 +3,41 @@ const locales = JSON.parse(await fs.promises.readFile("cache/locales.json"));
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
+function isRequired(locale, key) {
+	return ["en", "ja"].includes(locale) || !key.startsWith("char_bear_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "ui_light_probes", "ui_lightmaps"].includes(key);
+}
 for (const locale of Object.keys(locales)) {
 	localeWarns[locale] = Object.create(null);
 	localeWarns[locale].extra = [];
+	localeWarns[locale]["extra, but optional,"] = [];
 	localeWarns[locale].missing = [];
+	localeWarns[locale]["missing, but optional,"] = [];
 	localeWarns[locale].multiple = [];
 	localeWarns[locale].transparent = [];
 }
 for (const [key, locales] of Object.entries(keys)) {
 	keyWarns[key] = Object.create(null);
 	keyWarns[key].extra = [];
+	keyWarns[key]["extra, but optional,"] = [];
 	keyWarns[key].missing = [];
+	keyWarns[key]["missing, but optional,"] = [];
 	keyWarns[key].multiple = [];
 	keyWarns[key].transparent = [];
 	const length = locales["en"].length;
 	const extraLocales = Object.keys(locales).filter((locale) => {
 		return length < 1 && locales[locale].length > 0;
 	});
+	const extraButOptionalLocales = Object.keys(locales).filter((locale) => {
+		return length > 0 && !isRequired(locale, key) && locales[locale].length > 0;
+	});
 	const missingLocales = Object.keys(locales).filter((locale) => {
-		return length > 0 && locales[locale].length < 1;
+		return length > 0 && isRequired(locale, key) && locales[locale].length < 1;
+	});
+	const missingButOptionalLocales = Object.keys(locales).filter((locale) => {
+		return length > 0 && !isRequired(locale, key) && locales[locale].length < 1;
 	});
 	const multipleLocales = Object.keys(locales).filter((locale) => {
-		return length > 0 && locales[locale].length > 1;
+		return locales[locale].length > 1;
 	});
 	const transparentLocales = Object.keys(locales).filter((locale) => {
 		return locale !== "en" && locales[locale].filter((transparent) => {
@@ -35,9 +48,17 @@ for (const [key, locales] of Object.entries(keys)) {
 		localeWarns[locale].extra.push(key);
 		keyWarns[key].extra.push(locale);
 	}
+	for (const locale of extraButOptionalLocales) {
+		localeWarns[locale]["extra, but optional,"].push(key);
+		keyWarns[key]["extra, but optional,"].push(locale);
+	}
 	for (const locale of missingLocales) {
 		localeWarns[locale].missing.push(key);
 		keyWarns[key].missing.push(locale);
+	}
+	for (const locale of missingButOptionalLocales) {
+		localeWarns[locale]["missing, but optional,"].push(key);
+		keyWarns[key]["missing, but optional,"].push(locale);
 	}
 	for (const locale of multipleLocales) {
 		const {length} = locales[locale];
@@ -68,20 +89,13 @@ await fs.promises.mkdir("lint/keys", {
 });
 const formattedLocaleWarns = [];
 const formattedKeyWarns = [];
-function isRequired(locale, key) {
-	return ["en", "ja"].includes(locale) || !key.startsWith("char_bear_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "ui_light_probes", "ui_lightmaps"].includes(key);
-}
 for (const [locale, warns] of Object.entries(localeWarns)) {
 	const formattedLocaleWarn = [];
-	const requiredMissingKeyCount = warns.missing.filter((key) => {
-		return isRequired(locale, key);
-	}).length;
+	const requiredMissingKeyCount = warns.missing.length;
 	const requiredKeyCount = Object.keys(keys).filter((key) => {
 		return keys[key]["en"].length > 0 && isRequired(locale, key);
 	}).length;
-	const optionalMissingKeyCount = warns.missing.filter((key) => {
-		return !isRequired(locale, key);
-	}).length;
+	const optionalMissingKeyCount = warns["missing, but optional,"].length;
 	const optionalKeyCount = Object.keys(keys).filter((key) => {
 		return keys[key]["en"].length > 0 && !isRequired(locale, key);
 	}).length;
@@ -103,15 +117,11 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 }
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
-	const requiredMissingLocaleCount = warns.missing.filter((locale) => {
-		return isRequired(locale, key);
-	}).length;
+	const requiredMissingLocaleCount = warns.missing.length;
 	const requiredLocaleCount = Object.keys(locales).filter((locale) => {
 		return keys[key]["en"].length > 0 && isRequired(locale, key);
 	}).length;
-	const optionalMissingLocaleCount = warns.missing.filter((locale) => {
-		return !isRequired(locale, key);
-	}).length;
+	const optionalMissingLocaleCount = warns["missing, but optional,"].length;
 	const optionalLocaleCount = Object.keys(locales).filter((locale) => {
 		return keys[key]["en"].length > 0 && !isRequired(locale, key);
 	}).length;

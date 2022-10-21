@@ -25,7 +25,20 @@ The following keys have extra translations:
 - level4_boss_5
 - level4_boss_6
 - sign_help
+The following keys have extra, but optional, translations:
+- ui_light_probes
+- ui_lightmaps
 The following keys have missing translations:
+- cosmetic_099
+- cosmetic_100
+- cosmetic_101
+- cosmetic_102
+- hive_task_boss
+- hive_task_gold
+- hive_task_level
+- ui_coins_found
+- ui_progression
+The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
 - char_bear_02
@@ -65,15 +78,6 @@ The following keys have missing translations:
 - char_maybee
 - char_shicka
 - char_tristopio
-- cosmetic_099
-- cosmetic_100
-- cosmetic_101
-- cosmetic_102
-- hive_task_boss
-- hive_task_gold
-- hive_task_level
-- ui_coins_found
-- ui_progression
 The following keys have transparent translations:
 - char_bee
 - char_fennec

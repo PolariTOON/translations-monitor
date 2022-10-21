@@ -23,7 +23,15 @@ The following keys have extra translations:
 - level4_boss_6
 - ui_save_cloud
 - ui_show_cloud
+The following keys have extra, but optional, translations:
+- ui_light_probes
+- ui_lightmaps
 The following keys have missing translations:
+- cosmetic_099
+- cosmetic_100
+- cosmetic_101
+- cosmetic_102
+The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
 - char_bear_02
@@ -63,10 +71,6 @@ The following keys have missing translations:
 - char_maybee
 - char_shicka
 - char_tristopio
-- cosmetic_099
-- cosmetic_100
-- cosmetic_101
-- cosmetic_102
 The following keys have multiple translations:
 - level1_tutorial_1 (2)
 - level1_tutorial_2 (2)
