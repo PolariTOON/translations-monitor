@@ -16,3 +16,7 @@ The following locales have missing, but optional, translations:
 The following locales have transparent translations:
 - el
 - pl
+The following locales have English-looking translations:
+- es
+- pt
+- tr

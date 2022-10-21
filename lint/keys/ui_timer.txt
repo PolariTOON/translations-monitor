@@ -6,3 +6,5 @@ The following locales have transparent translations:
 - id
 - nl
 - pl
+The following locales have English-looking translations:
+- de

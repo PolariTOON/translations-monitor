@@ -14,3 +14,6 @@ The following locales have missing, but optional, translations:
 - nl
 - sv
 - tr
+The following locales have English-looking translations:
+- pl
+- pt

@@ -15,3 +15,6 @@ The following locales have missing, but optional, translations:
 - sv
 The following locales have transparent translations:
 - fr
+The following locales have English-looking translations:
+- fr
+- id

@@ -5,3 +5,7 @@ The following locales have missing translations:
 The following locales have transparent translations:
 - nl
 - tr
+The following locales have English-looking translations:
+- de
+- nl
+- tr

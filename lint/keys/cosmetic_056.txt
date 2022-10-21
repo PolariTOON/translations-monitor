@@ -6,3 +6,6 @@ The following locales have transparent translations:
 - de
 - ru
 - tr
+The following locales have English-looking translations:
+- id
+- tr
