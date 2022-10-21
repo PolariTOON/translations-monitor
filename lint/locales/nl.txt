@@ -1,4 +1,4 @@
-Translation coverage: 361 / 593 required (60.88%), 2 / 41 optional (4.88%)
+Translation coverage: 361 / 601 required (60.07%), 2 / 41 optional (4.88%)
 The following keys have extra translations:
 - final_boss_1_1
 - final_boss_1_2
@@ -73,6 +73,11 @@ The following keys have extra, but optional, translations:
 - ui_light_probes
 - ui_lightmaps
 The following keys have missing translations:
+- arcade_race_1
+- arcade_race_2
+- arcade_race_3
+- arcade_race_4
+- arcade_timer
 - char_bee
 - char_queen
 - cosmetic_001
@@ -195,9 +200,12 @@ The following keys have missing translations:
 - hive_ending_4
 - hive_maybee
 - hive_shop
+- hive_shop_equip
+- hive_shop_unequip
 - hive_task_boss
 - hive_task_gold
 - hive_task_level
+- hive_task_unlock
 - hub_bear_01
 - hub_bear_02
 - hub_bear_03

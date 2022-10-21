@@ -1,12 +1,11 @@
 {
 	"de": {
 		"action_attack": [
-			"Angriff"
+			"Angreifen"
 		],
 		"action_brake": [
 			"Bremse (Fahrzeug)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Kamera zentrieren"
 		],
@@ -55,6 +54,11 @@
 		"arcade_intro_3": [
 			"Wenn du die Regeln der Spiele lernen willst, lauf auf die Knöpfe."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Alt-Taste 1"
 		],
@@ -164,6 +168,7 @@
 		"char_turtle": [
 			"Schildkröte"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [
 			"Bandit mask"
 		],
@@ -465,6 +470,7 @@
 		"cosmetic_default": [
 			"Default"
 		],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [],
@@ -576,9 +582,12 @@
 		"hive_shop": [
 			"Maybee's gift shop"
 		],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [
 			"Vielen Dank, dass du mich aus der Golemhöhle gerettet hast!"
 		],
@@ -738,24 +747,24 @@
 			"Leider fingen die Kreaturen, die es aßen, bald an, verrückt zu werden und ihre Freunde wie hirnlose Tiere anzugreifen."
 		],
 		"intro_2_3": [
-			"Nobody knows why the bees started to wreak havoc upon their own kingdom, and its inhabitants were too weak to fight back."
+			"Niemand weiß, warum die Bienen begannen, ihr eigenes Reich zu verwüsten, und dessen Bewohner zu schwach waren, um sich zu wehren."
 		],
 		"intro_3": [],
 		"intro_3_1": [
-			"Before long, the bees realized that bears were mysteriously unaffected by the purple honey."
+			"Es dauerte nicht lange, bis die Bienen feststellten, dass Bären auf mysteriöse Weise von dem lila Honig unbeeinflusst blieben."
 		],
 		"intro_3_2": [
-			"This resistance caused their loss: the bees raided the Bear Village and imprisoned them to prevent any revolt."
+			"Dieser Widerstand führte zu ihrem Verlust: Die Bienen überfielen das Bärendorf und sperrten sie ein, um eine Meuterei zu verhindern."
 		],
 		"intro_4": [],
 		"intro_4_1": [
-			"Luckily, one bear managed to avoid the attack. But now, the fate of the people is on his shoulders."
+			"Glücklicherweise gelang es einem Bären, dem Angriff zu entgehen. Aber jetzt liegt das Schicksal der Leute auf seinen Schultern."
 		],
 		"intro_4_2": [
-			"The world needs a hero. Someone to restore the balance, someone to end this purple doom."
+			"Die Welt braucht einen Helden. Jemanden, der das Gleichgewicht wiederherstellt, jemanden, der das lila Verderben beendet."
 		],
 		"intro_4_3": [
-			"Will you save us, Baaren?"
+			"Wirst du uns retten, Baaren?"
 		],
 		"intro_5": [],
 		"intro_6": [],
@@ -766,10 +775,10 @@
 			"Baaren ! Du bist gekommen, um mich zu retten! Pass auf! Der Schildkröten- Golem ist sehr gefährlich !"
 		],
 		"level1_boss_1_1": [
-			"Baaren! You came to save me! Be careful, the Turtle Golem is very dangerous!"
+			"Baaren! Du bist gekommen, um mich zu retten! Sei vorsichtig, der Schildkrötengolem ist sehr gefährlich!"
 		],
 		"level1_boss_1_2": [
-			"When it charges you, avoid its attacks and wait until it's exhausted before fighting back."
+			"Wenn er dich angreift, weiche seinen Angriffen aus und warte, bis er erschöpft ist, bevor du zurückschlägst."
 		],
 		"level1_boss_1_3": [
 			"Also, pay attention to rocks falling from the ceiling! I believe in you, Baaren!"
@@ -1309,10 +1318,10 @@
 		"rat_boss": [],
 		"reindeer": [],
 		"save_bear_tip_1": [
-			"We freed one bear! We should keep looking around in Turtletown before going to other areas."
+			"Wir haben einen Bären befreit! Wir sollten uns weiter in der Schildkrötenstadt umsehen, bevor wir in andere Gebiete gehen."
 		],
 		"save_bear_tip_2": [
-			"We will go to Snow Valley later."
+			"Wir werden später ins Schneetal gehen."
 		],
 		"scientist": [],
 		"scientist_cutscene_1_1": [
@@ -1492,22 +1501,22 @@
 		],
 		"turtle": [],
 		"tutorial_shicka_1": [
-			"Hey Baaren, there you are! The bees attacked the village and captured everyone! I managed to hide when they arrived."
+			"Hey Baaren, da bist du ja! Die Bienen haben das Dorf angegriffen und alle gefangen genommen! Ich habe es geschafft, mich zu verstecken, als sie kamen."
 		],
 		"tutorial_shicka_2": [
-			"Were you just… sleeping? Avoiding a raid by taking a nap away from the village, that’s very you."
+			"Hast du nur... geschlafen? Einer Entführung zu entgehen, indem man ein Nickerchen außerhalb des Dorfes macht, das ist typisch für dich."
 		],
 		"tutorial_shicka_3": [
-			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
+			"Auf jeden Fall sollten wir uns zusammentun, um unsere Freunde zu befreien! Ich könnte dir ein paar Ratschläge über die Umgebung geben. Rucksackträger wie ich wissen viel über das Königreich."
 		],
 		"tutorial_shicka_4": [
-			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!"
+			"Ich habe Bienen gesehen, die Bären ins Schildkrötendorf brachten, wir sollten zuerst dorthin gehen. Zu unserem Glück ist die Plattform, die dorthin führt, noch in Betrieb. Los geht's!"
 		],
 		"tutorial_shicka_5": [
-			"We could then go to the Snow Valley..."
+			"Wir könnten dann ins Schneetal gehen..."
 		],
 		"tutorial_shicka_6": [
-			"... and then explore the Beemothep Desert."
+			"... und dann die Beemothep-Wüste erkunden."
 		],
 		"tutorial_sign_01": [
 			"Willkommen bei, Super Bear Adventure! Bevor du dich in ernste Angelegenheiten begibst, wirst du deine Fähigkeiten in diesem Parkour zeigen müssen!"
@@ -1948,7 +1957,7 @@
 			"Schau den Trailer auf YouTube"
 		],
 		"ui_website": [
-			"Website/Geschäft besuchen"
+			"Website/Laden besuchen"
 		],
 		"ui_yes": [
 			"Ja"
@@ -1957,7 +1966,6 @@
 	"el": {
 		"action_attack": [],
 		"action_brake": [],
-		"action_break": [],
 		"action_center_camera": [],
 		"action_gas": [],
 		"action_jump": [],
@@ -1996,6 +2004,11 @@
 		"arcade_intro_3": [
 			"Εάν θέλεις να μάθεις τους κανόνες των παιχνιδιών, περπάτησε σε αυτά τα κουμπιά."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [],
 		"binding_alt_2": [],
 		"binding_axis": [],
@@ -2089,6 +2102,7 @@
 		"char_turtle": [
 			"Χελώνα"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -2192,6 +2206,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -2293,9 +2308,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -3414,7 +3432,6 @@
 		"action_brake": [
 			"Brake (vehicle)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Center camera"
 		],
@@ -3458,6 +3475,21 @@
 		"arcade_intro_2": [],
 		"arcade_intro_3": [
 			"If you want to learn the rules of the games, walk on these buttons."
+		],
+		"arcade_race_1": [
+			"Classic"
+		],
+		"arcade_race_2": [
+			"Looping"
+		],
+		"arcade_race_3": [
+			"Desert"
+		],
+		"arcade_race_4": [
+			"Tubes"
+		],
+		"arcade_timer": [
+			"Current://Best:"
 		],
 		"binding_alt_1": [
 			"Alt button 1"
@@ -3644,6 +3676,7 @@
 		"char_turtle": [
 			"Turtle"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [
 			"Bandit mask"
 		],
@@ -3953,6 +3986,7 @@
 		"cosmetic_default": [
 			"Default"
 		],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [],
@@ -4064,6 +4098,12 @@
 		"hive_shop": [
 			"Maybee's gift shop"
 		],
+		"hive_shop_equip": [
+			"Equip"
+		],
+		"hive_shop_unequip": [
+			"Reset to previous outfit"
+		],
 		"hive_task_boss": [
 			"Save the kingdom"
 		],
@@ -4072,6 +4112,9 @@
 		],
 		"hive_task_level": [
 			"Save 8 bears in {0}"
+		],
+		"hive_task_unlock": [
+			"Unlock requirement:"
 		],
 		"hub_bear_01": [
 			"Thank you for saving me from the golem cave!"
@@ -4214,7 +4257,7 @@
 		],
 		"intro_2": [],
 		"intro_2_1": [
-			"… the bees started producing a different kind of honey in the hive. Shortly after, this new flavor and this purple color were beloved by everybody."
+			"… the bees started producing a different kind of honey in the Hive. Shortly after, this new flavor and this purple color were beloved by everybody."
 		],
 		"intro_2_2": [
 			"Unfortunately, creatures that consumed it soon began to turn crazy and attack their friends like mindless animals."
@@ -4518,7 +4561,7 @@
 			"I didn’t see his face but he was a bear. I’m not sure the bees are behind all this madness. I think someone set them up."
 		],
 		"level4_boss_2_4": [
-			"You should go to the hive, I’m sure the truth awaits us there."
+			"You should go to the Hive, I’m sure the truth awaits us there."
 		],
 		"level4_boss_3": [],
 		"level4_boss_4": [],
@@ -4594,7 +4637,7 @@
 			"Hearts respawn after 30 seconds."
 		],
 		"loading_2": [
-			"The game is still in beta. So, if you find any bug, please report it on the Discord server."
+			"If you find any bug, please report it on the Discord server."
 		],
 		"loading_3": [
 			"You need to unlock the coin door of the level before saving any bear."
@@ -4810,7 +4853,7 @@
 			"I think I can push him off this platform!"
 		],
 		"shicka_0_4": [
-			"We need to get 60 coins to open the coin door."
+			"We need to rescue 3 bears to open the bear gate."
 		],
 		"shicka_1_1": [
 			"You should try to use your attack on this lever."
@@ -5192,7 +5235,7 @@
 			"Hide inputs"
 		],
 		"ui_hive": [
-			"The Hive"
+			"Hive"
 		],
 		"ui_hubconfirm": [
 			"Do you really want to go back to the hub?"
@@ -5415,7 +5458,6 @@
 		"action_brake": [
 			"Romper (vehiculo)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Centrar camara"
 		],
@@ -5460,6 +5502,11 @@
 		"arcade_intro_3": [
 			"Si quieres aprender las reglas de los juegos, parate sobre estos botones."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Alt boton 1"
 		],
@@ -5563,6 +5610,7 @@
 		"char_turtle": [
 			"Tortuga"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -5666,6 +5714,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -5769,9 +5818,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -7011,7 +7063,6 @@
 		"action_brake": [
 			"Freiner (véhicule)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Centrer la caméra"
 		],
@@ -7055,6 +7106,21 @@
 		"arcade_intro_2": [],
 		"arcade_intro_3": [
 			"Si tu veux connaître les règles de ces jeux, marche sur ces boutons."
+		],
+		"arcade_race_1": [
+			"Classique"
+		],
+		"arcade_race_2": [
+			"Looping"
+		],
+		"arcade_race_3": [
+			"Désert"
+		],
+		"arcade_race_4": [
+			"Tubes"
+		],
+		"arcade_timer": [
+			"Tour ://Meilleur :"
 		],
 		"binding_alt_1": [
 			"Bouton alt 1"
@@ -7165,6 +7231,7 @@
 		"char_turtle": [
 			"Tortue"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [
 			"Masque de bandit"
 		],
@@ -7474,6 +7541,7 @@
 		"cosmetic_default": [
 			"Défaut"
 		],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [],
@@ -7585,6 +7653,12 @@
 		"hive_shop": [
 			"Boutique de szouvenirs d'Izzzabeille"
 		],
+		"hive_shop_equip": [
+			"Équiper"
+		],
+		"hive_shop_unequip": [
+			"Remettre la tenue précédente"
+		],
 		"hive_task_boss": [
 			"Sauver le royaume"
 		],
@@ -7593,6 +7667,9 @@
 		],
 		"hive_task_level": [
 			"Libérer 8 ours dans {0}"
+		],
+		"hive_task_unlock": [
+			"Conditions de déverrouillage :"
 		],
 		"hub_bear_01": [
 			"Merci de m'avoir sauvé dans la grotte du golem !"
@@ -7705,24 +7782,12 @@
 		"hub_capitalus": [
 			"Saluuut ! C'est moi, Capitaluuus ! Si tu acceptes de regarder une publicitééé, je t'offrirais des cadeauuux !"
 		],
-		"hub_level4_intro_1": [
-			"Hé Baaren, te voilà ! Hum, je pense que tu mérites quelques explications pour tout ce qui s'est passé. Il y a 8 ans je suis allé à la pyramide du Désert Beemothep et j'ai emprunté l'artefact pour mes recherches."
-		],
-		"hub_level4_intro_2": [
-			"J'ai découvert qu'il a deux propriétés majeures : le contrôle de la pensée et la manipulation de taille. Après beaucoup de travail je suis arrivé a créer ce superbe appareil : LA MACHINE RÉTRÉCISSANTE !"
-		],
-		"hub_level4_intro_3": [
-			"J'ai également fais des expériences sur la partie contrôle de la pensée et les choses ont hé hé... disons un peu dégénéré. Comme tu peux le constater quelqu'un a découvert mes recherches et a volé l'artefact et l'a utilisé pour créer le miel violet."
-		],
-		"hub_level4_intro_4": [
-			"Bref, les abeilles ne savaient pas quoi faire des oursons et les ont donc rétrécis et cachés dans cette maison même."
-		],
-		"hub_level4_intro_5": [
-			"Tout est donc lié à l'artefact, certains fennecs dans le désert nous en ont parlé. Nous devons récupérer l'artefact volé par la Reine des abeilles mais d'abord, allons sauver ces pauvres bébés."
-		],
-		"hub_level4_intro_6": [
-			"Ils sont trop miniscules donc je ne peux pas ouvrir les cages moi-même et la maison est infestée de rats. Hum, je ne veux vraiment pas aller là-dedans... mais si tu veux les sauver, je peux t'aider."
-		],
+		"hub_level4_intro_1": [],
+		"hub_level4_intro_2": [],
+		"hub_level4_intro_3": [],
+		"hub_level4_intro_4": [],
+		"hub_level4_intro_5": [],
+		"hub_level4_intro_6": [],
 		"hub_scientist": [
 			"Ne t'inquiète pas, la machine rétrécissante est très probablement sûre."
 		],
@@ -7747,7 +7812,7 @@
 		],
 		"intro_2": [],
 		"intro_2_1": [
-			"… les abeilles commencèrent à produire un nouveau genre de miel dans la ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés par tout le monde."
+			"… les abeilles commencèrent à produire un nouveau genre de miel dans la Ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés par tout le monde."
 		],
 		"intro_2_2": [
 			"Malheureusement, les créatures qui le consommèrent devinrent rapidement folles et attaquèrent leurs amis tels des animaux sans cervelle."
@@ -7777,9 +7842,7 @@
 		"intro_7": [],
 		"intro_8": [],
 		"intro_9": [],
-		"level1_boss_1": [
-			"Baaren ! Tu es venu me sauver ! Fais attention, le Golem Tortue est très dangereux !"
-		],
+		"level1_boss_1": [],
 		"level1_boss_1_1": [
 			"Baaren ! Tu es venu me sauver ! Fais attention, le Golem Tortue est très dangereux !"
 		],
@@ -7787,14 +7850,12 @@
 			"Lorsqu'il te charge, esquive ses attaques et attends qu'il soit épuisé avant de contre-attaquer."
 		],
 		"level1_boss_1_3": [
-			"Aussi, fais aussi aux rochers qui tombent du plafond ! Je crois en toi, Baaren !"
+			"Aussi, fais attention aux rochers qui tombent du plafond ! Je crois en toi, Baaren !"
 		],
 		"level1_boss_1_4": [
 			"Attention, il t'attaque !!!"
 		],
-		"level1_boss_2": [
-			"Lorsqu'il charge esquive-le, laisse-le s'épuiser. Lorsqu'il est sonné mets-lui un coup de poing pour le blesser."
-		],
+		"level1_boss_2": [],
 		"level1_boss_2_1": [
 			"Tu l'as fait ! Tu peux prendre la clef et venir ici pour me libérer."
 		],
@@ -7804,15 +7865,9 @@
 		"level1_boss_2_3": [
 			"Je me demande ce que ton frère faisait ici. Je ne l'avais pas vu depuis un certain temps, peut-être qu'il hibernait. Nous devrions le chercher à la Vallée des Neiges, c'est la prochaine destination à partir d'ici."
 		],
-		"level1_boss_3": [
-			"Fais aussi attention aux rochers qui tombent du plafond. Je crois en toi Baaren !"
-		],
-		"level1_boss_4": [
-			"Attention, il attaque !"
-		],
-		"level1_boss_5": [
-			"Tu l'as battu ! Bien joué ! Récupère la clef et viens me libérer."
-		],
+		"level1_boss_3": [],
+		"level1_boss_4": [],
+		"level1_boss_5": [],
 		"level1_boss__1": [],
 		"level1_boss__2": [],
 		"level1_boss__3": [],
@@ -7877,20 +7932,15 @@
 		"level1_turtle_7": [
 			"L'ermite parlait souvent d'une grotte sous-marine quelque part au fond du lac avant de se faire avoir par les abeilles..."
 		],
-		"level1_tutorial_0": [
-			"Appuie ici pour suivre le tutoriel du niveau"
-		],
+		"level1_tutorial_0": [],
 		"level1_tutorial_1": [
-			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages.",
-			"Avant de sauver des ours, nous devons ouvrir la porte à pièces. Nous avons besoin de ramasser 60 pièces pour l'ouvrir."
+			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages."
 		],
 		"level1_tutorial_2": [
-			"Dès que nous aurons libéré assez de nos amis, nous seront en mesure d'ouvrir cette grille.",
-			"Une fois la porte à pièces ouverte, elle le restera quand nous visiterons le niveau à nouveau et ces pierres seront remplacées par des ours à sauver."
+			"Dès que nous aurons libéré assez de nos amis, nous seront en mesure d'ouvrir cette grille."
 		],
 		"level1_tutorial_3": [
-			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau.",
-			"Les pièces et les ennemis réapparaîtront à chaque fois que nous quitterons un niveau."
+			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau."
 		],
 		"level2_boss_1": [
 			"Voici le fameux Yéti. Évitons ses attaques pour le moment. Attends qu'il s'épuise avant d'attaquer."
@@ -7961,9 +8011,7 @@
 		"level2_start_cutscene_4": [
 			"On raconte que d'étanges cris viennent de cette direction la nuit."
 		],
-		"level3_boss_1": [
-			"Baaren ! Tu as réussi à venir jusqu’ici ! Fais attention à là où tu marches, cette salle est pleine de choses anciennes et dangereuses."
-		],
+		"level3_boss_1": [],
 		"level3_boss_1_1": [
 			"Baaren ! Tu as réussi à venir jusqu’ici ! Je suis heureux de te voir ! Fais attention à là où tu marches, ce tombeau est probablement plein de dangereux pièges."
 		],
@@ -7976,18 +8024,14 @@
 		"level3_boss_1_4": [
 			"S'il te plaît, trouve un moyen de me faire sortir d'ici pour que nous puissions rentrer chez nous !"
 		],
-		"level3_boss_2": [
-			"Les abeilles ont manigancé des choses étranges avec des vieilles reliques. Je crois que la reine essaye de devenir plus puissante."
-		],
+		"level3_boss_2": [],
 		"level3_boss_2_1": [
 			"Ouf, c'était terrifiant. Le Kernel n'est pas ici, les abeilles ont dû le voler avant que l'on arrive ici."
 		],
 		"level3_boss_2_2": [
 			"Le scientifique au Village Ours sait probablement quelque chose sur cet artefact."
 		],
-		"level3_boss_3": [
-			"Allez, trouve le moyen de venir jusqu’ici et rentrons chez nous."
-		],
+		"level3_boss_3": [],
 		"level3_crocodile_1": [
 			"Nos amis contaminés par le miel violet sont revenus à leur instinct primaire, ils chassent dans l’eau. Fais attention."
 		],
@@ -8045,9 +8089,7 @@
 		"level3_sign_3": [
 			"INTERDIT AU PUBLIC//DÉFENSE D'ENTRER"
 		],
-		"level4_boss_1": [
-			"Je ta-ta-t'attendais, petit ours, depuis que tu as mis les pieds dans cette maison..."
-		],
+		"level4_boss_1": [],
 		"level4_boss_1_1": [
 			"Je ta-ta-t'attendais, petit ours, je n'ai fait que t'observer depuis que tu as mis les pieds dans cette maison..."
 		],
@@ -8063,9 +8105,7 @@
 		"level4_boss_1_5": [
 			"Tu es si mi-mi-minuscule, petit ours, je peux fa-fa-facilement t'écraser !"
 		],
-		"level4_boss_2": [
-			"Tu as l'air su-su-surpris. Ton ami le scientifique à oublié de te parler de moi ? APRÈS TOUT CE QU'IL M'A F-F-FAIT ?!"
-		],
+		"level4_boss_2": [],
 		"level4_boss_2_1": [
 			"Merci beaucoup de t'être occupé de lui, il était dangereux et imprévisible... hum... contrairement à moi, pas vrai ?"
 		],
@@ -8076,20 +8116,12 @@
 			"Je n'ai pas vu son visage mais c'était un ours. Je ne suis pas sûr que les abeilles soient derrière toute cette folie. Je pense que quelqu'un les a piégées."
 		],
 		"level4_boss_2_4": [
-			"Tu devrais aller à la ruche, je suis sûr que la vérité nous y attend."
+			"Tu devrais aller à la Ruche, je suis sûr que la vérité nous y attend."
 		],
-		"level4_boss_3": [
-			"Il m'a rendu conscient et intelligent avec toutes ses expériences mais il n'a jamais voulu m-m-me libérer, j'étais son préféré."
-		],
-		"level4_boss_4": [
-			"Les abeilles m'ont rendu gé-gé-géant pour que je puisse empêcher les bébés de se faire sauver. Tu pensais que j'avais verrouillé la trappe du sous-sol pour me ca-ca-cacher ? C'était un piège et tu es tombé en plein de-de-dedans !"
-		],
-		"level4_boss_5": [
-			"Tu es la dernière chose qui m'empêchait de partir de ce-ce-cette maison et maintenant que tu es minuscule, je peux fa-fa-facilement t'écraser !"
-		],
-		"level4_boss_6": [
-			"Adieu, Baaren."
-		],
+		"level4_boss_3": [],
+		"level4_boss_4": [],
+		"level4_boss_5": [],
+		"level4_boss_6": [],
 		"level4_crogo_1": [
 			"Hé salut petit. Mon nom à moi c'est Crogo le crocodile. Crogo n'a jamais vu d'ours si petit ! Peut-être que tu pourrais aider Crogo."
 		],
@@ -8160,7 +8192,7 @@
 			"Les cœurs réapparaissent après 30 secondes."
 		],
 		"loading_2": [
-			"Le jeu est toujours en version bêta donc si tu trouves un bogue, merci de le signaler sur le serveur Discord."
+			"S tu trouves un bogue, merci de le signaler sur le serveur Discord."
 		],
 		"loading_3": [
 			"Tu dois déverrouiller la porte à pièces du niveau avant de pouvoir sauver les ours."
@@ -8376,7 +8408,7 @@
 			"Je pense que je peux le pousser de cette plateforme !"
 		],
 		"shicka_0_4": [
-			"Nous avons besoin de 60 pièces pour ouvrir la porte à pièces."
+			"Nous avons besoin de sauver 3 ours pour ouvrir le portail à ours."
 		],
 		"shicka_1_1": [
 			"Tu devrais essayer d'utiliser ton attaque sur ce levier."
@@ -8799,12 +8831,8 @@
 		"ui_life": [
 			"Vie"
 		],
-		"ui_light_probes": [
-			"Light probes"
-		],
-		"ui_lightmaps": [
-			"Lightmaps"
-		],
+		"ui_light_probes": [],
+		"ui_lightmaps": [],
 		"ui_load": [
 			"Charger"
 		],
@@ -8981,7 +9009,6 @@
 		"action_brake": [
 			"Rem (kendaraan)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Sorot kamera ke tengah"
 		],
@@ -9028,6 +9055,11 @@
 		"arcade_intro_3": [
 			"Jika kamu ingin mempelajari peraturan permainan, jalan ke tombol ini."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Tombol alternatif 1"
 		],
@@ -9131,6 +9163,7 @@
 		"char_turtle": [
 			"Penyu"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -9234,6 +9267,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -9337,9 +9371,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -10576,7 +10613,6 @@
 	"it": {
 		"action_attack": [],
 		"action_brake": [],
-		"action_break": [],
 		"action_center_camera": [],
 		"action_gas": [],
 		"action_jump": [],
@@ -10615,6 +10651,11 @@
 		"arcade_intro_3": [
 			"Per leggere le regole dei vari giochi, cammina su questi pulsanti."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [],
 		"binding_alt_2": [],
 		"binding_axis": [],
@@ -10706,6 +10747,7 @@
 		"char_turtle": [
 			"Tartaruga"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -10809,6 +10851,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -10912,9 +10955,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -12129,7 +12175,6 @@
 	"ja": {
 		"action_attack": [],
 		"action_brake": [],
-		"action_break": [],
 		"action_center_camera": [],
 		"action_gas": [],
 		"action_jump": [],
@@ -12166,6 +12211,11 @@
 		"arcade_intro_3": [
 			"ゲームのルールを知りたい時は、 ”？”のボタンの上を歩いてください。"
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [],
 		"binding_alt_2": [],
 		"binding_axis": [],
@@ -12257,6 +12307,7 @@
 		"char_turtle": [
 			"タートル"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -12360,6 +12411,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -12463,9 +12515,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -13686,7 +13741,6 @@
 		"action_brake": [
 			"Rem (voertuig"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Center camera"
 		],
@@ -13731,6 +13785,11 @@
 		"arcade_intro_3": [
 			"Als je de regels wilt horen moet je op deze drukplaten staan."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Alt knop 1"
 		],
@@ -13834,6 +13893,7 @@
 		"char_turtle": [
 			"Schildpad"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -13937,6 +13997,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -14040,9 +14101,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -15280,8 +15344,7 @@
 		"action_attack": [
 			"Atak"
 		],
-		"action_brake": [],
-		"action_break": [
+		"action_brake": [
 			"Hamulec (pojazd)"
 		],
 		"action_center_camera": [
@@ -15328,6 +15391,11 @@
 		"arcade_intro_3": [
 			"Jeśli chcesz poznać zasady gry, wejdź na te przyciski"
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Alt, przycisk 1"
 		],
@@ -15361,9 +15429,7 @@
 		"boss_yeti": [
 			"Yeti"
 		],
-		"brother": [
-			"Brat Baarena"
-		],
+		"brother": [],
 		"cage_help": [],
 		"char_baaren": [
 			"Baaren"
@@ -15390,7 +15456,7 @@
 			"Bob"
 		],
 		"char_bear_08": [
-			"Madeline"
+			"Magdalena"
 		],
 		"char_bear_09": [
 			"Polaris"
@@ -15408,7 +15474,7 @@
 			"Alix"
 		],
 		"char_bear_14": [
-			"Władimir"
+			"Vladimir"
 		],
 		"char_bear_15": [
 			"Skia"
@@ -15447,7 +15513,7 @@
 			"Bójka"
 		],
 		"char_bear_27": [
-			"Józek"
+			"Joseph"
 		],
 		"char_bear_28": [
 			"Toast"
@@ -15465,7 +15531,7 @@
 			"Felix"
 		],
 		"char_bee": [
-			"Bee"
+			"Pszczoła"
 		],
 		"char_brother": [
 			"Brat Baarena"
@@ -15495,7 +15561,7 @@
 			"Pingwin"
 		],
 		"char_queen": [
-			"Queen Beeatrice"
+			"Królowa Beetrycja"
 		],
 		"char_reindeer": [
 			"Renifer"
@@ -15514,6 +15580,9 @@
 		],
 		"char_turtle": [
 			"Żółw"
+		],
+		"cosmetic _102": [
+			"Szlak dusz"
 		],
 		"cosmetic_001": [
 			"Maska bandyty"
@@ -15534,7 +15603,7 @@
 			"Fez"
 		],
 		"cosmetic_007": [
-			"Crown"
+			"Korona"
 		],
 		"cosmetic_008": [
 			"Białe oczy"
@@ -15768,7 +15837,7 @@
 			"Głowa bobble"
 		],
 		"cosmetic_085": [
-			"Bobble Shicka"
+			"Shicka Bobble"
 		],
 		"cosmetic_086": [
 			"Brytyjski kapelusz"
@@ -15795,7 +15864,7 @@
 			"Kosmiczna Shicka"
 		],
 		"cosmetic_094": [
-			"JATOMIŚ"
+			"IMABEAR"
 		],
 		"cosmetic_095": [
 			"Szalik (czerwony)"
@@ -15810,55 +15879,34 @@
 			"Skorupa żółwia"
 		],
 		"cosmetic_099": [],
-		"cosmetic_100": [],
-		"cosmetic_101": [],
+		"cosmetic_100": [
+			"Mały niedźwiedź"
+		],
+		"cosmetic_101": [
+			"Fioletowy niedźwiedź"
+		],
 		"cosmetic_102": [],
-		"cosmetic_default": [],
-		"crocodile": [
-			"Krokodyl"
+		"cosmetic_default": [
+			"domyślny"
 		],
-		"fennec": [
-			"Fenek"
+		"cosmstic_099": [
+			"Kupa piasku"
 		],
-		"final_boss_1_1": [
-			"Czekałem na ciebie... Baaren. Co za piękne miejsce na spotkanie się ponownie."
-		],
-		"final_boss_1_2": [
-			"Uwolniłeś te niedźwiedzie tylko po to, aby unicestwić moje wysiłki. Jeśli niedźwiedzie kontrolują wszystko, mielibyśmy wszystko, czego moglibyśmy pragnąć. Zniewolenie innych zwierząt dla naszej korzyści dałoby niedźwiedziom z powrotem ich moc yore."
-		],
-		"final_boss_1_3": [
-			"Niestety, moi ludzie wolą spokój. Żyć z równych sobie z innymi zwierzętami. To żałosne, jaki brak ambicji. Nawet ty, mój bracie, zdradziłeś mnie."
-		],
-		"final_boss_1_4": [
-			"Prawdziwa królowa czeka tu spokojnie, a ja udaję ją za pomocą mocy artefaktu. Teraz, gdy tu jesteś, mogę zmiażdżyć twój bunt..."
-		],
-		"final_boss_1_5": [
-			"Wymyśliłem, jak wykorzystać artefakt do jego pełnego potencjału, teraz nie ma już potrzeby tego fioletowego miodu. Mogę kontrolować ducha tego, kogo chcę, nawet niedźwiedzi."
-		],
-		"final_boss_1_6": [
-			"Chciałem z tobą podbić to królestwo. Z poważaniem Baaren, myślałem, że możemy być blisko siebie."
-		],
-		"final_boss_1_7": [
-			"Odrzuciłeś moją ofertę. Nie zostawiasz mi wyboru, jak tylko skonfiskować swoją wolną wolę. Niestety Baaren."
-		],
-		"final_boss_2_1": [
-			"WYSTARCZY! Nie możesz uciekać od swojego przeznaczenia bez końca! Nadszedł czas, aby przejść do poważnych rzeczy!"
-		],
-		"final_boss_2_2": [
-			"Ja... Jak... To jest możliwe?!"
-		],
-		"final_boss_2_3": [
-			"Moc artefaktu nie wydaje się dotrzeć do plecakowicza jak ty... To czyni cię silniejszym! To nie wystarczy, aby mnie pokonać. Przygotuj się na cierpienie!"
-		],
-		"final_boss_3_1": [
-			"Baaren! Uratowałeś mnie! Teraz, gdy twój brat nie kontroluje już Ulu, będę mogła przestać produkować fioletowy miód."
-		],
-		"final_boss_3_2": [
-			"Shicka powinna wrócić do normy za kilka godzin. Wszystko wróci do normy!"
-		],
-		"final_boss_3_3": [
-			"Ale... Gdzie jest artefakt?"
-		],
+		"crocodile": [],
+		"fennec": [],
+		"final_boss_1_1": [],
+		"final_boss_1_2": [],
+		"final_boss_1_3": [],
+		"final_boss_1_4": [],
+		"final_boss_1_5": [],
+		"final_boss_1_6": [],
+		"final_boss_1_7": [],
+		"final_boss_2_1": [],
+		"final_boss_2_2": [],
+		"final_boss_2_3": [],
+		"final_boss_3_1": [],
+		"final_boss_3_2": [],
+		"final_boss_3_3": [],
 		"help_birds": [
 			"Wyłączenie ptaków poprawia wydajność"
 		],
@@ -15905,71 +15953,96 @@
 			"Wyświetlaj timer (przydatny do speedrunów)"
 		],
 		"hive_boss_1_1": [
-			"I was waiting for you... Baaren. What a beautiful place to meet again."
+			"Czekałem na ciebie... Baaren. Cóż za piękne miejsce na spotkanie znów."
 		],
 		"hive_boss_1_2": [
-			"You freed those bears just to annihilate my efforts. If the bears controlled the kingdom, we would have everything we desire. We could reclaim the power we once had."
+			"Uratowałeś te niedźwiedzie tylko dlatego żeby zniszczyć moje starania. Jeśli niedźwiedzie by panowały nad królestwem, mogli byśmy mieć wszystko czego pragniemy. Moglibyśmy odzyskać moc, którą kiedyś mieliśmy."
 		],
 		"hive_boss_1_3": [
-			"Unfortunately, my fellow bears prefer peace and want to live with other animals as equals. This is pathetic, what a lack of ambitions. Even you, my own brother, betrayed me."
+			"Niestety, moje niedźwiedzie preferują pokój i chcą żyć z innymi zwierzętami w równi. To żałosne, co za brak ambicji. Nawet ty, mój własny brat, zdradził mnie."
 		],
 		"hive_boss_1_4": [
-			"The Kernel is quite wonderful, isn’t it? I used its powers to control Queen Beeatrice and take over the bees."
+			"Jądro jest nawet piękne, czyż nie? Użyłem go żeby kontrolować umysł Królowej Beeatrycji i pszczół."
 		],
 		"hive_boss_1_5": [
-			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion…"
+			"Kontynuowałem swoje eksperymenty z magicznym artefaktem i teraz rozumiem to bardziej niż ktokolwiek. Teraz mogę kontrolować umysły niedźwiedzi! Teraz jak tu jesteś, to mogę zmiażdżyć twój bunt…"
 		],
 		"hive_boss_1_6": [
-			"Don’t move, it won’t hurt. Probably."
+			"Nie ruszaj się, nie będzie bolało. Prawdopodobnie."
 		],
 		"hive_boss_1_7": [
-			"Wow, that was close!"
+			"Wow, było blisko!"
 		],
 		"hive_boss_1_8": [
-			"Nice reflexes brother! Looks like I won’t be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
+			"Nie zły refleks bracie! Wygląda na to że nie tknę cię tym laserem, ale może Królowa Beetrycja we własnej osobie może cię uspokoić."
 		],
 		"hive_boss_2_1": [
-			"You can't escape anymore!"
+			"Nie możesz już więcej uciekać!"
 		],
 		"hive_boss_2_2": [
-			"The spell wasn't calibrated for a Backpacker! Oh no... no no NO! It went so wrong!"
+			"Zaklęcie nie zostało skalibrowane dla Plecakowicza! O nie... nie nie NIE. To wyszło tak źle!"
 		],
 		"hive_boss_3_1": [
-			"Okay Shicka, it's time to fight the real me!"
+			"Okej Shicka, nadszedł czas żeby zawalczyć z prawdziwym mną!"
 		],
 		"hive_ending_1": [
-			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
+			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro… działo na mój umysł."
 		],
 		"hive_ending_2": [
-			"From the looks of thingszz, the Kernel exploded when hitting the hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
+			"Z wyglądu rzeczy, Jądro eksplodowało, uderzając w Ul w drodze w dół... W jakiś sposób zostaliśmy tu przetelepotowani, lecz twój brat pewnie skończył gdzieś indziej."
 		],
 		"hive_ending_3": [
-			"The hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
+			"Ula już nie ma, ale teraz jestem już wolna, zamknę fabrykę fioletowego miodu i przywrócę pokój królestwu."
 		],
 		"hive_ending_4": [
-			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Dzzziękuję zza uratowanie mnie Baaren. Dzzziękuję zzza uratowanie wszzystkich. Zbierzmy się w Niedźwiedziej Wiosce, czyż nie?"
 		],
 		"hive_maybee": [
-			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
+			"Niedźwiedzie są okropne ale maybee mogę z ciebie skorzystać. Jestem beesy robię beesiness."
 		],
 		"hive_shop": [
-			"Sklep pamiątkowy Maybee"
+			"Sklep z pamiątkami Maybee"
 		],
-		"hive_task_boss": [],
-		"hive_task_gold": [],
-		"hive_task_level": [],
-		"hub_bear_01": [],
-		"hub_bear_02": [],
-		"hub_bear_03": [],
-		"hub_bear_04": [],
-		"hub_bear_05": [],
-		"hub_bear_06": [],
-		"hub_bear_07": [],
-		"hub_bear_08": [],
-		"hub_bear_09": [],
-		"hub_bear_1": [
-			"Dziękuje za uratowanie mnie z jaskiń!"
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
+		"hive_task_boss": [
+			"Uratuj Królestwo"
 		],
+		"hive_task_gold": [
+			"Pobij wszystkie złote czasy"
+		],
+		"hive_task_level": [
+			"Uratuj 8 niedźwiedzi w {0}"
+		],
+		"hive_task_unlock": [],
+		"hub_bear_01": [
+			"Dziękuję za uratowanie mnie z jaskini golema!"
+		],
+		"hub_bear_02": [
+			"Spójrz na kamienną platformę za mną, możesz tam iść zmienić kostium."
+		],
+		"hub_bear_03": [
+			"Zastanawia mnie to gdzie jest prawdziwa Królowa Pszczół..."
+		],
+		"hub_bear_04": [
+			"Musiało ci to zająć dużo czasu, aby znaleźć wszystkie monety w Turtletown!"
+		],
+		"hub_bear_05": [
+			"Poświęcenie się jest warunkiem cnoty."
+		],
+		"hub_bear_06": [
+			"Udało Ci się zachować równowagę na tych rotacyjnych hplatformach, masz dużo talentu!"
+		],
+		"hub_bear_07": [
+			"Jesteś moim bohaterem Baaren, bez ciebie nadal byłbym w klatce..."
+		],
+		"hub_bear_08": [
+			"Pszczoły ukryły mnie w tym kącie nad rzeką, na szczęście mnie znalazłeś..."
+		],
+		"hub_bear_09": [
+			"Dobra robota, pokonałeś ogromnego Yeti! Dziękuję Ci!"
+		],
+		"hub_bear_1": [],
 		"hub_bear_10": [
 			"Widziałem całą dolinę z mojej klatki na szczycie góry."
 		],
@@ -16000,9 +16073,7 @@
 		"hub_bear_19": [
 			"Nasi dalsi przodkowie byli obrońcami tej pustyni, ale wróciliśmy w to miejsce przez kilka pokoleń."
 		],
-		"hub_bear_2": [
-			"Spójrz na kamienną platformę za mną, możesz tam pójść, aby zmienić swój kostium."
-		],
+		"hub_bear_2": [],
 		"hub_bear_20": [
 			"Musisz znać pustynie jak z tyłu ręki teraz, że znalazłeś wszystkie monety!"
 		],
@@ -16018,188 +16089,138 @@
 		"hub_bear_24": [
 			"Budowa muru była prawdopodobnie ogromną pracą, pszczoły muszą mieć ważny powód do jej budowy."
 		],
-		"hub_bear_25": [],
-		"hub_bear_26": [],
-		"hub_bear_27": [],
-		"hub_bear_28": [],
-		"hub_bear_29": [],
-		"hub_bear_3": [
-			"Zastanawiam się gdzie jest prawdziwa królowa pszczół..."
+		"hub_bear_25": [
+			"*szczęśliwe odgłosy bobasa*"
 		],
-		"hub_bear_30": [],
-		"hub_bear_31": [],
-		"hub_bear_32": [],
-		"hub_bear_4": [
-			"Musisz mieć dużo czasu, aby znaleźć wszystkie monety w Żółwiej Wiosce!"
+		"hub_bear_26": [
+			"*zmęczone odgłosy bobasa*"
 		],
-		"hub_bear_5": [
-			"Poświęcenie się jest warunkiem cnoty."
+		"hub_bear_27": [
+			"*wściekłe odgłosy bobasa*"
 		],
-		"hub_bear_6": [
-			"Udało ci się utrzymać równowagę na tych obrotowych platformach, masz duży talent!"
+		"hub_bear_28": [
+			"Trzecia zasada dynamiki Newtona wydaje się nie mieć zastosowania na tym świecie."
 		],
-		"hub_bear_7": [
-			"Jesteś moim bohaterem Baaren, bez ciebie nadal byłbym w klatce..."
+		"hub_bear_29": [
+			"*zmieszany wzrok*"
 		],
-		"hub_bear_8": [
-			"Pszczoły ukryły mnie w tym zakątku na dnie rzeki, dobrze że mnie zobaczyłeś..."
+		"hub_bear_3": [],
+		"hub_bear_30": [
+			"Ababaka!"
 		],
-		"hub_bear_9": [
-			"Dobra robota, pokonałeś ogromnego Yeti! Dziękuję!"
+		"hub_bear_31": [
+			"*bąk*"
 		],
-		"hub_capitalos": [
-			"Witajjj! To ja, Capitalooos, brat Capitalusa! Jeśli wspierasz twórcę tej grrry, otrzymasz bardzo specjalne prezeeentyy!"
+		"hub_bear_32": [
+			"Ja niedźwiedź."
 		],
-		"hub_capitalus": [
-			"Witajjj! To ja, Capitaluuus! Jeśli zaakceptujesz oglądanie reklam, dam ci prezeeeentyy!"
-		],
-		"hub_level4_intro_1": [
-			"Hej Baaren, tu jesteś! Hmm, myślę, że zasługujesz na wyjaśnienie wszystkiego, co się dzieje. 8 lat temu poszedłem do piramidy pustyni na Beemothep i pożyczyłem artefakt na moje badania."
-		],
-		"hub_level4_intro_2": [
-			"Dowiedziałem się, że ma dwie główne właściwości: kontrolę umysłu i manipulację rozmiarami. Po mnóstwie pracy, udało mi się stworzyć to wspaniałe urządzenie: MASZYNĘ ZMNIEJSZAJĄCĄ!"
-		],
-		"hub_level4_intro_3": [
-			"Ja również eksperymentowałem na części kontroli umysłu i wszystko poszło ... heh heh... trochę źle, jak sądzę. Jak widać, ktoś dowiedział się o moich studiach, ukradł artefakt i użył go do stworzenia Purpurowego Miodu."
-		],
-		"hub_level4_intro_4": [
-			"W każdym razie pszczoły nie wiedziały, co zrobić z niedźwiedziami, więc zmniejszyły je i ukryły w tym domu."
-		],
-		"hub_level4_intro_5": [
-			"Dobrze, więc wszystko jest związane z tym artefaktem, niektóre Fenki są na pustyni powiedziały nam o tym. Musimy zabrać artefakt z powrotem od Królowej Pszczół! Ale najpierw ratujmy te biedne dzieci!"
-		],
-		"hub_level4_intro_6": [
-			"Są zbyt małe, więc nie mogę otworzyć klatki samodzielnie i dom jest zarażony szczurami. Hmm, naprawdę nie chcę tam wejść... Ale jeśli chcesz je uratować, mogę ci w tym pomóc!"
-		],
-		"hub_scientist": [
-			"Nie martw się, kurczenie się maszyny jest bardzo prawdopodobne, powinieno być bezpieczne."
-		],
-		"hub_sign_1": [
-			"Witamy w centrum! Wejdź na niebieskie koła, aby wejść na poziom."
-		],
-		"hub_tristopio": [
-			"Witam! Szukasz fajnej misji? Myślę, że mam to, czego potrzebujesz!"
-		],
-		"intro_1": [
-			"W tym świecie zwierzęta żyły we wspólnocie. Pszczoły, niedźwiedzie, żółwie, króliki, były w pokoju."
-		],
-		"intro_10": [
-			"Ty, Baaren. Jesteś jedyną osobą, która może nam pomóc!"
-		],
-		"intro_11": [
-			"Znajdź Shicke i leć uratować wszystkie niedźwiedzie uwięzione przez pszczoły!"
-		],
-		"intro_12": [
-			"Los królestwa spoczywa w twoich rękach. Możesz to zrobić!"
-		],
+		"hub_bear_4": [],
+		"hub_bear_5": [],
+		"hub_bear_6": [],
+		"hub_bear_7": [],
+		"hub_bear_8": [],
+		"hub_bear_9": [],
+		"hub_capitalos": [],
+		"hub_capitalus": [],
+		"hub_level4_intro_1": [],
+		"hub_level4_intro_2": [],
+		"hub_level4_intro_3": [],
+		"hub_level4_intro_4": [],
+		"hub_level4_intro_5": [],
+		"hub_level4_intro_6": [],
+		"hub_scientist": [],
+		"hub_sign_1": [],
+		"hub_tristopio": [],
+		"intro_1": [],
+		"intro_10": [],
+		"intro_11": [],
+		"intro_12": [],
 		"intro_1_1": [
-			"For centuries, there existed a kingdom where creatures lived in peace under the ruling of the Bee dynasty."
+			"Przez wieki istniało królestwo, w którym istoty żyły w pokoju pod rządami dynastii pszczół."
 		],
 		"intro_1_2": [
-			"Queen Beeatrice, the bee queen, was a beloved ruler, she was fair and appreciated by all. The balance between all creatures was perfect."
+			"Królowa Beetrycja, królowa pszczół, była ukochaną władczynią, była sprawiedliwa i ceniona przez wszystkich. Równowaga między wszystkimi stworzeniami była idealna."
 		],
 		"intro_1_3": [
-			"Until..."
+			"Do czasu..."
 		],
-		"intro_2": [
-			"Królowa Pszczół panowała nad królestwem. Była uczciwa i doceniana przez wszystkich."
-		],
+		"intro_2": [],
 		"intro_2_1": [
-			"… the bees started producing a different kind of honey in the hive. Shortly after, this new flavor and this purple color were beloved by everybody."
+			"… pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
 		],
 		"intro_2_2": [
-			"Unfortunately, creatures that consumed it soon began to turn crazy and attack their friends like mindless animals."
+			"Niestety istoty, które go pochłonęły, wkrótce zaczęły szaleć i atakować swoich przyjaciół jak dzikie zwierzęta."
 		],
 		"intro_2_3": [
-			"Nobody knows why the bees started to wreak havoc upon their own kingdom, and its inhabitants were too weak to fight back."
+			"Nikt nie wie, dlaczego pszczoły zaczęły siać spustoszenie we własnym królestwie, a jego mieszkańcy byli zbyt słabi, by walczyć."
 		],
-		"intro_3": [
-			"Ta równowaga była idealna, aż do dnia, w którym przybył..."
-		],
+		"intro_3": [],
 		"intro_3_1": [
-			"Before long, the bees realized that bears were mysteriously unaffected by the purple honey."
+			"Wkrótce pszczoły zdały sobie sprawę, że fioletowy miód w tajemniczy sposób nie wpłynął na niedźwiedzie."
 		],
 		"intro_3_2": [
-			"This resistance caused their loss: the bees raided the Bear Village and imprisoned them to prevent any revolt."
+			"Ten opór spowodował ich utratę: pszczoły najechały na Wioskę Niedźwiedzi i uwięziły je, aby zapobiec powstaniu."
 		],
-		"intro_4": [
-			"Porwał królową i podszył się pod nią, aby ugasić pragnienie władzy."
-		],
+		"intro_4": [],
 		"intro_4_1": [
-			"Luckily, one bear managed to avoid the attack. But now, the fate of the people is on his shoulders."
+			"Na szczęście jednemu niedźwiedziowi udało się uniknąć ataku. Ale teraz los ludzi leży na jego barkach."
 		],
 		"intro_4_2": [
-			"The world needs a hero. Someone to restore the balance, someone to end this purple doom."
+			"Świat potrzebuje bohatera. Kogoś, kto przywróci równowagę, kogoś, kto zakończy tę fioletową zagładę."
 		],
 		"intro_4_3": [
-			"Will you save us, Baaren?"
+			"Uratujesz nas, Baaren?"
 		],
-		"intro_5": [
-			"Nakazał pszczołom zrobić swój przepis fioletowy miód i rozłożyć go w całym królestwie."
-		],
-		"intro_6": [
-			"Ten fioletowy miód spowodował, że zwierzęta, które spożywały go, były agresywne i złośliwe."
-		],
-		"intro_7": [
-			"Pszczoły szybko zdały sobie sprawę, że niedźwiedzie nie zostały dotknięte Fioletowym Miodem."
-		],
-		"intro_8": [
-			"Ta zdolność spowodowała ich utratę: pszczoły uwięziły niedźwiedzie w klatkach, aby uniknąć buntów przeciwko królowej."
-		],
-		"intro_9": [
-			"Świat potrzebuje bohatera bardziej niż kiedykolwiek."
-		],
-		"level1_boss_1": [
-			"Baaren! Przyszłeś mnie uratować! Uważaj, Żółwi Golem jest bardzo niebezpieczny!"
-		],
+		"intro_5": [],
+		"intro_6": [],
+		"intro_7": [],
+		"intro_8": [],
+		"intro_9": [],
+		"level1_boss_1": [],
 		"level1_boss_1_1": [
-			"Baaren! You came to save me! Be careful, the Turtle Golem is very dangerous!"
+			"Baaren! Przyszedłeś mnie uratować! Uważaj, Żółwi Golem jest bardzo niebezpieczny!"
 		],
 		"level1_boss_1_2": [
-			"When it charges you, avoid its attacks and wait until it's exhausted before fighting back."
+			"Kiedy na ciebie szarżuje, unikaj jego ataków i poczekaj, aż się wyczerpie, zanim zaczniesz z nim walczyć."
 		],
 		"level1_boss_1_3": [
-			"Also, pay attention to rocks falling from the ceiling! I believe in you, Baaren!"
+			"Zwróć też uwagę na kamienie spadające z sufitu! Wierzę w ciebie, Baaren!"
 		],
 		"level1_boss_1_4": [
-			"Watch out, it's attacking you!!!"
+			"Uważaj, atakuje cię!!!"
 		],
-		"level1_boss_2": [
-			"Kiedy ładuje się, zaczekaj aż się wyczerpie. Kiedy jest oszołomiony, uderz go, aby zadać obrażenia."
-		],
+		"level1_boss_2": [],
 		"level1_boss_2_1": [
-			"You did it, great job! You can take the key and come here to free me."
+			"Udało ci się, dobra robota! Możesz wziąć klucz i przyjść tutaj, żeby mnie uwolnić."
 		],
 		"level1_boss_2_2": [
-			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you find him."
+			"Nawiasem mówiąc, widziałem tu dzisiaj twojego brata, nie wyglądał za dobrze. Mam nadzieję, że go znajdziesz."
 		],
 		"level1_boss_2_3": [
-			"I wonder what your brother was doing here. I haven’t seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it’s the next destination from here."
+			"Zastanawiam się, co tu robił twój brat. Dawno go nie widziałem, może hibernował. Powinniśmy go szukać w Śnieżnej Dolinie, to kolejny cel podróży stąd."
 		],
-		"level1_boss_3": [
-			"Również zwróć uwagę na skały spadające z sufitu! Wierzę w ciebie, Baaren!"
-		],
-		"level1_boss_4": [
-			"Uważaj na ataki"
-		],
-		"level1_boss_5": [
-			"Pokonałeś to coś! Dobra robota! Weź klucz i przyjdź tutaj, aby mnie uwolnić!"
-		],
+		"level1_boss_3": [],
+		"level1_boss_4": [],
+		"level1_boss_5": [],
 		"level1_boss__1": [],
 		"level1_boss__2": [],
 		"level1_boss__3": [],
 		"level1_boss__4": [],
 		"level1_boss__5": [],
-		"level1_intro_1": [],
-		"level1_intro_2": [],
-		"level1_intro_3": [],
-		"level1_intro_4": [],
-		"level1_sign_1": [
-			"Witaj w Żółwiej Wiosce!"
+		"level1_intro_1": [
+			"Turtletown było cudownym miejscem przed ostatnimi wydarzeniami."
 		],
-		"level1_sign_2": [
-			"Dźwignia ta zamyka ścieżkę."
+		"level1_intro_2": [
+			"Spróbuj porozmawiać z żółwiami, aby zebrać informacje o wiosce."
 		],
+		"level1_intro_3": [
+			"Niektóre żółwie zostały zakażone fioletowym miodem, uważaj na nie!"
+		],
+		"level1_intro_4": [
+			"W pobliżu tej studni słychać było podejrzane odgłosy, powinniśmy to sprawdzić."
+		],
+		"level1_sign_1": [],
+		"level1_sign_2": [],
 		"level1_sign_3": [
 			"Dom Pustelnika"
 		],
@@ -16213,23 +16234,13 @@
 			"Musisz znaleźć co najmniej 125 monet na 150 w tym poziomie, aby otworzyć tę klatkę."
 		],
 		"level1_stair_cutscene_1": [
-			"Żółwie zablokowały drogę do górnej części wioski, aby odizolować zanieczyszczone żółwie."
+			"Żółwie zablokowały drogę do górnej części wioski, aby odizolować skażone żółwie."
 		],
-		"level1_stair_cutscene_2": [
-			"Użyj ataku na tę dźwignię, aby ponownie otworzyć ścieżkę i zbadać resztę wioski."
-		],
-		"level1_start_cutscene_1": [
-			"Żółwia Wioska była pięknym miejscem przed ostatnimi wydarzeniami."
-		],
-		"level1_start_cutscene_2": [
-			"Spróbuj porozmawiać z żółwiami, aby zebrać informacje o wiosce."
-		],
-		"level1_start_cutscene_3": [
-			"Niektóre żółwie zostały zakażone fioletowym miodem, uważaj na nie!"
-		],
-		"level1_start_cutscene_4": [
-			"W pobliżu tej studni słychać było podejrzane odgłosy, powinniśmy to sprawdzić."
-		],
+		"level1_stair_cutscene_2": [],
+		"level1_start_cutscene_1": [],
+		"level1_start_cutscene_2": [],
+		"level1_start_cutscene_3": [],
+		"level1_start_cutscene_4": [],
 		"level1_turtle_1": [
 			"Mieszkańcy wsi boją się, musicie nam pomóc!"
 		],
@@ -16251,35 +16262,30 @@
 		"level1_turtle_7": [
 			"Pustelnik opowiadał historie o podwodnej jaskini gdzieś w jeziorze, zanim został zabrany przez pszczoły..."
 		],
-		"level1_tutorial_0": [
-			"Dotknij tutaj żeby pokazać samouczek"
-		],
+		"level1_tutorial_0": [],
 		"level1_tutorial_1": [
-			"Przed uratowaniem niedźwiedzia musimy otworzyć drzwi monetowe. Musimy zebrać 60 monet, aby je otworzyć.",
-			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
+			"Są tu klatki z niedźwiedziami porozrzucane w pobliżu. Każda klatka ma własny więc musimy najpierw je znaleźć. Powinny być w pobliżu klatek ."
 		],
 		"level1_tutorial_2": [
-			"Po otwarciu drzwi monetowych, pozostaną otwarte następnym razem odwiedzamy poziom i te kamienie powinny być zastąpione przez niedźwiedzie, aby zapisać.",
-			"Once we free enough of our friends, we will be able to open this gate."
+			"Pewnego razu uratujemy wystarczająco naszych przyjaciół, żeby otworzyć tę bramę."
 		],
 		"level1_tutorial_3": [
-			"Monety i wrogowie pojawią się ponownie za każdym razem, gdy wyjdziemy z poziomu.",
-			"Also, note that coins will reappear each time we leave the level."
+			"Także zapamiętaj, że monety pojawią się z powrotem za każdym razem kiedy wyjdziemy z poziomu."
 		],
 		"level2_boss_1": [
 			"Oto słynny Yeti... Na razie unikajmy jego ataków. Poczekaj, aż się wyczerpie, zanim zaatakujemy."
 		],
 		"level2_boss_2": [
-			"Did you see that? There was someone over there! who was… purple."
+			"Widziałeś to? Ktoś tam był! kto był… fioletowy. Widziałeś to? Ktoś tam był! który był… fioletowy…"
 		],
 		"level2_boss_3": [
-			"Something doesn’t seem right about all this..."
+			"Coś w tym wszystkim wydaje się nie w porządku..."
 		],
 		"level2_boss_4": [
-			"Anyway, we should save this bear and then investigate the Beemothep Desert."
+			"W każdym razie powinniśmy uratować tego niedźwiedzia, a następnie zbadać Pustynię Beemothep."
 		],
 		"level2_boss_5": [
-			"The bee dynasty started there, maybe we can find answers in the Great Pyramid of Beemothep."
+			"Tam zaczęła się dynastia pszczół, być może znajdziemy odpowiedzi w Wielkiej Piramidzie Beemothep."
 		],
 		"level2_penguin_1": [
 			"Starsi z tej wioski mówią, że Yeti mieszka w okolicy..."
@@ -16335,33 +16341,27 @@
 		"level2_start_cutscene_4": [
 			"Mówi się, że okrzyki pochodzą z tego kierunku w nocy ..."
 		],
-		"level3_boss_1": [
-			"Baaren! Udało ci się tu dotrzeć! Zwróć uwagę na to, gdzie idziesz, ten pokój jest pełen starych i niebezpiecznych rzeczy."
-		],
+		"level3_boss_1": [],
 		"level3_boss_1_1": [
-			"Baaren! You managed to get here! I’m so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
+			"Baaren! Udało Ci się tu dotrzeć! Tak się cieszę, że Cię widzę! Zwróć uwagę na to, dokąd idziesz, ten grobowiec jest prawdopodobnie pełen niebezpiecznych pułapek."
 		],
 		"level3_boss_1_2": [
-			"This room is where the Kernel is said to be hidden. It’s a very old and powerful artifact."
+			"W tym pokoju podobno ukryte jest Jądro. To bardzo stary i potężny artefakt."
 		],
 		"level3_boss_1_3": [
-			"Bees are scheming strange things with the Kernel. I think it’s related to the purple honey."
+			"Pszczoły knują z Jądrem dziwne rzeczy. Myślę, że ma to związek z fioletowym miodem."
 		],
 		"level3_boss_1_4": [
-			"Please, find a way to get me out of here so we can go home!"
+			"Proszę, znajdź sposób, żeby mnie stąd wydostać, żebyśmy mogli wrócić do domu!"
 		],
-		"level3_boss_2": [
-			"Pszczoły mają zaprogramowane dziwne rzeczy ze starymi relikwiami. Myślę, że królowa stara się stać potężniejsza."
-		],
+		"level3_boss_2": [],
 		"level3_boss_2_1": [
-			"Oof, that was scary. The Kernel isn’t here, the bees must have stolen it before we got here."
+			"Uf, to było przerażające. Nie ma tu Jądra, pszczoły musiały je ukraść, zanim tu przybyliśmy."
 		],
 		"level3_boss_2_2": [
-			"The scientist at the Bear Village probably knows some stuff about this artifact."
+			"Naukowiec z Wioski Niedźwiedzi prawdopodobnie wie coś o tym artefakcie."
 		],
-		"level3_boss_3": [
-			"Chodź, znajdź sposób, aby się tu dostać, a następnie wracamy do domu!"
-		],
+		"level3_boss_3": [],
 		"level3_crocodile_1": [
 			"Nasi przyjaciele skażeni Fioletowym Miodem wrócili do swoich podstawowych instynktów, polują w wodzie. Ostrożnie."
 		],
@@ -16419,51 +16419,39 @@
 		"level3_sign_3": [
 			"ZABRONIONE DO PUBLIKI//NIE WCHODZIĆ"
 		],
-		"level4_boss_1": [
-			"O-o-oczekiwałem na ciebie mały niedźwiedziu, odkąd wszedłeś do tego domu..."
-		],
+		"level4_boss_1": [],
 		"level4_boss_1_1": [
-			"I've been e-e-expecting you, little bear, I've been watching you ever since you stepped into this house..."
+			"S-s-spodziewałem się ciebie, mały niedźwiedziu, obserwowałem cię odkąd weszłeś do tego domu..."
 		],
 		"level4_boss_1_2": [
-			"You look su-su-surprised. Your scientist friend forgot to tell you about me? AFTER EVERYTHING HE DI-DI-DID TO ME?!"
+			"Wyglądasz na za-za-zaskoczonego.  Twój przyjaciel naukowiec zapomniał ci o mnie powiedzieć? PO WSZYSTKIM CO MI Z-Z-ZROBIŁ?!"
 		],
 		"level4_boss_1_3": [
-			"He made me giant and smart during his experiments, but he wouldn't let m-m-me free. I was his favorite one, his greatest achievement."
+			"Zrobił ze mnie giganta i sprawił że jestem mądry podczas jego eksperymentu, lecz nie wypuścił m-m-mnie wolno. Byłem jego ulubieńcem, jego największym osiągnięciem."
 		],
 		"level4_boss_1_4": [
-			"You thought I locked the basement trapdoor to hi-hi-hide? It was a trap, and you fell right i-i-into it!"
+			"Myślisz że zamknąłem klapa w piwnicy żeby się s-s-schować ? To była pułapka, a ty prosto w nią w-w-wpadłeś!"
 		],
 		"level4_boss_1_5": [
-			"You are so ti-ti-tiny, little bear, I can easily cr-cr-crush you!"
+			"Jesteś taki m-m-mały, mały niedźwiedziu, mogę cię łatwo z-z-zmiażdżyć!"
 		],
-		"level4_boss_2": [
-			"Wyglądasz na za-za-zaskoczonego. Twój przyjaciel naukowiec zapomniał ci o mnie powiedzieć? PO WSZYSTKIM CO DLA NIEGO ZRO-ZRO-ZROBIŁEM?!"
-		],
+		"level4_boss_2": [],
 		"level4_boss_2_1": [
-			"Thank you so much for dealing with him, he was dangerous and unpredictable… hmm... unlike me, right?"
+			"Bardzo ci dziękuję za to że się nim zająłeś, był niebezpieczny i nieobliczalny… hmm... w przeciwieństwie do mnie, racja?"
 		],
 		"level4_boss_2_2": [
-			"I have to admit something. Before the purple honey incident, someone broke into my house one night and stole some of my work regarding the Kernel."
+			"Muszę coś przyznać. Przed incydentem z fioletowym miodem, pewnej nocy ktoś włamał się do mojego domu i ukradł kawałek mojej pracy dotyczącej jądra."
 		],
 		"level4_boss_2_3": [
-			"I didn’t see his face but he was a bear. I’m not sure the bees are behind all this madness. I think someone set them up."
+			"Nie widziałem jego twarzy ale wiem że to był niedźwiedź. Nie mam pewności czy pszczoły stoją za tym całym zamieszaniem. Myślę że ktoś je tak ustawił."
 		],
 		"level4_boss_2_4": [
-			"You should go to the hive, I’m sure the truth awaits us there."
+			"Powinniście iść do Ula, jestem pewien że czeka was tam prawda."
 		],
-		"level4_boss_3": [
-			"Uczynił mnie czuły i mądry podczas swoich eksperymentów, ale nie pozwolił mn-mn-mnie uwolnić. Byłem jego ulubieńcem."
-		],
-		"level4_boss_4": [
-			"Pszczoły mnie po-po-powiększyły za pomocą artefaktu, dzięki czemu mogę chronić dzieci przed uratowaniem. Myślałeś, że zamknąłem właz piwnicy jest do ch-ch-chowania siebie? To była pułapka, a ty wpadłeś w nią !"
-		],
-		"level4_boss_5": [
-			"Byłeś ostatnią rzeczą, która powstrzymuje mnie od ucieczki z te-te-tego domu, a teraz, że jesteś mały, mogę łatwo ciebie zg-zg-zgnieść!"
-		],
-		"level4_boss_6": [
-			"Żegnaj, Baaren."
-		],
+		"level4_boss_3": [],
+		"level4_boss_4": [],
+		"level4_boss_5": [],
+		"level4_boss_6": [],
 		"level4_crogo_1": [
 			"Witam maluchy. Nazywam się Krokodyl Crogo. Crogo nigdy nie widział niedźwiedzia tak małego! Może mógłbyś pomóc Crogo."
 		],
@@ -16477,7 +16465,7 @@
 			"Może można tam wejść, aby sprawdzić, co jest przyczyną bólu i usunąć to."
 		],
 		"level4_hairless_rat": [
-			"Hi smol bear. Am Violette the hairless rat. The other rats are mean, they banned me because I have no hair. I no bite, only nice. I just want to make friend. Are you my friend?"
+			"Hej mały misiu. Jestem Violetta bezwłosy szczur. Inne szczury są wredne. Odrzuciły mnie przez to że nie mam futra i nie gryzę, tylko miła. Chciałam tylko znaleźć przyjaciół. Czy jesteś moim przyjacielem?"
 		],
 		"level4_intro_1": [
 			"Wow, przez bycie malutką czuje się naprawdę dziwne... Dom wydaje się gigantyczny!"
@@ -16614,143 +16602,131 @@
 		"mission_race": [
 			"Wyścig"
 		],
-		"mouse": [
-			"Mysz"
-		],
+		"mouse": [],
 		"party_bee_1": [
-			"I’m so sorry for hurting people, we were just following orderszz…"
+			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy…"
 		],
 		"party_bee_2": [
-			"How do you call a bee with messy hair?//...//A frisbee."
+			"Jak nazywasz pszczołę z rozczochranymi włosami?//...// Frisbee."
 		],
 		"party_bee_3": [
-			"Wow, you saved all the bearszz! Good job! We must be bad at hiding cageszz."
+			"Wow, uratowałeś wszzystkie niedźwiedzzie! Dobra robota! Musimy być źli w chowaniu klatek."
 		],
 		"party_capitalos": [
-			"You got invited to the party for free?!"
+			"Zostaliście zaproszeni na imprezę za darmo?!"
 		],
 		"party_capitalus": [
-			"So many new clients! STONKS!"
+			"Dużo nowych klientów! STONKS!"
 		],
 		"party_crocodile_1": [
-			"The air is sure colder here than in the desert."
+			"Powietrze jest zimniejsze tutaj niż na pustyni."
 		],
 		"party_crocodile_2": [
-			"This is my first time in a river, it feels funny!"
+			"To jest mój pierwszy raz w rzece, jakie śmieszne uczucie!"
 		],
 		"party_crocodile_3": [
-			"Waterfalls are impressive! I have never seen one in my life."
+			"Wodospady są niesamowite! Nigdy nie widziałem jednego w swoim życiu."
 		],
 		"party_crocodile_4": [
-			"This place is beautiful… I’m impressed."
+			"To miejsce jest piękne… Jestem pod wrażeniem."
 		],
 		"party_fennec_1": [
-			"What a nice shop!"
+			"Jaki ładny sklep!"
 		],
 		"party_fennec_2": [
-			"Queen Beeatrice is ginormous… huh, I meant to say beautiful."
+			"Królowa Beetrycja jest ogromna… huh, chciałem powiedzieć piękna."
 		],
 		"party_fennec_3": [
-			"I have never seen grass this green."
+			"Nigdy nie widziałem aż tak zielonej trawy."
 		],
 		"party_fennec_4": [
-			"You have your own little desert here!"
+			"Macie tu własną pustynię!"
 		],
 		"party_fennec_5": [
-			"I don’t trust this scientist."
+			"Nie ufam temu naukowcowi."
 		],
 		"party_penguin_1": [
-			"This place neither has snow nor ice… and the water is… liquid…"
+			"To miejsce ma śnieg jak i za równo lód… a woda jest… płynna…"
 		],
 		"party_penguin_2": [
-			"What a great view!"
+			"Jaki wspaniały widok!"
 		],
 		"party_queen": [
-			"Thanks for savvving the kingdom! I organizzzed a cool party for you, have fun!"
+			"Dziękuję za uratowanie królestwa! Zzzorganizowałam fajną imprezę dla was, bawcie się dobrze!"
 		],
 		"party_reindeer_1": [
-			"Long live Queen Beeatrice!"
+			"Niech żyje królowa Beetrycja!"
 		],
 		"party_reindeer_2": [
-			"This place is definitely too hot for me."
+			"To miejsce jest dla mnie za gorące."
 		],
 		"party_reindeer_3": [
-			"Ouch! I got a confetti in my eye, it hurts!"
+			"Ałć! Mam konfetti w oku, boli!"
 		],
 		"party_tristopio": [
-			"Party! Party! Party! Party! Party!"
+			"Impreza! Impreza! Impreza! Impreza! Impreza!"
 		],
 		"party_turtle_1": [
-			"Where does a turtle go when it’s raining?//…//To a shellter!"
+			"Gdzie idzie żółw kiedy pada?//…//Do shelltera!"
 		],
 		"party_turtle_2": [
-			"Have you seen my shellphone?"
+			"Czy masz mój shellefon?"
 		],
 		"party_turtle_3": [
-			"I’m glad I got out of my shell and came to the party."
+			"Jestem zadowolony żeby wyjść z mojej skorupy na to przyjęcie."
 		],
 		"party_turtle_4": [
-			"Colors everywhere!"
+			"Kolory są wszędzie!"
 		],
 		"party_turtle_5": [
-			"That’s very kind of the bees to put together this party, but it won’t bring back my house that they destroyed…"
+			"To bardzo miłe ze strony pszczół żeby zrobić to przyjęcie, ale nie zwróci mi to mojego domu które zniszczyły…"
 		],
 		"party_turtle_6": [
-			"It took me 6 months to get up here."
+			"Zajęło mi to 6 miesięcy żeby się tu dostać."
 		],
-		"penguin": [
-			"Pingwin"
-		],
-		"queen": [
-			"Królowa pszczół"
-		],
-		"rat_boss": [
-			"Test Temat No. 1706"
-		],
-		"reindeer": [
-			"Renifer"
-		],
+		"penguin": [],
+		"queen": [],
+		"rat_boss": [],
+		"reindeer": [],
 		"save_bear_tip_1": [
 			"Uwolniliśmy jednego niedźwiedzia! Powinniśmy rozglądać się w Żółwiej Wiosce przed udaniem się do innych obszarów."
 		],
 		"save_bear_tip_2": [
 			"Pójdziemy później do Śnieżnej Doliny."
 		],
-		"scientist": [
-			"Naukowiec"
-		],
+		"scientist": [],
 		"scientist_cutscene_1_1": [
-			"Hi Baaren! Hmm, I think I might have a clue as to where the purple honey is coming from."
+			"Cześć Baaren! Hmm, myślę, że mogę mieć wskazówkę, skąd pochodzi fioletowy miód."
 		],
 		"scientist_cutscene_1_2": [
-			"8 years ago, I heard about a mysterious and powerful artifact. I went to the Great Pyramid of Beemothep and “borrowed” the Kernel for my research."
+			"8 lat temu usłyszałem o tajemniczym i potężnym artefakcie. Poszedłem do Wielkiej Piramidy Beemothep i „pożyczyłem” Jądro do swoich badań."
 		],
 		"scientist_cutscene_1_3": [
-			"I found out it has two major properties: mind control and size manipulation. After a ton of work, I managed to create this magnificent device: THE SHRINKING MACHINE!"
+			"Dowiedziałem się, że ma dwie główne właściwości: kontrolowanie umysłu i manipulacja rozmiarem . Po tonie pracy, udało mi się stworzyć to wspaniałe urządzenie: MASZYNĘ ZMNIEJSZAJĄCA!"
 		],
 		"scientist_cutscene_1_4": [
-			"I also experimented on the mind control part and let’s say things... hmm… did not go as planned."
+			"Również eksperymentowałem nad kontroli umysłu i powiedzmy coś... hmm… nie poszedł zgodnie z planem."
 		],
 		"scientist_cutscene_1_5": [
-			"As you can see, someone found out about my research, stole the Kernel and used it to create the purple honey."
+			"Jak widzisz, ktoś dowiedział się o moich nadaniach, ukradł Jądro i użył go do stworzenia fioletowego miodu."
 		],
 		"scientist_cutscene_1_6": [
-			"I could tell you more about the Kernel, but I’m in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
+			"Mógłby powiedzieć wam więcej ja temat jądra, lecz teraz jestem jakby w malinach. Pszczoły nie wiedziały co zrobić z młodymi niedźwiedziami, więc je zmniejszyły i ukryły je w moim domu."
 		],
 		"scientist_cutscene_1_7": [
-			"Maybe they thought it was abandoned or something? Is it that dirty? Anyway..."
+			"Może myślały że jest opuszczony lub coś w tym stylu? Czy jest to tak brudne? W każdym razie.."
 		],
 		"scientist_cutscene_2_1": [
-			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is…"
+			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest…"
 		],
 		"scientist_cutscene_2_2": [
-			"But first, let's save those poor babies!"
+			"Lecz najpierw, uratujmy te bobasy!"
 		],
 		"scientist_cutscene_3_1": [
-			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there…"
+			"Są za małe więc nie mogę otworzyć klatek i dom jest pełen szczurów. Hmm, Naprawdę nie chcę tam wchodzić…"
 		],
 		"scientist_cutscene_3_2": [
-			"If you are brave enough to save them, I can shrink you down and let you in."
+			"Jeżeli jesteś wystarczająco odważny żeby je ocalić, mogę cię więc pomniejszyć i cię wpuścić."
 		],
 		"shicka_0_1": [
 			"Podążaj za niebieskimi strzałkami, aby dostać się do Żółwiej Wioski!"
@@ -16834,17 +16810,15 @@
 			"Możesz zrobić belly stomp i odbić się wyżej!"
 		],
 		"shicka_hive_1": [
-			"A giant caterpillar! You can climb somewhere to get the high ground and jump on its back."
+			"Gigantyczna gąsienica! Możesz się wspiąć gdzieś wyżej żeby zeskoczyć na jej tył."
 		],
 		"shicka_hive_2": [
-			"It's over caterpillar, we have the high ground!"
+			"To koniec gąsienico, mamy lepszą pozycję!"
 		],
 		"shicka_hive_3": [
-			"If we hit these purple balls, we can send them back at him!"
+			"Jeżeli uderzymy te fioletowe kule, możemy je wysłać z powrotem na niego!"
 		],
-		"sign": [
-			"Znak"
-		],
+		"sign": [],
 		"sign_help": [],
 		"sticker_found": [
 			"Ukryta Naklejka Znaleziona!"
@@ -16865,7 +16839,7 @@
 			"W porządku, mam nadzieję, że wszystko jest jasne. Uh, mam na myśli... Więccc, mam nadzieję, że wszystko jest jasnee!"
 		],
 		"time_format": [
-			"{0}h{1}min{2}s"
+			"{0}godz{1}min{2}s"
 		],
 		"title_gameplay": [
 			"Rozgrywka"
@@ -16894,78 +16868,70 @@
 		"tristopio_start": [
 			"Zacznij Misję"
 		],
-		"turtle": [
-			"Żółw"
-		],
+		"turtle": [],
 		"tutorial_shicka_1": [
-			"Hej Baaren, tu jesteś! Udało mi się ukryć, gdy pszczoły tutaj przybyły. Jesteś jedynym niedźwiedziem, którego nie złapali...",
-			"Hey Baaren, there you are! The bees attacked the village and captured everyone! I managed to hide when they arrived."
+			"Hej Baaren, tu jesteś! Pszczoły zaatakowały wioskę i schwytały wszystkich! Udało mi się ukryć, kiedy przybyli."
 		],
 		"tutorial_shicka_2": [
-			"Myślę, że powinniśmy współpracować, aby uwolnić naszych przyjaciół! Mogłabym dać kilka rad na temat okolicy.",
-			"Were you just… sleeping? Avoiding a raid by taking a nap away from the village, that’s very you."
+			"Czy po prostu… spałeś? Unikanie nalotu poprzez drzemkę z dala od wioski, to bardzo ty."
 		],
 		"tutorial_shicka_3": [
-			"Widziałem jak pszczoły zabierają niedźwiedzie do Żółwiej Wioski...",
-			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
+			"W każdym razie powinniśmy połączyć siły, aby uwolnić naszych przyjaciół! Mogę dać ci kilka rad na temat otoczenia. Turyści z plecakami tacy jak ja dużo wiedzą o królestwie."
 		],
 		"tutorial_shicka_4": [
-			"Na szczęście platforma, która prowadzi do Żółwiej Wioski nadal działa! Chodźmy je uwolnić!",
-			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!"
+			"Widziałam pszczoły zabierające niedźwiedzie do Turtletown, powinniśmy tam pojechać pierwsi. Na szczęście dla nas platforma, która tam prowadzi, nadal działa. Chodźmy!"
 		],
 		"tutorial_shicka_5": [
-			"Moglibyśmy wtedy udać się do Śnieżnej Doliny.",
-			"We could then go to the Snow Valley..."
+			"Moglibyśmy wtedy udać się do Śnieżnej Doliny..."
 		],
 		"tutorial_shicka_6": [
-			"Moglibyśmy również zwiedzić Pustynie Beemothep...",
-			"... and then explore the Beemothep Desert."
+			"... a potem eksploruj Pustynię Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_1": [
-			"Witamy w Super Bear Adventure! Użyj joysticka po lewej stronie, aby się poruszać."
+		"tutorial_sign_01": [
+			"Witaj w Super Bear Adventure! Użyj joysticka po lewej żeby się poruszyć."
 		],
+		"tutorial_sign_02": [
+			"Kliknij A żeby skoczyć."
+		],
+		"tutorial_sign_03": [
+			"Naciśnij B, aby zaatakować, gdy jesteś na ziemi. Wypróbuj go na tym manekinie treningowym."
+		],
+		"tutorial_sign_04": [
+			"Kliknij A w powietrzu żeby wykonać podwójny skok."
+		],
+		"tutorial_sign_05": [
+			"Kliknij B potem A podczas poruszania się żeby zrobić długi skok. Kliknij B w powietrzu żeby wykonać dive."
+		],
+		"tutorial_sign_06": [
+			"Możesz wspiąć się na winorośl, idąc w jej kierunku."
+		],
+		"tutorial_sign_07": [
+			"Możesz obracać kamerę, przesuwając palcem po górnej części ekranu."
+		],
+		"tutorial_sign_08": [
+			"Na powierzchni naciśnij B, aby zanurkować. Pod wodą naciśnij A, aby popłynąć w górę."
+		],
+		"tutorial_sign_09": [
+			"Możesz nacisnąć B, aby złapać niektóre przedmioty. Naciśnij ponownie B, aby je puścić."
+		],
+		"tutorial_sign_1": [],
 		"tutorial_sign_10": [
-			"Przytrzymaj B w powietrzu, aby zrobić belly stomp."
+			"Przytrzymaj B w powietrzu aby zrobić belly stomp."
 		],
 		"tutorial_sign_11": [
-			"Możesz dwukrotnie skakać podczas techniki dive, a następnie użyć jej ponownie, aby pokonać duże odległości!"
+			"Możesz podwójnie skoczyć podczas używania dive a potem użyć dive jeszcze raz żeby pokonywać niesamowite dystanse!"
 		],
 		"tutorial_sign_12": [
-			"Jeśli zwolnisz B przy uderzeniu w ziemię podczas Belly Stomp, zrobisz stomp boost."
+			"Jeśli puścisz B zaraz po uderzeniu w ziemię podczas belly stomp, zrobisz wzmocnienie."
 		],
-		"tutorial_sign_2": [
-			"Kliknij A aby skoczyć"
-		],
-		"tutorial_sign_3": [
-			"Naciśnij klawisz B, aby zaatakować, gdy jesteś na ziemi. Wypróbuj go na tym manekinie szkoleniowym."
-		],
-		"tutorial_sign_4": [
-			"Naciśnij klawisz A w powietrzu, aby dwukrotnie skoczyć."
-		],
-		"tutorial_sign_5": [
-			"Naciśnij klawisz B, a następnie a podczas przechodzenia do skoku w dal. Naciśnij klawisz B w powietrzu, aby użyć techniki dive."
-		],
-		"tutorial_sign_6": [
-			"Możesz wspiąć się na winorośl, idąc w jego kierunku."
-		],
-		"tutorial_sign_7": [
-			"Kamerę można obrócić, przesuwając palcem wzdłuż górnej części ekranu."
-		],
-		"tutorial_sign_8": [
-			"Na powierzchni naciśnij klawisz B, aby nurkować. Pod wodą naciśnij klawisz A, aby płynąć w górę."
-		],
-		"tutorial_sign_9": [
-			"Możesz nacisnąć klawisz B, aby złapać określone obiekty. Naciśnij ponownie klawisz B, aby je wyrzucić."
-		],
+		"tutorial_sign_2": [],
+		"tutorial_sign_3": [],
+		"tutorial_sign_4": [],
+		"tutorial_sign_5": [],
+		"tutorial_sign_6": [],
+		"tutorial_sign_7": [],
+		"tutorial_sign_8": [],
+		"tutorial_sign_9": [],
 		"ui_100coins": [
 			"100 Monet"
 		],
@@ -17056,19 +17022,17 @@
 		"ui_coins": [
 			"monety"
 		],
-		"ui_coins_found": [],
+		"ui_coins_found": [
+			"Znalezione monety"
+		],
 		"ui_connected": [
 			"Połączony"
 		],
-		"ui_cosm_already_own": [
-			"Już posiadasz"
-		],
+		"ui_cosm_already_own": [],
 		"ui_cosm_buy": [
 			"Czy chcesz kupić//{0}//za {1} {2}?"
 		],
-		"ui_cosm_instead": [
-			"Natychmiastowe monety!"
-		],
+		"ui_cosm_instead": [],
 		"ui_cosm_new": [
 			"Odblokowałeś nowy przedmiot :"
 		],
@@ -17078,11 +17042,9 @@
 		"ui_cosm_shop": [
 			"Sklep"
 		],
-		"ui_cosm_won": [
-			"Wygrałeś!"
-		],
+		"ui_cosm_won": [],
 		"ui_credits": [
-			"Watch credits"
+			"Obejrzyj napisy"
 		],
 		"ui_delete": [
 			"Kasuj"
@@ -17139,7 +17101,7 @@
 			"Uwolniłeś"
 		],
 		"ui_game_creator": [
-			"Game made by {0}"
+			"Gra stworzona przez {0}"
 		],
 		"ui_game_over": [
 			"Koniec gry"
@@ -17256,7 +17218,9 @@
 		"ui_performance": [
 			"Wydajność"
 		],
-		"ui_progression": [],
+		"ui_progression": [
+			"Progress: {0}%"
+		],
 		"ui_quality": [
 			"Jakość"
 		],
@@ -17379,7 +17343,6 @@
 		"action_brake": [
 			"Freio (veículo)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Centralizar Câmera"
 		],
@@ -17424,6 +17387,11 @@
 		"arcade_intro_3": [
 			"E se quiser aprender as regras dos jogos, ande sobre esses botões."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Botão Extra 1"
 		],
@@ -17531,6 +17499,7 @@
 		"char_turtle": [
 			"Tartaruga"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [
 			"Máscara de bandido"
 		],
@@ -17832,6 +17801,7 @@
 		"cosmetic_default": [
 			"Padrão"
 		],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [],
@@ -17926,16 +17896,16 @@
 			"Okay Shicka, está na hora de lutar com o eu verdadeiro!"
 		],
 		"hive_ending_1": [
-			"Sinto muito por lutar com você, meu caro urso. I waszzn’t myself back there, o Kernel eszztava… agindo sobre minha cabeça."
+			"Sinto muito por lutar com você, meu caro urso. Não era minha peszzsoa lá; o Kernel eszztava… agindo sobre minha cabeça."
 		],
 		"hive_ending_2": [
-			"From the looks of thingszz, the Kernel exploded when hitting the hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
+			"Do jeito que as coiszzas eszztão, o Kernel explodiu quando atingiu a colmeia sendo destruída... Fomos teleportados para cá de alguma forma, mas seu irmão provvvavvvelmente foi parar em outro local."
 		],
 		"hive_ending_3": [
-			"The hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
+			"A colmeia se foi, mas agora que eszztou livre, posso finalmente deszzligar a fábrica de mel roxo e restaurar a pazzz sobre meu reino."
 		],
 		"hive_ending_4": [
-			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Obrigada por me salvvvar Baaren. Obrigada por salvvvar a todos. Vamos nos reunir na Vvvila dos Ursos, certo?"
 		],
 		"hive_maybee": [
 			"Bears are awful but maybee I can beenefit off of you. I'm beesy doing beesiness."
@@ -17943,6 +17913,8 @@
 		"hive_shop": [
 			"Loja de Presentes da Maybee"
 		],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [
 			"Salve o reino"
 		],
@@ -17952,6 +17924,7 @@
 		"hive_task_level": [
 			"Salve 8 ursos no(a) {0}"
 		],
+		"hive_task_unlock": [],
 		"hub_bear_01": [
 			"Obrigado por me salvar da caverna do Golem!"
 		],
@@ -18240,11 +18213,11 @@
 		],
 		"level1_tutorial_1": [
 			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!",
-			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
+			"Há jaulas de ursos espalhadas por essa área. Cada uma tem sua própria chave, então devemos acha-la primeiro. Devem estar por algum lugar perto das jaulas."
 		],
 		"level1_tutorial_2": [
 			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar.",
-			"Once we free enough of our friends, we will be able to open this gate."
+			"Uma vez que salvarmos bastante dos nossos amigos, poderemos abrir aquele portão."
 		],
 		"level1_tutorial_3": [
 			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase.",
@@ -18431,7 +18404,7 @@
 			"Eu tenho que revelar uma coisa. Antes do incidente do mel roxo, alguém invdiu minha casa uma noite e alguns dos meus trabalhos sobre o Kernel."
 		],
 		"level4_boss_2_3": [
-			"Eu não vi a cara dele mas era um urso. Não tenho certeza se as abelhas estão por trás dessa bagunça. I think someone set them up."
+			"Eu não vi a cara dele mas era um urso. Não tenho certeza se as abelhas estão por trás dessa bagunça. Acho que alguém preparou elas."
 		],
 		"level4_boss_2_4": [
 			"Você deveria ir pra colmeia, tenho certeza que a verdade nos espera lá."
@@ -18663,7 +18636,7 @@
 			"Festa! Festa! Festa! Festa! Festa!"
 		],
 		"party_turtle_1": [
-			"Where does a turtle go when it’s raining?//…//To a shellter!"
+			"O que é uma tartaruda sem casa?//…//Um des-casca-do!"
 		],
 		"party_turtle_2": [
 			"Have you seen my shellphone?"
@@ -18806,7 +18779,7 @@
 			"Você pode dar uma barrigada pra quicar mais alto!"
 		],
 		"shicka_hive_1": [
-			"Uma lagarta gigante! Você pode subir em algum lugar para alcançar um terreno firme e pular nas costas dela."
+			"Uma lagarta gigante! Você pode subir em algum lugar para alcançar um terreno alto e pular nas costas dela."
 		],
 		"shicka_hive_2": [
 			"Acabou lagarta, nós estamos em terreno firme!"
@@ -19033,7 +19006,7 @@
 			"Você desbloqueou um novo item:"
 		],
 		"ui_cosm_owned": [
-			"Você já tem um//{0}!//Você ganhou {1} moedas em vez disto!"
+			"Você já tem um(a)//{0}!//Voc^ ganhou {1} moedas em vez disto!"
 		],
 		"ui_cosm_shop": [
 			"Loja"
@@ -19343,7 +19316,6 @@
 		"action_brake": [
 			"Тормозить (транспорт)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Вернуть камеру в центральное положение"
 		],
@@ -19390,6 +19362,11 @@
 		"arcade_intro_3": [
 			"Наступите на эти кнопки, чтобы узнать правила игры."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Дополнительная кнопка 1"
 		],
@@ -19497,6 +19474,7 @@
 		"char_turtle": [
 			"Черепаха"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [
 			"Bandit mask"
 		],
@@ -19798,6 +19776,7 @@
 		"cosmetic_default": [
 			"Default"
 		],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -19933,9 +19912,12 @@
 			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
 		],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -20147,28 +20129,28 @@
 			"Баарен! Ты пришёл спасти меня! Будь осторожен, голем очень опасен!"
 		],
 		"level1_boss_1_1": [
-			"Baaren! You came to save me! Be careful, the Turtle Golem is very dangerous!"
+			"Баарен! Ты пришел сюда чтобы спасти меня! Будь осторожен, Черепаший Голем очень опсен!"
 		],
 		"level1_boss_1_2": [
-			"When it charges you, avoid its attacks and wait until it's exhausted before fighting back."
+			"Когда он заряжает в тебя, избегай его атаки и подожди до тех пор, пока он не устанет прежде чем дать отпор."
 		],
 		"level1_boss_1_3": [
-			"Also, pay attention to rocks falling from the ceiling! I believe in you, Baaren!"
+			"Так же, обрати внимание на падающие камни с потолка! Я верю в тебя, Баарен!"
 		],
 		"level1_boss_1_4": [
-			"Watch out, it's attacking you!!!"
+			"Берегись, Он атакует!!!"
 		],
 		"level1_boss_2": [
 			"Пусть он исчерпает свои силы. Когда он оглушен, ударь его, чтобы нанести урон."
 		],
 		"level1_boss_2_1": [
-			"You did it, great job! You can take the key and come here to free me."
+			"Ты сделал это, замечательная работа! Ты можешь взять ключ и подойти сюда чтобы освободить меня."
 		],
 		"level1_boss_2_2": [
-			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you find him."
+			"Кстати, я видел твоего брата здесь сегодня утром, он выглядил не очень хорошо. Я надеюсь, ты найдёшь его."
 		],
 		"level1_boss_2_3": [
-			"I wonder what your brother was doing here. I haven’t seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it’s the next destination from here."
+			"Интересно, что твой брат сегодня здесь делал. Я давно его не видел, может он был в спячке. Мы должны поискать его в Снежной Долине, это следующий пункт назначения отсюда."
 		],
 		"level1_boss_3": [
 			"Также обрати внимание на камни, падающие с потолка. Я верю в тебя, Баарен!"
@@ -20264,16 +20246,16 @@
 			"Вот это знаменитый Йети. Избегай его атак. Не нападай, пока он не устанет."
 		],
 		"level2_boss_2": [
-			"Did you see that? There was someone over there! He was… purple."
+			"Ты видел это? Здесь кто-то был! И он был… фиолетовый."
 		],
 		"level2_boss_3": [
-			"Something doesn’t seem right about all this..."
+			"В этом похоже ничего хорошего..."
 		],
 		"level2_boss_4": [
-			"Anyway, we should save this bear and then investigate the Beemothep Desert."
+			"В любом случае, нам нужно спасти этого медведя и затем исследовать the Beemothep Desert."
 		],
 		"level2_boss_5": [
-			"The bee dynasty started there, maybe we can find answers in the Great Pyramid of Beemothep."
+			"Здесь началась династия Пчел, может быть мы сможем найти ответы в Великой Пирамиде of Beemothep."
 		],
 		"level2_penguin_1": [
 			"Старейшины этой деревни говорят, что в этом районе живет Йети."
@@ -20884,19 +20866,19 @@
 			"Я думаю, мы должны объединиться, чтобы освободить наших друзей. Я дам тебе несколько советов об окрестностях."
 		],
 		"tutorial_shicka_3": [
-			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom.",
+			"В любом случае, мы должны объединиться, чтобы освободить наших друзей! Я могу дать тебе пару советов об окрестностях. Рюкзаки как я, много знают о королевстве.",
 			"Я увидела пчёл, ведущих медведей в Черепашью деревню."
 		],
 		"tutorial_shicka_4": [
-			"I saw bees taking bears to Turtletown, we should go there first. Fortunately for us, the platform that leads there is still working. Let's go!",
+			"Я видела, как пчелы несут медведей в Черепаший Город, нам нужно вначале сходить туда. К счастью для нас, платформа которая ведёт туда всё ещё работает. Пойдём!",
 			"К счастью, платформа, которая ведет в Черепашью деревню, всё ещё работает, давай освободим их!"
 		],
 		"tutorial_shicka_5": [
-			"We could then go to the Snow Valley...",
+			"Затем, мы должны пойти в Снежную Долину...",
 			"Мы можем пойти в заснеженную долину."
 		],
 		"tutorial_shicka_6": [
-			"... and then explore the Beemothep Desert.",
+			"... и затем исследовать the Beemothep Desert.",
 			"Можем также исследовать пустыню Бимотеп."
 		],
 		"tutorial_sign_01": [],
@@ -21343,7 +21325,6 @@
 	"sv": {
 		"action_attack": [],
 		"action_brake": [],
-		"action_break": [],
 		"action_center_camera": [],
 		"action_gas": [],
 		"action_jump": [],
@@ -21380,6 +21361,11 @@
 		"arcade_intro_3": [
 			"If you want to learn the rules of the games, walk on these buttons."
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [],
 		"binding_alt_2": [],
 		"binding_axis": [],
@@ -21447,6 +21433,7 @@
 		"char_sign": [],
 		"char_tristopio": [],
 		"char_turtle": [],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -21550,6 +21537,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [
 			"Krokodil"
 		],
@@ -21655,9 +21643,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],
@@ -22780,7 +22771,6 @@
 		"action_brake": [
 			"Durdur (araç)"
 		],
-		"action_break": [],
 		"action_center_camera": [
 			"Kamerayı ortala"
 		],
@@ -22825,6 +22815,11 @@
 		"arcade_intro_3": [
 			"Oyunun kurallarını öğrenmek istiyorsan bu düğmeler üzerinde yürü"
 		],
+		"arcade_race_1": [],
+		"arcade_race_2": [],
+		"arcade_race_3": [],
+		"arcade_race_4": [],
+		"arcade_timer": [],
 		"binding_alt_1": [
 			"Ek düğme 1"
 		],
@@ -22928,6 +22923,7 @@
 		"char_turtle": [
 			"Kaplumbağa"
 		],
+		"cosmetic _102": [],
 		"cosmetic_001": [],
 		"cosmetic_002": [],
 		"cosmetic_003": [],
@@ -23031,6 +23027,7 @@
 		"cosmetic_101": [],
 		"cosmetic_102": [],
 		"cosmetic_default": [],
+		"cosmstic_099": [],
 		"crocodile": [],
 		"fennec": [],
 		"final_boss_1_1": [
@@ -23134,9 +23131,12 @@
 		"hive_ending_4": [],
 		"hive_maybee": [],
 		"hive_shop": [],
+		"hive_shop_equip": [],
+		"hive_shop_unequip": [],
 		"hive_task_boss": [],
 		"hive_task_gold": [],
 		"hive_task_level": [],
+		"hive_task_unlock": [],
 		"hub_bear_01": [],
 		"hub_bear_02": [],
 		"hub_bear_03": [],

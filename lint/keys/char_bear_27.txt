@@ -15,3 +15,5 @@ The following locales have missing, but optional, translations:
 - ru
 - sv
 - tr
+The following locales have transparent translations:
+- pl

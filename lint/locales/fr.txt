@@ -1,30 +1,6 @@
-Translation coverage: 593 / 593 required (100.00%), 3 / 41 optional (7.32%)
-The following keys have extra translations:
-- hub_level4_intro_1
-- hub_level4_intro_2
-- hub_level4_intro_3
-- hub_level4_intro_4
-- hub_level4_intro_5
-- hub_level4_intro_6
-- level1_boss_1
-- level1_boss_2
-- level1_boss_3
-- level1_boss_4
-- level1_boss_5
-- level1_tutorial_0
-- level3_boss_1
-- level3_boss_2
-- level3_boss_3
-- level4_boss_1
-- level4_boss_2
-- level4_boss_3
-- level4_boss_4
-- level4_boss_5
-- level4_boss_6
+Translation coverage: 601 / 601 required (100.00%), 1 / 41 optional (2.44%)
 The following keys have extra, but optional, translations:
 - char_maybee
-- ui_light_probes
-- ui_lightmaps
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -64,11 +40,11 @@ The following keys have missing, but optional, translations:
 - char_crogo
 - char_shicka
 - char_tristopio
-The following keys have multiple translations:
-- level1_tutorial_1 (2)
-- level1_tutorial_2 (2)
-- level1_tutorial_3 (2)
+- ui_light_probes
+- ui_lightmaps
 The following keys have transparent translations:
+- arcade_race_2
+- arcade_race_4
 - char_crocodile
 - char_fennec
 - cosmetic_006
@@ -78,8 +54,6 @@ The following keys have transparent translations:
 - time_format
 - ui_game_over
 - ui_gyroscope
-- ui_light_probes
-- ui_lightmaps
 - ui_performance
 - ui_quality1
 - ui_version

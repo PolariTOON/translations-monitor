@@ -1,6 +1,5 @@
 action_attack has missing translations el, it, ja, sv
-action_brake has missing translations el, it, ja, pl, sv
-action_break has extra translations pl
+action_brake has missing translations el, it, ja, sv
 action_center_camera has missing translations el, it, ja, sv
 action_center_camera has transparent translations nl
 action_gas has missing translations el, it, ja, sv
@@ -11,6 +10,13 @@ arcade_1_3 has extra translations de, el, it
 arcade_2_2 has transparent translations sv
 arcade_intro_2 has extra translations de, el, id, it, ja, ru, sv
 arcade_intro_3 has transparent translations sv
+arcade_race_1 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+arcade_race_2 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+arcade_race_2 has transparent translations fr
+arcade_race_3 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+arcade_race_4 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+arcade_race_4 has transparent translations fr
+arcade_timer has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
 binding_alt_1 has missing translations el, it, ja, sv
 binding_alt_2 has missing translations el, it, ja, sv
 binding_axis has missing translations el, it, ja, sv
@@ -23,7 +29,7 @@ boss_queen has missing translations sv
 boss_rat has missing translations sv
 boss_turtle_golem has missing translations sv
 boss_yeti has missing translations sv
-brother has extra translations pl, sv
+brother has extra translations sv
 cage_help has extra translations de, el, sv
 char_baaren has extra, but optional, translations pl
 char_baaren has missing translations ja
@@ -58,7 +64,6 @@ char_bear_07 has transparent translations pl
 char_bear_08 has extra, but optional, translations pl
 char_bear_08 has missing translations ja
 char_bear_08 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
-char_bear_08 has transparent translations pl
 char_bear_09 has extra, but optional, translations pl
 char_bear_09 has missing translations ja
 char_bear_09 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
@@ -81,6 +86,7 @@ char_bear_13 has transparent translations pl
 char_bear_14 has extra, but optional, translations pl
 char_bear_14 has missing translations ja
 char_bear_14 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_14 has transparent translations pl
 char_bear_15 has extra, but optional, translations pl
 char_bear_15 has missing translations ja
 char_bear_15 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
@@ -129,6 +135,7 @@ char_bear_26 has missing, but optional, translations de, el, es, fr, id, it, nl,
 char_bear_27 has extra, but optional, translations pl
 char_bear_27 has missing translations ja
 char_bear_27 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
+char_bear_27 has transparent translations pl
 char_bear_28 has extra, but optional, translations pl
 char_bear_28 has missing translations ja
 char_bear_28 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
@@ -149,7 +156,7 @@ char_bear_32 has missing translations ja
 char_bear_32 has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_bear_32 has transparent translations pl
 char_bee has missing translations el, es, id, it, ja, nl, sv, tr
-char_bee has transparent translations de, pl, ru
+char_bee has transparent translations de, ru
 char_brother has missing translations sv
 char_capitalos has extra, but optional, translations pl
 char_capitalos has missing translations ja
@@ -174,7 +181,7 @@ char_maybee has transparent translations pl
 char_mouse has missing translations sv
 char_penguin has missing translations sv
 char_queen has missing translations el, es, id, it, ja, nl, sv, tr
-char_queen has transparent translations de, pl, ru
+char_queen has transparent translations de, ru
 char_reindeer has missing translations sv
 char_scientist has missing translations sv
 char_shicka has extra, but optional, translations pl
@@ -187,6 +194,7 @@ char_tristopio has missing translations ja
 char_tristopio has missing, but optional, translations de, el, es, fr, id, it, nl, pt, ru, sv, tr
 char_tristopio has transparent translations pl
 char_turtle has missing translations sv
+cosmetic _102 has extra translations pl
 cosmetic_001 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_001 has transparent translations de, ru
 cosmetic_002 has missing translations el, es, id, it, ja, nl, sv, tr
@@ -200,7 +208,7 @@ cosmetic_005 has transparent translations de, ru
 cosmetic_006 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_006 has transparent translations de, fr, pl, pt, ru
 cosmetic_007 has missing translations el, es, id, it, ja, nl, sv, tr
-cosmetic_007 has transparent translations de, pl, ru
+cosmetic_007 has transparent translations de, ru
 cosmetic_008 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_008 has transparent translations de, ru
 cosmetic_009 has missing translations el, es, id, it, ja, nl, sv, tr
@@ -356,7 +364,7 @@ cosmetic_083 has transparent translations de, ru
 cosmetic_084 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_084 has transparent translations de, pt, ru
 cosmetic_085 has missing translations el, es, id, it, ja, nl, sv, tr
-cosmetic_085 has transparent translations de, pl, pt, ru
+cosmetic_085 has transparent translations de, pt, ru
 cosmetic_086 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_086 has transparent translations de, ru
 cosmetic_087 has missing translations el, es, id, it, ja, nl, sv, tr
@@ -374,7 +382,7 @@ cosmetic_092 has transparent translations de, ru
 cosmetic_093 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_093 has transparent translations de, ru
 cosmetic_094 has missing translations el, es, id, it, ja, nl, sv, tr
-cosmetic_094 has transparent translations de, fr, pt, ru
+cosmetic_094 has transparent translations de, fr, pl, pt, ru
 cosmetic_095 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_095 has transparent translations de, ru
 cosmetic_096 has missing translations el, es, id, it, ja, nl, sv, tr
@@ -384,26 +392,27 @@ cosmetic_097 has transparent translations de, ru
 cosmetic_098 has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_098 has transparent translations de, ru
 cosmetic_099 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
-cosmetic_100 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
-cosmetic_101 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+cosmetic_100 has missing translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+cosmetic_101 has missing translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 cosmetic_102 has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
-cosmetic_default has missing translations el, es, id, it, ja, nl, pl, sv, tr
+cosmetic_default has missing translations el, es, id, it, ja, nl, sv, tr
 cosmetic_default has transparent translations de, ru
-crocodile has extra translations pl, sv
-fennec has extra translations pl, sv
-final_boss_1_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_1_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_1_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_1_4 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_1_5 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_1_6 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_1_7 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_2_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_2_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_2_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_3_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_3_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-final_boss_3_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+cosmstic_099 has extra translations pl
+crocodile has extra translations sv
+fennec has extra translations sv
+final_boss_1_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_1_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_1_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_1_4 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_1_5 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_1_6 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_1_7 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_2_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_2_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_2_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_3_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_3_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+final_boss_3_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 help_fast_restart has transparent translations el
 help_fps_counter has missing translations el, sv
 help_fps_counter has transparent translations de
@@ -411,52 +420,55 @@ help_gyro_controls has transparent translations el
 help_hide_inputs has transparent translations el
 help_timer has transparent translations el
 hive_boss_1_1 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_1 has transparent translations de, pl, ru
+hive_boss_1_1 has transparent translations de, ru
 hive_boss_1_2 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_2 has transparent translations de, pl, ru
+hive_boss_1_2 has transparent translations de, ru
 hive_boss_1_3 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_3 has transparent translations de, pl, ru
+hive_boss_1_3 has transparent translations de, ru
 hive_boss_1_4 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_4 has transparent translations de, pl, ru
+hive_boss_1_4 has transparent translations de, ru
 hive_boss_1_5 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_5 has transparent translations de, pl, ru
+hive_boss_1_5 has transparent translations de, ru
 hive_boss_1_6 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_6 has transparent translations de, pl, ru
+hive_boss_1_6 has transparent translations de, ru
 hive_boss_1_7 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_7 has transparent translations de, pl, ru
+hive_boss_1_7 has transparent translations de, ru
 hive_boss_1_8 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_1_8 has transparent translations de, pl, ru
+hive_boss_1_8 has transparent translations de, ru
 hive_boss_2_1 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_2_1 has transparent translations de, pl, ru
+hive_boss_2_1 has transparent translations de, ru
 hive_boss_2_2 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_2_2 has transparent translations de, pl, ru
+hive_boss_2_2 has transparent translations de, ru
 hive_boss_3_1 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_boss_3_1 has transparent translations de, pl, ru
+hive_boss_3_1 has transparent translations de, ru
 hive_ending_1 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_ending_1 has transparent translations de, pl, ru
+hive_ending_1 has transparent translations de, ru
 hive_ending_2 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_ending_2 has transparent translations de, pl, pt, ru
+hive_ending_2 has transparent translations de, ru
 hive_ending_3 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_ending_3 has transparent translations de, pl, pt, ru
+hive_ending_3 has transparent translations de, ru
 hive_ending_4 has missing translations el, es, id, it, ja, nl, sv, tr
-hive_ending_4 has transparent translations de, pl, pt, ru
+hive_ending_4 has transparent translations de, ru
 hive_maybee has missing translations el, es, id, it, ja, nl, sv, tr
 hive_maybee has transparent translations pt
 hive_shop has missing translations el, es, id, it, ja, nl, ru, sv, tr
 hive_shop has transparent translations de
-hive_task_boss has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
-hive_task_gold has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
-hive_task_level has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_01 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_02 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_03 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_04 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_05 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_06 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_07 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_08 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_09 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+hive_shop_equip has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+hive_shop_unequip has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+hive_task_boss has missing translations de, el, es, id, it, ja, nl, ru, sv, tr
+hive_task_gold has missing translations de, el, es, id, it, ja, nl, ru, sv, tr
+hive_task_level has missing translations de, el, es, id, it, ja, nl, ru, sv, tr
+hive_task_unlock has missing translations de, el, es, id, it, ja, nl, pl, pt, ru, sv, tr
+hub_bear_01 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_02 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_03 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_04 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_05 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_06 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_07 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_08 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_09 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 hub_bear_10 has transparent translations sv
 hub_bear_12 has transparent translations sv
 hub_bear_13 has transparent translations sv
@@ -465,141 +477,134 @@ hub_bear_15 has transparent translations es, pt, sv
 hub_bear_17 has transparent translations sv
 hub_bear_18 has transparent translations sv
 hub_bear_19 has transparent translations sv
-hub_bear_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+hub_bear_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 hub_bear_20 has transparent translations sv
 hub_bear_23 has transparent translations sv
 hub_bear_24 has transparent translations sv
-hub_bear_25 has missing translations el, it, ja, pl, sv
+hub_bear_25 has missing translations el, it, ja, sv
 hub_bear_25 has transparent translations de
-hub_bear_26 has missing translations el, it, ja, pl, sv
+hub_bear_26 has missing translations el, it, ja, sv
 hub_bear_26 has transparent translations de
-hub_bear_27 has missing translations el, it, ja, pl, sv
+hub_bear_27 has missing translations el, it, ja, sv
 hub_bear_27 has transparent translations de
-hub_bear_28 has missing translations el, it, ja, pl, sv
+hub_bear_28 has missing translations el, it, ja, sv
 hub_bear_28 has transparent translations de
-hub_bear_29 has missing translations el, it, ja, pl, sv
+hub_bear_29 has missing translations el, it, ja, sv
 hub_bear_29 has transparent translations de
-hub_bear_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_30 has missing translations el, it, ja, pl, sv
+hub_bear_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_30 has missing translations el, it, ja, sv
 hub_bear_30 has transparent translations de, es, id, nl, pt
-hub_bear_31 has missing translations el, it, ja, pl, sv
+hub_bear_31 has missing translations el, it, ja, sv
 hub_bear_31 has transparent translations de
-hub_bear_32 has missing translations el, it, ja, pl, sv
+hub_bear_32 has missing translations el, it, ja, sv
 hub_bear_32 has transparent translations de
-hub_bear_4 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_5 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_6 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_7 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_8 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-hub_bear_9 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+hub_bear_4 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_5 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_6 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_7 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_8 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_bear_9 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+hub_capitalos has missing translations pl
 hub_capitalos has transparent translations el, sv
+hub_capitalus has missing translations pl
 hub_capitalus has transparent translations sv
-hub_level4_intro_1 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hub_level4_intro_2 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hub_level4_intro_3 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hub_level4_intro_4 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hub_level4_intro_5 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-hub_level4_intro_6 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+hub_level4_intro_1 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+hub_level4_intro_2 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+hub_level4_intro_3 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+hub_level4_intro_4 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+hub_level4_intro_5 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+hub_level4_intro_6 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+hub_scientist has missing translations pl
 hub_scientist has transparent translations el, sv
-hub_tristopio has missing translations el, sv
-intro_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_10 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_11 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_12 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+hub_sign_1 has missing translations pl
+hub_tristopio has missing translations el, pl, sv
+intro_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_10 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_11 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_12 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 intro_1_1 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_1_1 has transparent translations pl
 intro_1_2 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_1_2 has transparent translations pl
 intro_1_3 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_1_3 has transparent translations pl
-intro_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+intro_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 intro_2_1 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_2_1 has transparent translations pl
 intro_2_2 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_2_2 has transparent translations pl
 intro_2_3 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_2_3 has transparent translations de, pl
-intro_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+intro_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 intro_3_1 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_3_1 has transparent translations de, pl
 intro_3_2 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_3_2 has transparent translations de, pl
-intro_4 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+intro_4 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 intro_4_1 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_4_1 has transparent translations de, pl
 intro_4_2 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_4_2 has transparent translations de, pl
 intro_4_3 has missing translations el, es, id, it, ja, nl, sv, tr
-intro_4_3 has transparent translations de, pl
-intro_5 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_6 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_7 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_8 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-intro_9 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_boss_1 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
+intro_5 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_6 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_7 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_8 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+intro_9 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+level1_boss_1 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv
 level1_boss_1_1 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_1_1 has transparent translations de, pl, ru
 level1_boss_1_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_1_2 has transparent translations de, pl, ru
 level1_boss_1_3 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_1_3 has transparent translations de, pl, ru
+level1_boss_1_3 has transparent translations de
 level1_boss_1_4 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_1_4 has transparent translations de, pl, ru
-level1_boss_2 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
+level1_boss_1_4 has transparent translations de
+level1_boss_2 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv
 level1_boss_2_1 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_2_1 has transparent translations de, pl, ru
+level1_boss_2_1 has transparent translations de
 level1_boss_2_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_2_2 has transparent translations de, pl, ru
+level1_boss_2_2 has transparent translations de
 level1_boss_2_3 has missing translations el, es, id, it, ja, nl, sv, tr
-level1_boss_2_3 has transparent translations de, pl, ru
-level1_boss_3 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
-level1_boss_4 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
-level1_boss_5 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv
+level1_boss_2_3 has transparent translations de
+level1_boss_3 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv
+level1_boss_4 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv
+level1_boss_5 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv
 level1_boss__1 has extra translations tr
 level1_boss__1 has multiple translations tr (2)
 level1_boss__2 has extra translations tr
 level1_boss__3 has extra translations tr
 level1_boss__4 has extra translations tr
 level1_boss__5 has extra translations tr
-level1_intro_1 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_intro_2 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_intro_3 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_intro_4 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
+level1_intro_1 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+level1_intro_2 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+level1_intro_3 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+level1_intro_4 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+level1_sign_1 has missing translations pl
+level1_sign_2 has missing translations pl
 level1_sign_2 has transparent translations sv
 level1_sign_3 has transparent translations sv
 level1_sign_4 has transparent translations sv
 level1_sign_5 has transparent translations sv
 level1_sign_6 has transparent translations sv
-level1_stair_cutscene_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_start_cutscene_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_start_cutscene_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_start_cutscene_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-level1_start_cutscene_4 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+level1_stair_cutscene_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+level1_start_cutscene_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+level1_start_cutscene_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+level1_start_cutscene_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+level1_start_cutscene_4 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 level1_turtle_1 has transparent translations sv
 level1_turtle_3 has transparent translations sv
 level1_turtle_4 has transparent translations sv
 level1_turtle_6 has transparent translations sv
 level1_turtle_7 has transparent translations sv
-level1_tutorial_0 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, tr
+level1_tutorial_0 has extra translations de, el, es, id, it, ja, nl, pt, ru, tr
 level1_tutorial_1 has missing translations es, sv
-level1_tutorial_1 has multiple translations fr (2), pl (2), pt (2), ru (2)
-level1_tutorial_1 has transparent translations de, pl, pt, ru
+level1_tutorial_1 has multiple translations pt (2), ru (2)
+level1_tutorial_1 has transparent translations de, ru
 level1_tutorial_2 has missing translations sv
-level1_tutorial_2 has multiple translations fr (2), pl (2), pt (2), ru (2)
-level1_tutorial_2 has transparent translations de, pl, pt, ru
+level1_tutorial_2 has multiple translations pt (2), ru (2)
+level1_tutorial_2 has transparent translations de, ru
 level1_tutorial_3 has missing translations sv
-level1_tutorial_3 has multiple translations fr (2), pl (2), pt (2), ru (2)
-level1_tutorial_3 has transparent translations de, pl, ru
+level1_tutorial_3 has multiple translations pt (2), ru (2)
+level1_tutorial_3 has transparent translations de, ru
 level2_boss_1 has missing translations tr
 level2_boss_1 has transparent translations es
 level2_boss_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level2_boss_2 has transparent translations de, pl
+level2_boss_2 has transparent translations de
 level2_boss_3 has missing translations el, es, id, it, ja, nl, sv, tr
-level2_boss_3 has transparent translations de, pl, ru
+level2_boss_3 has transparent translations de
 level2_boss_4 has missing translations el, es, id, it, ja, nl, sv, tr
-level2_boss_4 has transparent translations de, pl, ru
+level2_boss_4 has transparent translations de
 level2_boss_5 has missing translations el, es, id, it, ja, nl, sv, tr
-level2_boss_5 has transparent translations de, pl, ru
+level2_boss_5 has transparent translations de
 level2_penguin_1 has transparent translations es
 level2_penguin_2 has transparent translations es
 level2_penguin_3 has transparent translations es, sv
@@ -618,21 +623,21 @@ level2_start_cutscene_1 has transparent translations es
 level2_start_cutscene_2 has transparent translations es, sv
 level2_start_cutscene_3 has transparent translations es
 level2_start_cutscene_4 has transparent translations es
-level3_boss_1 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+level3_boss_1 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 level3_boss_1_1 has missing translations el, es, id, it, ja, nl, sv, tr
-level3_boss_1_1 has transparent translations de, pl, ru
+level3_boss_1_1 has transparent translations de, ru
 level3_boss_1_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level3_boss_1_2 has transparent translations de, pl, ru
+level3_boss_1_2 has transparent translations de, ru
 level3_boss_1_3 has missing translations el, es, id, it, ja, nl, sv, tr
-level3_boss_1_3 has transparent translations de, pl, ru
+level3_boss_1_3 has transparent translations de, ru
 level3_boss_1_4 has missing translations el, es, id, it, ja, nl, sv, tr
-level3_boss_1_4 has transparent translations de, pl, ru
-level3_boss_2 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+level3_boss_1_4 has transparent translations de, ru
+level3_boss_2 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 level3_boss_2_1 has missing translations el, es, id, it, ja, nl, sv, tr
-level3_boss_2_1 has transparent translations de, pl, ru
+level3_boss_2_1 has transparent translations de, ru
 level3_boss_2_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level3_boss_2_2 has transparent translations de, pl, ru
-level3_boss_3 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+level3_boss_2_2 has transparent translations de, ru
+level3_boss_3 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 level3_crocodile_1 has transparent translations es
 level3_crocodile_2 has transparent translations es, sv
 level3_crocodile_3 has transparent translations es, sv
@@ -652,36 +657,35 @@ level3_intro_4 has transparent translations es
 level3_sign_1 has transparent translations es, sv
 level3_sign_2 has transparent translations es
 level3_sign_3 has transparent translations es, sv
-level4_boss_1 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+level4_boss_1 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 level4_boss_1_1 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_1_1 has transparent translations de, pl, ru
+level4_boss_1_1 has transparent translations de, ru
 level4_boss_1_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_1_2 has transparent translations de, pl, ru
+level4_boss_1_2 has transparent translations de, ru
 level4_boss_1_3 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_1_3 has transparent translations de, pl, ru
+level4_boss_1_3 has transparent translations de, ru
 level4_boss_1_4 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_1_4 has transparent translations de, pl, ru
+level4_boss_1_4 has transparent translations de, ru
 level4_boss_1_5 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_1_5 has transparent translations de, pl, ru
-level4_boss_2 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+level4_boss_1_5 has transparent translations de, ru
+level4_boss_2 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 level4_boss_2_1 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_2_1 has transparent translations de, pl, ru
+level4_boss_2_1 has transparent translations de, ru
 level4_boss_2_2 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_2_2 has transparent translations de, pl, ru
+level4_boss_2_2 has transparent translations de, ru
 level4_boss_2_3 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_2_3 has transparent translations de, pl, ru
+level4_boss_2_3 has transparent translations de, ru
 level4_boss_2_4 has missing translations el, es, id, it, ja, nl, sv, tr
-level4_boss_2_4 has transparent translations de, pl, ru
-level4_boss_3 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-level4_boss_4 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-level4_boss_5 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
-level4_boss_6 has extra translations de, el, es, fr, id, it, ja, nl, pl, pt, ru, sv, tr
+level4_boss_3 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+level4_boss_4 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+level4_boss_5 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
+level4_boss_6 has extra translations de, el, es, id, it, ja, nl, pt, ru, sv, tr
 level4_crogo_1 has transparent translations el, es
 level4_crogo_2 has transparent translations el, es, sv
 level4_crogo_3 has transparent translations es
 level4_crogo_4 has transparent translations el, es, sv
 level4_hairless_rat has missing translations el, es, id, it, ja, nl, sv, tr
-level4_hairless_rat has transparent translations de, pl, ru
+level4_hairless_rat has transparent translations de, ru
 level4_intro_1 has transparent translations es
 level4_intro_2 has transparent translations el, es, sv
 level4_intro_3 has transparent translations es
@@ -700,7 +704,6 @@ loading_10 has transparent translations es
 loading_11 has transparent translations es
 loading_12 has transparent translations es
 loading_13 has transparent translations el, es
-loading_2 has transparent translations es
 loading_3 has transparent translations el, es
 loading_4 has transparent translations es
 loading_5 has transparent translations es
@@ -745,96 +748,94 @@ mission_parkour has missing translations el, sv
 mission_parkour has transparent translations de, es, fr, id, it, nl, pt
 mission_race has missing translations el, sv
 mission_race has transparent translations de, es, it, pt
-mouse has extra translations pl, sv
+mouse has extra translations sv
 party_bee_1 has missing translations el, es, id, it, ja, nl, sv, tr
-party_bee_1 has transparent translations de, pl, ru
+party_bee_1 has transparent translations de, ru
 party_bee_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_bee_2 has transparent translations de, pl, ru
+party_bee_2 has transparent translations de, ru
 party_bee_3 has missing translations el, es, id, it, ja, nl, sv, tr
-party_bee_3 has transparent translations de, pl, ru
+party_bee_3 has transparent translations de, ru
 party_capitalos has missing translations el, es, id, it, ja, nl, sv, tr
-party_capitalos has transparent translations de, pl, ru
+party_capitalos has transparent translations de, ru
 party_capitalus has missing translations el, es, id, it, ja, nl, sv, tr
-party_capitalus has transparent translations de, pl, ru
+party_capitalus has transparent translations de, ru
 party_crocodile_1 has missing translations el, es, id, it, ja, nl, sv, tr
-party_crocodile_1 has transparent translations de, pl, ru
+party_crocodile_1 has transparent translations de, ru
 party_crocodile_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_crocodile_2 has transparent translations de, pl, ru
+party_crocodile_2 has transparent translations de, ru
 party_crocodile_3 has missing translations el, es, id, it, ja, nl, sv, tr
-party_crocodile_3 has transparent translations de, pl, ru
+party_crocodile_3 has transparent translations de, ru
 party_crocodile_4 has missing translations el, es, id, it, ja, nl, sv, tr
-party_crocodile_4 has transparent translations de, pl, ru
+party_crocodile_4 has transparent translations de, ru
 party_fennec_1 has missing translations el, es, id, it, ja, nl, sv, tr
-party_fennec_1 has transparent translations de, pl, ru
+party_fennec_1 has transparent translations de, ru
 party_fennec_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_fennec_2 has transparent translations de, pl, ru
+party_fennec_2 has transparent translations de, ru
 party_fennec_3 has missing translations el, es, id, it, ja, nl, sv, tr
-party_fennec_3 has transparent translations de, pl, ru
+party_fennec_3 has transparent translations de, ru
 party_fennec_4 has missing translations el, es, id, it, ja, nl, sv, tr
-party_fennec_4 has transparent translations de, pl, ru
+party_fennec_4 has transparent translations de, ru
 party_fennec_5 has missing translations el, es, id, it, ja, nl, sv, tr
-party_fennec_5 has transparent translations de, pl, ru
+party_fennec_5 has transparent translations de, ru
 party_penguin_1 has missing translations el, es, id, it, ja, nl, sv, tr
-party_penguin_1 has transparent translations de, pl, ru
+party_penguin_1 has transparent translations de, ru
 party_penguin_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_penguin_2 has transparent translations de, pl, ru
+party_penguin_2 has transparent translations de, ru
 party_queen has missing translations el, es, id, it, ja, nl, sv, tr
-party_queen has transparent translations de, pl, ru
+party_queen has transparent translations de, ru
 party_reindeer_1 has missing translations el, es, id, it, ja, nl, sv, tr
-party_reindeer_1 has transparent translations de, pl, ru
+party_reindeer_1 has transparent translations de, ru
 party_reindeer_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_reindeer_2 has transparent translations de, pl, ru
+party_reindeer_2 has transparent translations de, ru
 party_reindeer_3 has missing translations el, es, id, it, ja, nl, sv, tr
-party_reindeer_3 has transparent translations de, pl, ru
+party_reindeer_3 has transparent translations de, ru
 party_tristopio has missing translations el, es, id, it, ja, nl, sv, tr
-party_tristopio has transparent translations de, pl, ru
+party_tristopio has transparent translations de, ru
 party_turtle_1 has missing translations el, es, id, it, ja, nl, sv, tr
-party_turtle_1 has transparent translations de, pl, pt, ru
+party_turtle_1 has transparent translations de, ru
 party_turtle_2 has missing translations el, es, id, it, ja, nl, sv, tr
-party_turtle_2 has transparent translations de, pl, pt, ru
+party_turtle_2 has transparent translations de, pt, ru
 party_turtle_3 has missing translations el, es, id, it, ja, nl, sv, tr
-party_turtle_3 has transparent translations de, pl, ru
+party_turtle_3 has transparent translations de, ru
 party_turtle_4 has missing translations el, es, id, it, ja, nl, sv, tr
-party_turtle_4 has transparent translations de, pl, ru
+party_turtle_4 has transparent translations de, ru
 party_turtle_5 has missing translations el, es, id, it, ja, nl, sv, tr
-party_turtle_5 has transparent translations de, pl, ru
+party_turtle_5 has transparent translations de, ru
 party_turtle_6 has missing translations el, es, id, it, ja, nl, sv, tr
-party_turtle_6 has transparent translations de, pl, ru
-penguin has extra translations pl, sv
-queen has extra translations pl, sv
-rat_boss has extra translations pl, sv
-reindeer has extra translations pl, sv
+party_turtle_6 has transparent translations de, ru
+penguin has extra translations sv
+queen has extra translations sv
+rat_boss has extra translations sv
+reindeer has extra translations sv
 save_bear_tip_1 has missing translations el, sv
-save_bear_tip_1 has transparent translations de
 save_bear_tip_2 has missing translations el, sv
-save_bear_tip_2 has transparent translations de, es
-scientist has extra translations pl, sv
+save_bear_tip_2 has transparent translations es
+scientist has extra translations sv
 scientist_cutscene_1_1 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_1 has transparent translations de, pl, ru
+scientist_cutscene_1_1 has transparent translations de, ru
 scientist_cutscene_1_2 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_2 has transparent translations de, pl, ru
+scientist_cutscene_1_2 has transparent translations de, ru
 scientist_cutscene_1_3 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_3 has transparent translations de, pl, ru
+scientist_cutscene_1_3 has transparent translations de, ru
 scientist_cutscene_1_4 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_4 has transparent translations de, pl, ru
+scientist_cutscene_1_4 has transparent translations de, ru
 scientist_cutscene_1_5 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_5 has transparent translations de, pl, ru
+scientist_cutscene_1_5 has transparent translations de, ru
 scientist_cutscene_1_6 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_6 has transparent translations de, pl, ru
+scientist_cutscene_1_6 has transparent translations de, ru
 scientist_cutscene_1_7 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_1_7 has transparent translations de, pl, ru
+scientist_cutscene_1_7 has transparent translations de, ru
 scientist_cutscene_2_1 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_2_1 has transparent translations de, pl, ru
+scientist_cutscene_2_1 has transparent translations de, ru
 scientist_cutscene_2_2 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_2_2 has transparent translations de, pl, ru
+scientist_cutscene_2_2 has transparent translations de, ru
 scientist_cutscene_3_1 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_3_1 has transparent translations de, pl, ru
+scientist_cutscene_3_1 has transparent translations de, ru
 scientist_cutscene_3_2 has missing translations el, es, id, it, ja, nl, sv, tr
-scientist_cutscene_3_2 has transparent translations de, pl, ru
+scientist_cutscene_3_2 has transparent translations de, ru
 shicka_0_2 has transparent translations de, el, es, sv
 shicka_0_3 has transparent translations de, el, es, sv
 shicka_0_4 has missing translations sv
-shicka_0_4 has transparent translations el, es
 shicka_1_1 has transparent translations el, es, sv
 shicka_1_2 has transparent translations el, es, sv
 shicka_1_3 has transparent translations es
@@ -859,12 +860,12 @@ shicka_4_3 has transparent translations es
 shicka_4_4 has transparent translations de, el, es, sv
 shicka_4_5 has transparent translations es
 shicka_hive_1 has missing translations el, es, id, it, ja, nl, sv, tr
-shicka_hive_1 has transparent translations de, pl, ru
+shicka_hive_1 has transparent translations de, ru
 shicka_hive_2 has missing translations el, es, id, it, ja, nl, sv, tr
-shicka_hive_2 has transparent translations de, pl, ru
+shicka_hive_2 has transparent translations de, ru
 shicka_hive_3 has missing translations el, es, id, it, ja, nl, sv, tr
-shicka_hive_3 has transparent translations de, pl, ru
-sign has extra translations pl, sv
+shicka_hive_3 has transparent translations de, ru
+sign has extra translations sv
 sign_help has extra translations de, el, sv
 sticker_found has missing translations el, sv
 sticker_found has transparent translations de, es
@@ -879,7 +880,7 @@ studio_help_4 has transparent translations de, es
 studio_help_5 has missing translations el, sv
 studio_help_5 has transparent translations de, es
 time_format has missing translations el, sv
-time_format has transparent translations de, es, fr, it, ja, nl, pl, pt
+time_format has transparent translations de, es, fr, it, ja, nl, pt
 title_gameplay has transparent translations de, el, es, nl, pt, sv
 title_graphics1 has transparent translations el, es, nl, sv
 title_graphics2 has transparent translations el, es, sv
@@ -894,41 +895,35 @@ tristopio_practice_info has missing translations el, sv
 tristopio_practice_info has transparent translations de, es
 tristopio_start has missing translations el, sv
 tristopio_start has transparent translations de
-turtle has extra translations pl, sv
-tutorial_shicka_1 has multiple translations pl (2), ru (2)
-tutorial_shicka_1 has transparent translations de, pl
-tutorial_shicka_2 has multiple translations pl (2), ru (2)
-tutorial_shicka_2 has transparent translations de, pl
-tutorial_shicka_3 has multiple translations pl (2), ru (2)
-tutorial_shicka_3 has transparent translations de, pl, ru
-tutorial_shicka_4 has multiple translations pl (2), ru (2)
-tutorial_shicka_4 has transparent translations de, pl, ru
-tutorial_shicka_5 has multiple translations pl (2), ru (2)
-tutorial_shicka_5 has transparent translations de, pl, ru
-tutorial_shicka_6 has multiple translations pl (2), ru (2)
-tutorial_shicka_6 has transparent translations de, pl, ru
-tutorial_sign_01 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_02 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_03 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_04 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_05 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_06 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_07 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_08 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
+turtle has extra translations sv
+tutorial_shicka_1 has multiple translations ru (2)
+tutorial_shicka_2 has multiple translations ru (2)
+tutorial_shicka_3 has multiple translations ru (2)
+tutorial_shicka_4 has multiple translations ru (2)
+tutorial_shicka_5 has multiple translations ru (2)
+tutorial_shicka_6 has multiple translations ru (2)
+tutorial_sign_01 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_02 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_03 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_04 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_05 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_06 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_07 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_08 has missing translations el, es, id, it, ja, nl, ru, sv, tr
 tutorial_sign_08 has transparent translations de
-tutorial_sign_09 has missing translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_1 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+tutorial_sign_09 has missing translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_1 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 tutorial_sign_10 has transparent translations de, el, es, sv
 tutorial_sign_11 has transparent translations es
 tutorial_sign_12 has transparent translations de, el, es, sv
-tutorial_sign_2 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_3 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_4 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_5 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_6 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_7 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_8 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
-tutorial_sign_9 has extra translations el, es, id, it, ja, nl, pl, ru, sv, tr
+tutorial_sign_2 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_3 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_4 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_5 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_6 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_7 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_8 has extra translations el, es, id, it, ja, nl, ru, sv, tr
+tutorial_sign_9 has extra translations el, es, id, it, ja, nl, ru, sv, tr
 ui_100coins has transparent translations es, sv
 ui_100coins_desc has transparent translations es
 ui_2x_coins has transparent translations es, sv
@@ -962,20 +957,20 @@ ui_coin_detector has transparent translations es, sv
 ui_coin_detector_confirm has transparent translations el, es, sv
 ui_coin_detector_desc has transparent translations es, sv
 ui_coins has transparent translations es
-ui_coins_found has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
+ui_coins_found has missing translations de, el, es, id, it, ja, nl, ru, sv, tr
 ui_connected has transparent translations es, sv
-ui_cosm_already_own has extra translations pl, sv
+ui_cosm_already_own has extra translations sv
 ui_cosm_buy has missing translations el, sv
 ui_cosm_buy has transparent translations de, es
-ui_cosm_instead has extra translations pl, sv
+ui_cosm_instead has extra translations sv
 ui_cosm_new has transparent translations el, es
 ui_cosm_owned has missing translations el, sv
 ui_cosm_owned has transparent translations de, es
 ui_cosm_shop has missing translations el, sv
 ui_cosm_shop has transparent translations de
-ui_cosm_won has extra translations pl, sv
+ui_cosm_won has extra translations sv
 ui_credits has missing translations el, es, id, it, ja, nl, ru, sv, tr
-ui_credits has transparent translations de, pl
+ui_credits has transparent translations de
 ui_delete has transparent translations es, sv
 ui_deleteconfirm has transparent translations es, sv
 ui_disconnected has transparent translations es, sv
@@ -996,7 +991,7 @@ ui_fps_counter has transparent translations de, es, nl
 ui_framerate has transparent translations de, es, it, nl, sv
 ui_freed has transparent translations es, sv
 ui_game_creator has missing translations el, es, id, it, ja, nl, ru, sv, tr
-ui_game_creator has transparent translations de, pl
+ui_game_creator has transparent translations de
 ui_game_over has missing translations el, es, id, it, ja, nl, ru, sv, tr
 ui_game_over has transparent translations de, fr, pt
 ui_go has missing translations el, sv
@@ -1005,7 +1000,6 @@ ui_gold_time has transparent translations es
 ui_gyro_controls has extra translations el
 ui_gyroscope has transparent translations de, el, es, fr, sv
 ui_hide_inputs has transparent translations es, sv
-ui_hive has transparent translations el, es
 ui_hubconfirm has transparent translations es, sv
 ui_in has missing translations el, sv
 ui_in has transparent translations de, nl
@@ -1020,10 +1014,12 @@ ui_level2 has transparent translations es, sv
 ui_level3 has transparent translations es, sv
 ui_level4 has transparent translations de, el, es
 ui_life has transparent translations es, sv
-ui_light_probes has extra, but optional, translations de, el, es, fr, id, it, nl, pl, pt, ru, sv, tr
-ui_light_probes has transparent translations de, el, es, fr, sv
-ui_lightmaps has extra, but optional, translations de, el, es, fr, id, it, nl, pl, pt, ru, sv, tr
-ui_lightmaps has transparent translations de, el, es, fr, id, sv
+ui_light_probes has extra, but optional, translations de, el, es, id, it, nl, pl, pt, ru, sv, tr
+ui_light_probes has missing, but optional, translations fr
+ui_light_probes has transparent translations de, el, es, sv
+ui_lightmaps has extra, but optional, translations de, el, es, id, it, nl, pl, pt, ru, sv, tr
+ui_lightmaps has missing, but optional, translations fr
+ui_lightmaps has transparent translations de, el, es, id, sv
 ui_load has transparent translations es, sv
 ui_load_ad has missing translations sv
 ui_load_ad has transparent translations es
@@ -1047,7 +1043,7 @@ ui_open_shop has transparent translations de
 ui_options has transparent translations es
 ui_oxygen has transparent translations es, sv
 ui_performance has transparent translations de, es, fr, pt, sv
-ui_progression has missing translations de, el, es, id, it, ja, nl, pl, ru, sv, tr
+ui_progression has missing translations de, el, es, id, it, ja, nl, ru, sv, tr
 ui_quality has transparent translations es, sv
 ui_quality0 has transparent translations es, sv
 ui_quality1 has transparent translations de, es, fr, id, pt, sv

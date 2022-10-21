@@ -11,4 +11,3 @@ The following locales have missing translations:
 - tr
 The following locales have transparent translations:
 - de
-- pl
