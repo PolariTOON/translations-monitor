@@ -7,5 +7,4 @@ The following locales have transparent translations:
 - ru
 - tr
 The following locales have English-looking translations:
-- id
 - tr

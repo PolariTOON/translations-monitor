@@ -54,7 +54,11 @@ for (const [key, locales] of Object.entries(keys)) {
 		return locale !== "en" && locales[locale].filter((value) => {
 			const scores = Object.fromEntries(languageDetect.detect(value));
 			const englishLooking = (scores["en"] ?? Number.NEGATIVE_INFINITY) > (scores[locale] ?? Number.POSITIVE_INFINITY);
-			return englishLooking;
+			return englishLooking && locales["en"].filter((value) => {
+				const scores = Object.fromEntries(languageDetect.detect(value));
+				const englishLooking = (scores["en"] ?? Number.NEGATIVE_INFINITY) > (scores[locale] ?? Number.POSITIVE_INFINITY);
+				return englishLooking;
+			}).length > 0;
 		}).length > 0;
 	});
 	for (const locale of extraLocales) {

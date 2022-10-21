@@ -98,17 +98,10 @@ The following keys have transparent translations:
 - time_format
 - ui_game_over
 The following keys have English-looking translations:
-- action_jump
-- binding_axis
-- char_crocodile
 - char_mouse
-- cosmetic_010
-- cosmetic_017
 - cosmetic_020
-- cosmetic_021
 - cosmetic_022
 - cosmetic_035
-- cosmetic_070
 - cosmetic_088
 - cosmetic_104
 - filter_10
@@ -121,9 +114,7 @@ The following keys have English-looking translations:
 - photo_save
 - ui_game_over
 - ui_hive
-- ui_language
 - ui_level3
 - ui_new_best
-- ui_own
 - ui_reversed
 - ui_time

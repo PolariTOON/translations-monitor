@@ -15,4 +15,3 @@ The following locales have missing, but optional, translations:
 - sv
 The following locales have English-looking translations:
 - id
-- tr

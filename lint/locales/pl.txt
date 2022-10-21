@@ -104,7 +104,6 @@ The following keys have transparent translations:
 - ui_start
 - ui_timer
 The following keys have English-looking translations:
-- action_brake
 - action_center_camera
 - char_bear_04
 - char_bear_05
@@ -112,21 +111,15 @@ The following keys have English-looking translations:
 - char_brother
 - char_reindeer
 - cosmetic_001
-- cosmetic_046
 - cosmetic_077
 - cosmetic_097
 - cosmetic_104
-- cosmetic_105
-- filter_03
-- filter_07
 - filter_14
 - filter_18
-- filter_19
 - filter_24
 - filter_36
 - hive_task_boss
 - hub_bear_26
-- hub_bear_30
 - iap_noads_desc_2
 - iap_premium_status_1
 - iap_premium_title
@@ -142,9 +135,5 @@ The following keys have English-looking translations:
 - ui_coins
 - ui_coins_found
 - ui_fancy_shaders
-- ui_flowers
-- ui_level3
 - ui_progression
 - ui_save_kingdom
-- ui_shop
-- ui_version

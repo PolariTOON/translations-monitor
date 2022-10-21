@@ -3,7 +3,6 @@ The following locales have missing translations:
 - ja
 - sv
 The following locales have English-looking translations:
-- de
 - es
 - id
 - tr

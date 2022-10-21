@@ -7,5 +7,3 @@ The following locales have transparent translations:
 - es
 - it
 - pt
-The following locales have English-looking translations:
-- pl

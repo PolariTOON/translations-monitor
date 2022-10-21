@@ -5,5 +5,4 @@ The following locales have missing translations:
 The following locales have transparent translations:
 - nl
 The following locales have English-looking translations:
-- it
 - pt

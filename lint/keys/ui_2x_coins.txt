@@ -3,5 +3,4 @@ The following locales have missing translations:
 - sv
 The following locales have English-looking translations:
 - es
-- id
 - pl

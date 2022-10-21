@@ -7,4 +7,3 @@ The following locales have transparent translations:
 - fr
 The following locales have English-looking translations:
 - id
-- pl
