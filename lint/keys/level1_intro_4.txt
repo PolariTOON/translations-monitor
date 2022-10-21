@@ -1,4 +1,4 @@
-Translation coverage: 4 / 14 required (28.57%), 0 / 0 optional (100.00%)
+Translation coverage: 5 / 14 required (35.71%), 0 / 0 optional (100.00%)
 The following locales have missing translations:
 - el
 - es
@@ -6,7 +6,6 @@ The following locales have missing translations:
 - it
 - ja
 - nl
-- pl
 - ru
 - sv
 - tr

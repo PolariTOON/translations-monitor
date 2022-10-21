@@ -6,7 +6,6 @@ The following locales have extra translations:
 - it
 - ja
 - nl
-- pl
 - ru
 - sv
 - tr

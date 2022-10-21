@@ -9,5 +9,4 @@ The following locales have transparent translations:
 - it
 - ja
 - nl
-- pl
 - pt

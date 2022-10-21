@@ -1,4 +1,4 @@
-Translation coverage: 557 / 593 required (93.93%), 2 / 41 optional (4.88%)
+Translation coverage: 557 / 601 required (92.68%), 2 / 41 optional (4.88%)
 The following keys have extra translations:
 - arcade_intro_2
 - final_boss_1_1
@@ -76,14 +76,22 @@ The following keys have extra, but optional, translations:
 - ui_light_probes
 - ui_lightmaps
 The following keys have missing translations:
+- arcade_race_1
+- arcade_race_2
+- arcade_race_3
+- arcade_race_4
+- arcade_timer
 - cosmetic_099
 - cosmetic_100
 - cosmetic_101
 - cosmetic_102
 - hive_shop
+- hive_shop_equip
+- hive_shop_unequip
 - hive_task_boss
 - hive_task_gold
 - hive_task_level
+- hive_task_unlock
 - hub_bear_01
 - hub_bear_02
 - hub_bear_03
@@ -279,19 +287,9 @@ The following keys have transparent translations:
 - hive_ending_2
 - hive_ending_3
 - hive_ending_4
-- level1_boss_1_1
-- level1_boss_1_2
-- level1_boss_1_3
-- level1_boss_1_4
-- level1_boss_2_1
-- level1_boss_2_2
-- level1_boss_2_3
 - level1_tutorial_1
 - level1_tutorial_2
 - level1_tutorial_3
-- level2_boss_3
-- level2_boss_4
-- level2_boss_5
 - level3_boss_1_1
 - level3_boss_1_2
 - level3_boss_1_3
@@ -306,7 +304,6 @@ The following keys have transparent translations:
 - level4_boss_2_1
 - level4_boss_2_2
 - level4_boss_2_3
-- level4_boss_2_4
 - level4_hairless_rat
 - party_bee_1
 - party_bee_2
@@ -349,7 +346,3 @@ The following keys have transparent translations:
 - shicka_hive_1
 - shicka_hive_2
 - shicka_hive_3
-- tutorial_shicka_3
-- tutorial_shicka_4
-- tutorial_shicka_5
-- tutorial_shicka_6
