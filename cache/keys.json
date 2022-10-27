@@ -253,7 +253,7 @@
 	},
 	"arcade_1_1": {
 		"de": [
-			"Das Rennspiel ist eine Zeitstrecke. Nach jeder Runde erhältst du Münzen basierend auf der Zeit die du für diese Runde benötigt hast."
+			"Das Spiel Rennspiel ist ein Zeitfahren. Nach jeder Runde erhältst du Münzen für die Zeit, die du für die Runde gebraucht hast."
 		],
 		"el": [
 			"Το Παιχνίδι Αγώνα είναι μια δοκιμή χρόνου. Μετά από κάθε γύρο κερδίζεις κέρματα με βάση το χρόνο που σου πήρε για να ολοκληρώσεις τον γύρο."
@@ -481,7 +481,7 @@
 			"Co 15 platform zmienia się parkour. Obecne typy to: normalny, ścienny, wodny i lodowy."
 		],
 		"pt": [
-			"A cada 15 plataformas, o tipo do parkour muda. Os atuais são: normal, parede, água, gelo e ritmo"
+			"A cada 15 plataformas, o tipo do parkour muda. Os atuais são: normal, parede, água, gelo e ritmo."
 		],
 		"ru": [
 			"Каждые 15 платформ, тип паркура будет меняться."
@@ -525,7 +525,7 @@
 			"Kręcące wędziska są o unikaniu kolcy, podczas gdy pręty się obracają. Unikaj wyrzucenia z platformy!"
 		],
 		"pt": [
-			"O jogo Bastões Giratórios consiste em desviar dos espinhos enquanto os batões giram. Evite ser jogado pra fora da plataforma!"
+			"O jogo Bastões Giratórios consiste em desviar dos espinhos enquanto os bastões giram. Evite ser jogado pra fora da plataforma!"
 		],
 		"ru": [
 			"Крутящиеся стержни заключаются в том, чтобы избегать шипов, пока стержни вращаются. Избегайте столкновения с платформы!"
@@ -713,8 +713,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Klasyczny"
+		],
+		"pt": [
+			"Clássico"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -733,8 +737,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Pętle"
+		],
+		"pt": [
+			"Looping"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -753,8 +761,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Pustynia"
+		],
+		"pt": [
+			"Deserto"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -773,8 +785,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Tuby"
+		],
+		"pt": [
+			"Tubos"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -793,8 +809,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Aktualny://Najlepszy:"
+		],
+		"pt": [
+			"Atual://Melhor:"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -1927,7 +1947,7 @@
 	},
 	"char_bee": {
 		"de": [
-			"Bee"
+			"Biene"
 		],
 		"el": [],
 		"en": [
@@ -2481,27 +2501,9 @@
 			"Kaplumbağa"
 		]
 	},
-	"cosmetic _102": {
-		"de": [],
-		"el": [],
-		"en": [],
-		"es": [],
-		"fr": [],
-		"id": [],
-		"it": [],
-		"ja": [],
-		"nl": [],
-		"pl": [
-			"Szlak dusz"
-		],
-		"pt": [],
-		"ru": [],
-		"sv": [],
-		"tr": []
-	},
 	"cosmetic_001": {
 		"de": [
-			"Bandit mask"
+			"Banditenmaske"
 		],
 		"el": [],
 		"en": [
@@ -2529,7 +2531,7 @@
 	},
 	"cosmetic_002": {
 		"de": [
-			"Cap (red)"
+			"Kappe (rot)"
 		],
 		"el": [],
 		"en": [
@@ -2557,7 +2559,7 @@
 	},
 	"cosmetic_003": {
 		"de": [
-			"Cap (blue)"
+			"Kappe (blau)"
 		],
 		"el": [],
 		"en": [
@@ -2585,7 +2587,7 @@
 	},
 	"cosmetic_004": {
 		"de": [
-			"Unicorn"
+			"Einhorn"
 		],
 		"el": [],
 		"en": [
@@ -2613,7 +2615,7 @@
 	},
 	"cosmetic_005": {
 		"de": [
-			"Punk hair"
+			"Punk Haar"
 		],
 		"el": [],
 		"en": [
@@ -2669,7 +2671,7 @@
 	},
 	"cosmetic_007": {
 		"de": [
-			"Crown"
+			"Krone"
 		],
 		"el": [],
 		"en": [
@@ -2697,7 +2699,7 @@
 	},
 	"cosmetic_008": {
 		"de": [
-			"White eyes"
+			"Weiße Augen"
 		],
 		"el": [],
 		"en": [
@@ -2725,7 +2727,7 @@
 	},
 	"cosmetic_009": {
 		"de": [
-			"BIG EYES"
+			"GROSSE AUGEN"
 		],
 		"el": [],
 		"en": [
@@ -2753,7 +2755,7 @@
 	},
 	"cosmetic_010": {
 		"de": [
-			"BIG EARS"
+			"GROSSE OHREN"
 		],
 		"el": [],
 		"en": [
@@ -2781,7 +2783,7 @@
 	},
 	"cosmetic_011": {
 		"de": [
-			"Long hair (black)"
+			"Langes Haar (schwarz)"
 		],
 		"el": [],
 		"en": [
@@ -2809,7 +2811,7 @@
 	},
 	"cosmetic_012": {
 		"de": [
-			"Gas mask"
+			"Gasmaske"
 		],
 		"el": [],
 		"en": [
@@ -2837,7 +2839,7 @@
 	},
 	"cosmetic_013": {
 		"de": [
-			"Swollen head"
+			"Geschwollener Kopf"
 		],
 		"el": [],
 		"en": [
@@ -2865,7 +2867,7 @@
 	},
 	"cosmetic_014": {
 		"de": [
-			"Polar bear"
+			"Eisbär"
 		],
 		"el": [],
 		"en": [
@@ -2893,7 +2895,7 @@
 	},
 	"cosmetic_015": {
 		"de": [
-			"Fat body"
+			"Fetter Körper"
 		],
 		"el": [],
 		"en": [
@@ -2921,7 +2923,7 @@
 	},
 	"cosmetic_016": {
 		"de": [
-			"Muscular body"
+			"Muskulöser Körper"
 		],
 		"el": [],
 		"en": [
@@ -2949,7 +2951,7 @@
 	},
 	"cosmetic_017": {
 		"de": [
-			"Bowtie"
+			"Fliege"
 		],
 		"el": [],
 		"en": [
@@ -2977,7 +2979,7 @@
 	},
 	"cosmetic_018": {
 		"de": [
-			"Golden bear"
+			"Goldener Bär"
 		],
 		"el": [],
 		"en": [
@@ -3005,7 +3007,7 @@
 	},
 	"cosmetic_019": {
 		"de": [
-			"Golden Shicka"
+			"Goldene Shicka"
 		],
 		"el": [],
 		"en": [
@@ -3033,7 +3035,7 @@
 	},
 	"cosmetic_020": {
 		"de": [
-			"Red Shicka"
+			"Rote Shicka"
 		],
 		"el": [],
 		"en": [
@@ -3061,7 +3063,7 @@
 	},
 	"cosmetic_021": {
 		"de": [
-			"Green Shicka"
+			"Grün Shicka"
 		],
 		"el": [],
 		"en": [
@@ -3089,7 +3091,7 @@
 	},
 	"cosmetic_022": {
 		"de": [
-			"Pink bear"
+			"Pink Bär"
 		],
 		"el": [],
 		"en": [
@@ -3117,7 +3119,7 @@
 	},
 	"cosmetic_023": {
 		"de": [
-			"Glasses"
+			"Brille"
 		],
 		"el": [],
 		"en": [
@@ -3145,7 +3147,7 @@
 	},
 	"cosmetic_024": {
 		"de": [
-			"Capitalus' suit"
+			"Capitalus Anzug"
 		],
 		"el": [],
 		"en": [
@@ -3173,7 +3175,7 @@
 	},
 	"cosmetic_025": {
 		"de": [
-			"Angel ring"
+			"Engelsring"
 		],
 		"el": [],
 		"en": [
@@ -3201,7 +3203,7 @@
 	},
 	"cosmetic_026": {
 		"de": [
-			"Santa hat"
+			"Weihnachtsmannmütze"
 		],
 		"el": [],
 		"en": [
@@ -3229,7 +3231,7 @@
 	},
 	"cosmetic_027": {
 		"de": [
-			"Beard (black)"
+			"Bart (schwarz)"
 		],
 		"el": [],
 		"en": [
@@ -3257,7 +3259,7 @@
 	},
 	"cosmetic_028": {
 		"de": [
-			"Reversed head"
+			"Umgedrehter Kopf"
 		],
 		"el": [],
 		"en": [
@@ -3285,7 +3287,7 @@
 	},
 	"cosmetic_029": {
 		"de": [
-			"Dark Shicka"
+			"Dunkle Shicka"
 		],
 		"el": [],
 		"en": [
@@ -3313,7 +3315,7 @@
 	},
 	"cosmetic_030": {
 		"de": [
-			"Beard (white)"
+			"Bart (weiß)"
 		],
 		"el": [],
 		"en": [
@@ -3341,7 +3343,7 @@
 	},
 	"cosmetic_031": {
 		"de": [
-			"Long hair (white)"
+			"Langes Haar (weiß)"
 		],
 		"el": [],
 		"en": [
@@ -3369,7 +3371,7 @@
 	},
 	"cosmetic_032": {
 		"de": [
-			"Santa head"
+			"Weihnachtsmannkopf"
 		],
 		"el": [],
 		"en": [
@@ -3397,7 +3399,7 @@
 	},
 	"cosmetic_033": {
 		"de": [
-			"Businessbear suit"
+			"Businessbär Anzug"
 		],
 		"el": [],
 		"en": [
@@ -3425,7 +3427,7 @@
 	},
 	"cosmetic_034": {
 		"de": [
-			"Shirt (red)"
+			"Hemd (rot)"
 		],
 		"el": [],
 		"en": [
@@ -3453,7 +3455,7 @@
 	},
 	"cosmetic_035": {
 		"de": [
-			"Retro bear"
+			"Retro Bär"
 		],
 		"el": [],
 		"en": [
@@ -3509,7 +3511,7 @@
 	},
 	"cosmetic_037": {
 		"de": [
-			"Banana hat"
+			"Bananenhut"
 		],
 		"el": [],
 		"en": [
@@ -3537,7 +3539,7 @@
 	},
 	"cosmetic_038": {
 		"de": [
-			"Santa suit"
+			"Weihnachtsmannkostüm"
 		],
 		"el": [],
 		"en": [
@@ -3565,7 +3567,7 @@
 	},
 	"cosmetic_039": {
 		"de": [
-			"Desert bear"
+			"Wüstenbär"
 		],
 		"el": [],
 		"en": [
@@ -3593,7 +3595,7 @@
 	},
 	"cosmetic_040": {
 		"de": [
-			"Crocodile bear"
+			"Krokodil Bär"
 		],
 		"el": [],
 		"en": [
@@ -3621,7 +3623,7 @@
 	},
 	"cosmetic_041": {
 		"de": [
-			"Fennec head"
+			"Fennek Kopf"
 		],
 		"el": [],
 		"en": [
@@ -3649,7 +3651,7 @@
 	},
 	"cosmetic_042": {
 		"de": [
-			"Ghost Shicka"
+			"Geist Shicka"
 		],
 		"el": [],
 		"en": [
@@ -3677,7 +3679,7 @@
 	},
 	"cosmetic_043": {
 		"de": [
-			"Rainbow bear"
+			"Regenbogen Bär"
 		],
 		"el": [],
 		"en": [
@@ -3705,7 +3707,7 @@
 	},
 	"cosmetic_044": {
 		"de": [
-			"Bear mask"
+			"Bärenmaske"
 		],
 		"el": [],
 		"en": [
@@ -3733,7 +3735,7 @@
 	},
 	"cosmetic_045": {
 		"de": [
-			"Neutral face"
+			"Neutrales Gesicht"
 		],
 		"el": [],
 		"en": [
@@ -3761,7 +3763,7 @@
 	},
 	"cosmetic_046": {
 		"de": [
-			"Headless"
+			"Kopflos"
 		],
 		"el": [],
 		"en": [
@@ -3789,7 +3791,7 @@
 	},
 	"cosmetic_047": {
 		"de": [
-			"Shirt (king)"
+			"Hemd (König)"
 		],
 		"el": [],
 		"en": [
@@ -3845,7 +3847,7 @@
 	},
 	"cosmetic_049": {
 		"de": [
-			"Capitalus' head"
+			"Capitalus Kopf"
 		],
 		"el": [],
 		"en": [
@@ -3873,7 +3875,7 @@
 	},
 	"cosmetic_050": {
 		"de": [
-			"Rainbow trails"
+			"Regenbogenspuren"
 		],
 		"el": [],
 		"en": [
@@ -3901,7 +3903,7 @@
 	},
 	"cosmetic_051": {
 		"de": [
-			"Outline"
+			"Umriss"
 		],
 		"el": [],
 		"en": [
@@ -3929,7 +3931,7 @@
 	},
 	"cosmetic_052": {
 		"de": [
-			"Skeleton body"
+			"Skelett Körper"
 		],
 		"el": [],
 		"en": [
@@ -3957,7 +3959,7 @@
 	},
 	"cosmetic_053": {
 		"de": [
-			"Shirt (spooky)"
+			"Shirt (gruselig)"
 		],
 		"el": [],
 		"en": [
@@ -3985,7 +3987,7 @@
 	},
 	"cosmetic_054": {
 		"de": [
-			"Axe head"
+			"Axt Kopf"
 		],
 		"el": [],
 		"en": [
@@ -4013,7 +4015,7 @@
 	},
 	"cosmetic_055": {
 		"de": [
-			"Pumpkin"
+			"Kürbis"
 		],
 		"el": [],
 		"en": [
@@ -4041,7 +4043,7 @@
 	},
 	"cosmetic_056": {
 		"de": [
-			"Jack O'Lantern"
+			"Jack mit Laterne"
 		],
 		"el": [],
 		"en": [
@@ -4069,7 +4071,7 @@
 	},
 	"cosmetic_057": {
 		"de": [
-			"Skull"
+			"Schädel"
 		],
 		"el": [],
 		"en": [
@@ -4097,7 +4099,7 @@
 	},
 	"cosmetic_058": {
 		"de": [
-			"Donator crown"
+			"Spenderkrone"
 		],
 		"el": [],
 		"en": [
@@ -4125,7 +4127,7 @@
 	},
 	"cosmetic_059": {
 		"de": [
-			"Egg head"
+			"Ei Kopf"
 		],
 		"el": [],
 		"en": [
@@ -4153,7 +4155,7 @@
 	},
 	"cosmetic_060": {
 		"de": [
-			"Egg hat"
+			"Ei Hut"
 		],
 		"el": [],
 		"en": [
@@ -4181,7 +4183,7 @@
 	},
 	"cosmetic_061": {
 		"de": [
-			"Easter egg"
+			"Oster Ei"
 		],
 		"el": [],
 		"en": [
@@ -4209,7 +4211,7 @@
 	},
 	"cosmetic_062": {
 		"de": [
-			"Fried egg"
+			"Spiegelei"
 		],
 		"el": [],
 		"en": [
@@ -4237,7 +4239,7 @@
 	},
 	"cosmetic_063": {
 		"de": [
-			"Rabbit head"
+			"Hasenkopf"
 		],
 		"el": [],
 		"en": [
@@ -4265,7 +4267,7 @@
 	},
 	"cosmetic_064": {
 		"de": [
-			"Chocolate body"
+			"Schokoladen Körper"
 		],
 		"el": [],
 		"en": [
@@ -4293,7 +4295,7 @@
 	},
 	"cosmetic_065": {
 		"de": [
-			"Pacifier"
+			"Schnuller"
 		],
 		"el": [],
 		"en": [
@@ -4321,7 +4323,7 @@
 	},
 	"cosmetic_066": {
 		"de": [
-			"Diaper"
+			"Windel"
 		],
 		"el": [],
 		"en": [
@@ -4349,7 +4351,7 @@
 	},
 	"cosmetic_067": {
 		"de": [
-			"Lab coat"
+			"Laborkittel"
 		],
 		"el": [],
 		"en": [
@@ -4377,7 +4379,7 @@
 	},
 	"cosmetic_068": {
 		"de": [
-			"Invisible Shicka"
+			"Unsichtbare Shicka"
 		],
 		"el": [],
 		"en": [
@@ -4433,7 +4435,7 @@
 	},
 	"cosmetic_070": {
 		"de": [
-			"8-bit bear"
+			"8-Bit Bär"
 		],
 		"el": [],
 		"en": [
@@ -4461,7 +4463,7 @@
 	},
 	"cosmetic_071": {
 		"de": [
-			"Sackbear"
+			"Sackbär"
 		],
 		"el": [],
 		"en": [
@@ -4489,7 +4491,7 @@
 	},
 	"cosmetic_072": {
 		"de": [
-			"Tower of Hanoi"
+			"Turm von Hanoi"
 		],
 		"el": [],
 		"en": [
@@ -4517,7 +4519,7 @@
 	},
 	"cosmetic_073": {
 		"de": [
-			"Black bear"
+			"Schwarzer Bär"
 		],
 		"el": [],
 		"en": [
@@ -4545,7 +4547,7 @@
 	},
 	"cosmetic_074": {
 		"de": [
-			"Dark bear"
+			"Dunkler Bär"
 		],
 		"el": [],
 		"en": [
@@ -4573,7 +4575,7 @@
 	},
 	"cosmetic_075": {
 		"de": [
-			"Jacket (brown)"
+			"Jacke (braun)"
 		],
 		"el": [],
 		"en": [
@@ -4601,7 +4603,7 @@
 	},
 	"cosmetic_076": {
 		"de": [
-			"Jacket (denim)"
+			"Jacke (Denim)"
 		],
 		"el": [],
 		"en": [
@@ -4629,7 +4631,7 @@
 	},
 	"cosmetic_077": {
 		"de": [
-			"Penguin Shicka"
+			"Pinguin Shicka"
 		],
 		"el": [],
 		"en": [
@@ -4657,7 +4659,7 @@
 	},
 	"cosmetic_078": {
 		"de": [
-			"Bear Shicka"
+			"Bär Shicka"
 		],
 		"el": [],
 		"en": [
@@ -4685,7 +4687,7 @@
 	},
 	"cosmetic_079": {
 		"de": [
-			"Shicka bear"
+			"Shicka Bär"
 		],
 		"el": [],
 		"en": [
@@ -4713,7 +4715,7 @@
 	},
 	"cosmetic_080": {
 		"de": [
-			"Rainbow Shicka"
+			"Regenbogen Shicka"
 		],
 		"el": [],
 		"en": [
@@ -4741,7 +4743,7 @@
 	},
 	"cosmetic_081": {
 		"de": [
-			"VR headset"
+			"VR Headset"
 		],
 		"el": [],
 		"en": [
@@ -4769,7 +4771,7 @@
 	},
 	"cosmetic_082": {
 		"de": [
-			"Cosmic bear"
+			"Kosmischer Bär"
 		],
 		"el": [],
 		"en": [
@@ -4797,7 +4799,7 @@
 	},
 	"cosmetic_083": {
 		"de": [
-			"Soccer cap"
+			"Fußballmütze"
 		],
 		"el": [],
 		"en": [
@@ -4815,7 +4817,7 @@
 			"Piłkarska czapka z daszkiem"
 		],
 		"pt": [
-			"Canhão de futebol"
+			"Chapéu de futebol"
 		],
 		"ru": [
 			"Soccer cap"
@@ -4825,7 +4827,7 @@
 	},
 	"cosmetic_084": {
 		"de": [
-			"Bobble head"
+			"Wackelkopf"
 		],
 		"el": [],
 		"en": [
@@ -4853,7 +4855,7 @@
 	},
 	"cosmetic_085": {
 		"de": [
-			"Bobble Shicka"
+			"Bommel Schicka"
 		],
 		"el": [],
 		"en": [
@@ -4871,7 +4873,7 @@
 			"Shicka Bobble"
 		],
 		"pt": [
-			"Bobble Shicka"
+			"Shicka bobble"
 		],
 		"ru": [
 			"Bobble Shicka"
@@ -4881,7 +4883,7 @@
 	},
 	"cosmetic_086": {
 		"de": [
-			"Brittany hat"
+			"Bretagne Hut"
 		],
 		"el": [],
 		"en": [
@@ -4909,7 +4911,7 @@
 	},
 	"cosmetic_087": {
 		"de": [
-			"Cape (red)"
+			"Umhang (rot)"
 		],
 		"el": [],
 		"en": [
@@ -4937,7 +4939,7 @@
 	},
 	"cosmetic_088": {
 		"de": [
-			"Cape (bear)"
+			"Umhang (Bär)"
 		],
 		"el": [],
 		"en": [
@@ -4965,7 +4967,7 @@
 	},
 	"cosmetic_089": {
 		"de": [
-			"Cartoon eyes"
+			"Cartoon Augen"
 		],
 		"el": [],
 		"en": [
@@ -4993,7 +4995,7 @@
 	},
 	"cosmetic_090": {
 		"de": [
-			"Vampire head"
+			"Vampirkopf"
 		],
 		"el": [],
 		"en": [
@@ -5021,7 +5023,7 @@
 	},
 	"cosmetic_091": {
 		"de": [
-			"Dice"
+			"Würfel"
 		],
 		"el": [],
 		"en": [
@@ -5049,7 +5051,7 @@
 	},
 	"cosmetic_092": {
 		"de": [
-			"Witch hat"
+			"Hexenhut"
 		],
 		"el": [],
 		"en": [
@@ -5077,7 +5079,7 @@
 	},
 	"cosmetic_093": {
 		"de": [
-			"Cosmic Shicka"
+			"Kosmische Shicka"
 		],
 		"el": [],
 		"en": [
@@ -5105,7 +5107,7 @@
 	},
 	"cosmetic_094": {
 		"de": [
-			"IMABEAR"
+			"ICHBINBÄR"
 		],
 		"el": [],
 		"en": [
@@ -5133,7 +5135,7 @@
 	},
 	"cosmetic_095": {
 		"de": [
-			"Scarf (red)"
+			"Schal (rot)"
 		],
 		"el": [],
 		"en": [
@@ -5161,7 +5163,7 @@
 	},
 	"cosmetic_096": {
 		"de": [
-			"Scarf (blue)"
+			"Schal (blau)"
 		],
 		"el": [],
 		"en": [
@@ -5189,7 +5191,7 @@
 	},
 	"cosmetic_097": {
 		"de": [
-			"Yeti mask"
+			"Yeti Maske"
 		],
 		"el": [],
 		"en": [
@@ -5217,7 +5219,7 @@
 	},
 	"cosmetic_098": {
 		"de": [
-			"Turtle shell"
+			"Schildkrötenpanzer"
 		],
 		"el": [],
 		"en": [
@@ -5257,8 +5259,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Kupa piasku"
+		],
+		"pt": [
+			"Pilhas de areia"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -5280,7 +5286,9 @@
 		"pl": [
 			"Mały niedźwiedź"
 		],
-		"pt": [],
+		"pt": [
+			"Ursinho"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -5302,7 +5310,9 @@
 		"pl": [
 			"Fioletowy niedźwiedź"
 		],
-		"pt": [],
+		"pt": [
+			"Urso roxo"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -5321,15 +5331,19 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Szlak dusz"
+		],
+		"pt": [
+			"Rastro fantasma"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
 	},
 	"cosmetic_default": {
 		"de": [
-			"Default"
+			"Standard"
 		],
 		"el": [],
 		"en": [
@@ -5352,24 +5366,6 @@
 		"ru": [
 			"Default"
 		],
-		"sv": [],
-		"tr": []
-	},
-	"cosmstic_099": {
-		"de": [],
-		"el": [],
-		"en": [],
-		"es": [],
-		"fr": [],
-		"id": [],
-		"it": [],
-		"ja": [],
-		"nl": [],
-		"pl": [
-			"Kupa piasku"
-		],
-		"pt": [],
-		"ru": [],
 		"sv": [],
 		"tr": []
 	},
@@ -6509,7 +6505,7 @@
 	},
 	"hive_boss_1_1": {
 		"de": [
-			"I was waiting for you... Baaren. What a beautiful place to meet again."
+			"Ich habe auf dich gewartet... Baaren. Was für ein schöner Ort für ein Wiedersehen."
 		],
 		"el": [],
 		"en": [
@@ -6527,7 +6523,7 @@
 			"Czekałem na ciebie... Baaren. Cóż za piękne miejsce na spotkanie znów."
 		],
 		"pt": [
-			"Eu estava espreando por você... Baaren. Que belo lugar para nos encontrarmos novamente."
+			"Eu estava esperando por você... Baaren. Que belo lugar para nos encontrarmos novamente."
 		],
 		"ru": [
 			"I was waiting for you... Baaren. What a beautiful place to meet again."
@@ -6537,7 +6533,7 @@
 	},
 	"hive_boss_1_2": {
 		"de": [
-			"You freed those bears just to annihilate my efforts. If the bears controlled the kingdom, we would have everything we desire. We could reclaim the power we once had."
+			"Du hast diese Bären freigelassen, nur um meine Bemühungen zu vernichten. Wenn die Bären das Königreich kontrollieren würden, hätten wir alles, was wir uns wünschen. Wir könnten die Macht zurückgewinnen, die wir einst hatten."
 		],
 		"el": [],
 		"en": [
@@ -6555,7 +6551,7 @@
 			"Uratowałeś te niedźwiedzie tylko dlatego żeby zniszczyć moje starania. Jeśli niedźwiedzie by panowały nad królestwem, mogli byśmy mieć wszystko czego pragniemy. Moglibyśmy odzyskać moc, którą kiedyś mieliśmy."
 		],
 		"pt": [
-			"Você libertou esses ursos apenas para aniquilar meus esforços. Se os ursos controlarem o reino, poderíamos ter tudo o que desejarmos. Poderíamos recuperar o poder que uma vez tivermos."
+			"Você libertou esses ursos apenas para aniquilar meus esforços. Se os ursos controlarem o reino, vamos poder ter tudo o que desejarmos. Poderíamos recuperar o poder que uma vez tivemos."
 		],
 		"ru": [
 			"You freed those bears just to annihilate my efforts. If the bears controlled the kingdom, we would have everything we desire. We could reclaim the power we once had."
@@ -6565,7 +6561,7 @@
 	},
 	"hive_boss_1_3": {
 		"de": [
-			"Unfortunately, my fellow bears prefer peace and want to live with other animals as equals. This is pathetic, what a lack of ambitions. Even you, my own brother, betrayed me."
+			"Leider ziehen meine Bärenfreunde den Frieden vor und wollen mit anderen Tieren gleichberechtigt zusammenleben. Das ist erbärmlich, was für ein Mangel an Ehrgeiz. Selbst du, mein eigener Bruder, hast mich verraten."
 		],
 		"el": [],
 		"en": [
@@ -6593,7 +6589,7 @@
 	},
 	"hive_boss_1_4": {
 		"de": [
-			"The Kernel is quite wonderful, isn’t it? I used its powers to control Queen Beeatrice and take over the bees."
+			"Der Kernel ist ganz wunderbar, nicht wahr? Ich habe seine Kräfte genutzt, um die Königin Beeatrice zu kontrollieren und die Bienen zu übernehmen."
 		],
 		"el": [],
 		"en": [
@@ -6621,7 +6617,7 @@
 	},
 	"hive_boss_1_5": {
 		"de": [
-			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion…"
+			"Ich habe meine Experimente mit diesem magischen Artefakt fortgesetzt und verstehe es jetzt besser als jeder andere. Ich kann jetzt den Verstand von Bären kontrollieren! Jetzt, wo ihr hier seid, kann ich eure Rebellion niederschlagen..."
 		],
 		"el": [],
 		"en": [
@@ -6639,7 +6635,7 @@
 			"Kontynuowałem swoje eksperymenty z magicznym artefaktem i teraz rozumiem to bardziej niż ktokolwiek. Teraz mogę kontrolować umysły niedźwiedzi! Teraz jak tu jesteś, to mogę zmiażdżyć twój bunt…"
 		],
 		"pt": [
-			"Eu continuei meus experimentos com este artefato mágico e agora entendo mais que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião…"
+			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião…"
 		],
 		"ru": [
 			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion…"
@@ -6649,7 +6645,7 @@
 	},
 	"hive_boss_1_6": {
 		"de": [
-			"Don’t move, it won’t hurt. Probably."
+			"Beweg dich nicht, es wird nicht wehtun. Wahrscheinlich."
 		],
 		"el": [],
 		"en": [
@@ -6677,7 +6673,7 @@
 	},
 	"hive_boss_1_7": {
 		"de": [
-			"Wow, that was close!"
+			"Wow, das war knapp!"
 		],
 		"el": [],
 		"en": [
@@ -6705,7 +6701,7 @@
 	},
 	"hive_boss_1_8": {
 		"de": [
-			"Nice reflexes brother! Looks like I won’t be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
+			"Gute Reflexe, Bruder! Sieht so aus, als würde ich dich nicht mit dem Laser treffen, aber vielleicht kann Königin Beeatrice selbst dich beruhigen."
 		],
 		"el": [],
 		"en": [
@@ -6723,7 +6719,7 @@
 			"Nie zły refleks bracie! Wygląda na to że nie tknę cię tym laserem, ale może Królowa Beetrycja we własnej osobie może cię uspokoić."
 		],
 		"pt": [
-			"Belos refléxos irmão! Parece que não vou tocar em voce com o lazer, mas aparentemente a rainha em si pode te acalmar."
+			"Belos reflexos irmão! Parece que não vou tocar em você com o laser, mas talvez a própria Rainha possa te acalmar."
 		],
 		"ru": [
 			"Nice reflexes brother! Looks like I won’t be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
@@ -6733,7 +6729,7 @@
 	},
 	"hive_boss_2_1": {
 		"de": [
-			"You can't escape anymore!"
+			"Du kannst nicht mehr entkommen!"
 		],
 		"el": [],
 		"en": [
@@ -6761,7 +6757,7 @@
 	},
 	"hive_boss_2_2": {
 		"de": [
-			"The spell wasn't calibrated for a Backpacker! Oh no... no no NO! It went so wrong!"
+			"Der Zauberspruch war nicht für einen Rucksackträger kalibriert! Oh nein... nein, nein, nein, nein! Es ist so schief gegangen!"
 		],
 		"el": [],
 		"en": [
@@ -6779,7 +6775,7 @@
 			"Zaklęcie nie zostało skalibrowane dla Plecakowicza! O nie... nie nie NIE. To wyszło tak źle!"
 		],
 		"pt": [
-			"O encantamento não foi calibrado pra um Backpacker! Oh não... não não NÃO! Tudo errado!"
+			"O encantamento não foi calibrado pra um Mochileiro! Oh não... não não NÃO! Tudo errado!"
 		],
 		"ru": [
 			"The spell wasn't calibrated for a Backpacker! Oh no... no no NO! It went so wrong!"
@@ -6789,7 +6785,7 @@
 	},
 	"hive_boss_3_1": {
 		"de": [
-			"Okay Shicka, it's time to fight the real me!"
+			"Okay, Shicka, es ist Zeit, gegen mein wahres Ich zu kämpfen!"
 		],
 		"el": [],
 		"en": [
@@ -6807,7 +6803,7 @@
 			"Okej Shicka, nadszedł czas żeby zawalczyć z prawdziwym mną!"
 		],
 		"pt": [
-			"Okay Shicka, está na hora de lutar com o eu verdadeiro!"
+			"Ok Shicka, está na hora de lutar com o verdadeiro eu!"
 		],
 		"ru": [
 			"Okay Shicka, it's time to fight the real me!"
@@ -6817,7 +6813,7 @@
 	},
 	"hive_ending_1": {
 		"de": [
-			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
+			"Es tut mir leid, dazz ich mit dir gekämpft habe, mein lieber Bär. Ich war vorhin nicht ich selbzzzt, der Kernel hat mich... manipuliert."
 		],
 		"el": [],
 		"en": [
@@ -6835,7 +6831,7 @@
 			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro… działo na mój umysł."
 		],
 		"pt": [
-			"Sinto muito por lutar com você, meu caro urso. Não era minha peszzsoa lá; o Kernel eszztava… agindo sobre minha cabeça."
+			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva… agindo sobre minha cabeça."
 		],
 		"ru": [
 			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
@@ -6845,7 +6841,7 @@
 	},
 	"hive_ending_2": {
 		"de": [
-			"From the looks of thingszz, the Kernel exploded when hitting the hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
+			"So wie es aussieht, ist der Kernel explodiert, als er auf dem Weg nach unten auf den Bienenstockkkk traf... Wir wurden irgendwie hierher teleportiert, aber dein Bruder ist wahrscheinlich irgendwo anders gelandet."
 		],
 		"el": [],
 		"en": [
@@ -6863,7 +6859,7 @@
 			"Z wyglądu rzeczy, Jądro eksplodowało, uderzając w Ul w drodze w dół... W jakiś sposób zostaliśmy tu przetelepotowani, lecz twój brat pewnie skończył gdzieś indziej."
 		],
 		"pt": [
-			"Do jeito que as coiszzas eszztão, o Kernel explodiu quando atingiu a colmeia sendo destruída... Fomos teleportados para cá de alguma forma, mas seu irmão provvvavvvelmente foi parar em outro local."
+			"Do jeito que as coiszzas estão, o Kernel explodiu quando atingiu a colmeia sendo destruída... Fomoszz teleportados para cá de alguma forma, maszz seu irmão provvvavvvelmente foi parar em outro local."
 		],
 		"ru": [
 			"From the looks of thingszz, the Kernel exploded when hitting the hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
@@ -6873,7 +6869,7 @@
 	},
 	"hive_ending_3": {
 		"de": [
-			"The hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
+			"Das Bienenstock ist Vergangenheit, aber jetzt, wo ich frei bin, werde ich die lila Honigfabrik schließen und den Frieden in meinem Königreich wiederherstellen."
 		],
 		"el": [],
 		"en": [
@@ -6891,7 +6887,7 @@
 			"Ula już nie ma, ale teraz jestem już wolna, zamknę fabrykę fioletowego miodu i przywrócę pokój królestwu."
 		],
 		"pt": [
-			"A colmeia se foi, mas agora que eszztou livre, posso finalmente deszzligar a fábrica de mel roxo e restaurar a pazzz sobre meu reino."
+			"A Colmeia se foi, maszz agora que estou livre, posso finalmente deszzligar a fábrica de mel roxo e restaurar a pazzz sobre meu reino."
 		],
 		"ru": [
 			"The hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
@@ -6901,11 +6897,11 @@
 	},
 	"hive_ending_4": {
 		"de": [
-			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Danke, dazz du mich gerettet hast, Baaren. Danke, dass ihr alle gerettet habt. Lasst uns im Bärendorf versammeln, ja?"
 		],
 		"el": [],
 		"en": [
-			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let’s gather at the Bear Vvvillage, shall we?"
 		],
 		"es": [],
 		"fr": [
@@ -6919,7 +6915,7 @@
 			"Dzzziękuję zza uratowanie mnie Baaren. Dzzziękuję zzza uratowanie wszzystkich. Zbierzmy się w Niedźwiedziej Wiosce, czyż nie?"
 		],
 		"pt": [
-			"Obrigada por me salvvvar Baaren. Obrigada por salvvvar a todos. Vamos nos reunir na Vvvila dos Ursos, certo?"
+			"Obrigada por me salvvvar Baaren. Obrigada por salvvvar a todos. Vvvamos nos reunir na Vvvila dos Ursos, certo?"
 		],
 		"ru": [
 			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
@@ -6929,11 +6925,11 @@
 	},
 	"hive_maybee": {
 		"de": [
-			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
+			"Bären sind furchtbar, aber vielleicht kann ich von dir profitieren. Ich bin fleißßßig am Geschäfte machen."
 		],
 		"el": [],
 		"en": [
-			"Bears are awful but maybee I can beenefit off of you. I'm beesy doing beesiness."
+			"Bearszz are awful but maybee I can beenefit off of you. I'm beeszzy doing beeszziness."
 		],
 		"es": [],
 		"fr": [
@@ -6947,7 +6943,7 @@
 			"Niedźwiedzie są okropne ale maybee mogę z ciebie skorzystać. Jestem beesy robię beesiness."
 		],
 		"pt": [
-			"Bears are awful but maybee I can beenefit off of you. I'm beesy doing beesiness."
+			"Ursoszz são nojentos mas talvvvezzz eu possa te abrir uma exceção. Fui habelhitada a fazzzer negócioszz."
 		],
 		"ru": [
 			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
@@ -6957,11 +6953,11 @@
 	},
 	"hive_shop": {
 		"de": [
-			"Maybee's gift shop"
+			"Maybee's Geschenkeladen"
 		],
 		"el": [],
 		"en": [
-			"Maybee's gift shop"
+			"Maybee'szz gift shop"
 		],
 		"es": [],
 		"fr": [
@@ -6995,8 +6991,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Załóż"
+		],
+		"pt": [
+			"Equipar"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -7005,7 +7005,7 @@
 		"de": [],
 		"el": [],
 		"en": [
-			"Reset to previous outfit"
+			"Return to previous outfit"
 		],
 		"es": [],
 		"fr": [
@@ -7015,8 +7015,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Zresetuj poprzedni strój"
+		],
+		"pt": [
+			"Resetar pro visual anterior"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -7107,8 +7111,12 @@
 		"it": [],
 		"ja": [],
 		"nl": [],
-		"pl": [],
-		"pt": [],
+		"pl": [
+			"Wymagania do odblokowania:"
+		],
+		"pt": [
+			"Necessário pra desbloquear:"
+		],
 		"ru": [],
 		"sv": [],
 		"tr": []
@@ -7305,7 +7313,7 @@
 		],
 		"es": [],
 		"fr": [
-			"Les abeilles m'avaient caché dans ce coin en haut de rivière, heureusement que tu m'as vue..."
+			"Les abeilles m'avaient cachée dans ce coin en haut de la rivière, heureusement que tu m'as vue..."
 		],
 		"id": [],
 		"it": [],
@@ -8063,7 +8071,7 @@
 			"Budowa muru była prawdopodobnie ogromną pracą, pszczoły muszą mieć ważny powód do jej budowy."
 		],
 		"pt": [
-			"A construção da muralha deve ter sido um grande trabalho. As abelhas devem ter um bom motivo pra construí-la."
+			"A construção da muralha deve ter sido um grande trabalho. As abelhas devem ter um bom motivo pra fazê-la."
 		],
 		"ru": [
 			"Строительство стены, вероятно, было нелёгким, у пчёл должна быть важная причина для её строительства."
@@ -8629,7 +8637,9 @@
 		"nl": [
 			"haallloooo! I het is mij, Capitalooos, Capitalus' broer! als jij de ontwikkelaar van deze game support, krijg je een speciale cadeatttjjjjeeee"
 		],
-		"pl": [],
+		"pl": [
+			"Witajjj! To ja, Capitalooos, brat Capitalusa! Jeśli wesprzesz twórcę tej gryyy, dostaniesz specjalne prezentyyt!"
+		],
 		"pt": [
 			"Olááá! Sou eu, Capitalooos, irmão de Capitalus! Se você apoiar o desenvolvedor deste jooogo, você ganhará presentes muito especiaaais!"
 		],
@@ -8671,7 +8681,9 @@
 		"nl": [
 			"Hallooooo! Ik ben het, capitaluuuus! als je kijkt naar een advertensieee, zal ik je cadeau's geven!"
 		],
-		"pl": [],
+		"pl": [
+			"Witajjj! To ja, Capitaluuus! Jeśli zakceptujesz obejrzenie reklammmy, to dam ci prezentyy!"
+		],
 		"pt": [
 			"Olááá! Sou eu, Capitaluuus! Se você aceitar assistir uma propagaaanda, eu posso te dar preseeentes!"
 		],
@@ -8941,7 +8953,9 @@
 		"nl": [
 			"maak je geen zorgen, de verkleining machine is waarschijnlijk heel veilig."
 		],
-		"pl": [],
+		"pl": [
+			"Nie martw się, maszyna zmniejszająca jest nawet bezpieczna."
+		],
 		"pt": [
 			"Não se preocupe, a máquina de encolhimento provavelmente é segura."
 		],
@@ -8983,9 +8997,11 @@
 		"nl": [
 			"Welkom in de hub! ga op de blauwe cirkels staan om een level in te gaan."
 		],
-		"pl": [],
+		"pl": [
+			"Witaj w centrum! Idź w stronę niebieskich kół żeby dostać się do poziomu."
+		],
 		"pt": [
-			"Bem-vindo(a) ao hub! Ande por cima dos círculos azuis para entrar em fases!"
+			"Boas vindas ao hub! Ande por cima dos círculos azuis para entrar em fases!"
 		],
 		"ru": [
 			"Добро пожаловать! Идите к синим кругам, чтобы попасть на нужный уровень."
@@ -9023,7 +9039,9 @@
 		"nl": [
 			"Hallo daar! Ben je op zoek naar een coole missie? Ik denk dat ik heb wat je nodig hebt!"
 		],
-		"pl": [],
+		"pl": [
+			"Witaj! Czy szukasz ciekawej misji? Wydaje mi się że mam to czego szukasz!"
+		],
 		"pt": [
 			"Opa! Está procurando uma boa missão? Eu acho que tenho o que você precisa!"
 		],
@@ -9194,7 +9212,7 @@
 			"Por séculos, existia um reino onde criaturas viviam em paz com o governo da Dinastia das Abelhas."
 		],
 		"ru": [
-			"На протяжении веков здесь существовало королевство, где существа жили в мире под правлением династии Пчел."
+			"На протяжении веков существовало королевство, где существа жили в мире под правлением династии Пчел."
 		],
 		"sv": [],
 		"tr": []
@@ -9309,10 +9327,10 @@
 			"… pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
 		],
 		"pt": [
-			"...as abelhas começaram a produzir um tipo diferente de mel na colmeia. Momentos depois, esse novo sabor e coloração roxa foram amados por todos."
+			"...as abelhas começaram a produzir um tipo diferente de mel na Colmeia. Momentos depois, esse novo sabor e coloração roxa foram amados por todos."
 		],
 		"ru": [
-			"… Пчелы не стали производить другой вид мёда в улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбился всем."
+			"… Пчелы не стали производить другой вид мёда в улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
 		],
 		"sv": [],
 		"tr": []
@@ -9337,7 +9355,7 @@
 			"Niestety istoty, które go pochłonęły, wkrótce zaczęły szaleć i atakować swoich przyjaciół jak dzikie zwierzęta."
 		],
 		"pt": [
-			"Infelizmente, criaturas que consumiam aquele mel logo começaram a ficar loucas e atacar seus amigos como animais desnorteados."
+			"Infelizmente, criaturas que o consumiam logo começaram a ficar loucas e atacar seus amigos como animais desnorteados."
 		],
 		"ru": [
 			"К сожалению, существа, которые употребили его, вскоре начали сходить с ума и атаковать своих друзей как неразумные животные."
@@ -9368,7 +9386,7 @@
 			"Ninguém sabe porque as abelhas começaram a fazer um estrago sobre o próprio reino, e seus habitantes estavam fracos demais para se defender."
 		],
 		"ru": [
-			"Никто не знает почему пчелы начали сеять хаос в своём собственном королевстве, но их жители были слишком слабы чтобы дать отпор."
+			"Никто не знает почему пчелы начали сеять хаос в своём собственном королевстве, и его жители были слишком слабы чтобы дать отпор."
 		],
 		"sv": [],
 		"tr": []
@@ -9430,7 +9448,7 @@
 			"Não muito tarde, as abelhas perceberam que, misteriosamente, os ursos não são afetados pelo mel roxo."
 		],
 		"ru": [
-			"Вскоре, пчёлы поняли, что медведи мистическим образом были не восприимчивы к фиолетовому мёду."
+			"Вскоре, пчёлы поняли, что медведи мистическим образом были невосприимчивы к фиолетовому мёду."
 		],
 		"sv": [],
 		"tr": []
@@ -9458,7 +9476,7 @@
 			"Essa resistência causou sua ruína: as abelhas invadiram a Vila dos Ursos e os aprisionaram para prevenir qualquer revolta."
 		],
 		"ru": [
-			"Это сопротивлеине вызвало их потери: пчёлы совершили набег на Медвежью Деревню и заключили их в тюрьму чтобы предотвратить любое восстание."
+			"Это сопротивление вызвало их потери: пчёлы совершили набег на Медвежью деревню и заключили их в тюрьму чтобы предотвратить любое восстание."
 		],
 		"sv": [],
 		"tr": []
@@ -9520,7 +9538,7 @@
 			"Por sorte, um urso conseguiu evitar o ataque. Mas agora, o destino das pessoas estão em suas patas."
 		],
 		"ru": [
-			"К счастью, одному медведю удалось избежать нападение. Но теперь, судьба народа на его плечах."
+			"К счастью, одному медведю удалось избежать нападения. Но теперь, судьба народа на его плечах."
 		],
 		"sv": [],
 		"tr": []
@@ -9545,10 +9563,10 @@
 			"Świat potrzebuje bohatera. Kogoś, kto przywróci równowagę, kogoś, kto zakończy tę fioletową zagładę."
 		],
 		"pt": [
-			"O mundo precisa de um herói. Alguem para restaurar o equilíbrio, alguém para acabar com esta maldição roxa."
+			"O mundo precisa de um herói. Alguém para restaurar o equilíbrio, alguém para acabar com esta maldição roxa."
 		],
 		"ru": [
-			"Миру нужен герой. Тот кто восстановит баланс и покончит с этим фиолетовым бедствием."
+			"Миру нужен герой. Тот кто восстановит баланс, тот кто покончит с этим фиолетовым бедствием."
 		],
 		"sv": [],
 		"tr": []
@@ -9576,7 +9594,7 @@
 			"Você vai nos salvar, Baaren?"
 		],
 		"ru": [
-			"Вы спасёте нас, Баарен?"
+			"Ты спасёшь нас, Баарен?"
 		],
 		"sv": [],
 		"tr": []
@@ -9810,7 +9828,7 @@
 			"Baaren! Você veio me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
 		],
 		"ru": [
-			"Баарен! Ты пришел сюда чтобы спасти меня! Будь осторожен, Черепаший Голем очень опсен!"
+			"Баарен! Ты пришёл чтобы спасти меня! Будь осторожен, Черепаший Голем очень опасен!"
 		],
 		"sv": [],
 		"tr": []
@@ -9835,17 +9853,17 @@
 			"Kiedy na ciebie szarżuje, unikaj jego ataków i poczekaj, aż się wyczerpie, zanim zaczniesz z nim walczyć."
 		],
 		"pt": [
-			"Quando ele estiver te perseguindo, evite seus ataques e espere até que fique exausto antes de atacar-lo devolta."
+			"Quando ele estiver te perseguindo, evite seus ataques e espere até que fique exausto antes de atacar-lo de volta."
 		],
 		"ru": [
-			"Когда он заряжает в тебя, избегай его атаки и подожди до тех пор, пока он не устанет прежде чем дать отпор."
+			"Когда он нападает на тебя, избегай его атак и подожди до тех пор, пока он не устанет, прежде чем дать отпор."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level1_boss_1_3": {
 		"de": [
-			"Also, pay attention to rocks falling from the ceiling! I believe in you, Baaren!"
+			"Achte auch auf die Steine, die von der Decke fallen! Ich zähle auf dich, Baaren!"
 		],
 		"el": [],
 		"en": [
@@ -9866,14 +9884,14 @@
 			"Aliás, preste atenção as rochas que caem do teto! Eu confio em você, Baaren!"
 		],
 		"ru": [
-			"Так же, обрати внимание на падающие камни с потолка! Я верю в тебя, Баарен!"
+			"Также, обрати внимание на падающие камни с потолка! Я верю в тебя, Баарен!"
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level1_boss_1_4": {
 		"de": [
-			"Watch out, it's attacking you!!!"
+			"Pass auf, er greift dich an!!!"
 		],
 		"el": [],
 		"en": [
@@ -9894,7 +9912,7 @@
 			"Cuidado, ele está te atacando!!!"
 		],
 		"ru": [
-			"Берегись, Он атакует!!!"
+			"Берегись, он атакует тебя!!!"
 		],
 		"sv": [],
 		"tr": []
@@ -9937,7 +9955,7 @@
 	},
 	"level1_boss_2_1": {
 		"de": [
-			"You did it, great job! You can take the key and come here to free me."
+			"Du hast es geschafft, tolle Arbeit! Du kannst den Schlüssel nehmen und hierher kommen, um mich zu befreien."
 		],
 		"el": [],
 		"en": [
@@ -9965,11 +9983,11 @@
 	},
 	"level1_boss_2_2": {
 		"de": [
-			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you find him."
+			"Übrigens habe ich deinen Bruder heute Morgen hier gesehen, er schien nicht so gut zu sein. Ich hoffe, du findest ihn."
 		],
 		"el": [],
 		"en": [
-			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you find him."
+			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you will find him."
 		],
 		"es": [],
 		"fr": [
@@ -9986,14 +10004,14 @@
 			"Aliás, eu vi seu irmão aqui mais cedo, ele não parecia muito bem. Espero que você o encontre."
 		],
 		"ru": [
-			"Кстати, я видел твоего брата здесь сегодня утром, он выглядил не очень хорошо. Я надеюсь, ты найдёшь его."
+			"Кстати, я видел твоего брата здесь ранее сегодня, он выглядел не очень хорошо. Я надеюсь, ты найдёшь его."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level1_boss_2_3": {
 		"de": [
-			"I wonder what your brother was doing here. I haven’t seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it’s the next destination from here."
+			"Ich frage mich, was dein Bruder hier gemacht hat. Ich habe ihn schon eine Weile nicht mehr gesehen, vielleicht hat er einen Winterschlaf gehalten. Wir sollten im Schneetal nach ihm suchen, das ist das nächste Ziel von hier aus."
 		],
 		"el": [],
 		"en": [
@@ -10011,10 +10029,10 @@
 			"Zastanawiam się, co tu robił twój brat. Dawno go nie widziałem, może hibernował. Powinniśmy go szukać w Śnieżnej Dolinie, to kolejny cel podróży stąd."
 		],
 		"pt": [
-			"Eu me pergunto o que seu irmão estava fazendo aqui. Eu não tinha visto ele faz um tempo, talves ele estava hibernando. A gente deveria procurar por ele no Vale Nevado, é o próximo destino daqui."
+			"Eu me pergunto o que seu irmão estava fazendo aqui. Eu não tinha visto ele faz um tempo, talvez ele estava hibernando. A gente deveria procurar por ele no Vale Nevado, é o próximo destino daqui."
 		],
 		"ru": [
-			"Интересно, что твой брат сегодня здесь делал. Я давно его не видел, может он был в спячке. Мы должны поискать его в Снежной Долине, это следующий пункт назначения отсюда."
+			"Интересно, что твой брат здесь делал. Я давно его не видел, может он был в спячке. Мы должны поискать его в Снежной долине, это следующий пункт назначения отсюда."
 		],
 		"sv": [],
 		"tr": []
@@ -10350,8 +10368,11 @@
 		"nl": [
 			"Welkom in schildpaddendorp!"
 		],
-		"pl": [],
+		"pl": [
+			"Witaj w Turtletown!"
+		],
 		"pt": [
+			"Boas vindas à Aldeia das Tartarugas!",
 			"Bem-vindo(a) à Aldeia das Tartarugas!"
 		],
 		"ru": [
@@ -10392,7 +10413,9 @@
 		"nl": [
 			"Deze hendel maakt het pad dicht het pad."
 		],
-		"pl": [],
+		"pl": [
+			"Ta dźwignia zamyka ścieżkę."
+		],
 		"pt": [
 			"Esta alavanca fecha o caminho."
 		],
@@ -11142,7 +11165,7 @@
 	},
 	"level1_tutorial_1": {
 		"de": [
-			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages."
+			"In dem Gebiet sind überall Bärenkäfige verstreut. Jeder Käfig hat seinen eigenen Schlüssel, also müssen wir ihn zuerst finden. Sie sollten irgendwo in der Nähe der Käfige sein."
 		],
 		"el": [
 			"Before saving any bear, we need to open the coin door. We need to collect 60 coins to open it."
@@ -11170,8 +11193,7 @@
 			"Są tu klatki z niedźwiedziami porozrzucane w pobliżu. Każda klatka ma własny więc musimy najpierw je znaleźć. Powinny być w pobliżu klatek ."
 		],
 		"pt": [
-			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!",
-			"Há jaulas de ursos espalhadas por essa área. Cada uma tem sua própria chave, então devemos acha-la primeiro. Devem estar por algum lugar perto das jaulas."
+			"Há jaulas de ursos espalhadas por essa área. Cada uma tem sua própria chave, então devemos achá-la primeiro. Devem estar por algum lugar perto das jaulas."
 		],
 		"ru": [
 			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages.",
@@ -11184,7 +11206,7 @@
 	},
 	"level1_tutorial_2": {
 		"de": [
-			"Once we free enough of our friends, we will be able to open this gate."
+			"Sobald wir genug unserer Freunde befreit haben, werden wir dieses Tor öffnen können."
 		],
 		"el": [
 			"Once the coin door is opened, it will remain open next time we visit the level and these stones should be replaced by bears to save."
@@ -11214,7 +11236,6 @@
 			"Pewnego razu uratujemy wystarczająco naszych przyjaciół, żeby otworzyć tę bramę."
 		],
 		"pt": [
-			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar.",
 			"Uma vez que salvarmos bastante dos nossos amigos, poderemos abrir aquele portão."
 		],
 		"ru": [
@@ -11228,7 +11249,7 @@
 	},
 	"level1_tutorial_3": {
 		"de": [
-			"Also, note that coins will reappear each time we leave the level."
+			"Beachte auch, dass die Münzen jedes Mal wieder auftauchen, wenn wir das Level verlassen."
 		],
 		"el": [
 			"Coins and enemies will reappear each time we exit a level."
@@ -11258,7 +11279,6 @@
 			"Także zapamiętaj, że monety pojawią się z powrotem za każdym razem kiedy wyjdziemy z poziomu."
 		],
 		"pt": [
-			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase.",
 			"Aliás, note que as moedas vão reaparecer cada vez que saírmos da fase."
 		],
 		"ru": [
@@ -11314,7 +11334,7 @@
 	},
 	"level2_boss_2": {
 		"de": [
-			"Did you see that? There was someone over there! who was… purple."
+			"Hast du das gesehen? Da drüben war jemand! Der war... lila."
 		],
 		"el": [],
 		"en": [
@@ -11332,17 +11352,17 @@
 			"Widziałeś to? Ktoś tam był! kto był… fioletowy. Widziałeś to? Ktoś tam był! który był… fioletowy…"
 		],
 		"pt": [
-			"Você viu aquilo? Tinha alguém alí! Que era... roxo."
+			"Você viu aquilo? Tinha alguém ali! Que era... roxo."
 		],
 		"ru": [
-			"Ты видел это? Здесь кто-то был! И он был… фиолетовый."
+			"Ты видел это? Там кто-то был! И он был… фиолетовый."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level2_boss_3": {
 		"de": [
-			"Something doesn’t seem right about all this..."
+			"Irgendetwas scheint an der ganzen Sache nicht zu stimmen..."
 		],
 		"el": [],
 		"en": [
@@ -11363,14 +11383,14 @@
 			"Alguma coisa não me cheira bem sobre isso tudo..."
 		],
 		"ru": [
-			"В этом похоже ничего хорошего..."
+			"Что-то здесь не так..."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level2_boss_4": {
 		"de": [
-			"Anyway, we should save this bear and then investigate the Beemothep Desert."
+			"Wie auch immer, wir sollten diesen Bären retten und dann die Beemothep-Wüste erforschen."
 		],
 		"el": [],
 		"en": [
@@ -11388,17 +11408,17 @@
 			"W każdym razie powinniśmy uratować tego niedźwiedzia, a następnie zbadać Pustynię Beemothep."
 		],
 		"pt": [
-			"De qualquer modo, nós devemos salvar este urso e então investigar o Deserto Beemothep."
+			"De qualquer forma, nós devemos salvar esse urso e então investigar o Deserto Beemothep."
 		],
 		"ru": [
-			"В любом случае, нам нужно спасти этого медведя и затем исследовать the Beemothep Desert."
+			"В любом случае, нам нужно спасти этого медведя и затем исследовать Бимотепскую пустыню."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level2_boss_5": {
 		"de": [
-			"The bee dynasty started there, maybe we can find answers in the Great Pyramid of Beemothep."
+			"Die Bienenherrschaft begann dort, vielleicht können wir in der Großen Pyramide des Beemothep Antworten finden."
 		],
 		"el": [],
 		"en": [
@@ -11416,10 +11436,10 @@
 			"Tam zaczęła się dynastia pszczół, być może znajdziemy odpowiedzi w Wielkiej Piramidzie Beemothep."
 		],
 		"pt": [
-			"A dinastia das abelhas começou aí, talves nós possamos achar respostas na Grande Pirâmide de Beemothep."
+			"A dinastia das abelhas começou lá, talvez nós possamos achar respostas na Grande Pirâmide de Beemothep."
 		],
 		"ru": [
-			"Здесь началась династия Пчел, может быть мы сможем найти ответы в Великой Пирамиде of Beemothep."
+			"Здесь началась династия Пчёл, может быть мы сможем найти ответы в Великой Бимотепской Пирамиде."
 		],
 		"sv": [],
 		"tr": []
@@ -12256,7 +12276,7 @@
 	},
 	"level3_boss_1_1": {
 		"de": [
-			"Baaren! You managed to get here! I’m so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
+			"Baaren! Du hast es geschafft, hierher zu kommen! Ich bin so froh, dich zu sehen! Passt auf, wo ihr hintretet, diese Gruft ist wahrscheinlich voller gefährlicher Fallen."
 		],
 		"el": [],
 		"en": [
@@ -12274,17 +12294,17 @@
 			"Baaren! Udało Ci się tu dotrzeć! Tak się cieszę, że Cię widzę! Zwróć uwagę na to, dokąd idziesz, ten grobowiec jest prawdopodobnie pełen niebezpiecznych pułapek."
 		],
 		"pt": [
-			"Baaren! Você conseguiu chegar aqui! Estou tão feliz de te ver! Preste atenção onde voce caminha, esta tumba é provavelmente cheia de armadilhas perigosas."
+			"Baaren! Você conseguiu chegar aqui! Estou tão feliz de te ver! Preste atenção onde você caminha, esta tumba é provavelmente cheia de armadilhas perigosas."
 		],
 		"ru": [
-			"Baaren! You managed to get here! I’m so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
+			"Баарен! Тебе удалось сюда добраться! Я так рад видеть тебя! Обрати внимание на то, где ты ходишь, эта гробница, должно быть, полна опасных ловушек."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level3_boss_1_2": {
 		"de": [
-			"This room is where the Kernel is said to be hidden. It’s a very old and powerful artifact."
+			"In diesem Raum soll der Kernel versteckt sein. Es ist ein sehr altes und mächtiges Artefakt."
 		],
 		"el": [],
 		"en": [
@@ -12302,17 +12322,17 @@
 			"W tym pokoju podobno ukryte jest Jądro. To bardzo stary i potężny artefakt."
 		],
 		"pt": [
-			"Esta sala é onde o Kernel foi dito que foi escondido. É um artefato antigo e poderoso."
+			"Esta sala é onde foi falado que o Kernel foi escondido. É um artefato antigo e poderoso."
 		],
 		"ru": [
-			"This room is where the Kernel is said to be hidden. It’s a very old and powerful artifact."
+			"Говорят, что в этой комнате спрятан Кернел. Это очень древний и могущественный артифакт."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level3_boss_1_3": {
 		"de": [
-			"Bees are scheming strange things with the Kernel. I think it’s related to the purple honey."
+			"Die Bienen treiben seltsame Dinge mit dem Kernel. Ich glaube, das hängt mit dem lila Honig zusammen."
 		],
 		"el": [],
 		"en": [
@@ -12330,17 +12350,17 @@
 			"Pszczoły knują z Jądrem dziwne rzeczy. Myślę, że ma to związek z fioletowym miodem."
 		],
 		"pt": [
-			"As abelhas estão tramando coisas estranhas com o Kernel. Eu acho que é relacionado com o mel roxo."
+			"As abelhas estão tramando coisas estranhas com o Kernel. Eu acho que está relacionado com o mel roxo."
 		],
 		"ru": [
-			"Bees are scheming strange things with the Kernel. I think it’s related to the purple honey."
+			"Пчёлы промышляют странные вещи с Кернелом. Я думаю, что это связано с фиолетовым мёдом."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level3_boss_1_4": {
 		"de": [
-			"Please, find a way to get me out of here so we can go home!"
+			"Bitte, holt mich hier raus, damit wir nach Hause gehen können!"
 		],
 		"el": [],
 		"en": [
@@ -12358,10 +12378,10 @@
 			"Proszę, znajdź sposób, żeby mnie stąd wydostać, żebyśmy mogli wrócić do domu!"
 		],
 		"pt": [
-			"Por favor, ache uma maneira de me tirar daqui então eu posso ir para casa!"
+			"Por favor, ache uma maneira de me tirar daqui pra podermos ir para casa!"
 		],
 		"ru": [
-			"Please, find a way to get me out of here so we can go home!"
+			"Пожалуйста, найди способ меня отсюда вызволить, чтобы мы могли пойти домой!"
 		],
 		"sv": [],
 		"tr": []
@@ -12406,7 +12426,7 @@
 	},
 	"level3_boss_2_1": {
 		"de": [
-			"Oof, that was scary. The Kernel isn’t here, the bees must have stolen it before we got here."
+			"Uff, das war gruselig. Der Kernel ist nicht hier, die Bienen müssen ihn gestohlen haben, bevor wir hierher kamen."
 		],
 		"el": [],
 		"en": [
@@ -12424,17 +12444,17 @@
 			"Uf, to było przerażające. Nie ma tu Jądra, pszczoły musiały je ukraść, zanim tu przybyliśmy."
 		],
 		"pt": [
-			"Oof, aquilo foi assustador. O Kernel não está aqui, as abelhas devem ter roubado quando chegamos aqui."
+			"Oof, isso foi assustador. O Kernel não está aqui, as abelhas devem ter roubado quando chegamos aqui."
 		],
 		"ru": [
-			"Oof, that was scary. The Kernel isn’t here, the bees must have stolen it before we got here."
+			"Фух, это было страшно. Кернел не здесь, должно быть пчёлы его украли перед тем, как мы сюда пришли."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"level3_boss_2_2": {
 		"de": [
-			"The scientist at the Bear Village probably knows some stuff about this artifact."
+			"Der Wissenschaftler im Bärendorf weiß wahrscheinlich einiges über dieses Artefakt."
 		],
 		"el": [],
 		"en": [
@@ -12455,7 +12475,7 @@
 			"O cientista da Vila dos Ursos provavelmente sabe alguma coisa sobre este artefato."
 		],
 		"ru": [
-			"The scientist at the Bear Village probably knows some stuff about this artifact."
+			"Учёный в Медвежьей деревне, возможно, знает пару вещей про этот артифакт."
 		],
 		"sv": [],
 		"tr": []
@@ -13292,7 +13312,7 @@
 	},
 	"level3_sign_3": {
 		"de": [
-			"VERBOTEN FÜR DIE ÖFFENTLICHKEIT//BETRETEN VERBOTEN!!"
+			"FÜR DIE ÖFFENTLICHKEIT VERBOTEN// NICHT BETRETEN"
 		],
 		"el": [
 			"ΑΠΑΓΟΡΕΥΕΤΑΙ ΣΤΟ ΚΟΙΝΟ // ΜΗΝ ΕΙΣΕΡΧΕΣΤΕ"
@@ -13374,7 +13394,7 @@
 	},
 	"level4_boss_1_1": {
 		"de": [
-			"I've been e-e-expecting you, little bear, I've been watching you ever since you stepped into this house..."
+			"Ich habe dich schon e-e-erwartet, kleiner Bär, ich habe dich beobachtet, seit du dieses Haus betreten hast..."
 		],
 		"el": [],
 		"en": [
@@ -13392,7 +13412,7 @@
 			"S-s-spodziewałem się ciebie, mały niedźwiedziu, obserwowałem cię odkąd weszłeś do tego domu..."
 		],
 		"pt": [
-			"Eu estava e-e-esperando voce aparecer, pequeno urso; estava te vendo esse tempo todo desde que pisou nesta casa..."
+			"Eu estava e-e-esperando você aparecer, pequeno urso; estava te vendo esse tempo todo desde que pisou nesta casa..."
 		],
 		"ru": [
 			"I've been e-e-expecting you, little bear, I've been watching you ever since you stepped into this house..."
@@ -13402,7 +13422,7 @@
 	},
 	"level4_boss_1_2": {
 		"de": [
-			"You look su-su-surprised. Your scientist friend forgot to tell you about me? AFTER EVERYTHING HE DI-DI-DID TO ME?!"
+			"Du siehst so üb-üb-überrascht aus. Dein wissenschaftlicher Freund hat vergessen, dir von mir zu erzählen? NACH ALLEM, WAS ER MIR AN-AN-ANGETAN HAT?!"
 		],
 		"el": [],
 		"en": [
@@ -13430,7 +13450,7 @@
 	},
 	"level4_boss_1_3": {
 		"de": [
-			"He made me giant and smart during his experiments, but he wouldn't let m-m-me free. I was his favorite one, his greatest achievement."
+			"Er hat mich bei seinen Experimenten riesig und klug gemacht, aber er wollte m-m-mich nicht frei lassen. Ich war sein Liebling, seine größte Errungenschaft."
 		],
 		"el": [],
 		"en": [
@@ -13458,7 +13478,7 @@
 	},
 	"level4_boss_1_4": {
 		"de": [
-			"You thought I locked the basement trapdoor to hi-hi-hide? It was a trap, and you fell right i-i-into it!"
+			"Du dachtest, ich hätte die Falltür im Keller verschlossen, um mich zu ve-ve-verstecken? Es war eine Falle, und du bist genau i-i-in sie hineingefallen!"
 		],
 		"el": [],
 		"en": [
@@ -13486,7 +13506,7 @@
 	},
 	"level4_boss_1_5": {
 		"de": [
-			"You are so ti-ti-tiny, little bear, I can easily cr-cr-crush you!"
+			"Du bist so wi-wi-winzig, kleiner Bär, ich kann dich leicht ze-ze-zerquetschen!"
 		],
 		"el": [],
 		"en": [
@@ -13552,7 +13572,7 @@
 	},
 	"level4_boss_2_1": {
 		"de": [
-			"Thank you so much for dealing with him, he was dangerous and unpredictable… hmm... unlike me, right?"
+			"Vielen Dank, dass du dich um ihn gekümmert hast, er war gefährlich und unberechenbar... hmm... im Gegensatz zu mir, oder?"
 		],
 		"el": [],
 		"en": [
@@ -13580,7 +13600,7 @@
 	},
 	"level4_boss_2_2": {
 		"de": [
-			"I have to admit something. Before the purple honey incident, someone broke into my house one night and stole some of my work regarding the Kernel."
+			"Ich muss etwas zugeben. Vor dem Vorfall mit dem lila Honig brach jemand eines Nachts in mein Haus ein und stahl einige meiner Arbeiten über den Kernel."
 		],
 		"el": [],
 		"en": [
@@ -13598,7 +13618,7 @@
 			"Muszę coś przyznać. Przed incydentem z fioletowym miodem, pewnej nocy ktoś włamał się do mojego domu i ukradł kawałek mojej pracy dotyczącej jądra."
 		],
 		"pt": [
-			"Eu tenho que revelar uma coisa. Antes do incidente do mel roxo, alguém invdiu minha casa uma noite e alguns dos meus trabalhos sobre o Kernel."
+			"Eu tenho que revelar uma coisa. Antes do incidente do mel roxo, alguém invadiu minha casa uma noite e alguns dos meus trabalhos sobre o Kernel."
 		],
 		"ru": [
 			"I have to admit something. Before the purple honey incident, someone broke into my house one night and stole some of my work regarding the Kernel."
@@ -13608,7 +13628,7 @@
 	},
 	"level4_boss_2_3": {
 		"de": [
-			"I didn’t see his face but he was a bear. I’m not sure the bees are behind all this madness. I think someone set them up."
+			"Ich habe sein Gesicht nicht gesehen, aber er war ein Bär. Ich bin mir nicht sicher, ob die Bienen hinter all diesem Wahnsinn stecken. Ich glaube, jemand hat sie reingelegt."
 		],
 		"el": [],
 		"en": [
@@ -13636,7 +13656,7 @@
 	},
 	"level4_boss_2_4": {
 		"de": [
-			"You should go to the hive, I’m sure the truth awaits us there."
+			"Du solltest in den Bienenstock gehen, ich bin sicher, die Wahrheit wartet dort auf uns."
 		],
 		"el": [],
 		"en": [
@@ -13992,7 +14012,7 @@
 	},
 	"level4_hairless_rat": {
 		"de": [
-			"Hi smol bear. Am Violette the hairless rat. The other rats are mean, they banned me because I have no hair. I no bite, only nice. I just want to make friend. Are you my friend?"
+			"Hallo kleiner Bär. Ich bin Violette, die haarlose Ratte. Die anderen Ratten sind gemein, sie haben mich verbannt, weil ich keine Haare habe. Ich beiße nicht, ich bin nur nett. Ich möchte nur Freundschaft schließen. Bist du mein Freund?"
 		],
 		"el": [],
 		"en": [
@@ -14010,7 +14030,7 @@
 			"Hej mały misiu. Jestem Violetta bezwłosy szczur. Inne szczury są wredne. Odrzuciły mnie przez to że nie mam futra i nie gryzę, tylko miła. Chciałam tylko znaleźć przyjaciół. Czy jesteś moim przyjacielem?"
 		],
 		"pt": [
-			"Olá ursinho nanico. Sou Violette, a ratinha sem pelos. Os outros ratos são malvados, me baniram porque eu não tenho pelos. Eu não mordo, apenas gentil(???). Eu só quero fazer amigo. Você é meu amigo?"
+			"Olá urso nanico. Sou Violette, a ratinha sem pelos. Os outros ratos são malvados, me baniram porque eu não tenho cabelo. Mim não morder, ser legal com você. Eu só quero fazer amigo. Você é meu amigo?"
 		],
 		"ru": [
 			"Hi smol bear. Am Violette the hairless rat. The other rats are mean, they banned me because I have no hair. I no bite, only nice. I just want to make friend. Are you my friend?"
@@ -14824,7 +14844,7 @@
 			"The game is still in beta. So, if you find any bug, please report it on the Discord server."
 		],
 		"fr": [
-			"S tu trouves un bogue, merci de le signaler sur le serveur Discord."
+			"Si tu trouves un bogue, merci de le signaler sur le serveur Discord."
 		],
 		"id": [
 			"Permainan ini masih dalam versi beta jadi jika Kamu menemukan bug, tolong laporkan di server Discord."
@@ -14842,7 +14862,7 @@
 			"Gra jest nadal w wersji beta. Tak więc, jeśli znajdziesz jakiś błąd, zgłoś go na serwerze Discord."
 		],
 		"pt": [
-			"O jogo ainda está em beta. Caso encontre algum bug, por favor, relate-o no servidor do Discord."
+			"Se encontrar algum bug, por favor, conte-o no servidor do Discord."
 		],
 		"ru": [
 			"На данный момент, игра находится в Beta-версии, так что если Вы найдёте баги, пожалуйста, сообщите это в нашем Discord сервере."
@@ -15018,7 +15038,7 @@
 			"Jeśli chcesz zrobić speedrun, istnieją opcje tego w menu pauzy."
 		],
 		"pt": [
-			"Se você quiser fazer speedruns, há opções pra isto nas configurações."
+			"Se você quiser fazer speedruns, há opções pra isso nas configurações."
 		],
 		"ru": [
 			"Если Вы хотите сделать быстрое прохождение, то эта функция есть в меню паузы."
@@ -15348,7 +15368,7 @@
 			"Witam w mojej misji wyścig! Przejedź przez każdy pierścień w kolejności i spróbuj ukończyć jedno okrążenie przede mną. Powodzenia!"
 		],
 		"pt": [
-			"Bem-vindo à minha missão de rally! Passe através de todos os anéis em ordem e tente completar uma volta antes de mim. Boa sorte!"
+			"Bem-vindo à minha missão de rali! Passe através de todos os anéis em ordem e tente completar uma volta antes de mim. Boa sorte!"
 		],
 		"ru": [
 			"Добро пожаловать в мою гоночную миссию! Пройдите через каждое кольцо по порядку и попробуйте пройти первый круг первее меня. Удачи!"
@@ -15908,7 +15928,7 @@
 			"Wyścig"
 		],
 		"pt": [
-			"Rally"
+			"Rali"
 		],
 		"ru": [
 			"Гонки"
@@ -15936,9 +15956,63 @@
 		],
 		"tr": []
 	},
+	"old level1 _tutorial_1": {
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [
+			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!"
+		],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"old level1 _tutorial_2": {
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [
+			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar."
+		],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"old level1 _tutorial_3": {
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [],
+		"pt": [
+			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase."
+		],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
 	"party_bee_1": {
 		"de": [
-			"I’m so sorry for hurting people, we were just following orderszz…"
+			"Es tut mir so leid, dazzz ich Leute verletzt habe, wir haben nur Befehle befolgt..."
 		],
 		"el": [],
 		"en": [
@@ -15956,7 +16030,7 @@
 			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy…"
 		],
 		"pt": [
-			"Eu sinto muito por machucar pessoas, só estavamos seguindo ordenszz…"
+			"Sinto muito por machucar pessoaszz, só estavvvamoszz seguindo ordenszz…"
 		],
 		"ru": [
 			"I’m so sorry for hurting people, we were just following orderszz…"
@@ -15966,11 +16040,11 @@
 	},
 	"party_bee_2": {
 		"de": [
-			"How do you call a bee with messy hair?//...//A frisbee."
+			"Wie nennt man eine Biene mit unordentlichem Haar?/...//Ein Frisbee."
 		],
 		"el": [],
 		"en": [
-			"How do you call a bee with messy hair?//...//A frisbee."
+			"How do you call a bee with messy hair?//...//A friszzbee."
 		],
 		"es": [],
 		"fr": [
@@ -15984,7 +16058,7 @@
 			"Jak nazywasz pszczołę z rozczochranymi włosami?//...// Frisbee."
 		],
 		"pt": [
-			"O que a abelha egoísta disse pro urso?//...//\"Não vou dividir, isso é mel!\""
+			"O que a abelha egoísta disse pro urso?//...//\"Não vvvou dividir, isso é mel!\""
 		],
 		"ru": [
 			"How do you call a bee with messy hair?//...//A frisbee."
@@ -15994,11 +16068,11 @@
 	},
 	"party_bee_3": {
 		"de": [
-			"Wow, you saved all the bearszz! Good job! We must be bad at hiding cageszz."
+			"Wow, du hast alle Bären gerettet! Gut gemacht! Wir sind wohl schlecht im Verstecken von Käfigen."
 		],
 		"el": [],
 		"en": [
-			"Wow, you saved all the bearszz! Good job! We must be bad at hiding cageszz."
+			"Wow, you saved all the bearszz! Good job! We must bee bad at hiding cageszz."
 		],
 		"es": [],
 		"fr": [
@@ -16012,7 +16086,7 @@
 			"Wow, uratowałeś wszzystkie niedźwiedzzie! Dobra robota! Musimy być źli w chowaniu klatek."
 		],
 		"pt": [
-			"Uou, você salvou todos os ursosszz! Bom trabalho! Nós devemos ser péssimas em esconder jaulaszz."
+			"Uou, vvvocê salvvvou todos os ursoszz! Bom trabalho! Nós devvvemos ser péssimaszz em esconder jaulaszz."
 		],
 		"ru": [
 			"Wow, you saved all the bearszz! Good job! We must be bad at hiding cageszz."
@@ -16022,7 +16096,7 @@
 	},
 	"party_capitalos": {
 		"de": [
-			"You got invited to the party for free?!"
+			"Du wurdest kostenlos zu der Party eingeladen?!"
 		],
 		"el": [],
 		"en": [
@@ -16050,7 +16124,7 @@
 	},
 	"party_capitalus": {
 		"de": [
-			"So many new clients! STONKS!"
+			"So viele neue Kunden! AKTIEN!"
 		],
 		"el": [],
 		"en": [
@@ -16068,7 +16142,7 @@
 			"Dużo nowych klientów! STONKS!"
 		],
 		"pt": [
-			"Tanto clientes novos! STONKS!"
+			"Tantos clientes novos! STONKS!"
 		],
 		"ru": [
 			"So many new clients! STONKS!"
@@ -16078,7 +16152,7 @@
 	},
 	"party_crocodile_1": {
 		"de": [
-			"The air is sure colder here than in the desert."
+			"Die Luft ist hier sicher kälter als in der Wüste."
 		],
 		"el": [],
 		"en": [
@@ -16106,7 +16180,7 @@
 	},
 	"party_crocodile_2": {
 		"de": [
-			"This is my first time in a river, it feels funny!"
+			"Ich bin das erste Mal in einem Fluss, das ist ein komisches Gefühl!"
 		],
 		"el": [],
 		"en": [
@@ -16134,7 +16208,7 @@
 	},
 	"party_crocodile_3": {
 		"de": [
-			"Waterfalls are impressive! I have never seen one in my life."
+			"Wasserfälle sind beeindruckend! Ich habe noch nie einen in meinem Leben gesehen."
 		],
 		"el": [],
 		"en": [
@@ -16162,7 +16236,7 @@
 	},
 	"party_crocodile_4": {
 		"de": [
-			"This place is beautiful… I’m impressed."
+			"Dieser Ort ist wunderschön... Ich bin beeindruckt."
 		],
 		"el": [],
 		"en": [
@@ -16190,7 +16264,7 @@
 	},
 	"party_fennec_1": {
 		"de": [
-			"What a nice shop!"
+			"Was für ein schöner Laden!"
 		],
 		"el": [],
 		"en": [
@@ -16218,7 +16292,7 @@
 	},
 	"party_fennec_2": {
 		"de": [
-			"Queen Beeatrice is ginormous… huh, I meant to say beautiful."
+			"Königin Beeatrice ist gigantisch... hm, ich wollte sagen, wunderschön."
 		],
 		"el": [],
 		"en": [
@@ -16246,7 +16320,7 @@
 	},
 	"party_fennec_3": {
 		"de": [
-			"I have never seen grass this green."
+			"Ich habe noch nie so grünes Gras gesehen."
 		],
 		"el": [],
 		"en": [
@@ -16274,7 +16348,7 @@
 	},
 	"party_fennec_4": {
 		"de": [
-			"You have your own little desert here!"
+			"Du hast hier deine eigene kleine Wüste!"
 		],
 		"el": [],
 		"en": [
@@ -16302,7 +16376,7 @@
 	},
 	"party_fennec_5": {
 		"de": [
-			"I don’t trust this scientist."
+			"Ich traue diesem Wissenschaftler nicht."
 		],
 		"el": [],
 		"en": [
@@ -16330,7 +16404,7 @@
 	},
 	"party_penguin_1": {
 		"de": [
-			"This place neither has snow nor ice… and the water is… liquid…"
+			"An diesem Ort gibt es weder Schnee noch Eis... und das Wasser ist... flüssig..."
 		],
 		"el": [],
 		"en": [
@@ -16358,7 +16432,7 @@
 	},
 	"party_penguin_2": {
 		"de": [
-			"What a great view!"
+			"Was für eine tolle Aussicht!"
 		],
 		"el": [],
 		"en": [
@@ -16386,11 +16460,11 @@
 	},
 	"party_queen": {
 		"de": [
-			"Thanks for savvving the kingdom! I organizzzed a cool party for you, have fun!"
+			"Danke für die Rettung dezz Königreichs! Ich habe eine coole Party für dich organisiert, viel Spaßßß!"
 		],
 		"el": [],
 		"en": [
-			"Thanks for savvving the kingdom! I organizzzed a cool party for you, have fun!"
+			"Thanks for savvving the kingdom! I organizzzed a cool party for you, havvve fun!"
 		],
 		"es": [],
 		"fr": [
@@ -16404,7 +16478,7 @@
 			"Dziękuję za uratowanie królestwa! Zzzorganizowałam fajną imprezę dla was, bawcie się dobrze!"
 		],
 		"pt": [
-			"Obrigada por salvvvar o reino! Eu organizzzei uma boa festa pra vocês, se divirtam!"
+			"Obrigada por salvvvar o reino! Eu organizzzei uma boa festa pra vocêszz, se divirtam!"
 		],
 		"ru": [
 			"Thanks for savvving the kingdom! I organizzzed a cool party for you, have fun!"
@@ -16414,7 +16488,7 @@
 	},
 	"party_reindeer_1": {
 		"de": [
-			"Long live Queen Beeatrice!"
+			"Lang lebe Königin Beeatrice!"
 		],
 		"el": [],
 		"en": [
@@ -16442,7 +16516,7 @@
 	},
 	"party_reindeer_2": {
 		"de": [
-			"This place is definitely too hot for me."
+			"Dieser Ort ist definitiv zu heiß für mich."
 		],
 		"el": [],
 		"en": [
@@ -16460,7 +16534,7 @@
 			"To miejsce jest dla mnie za gorące."
 		],
 		"pt": [
-			"Esse lugar é definitiamente muito quente pra mim."
+			"Esse lugar é definitivamente muito quente pra mim."
 		],
 		"ru": [
 			"This place is definitely too hot for me."
@@ -16470,7 +16544,7 @@
 	},
 	"party_reindeer_3": {
 		"de": [
-			"Ouch! I got a confetti in my eye, it hurts!"
+			"Autsch! Ich habe ein Konfetti in meinem Auge, das tut weh!"
 		],
 		"el": [],
 		"en": [
@@ -16526,7 +16600,7 @@
 	},
 	"party_turtle_1": {
 		"de": [
-			"Where does a turtle go when it’s raining?//…//To a shellter!"
+			"Wohin geht eine Schildkröte, wenn es regnet?//...///In einen Unterschlupf!"
 		],
 		"el": [],
 		"en": [
@@ -16544,7 +16618,7 @@
 			"Gdzie idzie żółw kiedy pada?//…//Do shelltera!"
 		],
 		"pt": [
-			"O que é uma tartaruda sem casa?//…//Um des-casca-do!"
+			"O que é uma tartaruga que saiu de sua casa?//…//Um des-casca-do!"
 		],
 		"ru": [
 			"Where does a turtle go when it’s raining?//…//To a shellter!"
@@ -16554,7 +16628,7 @@
 	},
 	"party_turtle_2": {
 		"de": [
-			"Have you seen my shellphone?"
+			"Hast du mein Schalentelefon gesehen?"
 		],
 		"el": [],
 		"en": [
@@ -16572,7 +16646,7 @@
 			"Czy masz mój shellefon?"
 		],
 		"pt": [
-			"Have you seen my shellphone?"
+			"Vi aqui no meu celular que"
 		],
 		"ru": [
 			"Have you seen my shellphone?"
@@ -16582,7 +16656,7 @@
 	},
 	"party_turtle_3": {
 		"de": [
-			"I’m glad I got out of my shell and came to the party."
+			"Ich bin froh, dass ich aus meiner Schalle herausgekommen und zur Party gekommen bin."
 		],
 		"el": [],
 		"en": [
@@ -16610,7 +16684,7 @@
 	},
 	"party_turtle_4": {
 		"de": [
-			"Colors everywhere!"
+			"Überall Farben!"
 		],
 		"el": [],
 		"en": [
@@ -16638,7 +16712,7 @@
 	},
 	"party_turtle_5": {
 		"de": [
-			"That’s very kind of the bees to put together this party, but it won’t bring back my house that they destroyed…"
+			"Das ist sehr nett von den Bienen, diese Party zu organisieren, aber das bringt mir mein Haus nicht zurück, das sie zerstört haben..."
 		],
 		"el": [],
 		"en": [
@@ -16666,7 +16740,7 @@
 	},
 	"party_turtle_6": {
 		"de": [
-			"It took me 6 months to get up here."
+			"Ich habe 6 Monate gebraucht, um hierher zu kommen."
 		],
 		"el": [],
 		"en": [
@@ -16864,7 +16938,7 @@
 	},
 	"scientist_cutscene_1_1": {
 		"de": [
-			"Hi Baaren! Hmm, I think I might have a clue as to where the purple honey is coming from."
+			"Hallo Baaren! Hmm, ich glaube, ich habe einen Hinweis darauf, woher der lila Honig kommt."
 		],
 		"el": [],
 		"en": [
@@ -16885,14 +16959,14 @@
 			"Oi Baaren! Hmm, acho que eu posso ter uma ideia de onde esse mel roxo está vindo."
 		],
 		"ru": [
-			"Hi Baaren! Hmm, I think I might have a clue as to where the purple honey is coming from."
+			"Привет, Баарен! Хмм, я думаю, что у меня может быть зацепка о том, как появился фиолетовый мёд."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"scientist_cutscene_1_2": {
 		"de": [
-			"8 years ago, I heard about a mysterious and powerful artifact. I went to the Great Pyramid of Beemothep and “borrowed” the Kernel for my research."
+			"Vor 8 Jahren hörte ich von einem geheimnisvollen und mächtigen Artefakt. Ich ging zur Großen Pyramide von Beemothep und \"lieh\" mir den Kernel für meine Forschung."
 		],
 		"el": [],
 		"en": [
@@ -16910,17 +16984,17 @@
 			"8 lat temu usłyszałem o tajemniczym i potężnym artefakcie. Poszedłem do Wielkiej Piramidy Beemothep i „pożyczyłem” Jądro do swoich badań."
 		],
 		"pt": [
-			"Há 8 anos atrás, eu ouvi dizer sobre um misterioso e poderoso artefato. Fui para Grande Piramide de Beemothep e \"peguei emprestado\" o Kernel para minha pesquisa."
+			"Há 8 anos atrás, eu ouvi dizer sobre um misterioso e poderoso artefato. Fui para Grande Pirâmide de Beemothep e \"peguei emprestado\" o Kernel para minha pesquisa."
 		],
 		"ru": [
-			"8 years ago, I heard about a mysterious and powerful artifact. I went to the Great Pyramid of Beemothep and “borrowed” the Kernel for my research."
+			"8 лет назад я узнал о загадочном и могущественном артифакте. Я пошёл в Великую Бимотепскую Пирамиду и \"одолжил\" Кернел для моего исследования."
 		],
 		"sv": [],
 		"tr": []
 	},
 	"scientist_cutscene_1_3": {
 		"de": [
-			"I found out it has two major properties: mind control and size manipulation. After a ton of work, I managed to create this magnificent device: THE SHRINKING MACHINE!"
+			"Ich fand heraus, dass es zwei wichtige Eigenschaften hat: Gedankenkontrolle und Größenmanipulation. Nach einer Menge Arbeit ist es mir gelungen, dieses großartige Gerät zu bauen: DIE SCHRUMPFMASCHINE!"
 		],
 		"el": [],
 		"en": [
@@ -16948,7 +17022,7 @@
 	},
 	"scientist_cutscene_1_4": {
 		"de": [
-			"I also experimented on the mind control part and let’s say things... hmm… did not go as planned."
+			"Ich habe auch mit dem Gedankenkontrollteil experimentiert und sagen wir mal so... hmm... es lief nicht wie geplant."
 		],
 		"el": [],
 		"en": [
@@ -16976,7 +17050,7 @@
 	},
 	"scientist_cutscene_1_5": {
 		"de": [
-			"As you can see, someone found out about my research, stole the Kernel and used it to create the purple honey."
+			"Wie man sieht, erfuhr jemand von meinen Forschungen, stahl den Kern und verwendete ihn zur Herstellung des lila Honigs."
 		],
 		"el": [],
 		"en": [
@@ -17004,7 +17078,7 @@
 	},
 	"scientist_cutscene_1_6": {
 		"de": [
-			"I could tell you more about the Kernel, but I’m in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
+			"Ich könnte dir mehr über den Kernel erzählen, aber ich stecke gerade in einer ziemlichen Klemme. Die Bienen wussten nicht, was sie mit den Babybären machen sollten, also haben sie sie geschrumpft und in meinem Haus versteckt."
 		],
 		"el": [],
 		"en": [
@@ -17022,7 +17096,7 @@
 			"Mógłby powiedzieć wam więcej ja temat jądra, lecz teraz jestem jakby w malinach. Pszczoły nie wiedziały co zrobić z młodymi niedźwiedziami, więc je zmniejszyły i ukryły je w moim domu."
 		],
 		"pt": [
-			"Eu podia te contar mais sobre o Kernel, mas estou com algums problemas agora. As abelhas não sabiam oque fazer com os ursos filhotes, então elas os encolheram e esconderam pela minha casa."
+			"Eu podia te contar mais sobre o Kernel, mas estou com alguns problemas agora. As abelhas não sabiam o que fazer com os ursos filhotes, então elas os encolheram e esconderam pela minha casa."
 		],
 		"ru": [
 			"I could tell you more about the Kernel, but I’m in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
@@ -17032,7 +17106,7 @@
 	},
 	"scientist_cutscene_1_7": {
 		"de": [
-			"Maybe they thought it was abandoned or something? Is it that dirty? Anyway..."
+			"Vielleicht dachten die, es sei verlassen oder so? Ist es so schmutzig? Wie auch immer..."
 		],
 		"el": [],
 		"en": [
@@ -17050,7 +17124,7 @@
 			"Może myślały że jest opuszczony lub coś w tym stylu? Czy jest to tak brudne? W każdym razie.."
 		],
 		"pt": [
-			"Talves elas acharam que minha casa estava abandonada ou algo do tipo? Ela está tão suja assim? Enfim..."
+			"Talvez elas acharam que estava abandonada ou algo do tipo? Ela está tão suja assim? Enfim..."
 		],
 		"ru": [
 			"Maybe they thought it was abandoned or something? Is it that dirty? Anyway..."
@@ -17060,7 +17134,7 @@
 	},
 	"scientist_cutscene_2_1": {
 		"de": [
-			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is…"
+			"Okay, dieses ganze Chaos hängt also mit dem Kernel zusammen. Wir müssen ihn von Queen Beeatrice und dem lila Bären zurückholen..."
 		],
 		"el": [],
 		"en": [
@@ -17078,7 +17152,7 @@
 			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest…"
 		],
 		"pt": [
-			"Okay então esta bagunça toda está ligada diretamente com o Kernel. Precisamos tomá-lo da Rainha Beeatrice e seja quem for aquele urso roxo..."
+			"Tá, então esta bagunça toda está ligada com o Kernel. Precisamos tomá-lo da Rainha Beeatrice e seja quem for aquele urso roxo..."
 		],
 		"ru": [
 			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is…"
@@ -17088,7 +17162,7 @@
 	},
 	"scientist_cutscene_2_2": {
 		"de": [
-			"But first, let's save those poor babies!"
+			"Aber zuerst müssen wir diese armen Babys retten!"
 		],
 		"el": [],
 		"en": [
@@ -17116,7 +17190,7 @@
 	},
 	"scientist_cutscene_3_1": {
 		"de": [
-			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there…"
+			"Sie sind zu klein, so dass ich die Käfige nicht selbst öffnen kann, und das Haus ist von Ratten verseucht. Hmm, ich möchte da wirklich nicht reingehen..."
 		],
 		"el": [],
 		"en": [
@@ -17144,7 +17218,7 @@
 	},
 	"scientist_cutscene_3_2": {
 		"de": [
-			"If you are brave enough to save them, I can shrink you down and let you in."
+			"Wenn du mutig genug bist, sie zu retten, kann ich dich schrumpfen lassen und dich hineinlassen."
 		],
 		"el": [],
 		"en": [
@@ -17316,7 +17390,7 @@
 			"We need to get 60 coins to open the coin door."
 		],
 		"fr": [
-			"Nous avons besoin de sauver 3 ours pour ouvrir le portail à ours."
+			"Nous avons besoin de sauver 3 ours pour ouvrir la grille à ours."
 		],
 		"id": [
 			"Kita perlu untuk mendapatkan 60 koin untuk membuka pintu koin."
@@ -17334,7 +17408,7 @@
 			"Musimy uzyskać 60 monet, aby otworzyć drzwi monetowe."
 		],
 		"pt": [
-			"Precisamos de 60 moedas para abrir a Porta das Moedas."
+			"Precisamos salvar 3 ursos para abrir o POrtão dos Ursos"
 		],
 		"ru": [
 			"Нам нужно получить 60 монет, чтобы открыть дверцу."
@@ -18358,7 +18432,7 @@
 	},
 	"shicka_hive_1": {
 		"de": [
-			"A giant caterpillar! You can climb somewhere to get the high ground and jump on its back."
+			"Eine riesige Raupe! Du kannst irgendwo hochklettern und auf ihren Rücken springen."
 		],
 		"el": [],
 		"en": [
@@ -18386,7 +18460,7 @@
 	},
 	"shicka_hive_2": {
 		"de": [
-			"It's over caterpillar, we have the high ground!"
+			"Es ist vorbei, Raupe, wir haben die Oberhand!"
 		],
 		"el": [],
 		"en": [
@@ -18414,7 +18488,7 @@
 	},
 	"shicka_hive_3": {
 		"de": [
-			"If we hit these purple balls, we can send them back at him!"
+			"Wenn wir diese lila Bälle treffen, können wir sie zu ihm zurückschicken!"
 		],
 		"el": [],
 		"en": [
@@ -18550,7 +18624,7 @@
 			"Witammm mojego niedźwiedzia dostosowywania seeerwis!"
 		],
 		"pt": [
-			"Olááá e beeem-vindo ao meu serviiiço de customização de ursos!"
+			"Olááá e boooas vindas ao meu serviiiço de customização de ursos!"
 		],
 		"ru": [
 			"Привеееет! И добро пожаловать в мою службу персонализации медведя !"
@@ -18710,7 +18784,7 @@
 			"W porządku, mam nadzieję, że wszystko jest jasne. Uh, mam na myśli... Więccc, mam nadzieję, że wszystko jest jasnee!"
 		],
 		"pt": [
-			"Certo, espero que esteja tudo claro. Uh, quero dizer... Ceeerto, espero que esteja tudo claaaro!"
+			"Certo, espero que esteja tudo claro. Uh, quero dizer... Ceeerto, espero que esteja tudo clarooo!"
 		],
 		"ru": [
 			"Хорошо, я надеюсь всё ясно.. Я имею в виду... Хорошоооо, всё яснооо!"
@@ -18792,7 +18866,7 @@
 			"Rozgrywka"
 		],
 		"pt": [
-			"Gameplay"
+			"Jogabilidade"
 		],
 		"ru": [
 			"Игра"
@@ -19186,10 +19260,10 @@
 			"Hej Baaren, tu jesteś! Pszczoły zaatakowały wioskę i schwytały wszystkich! Udało mi się ukryć, kiedy przybyli."
 		],
 		"pt": [
-			"Ei Baaren, Aí está você! As abelhas atacaram a vila e capturaram todos! Eu consegui me esconder quando elas chegaram."
+			"Ei Baaren, aí está você! As abelhas atacaram a vila e capturaram todos! Eu consegui me esconder quando elas chegaram."
 		],
 		"ru": [
-			"Эй, Баарен, вот ты где ! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли.",
+			"Эй, Баарен, вот ты где! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли.",
 			"Эй, Баарен, вот ты где! Мне удалось спрятаться, когда сюда прибыли пчёлы. Ты единственный медведь, которого они не захватили..."
 		],
 		"sv": [
@@ -19234,7 +19308,7 @@
 			"Você estava só... dormindo? Evitar uma invasão tirando uma soneca longe da vila, bem a sua cara."
 		],
 		"ru": [
-			"Ты просто... спал? Избежать нашествие, вздремнув подальше от деревни, это очень по твоему.",
+			"Ты просто... спал? Избежать нашествие, вздремнув подальше от деревни, это очень по-твоему.",
 			"Я думаю, мы должны объединиться, чтобы освободить наших друзей. Я дам тебе несколько советов об окрестностях."
 		],
 		"sv": [
@@ -19276,10 +19350,10 @@
 			"W każdym razie powinniśmy połączyć siły, aby uwolnić naszych przyjaciół! Mogę dać ci kilka rad na temat otoczenia. Turyści z plecakami tacy jak ja dużo wiedzą o królestwie."
 		],
 		"pt": [
-			"Enfim, nós deveriamos fazer um time para resgatar nossos amigos! Eu podia te dar algumas dicas sobre os arredores. Mochileiros como eu sabem muito sobre o reino."
+			"Enfim, nós deveríamos fazer um time para resgatar nossos amigos! Eu podia te dar algumas dicas sobre os arredores. Mochileiros como eu sabem muito sobre o reino."
 		],
 		"ru": [
-			"В любом случае, мы должны объединиться, чтобы освободить наших друзей! Я могу дать тебе пару советов об окрестностях. Рюкзаки как я, много знают о королевстве.",
+			"В любом случае, мы должны объединиться, чтобы освободить наших друзей! Я могу дать тебе пару советов об окрестностях. Рюкзаки как я много знают о королевстве.",
 			"Я увидела пчёл, ведущих медведей в Черепашью деревню."
 		],
 		"sv": [
@@ -19321,10 +19395,10 @@
 			"Widziałam pszczoły zabierające niedźwiedzie do Turtletown, powinniśmy tam pojechać pierwsi. Na szczęście dla nas platforma, która tam prowadzi, nadal działa. Chodźmy!"
 		],
 		"pt": [
-			"Eu vi abelhas levando ursos para a Cidade das Tartarugas, a gente deveria ir lá primeiro. Felizmente pra nós, a plataforma que nos leva até ela ainda funciona. Vamos lá!"
+			"Eu vi abelhas levando ursos para a Aldeia das Tartarugas, nós deveríamos ir lá primeiro. Felizmente pra gente, a plataforma que leva até ela ainda funciona. Vamos lá!"
 		],
 		"ru": [
-			"Я видела, как пчелы несут медведей в Черепаший Город, нам нужно вначале сходить туда. К счастью для нас, платформа которая ведёт туда всё ещё работает. Пойдём!",
+			"Я видела, как пчёлы несут медведей в Черепаший город, нам нужно вначале сходить туда. К счастью для нас, платформа, которая ведёт туда, всё ещё работает. Пойдём!",
 			"К счастью, платформа, которая ведет в Черепашью деревню, всё ещё работает, давай освободим их!"
 		],
 		"sv": [
@@ -19369,7 +19443,7 @@
 			"Então poderíamos ir ao Vale Nevado..."
 		],
 		"ru": [
-			"Затем, мы должны пойти в Снежную Долину...",
+			"Затем, мы можем пойти в Снежную долину...",
 			"Мы можем пойти в заснеженную долину."
 		],
 		"sv": [
@@ -19414,7 +19488,7 @@
 			"...e depois explorar o Deserto Beemothep."
 		],
 		"ru": [
-			"... и затем исследовать the Beemothep Desert.",
+			"... и затем исследовать Бимотепскую пустыню.",
 			"Можем также исследовать пустыню Бимотеп."
 		],
 		"sv": [
@@ -21618,7 +21692,7 @@
 			"Posiadasz już//{0}!// Zamiast tego otrzymujesz {1} monet!"
 		],
 		"pt": [
-			"Você já tem um(a)//{0}!//Voc^ ganhou {1} moedas em vez disto!"
+			"Você já tem um(a)//{0}!//Você ganhou {1} moedas em vez disso!"
 		],
 		"ru": [
 			"У вас уже есть//{0}!//Вместо этого вы получаете {1} Монет!"
@@ -21688,7 +21762,7 @@
 	},
 	"ui_credits": {
 		"de": [
-			"Watch credits"
+			"Abspann ansehen"
 		],
 		"el": [],
 		"en": [
@@ -22502,7 +22576,7 @@
 	},
 	"ui_game_creator": {
 		"de": [
-			"Game made by {0}"
+			"Spiel gemacht von {0}"
 		],
 		"el": [],
 		"en": [
@@ -22528,7 +22602,7 @@
 	},
 	"ui_game_over": {
 		"de": [
-			"Game over"
+			"Spiel verloren"
 		],
 		"el": [],
 		"en": [
@@ -23638,7 +23712,7 @@
 			"Kup skrzynie z odzieżą"
 		],
 		"pt": [
-			"Comprar Lootbox"
+			"Comprar Loot box"
 		],
 		"ru": [
 			"Купить ящик с вещами"

@@ -2,8 +2,6 @@ Translation coverage: 13 / 14 required (92.86%), 0 / 0 optional (100.00%)
 The following locales have missing translations:
 - sv
 The following locales have multiple translations:
-- pt (2)
 - ru (2)
 The following locales have transparent translations:
-- de
 - ru
