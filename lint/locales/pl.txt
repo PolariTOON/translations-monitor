@@ -1,7 +1,4 @@
-Translation coverage: 584 / 601 required (97.17%), 41 / 41 optional (100.00%)
-The following keys have extra translations:
-- cosmetic _102
-- cosmstic_099
+Translation coverage: 601 / 601 required (100.00%), 41 / 41 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -44,24 +41,6 @@ The following keys have extra, but optional, translations:
 - char_tristopio
 - ui_light_probes
 - ui_lightmaps
-The following keys have missing translations:
-- arcade_race_1
-- arcade_race_2
-- arcade_race_3
-- arcade_race_4
-- arcade_timer
-- cosmetic_099
-- cosmetic_102
-- hive_shop_equip
-- hive_shop_unequip
-- hive_task_unlock
-- hub_capitalos
-- hub_capitalus
-- hub_scientist
-- hub_sign_1
-- hub_tristopio
-- level1_sign_1
-- level1_sign_2
 The following keys have transparent translations:
 - char_baaren
 - char_bear_01

@@ -8,5 +8,3 @@ The following locales have missing translations:
 - nl
 - sv
 - tr
-The following locales have transparent translations:
-- de

@@ -9,6 +9,5 @@ The following locales have missing translations:
 - sv
 - tr
 The following locales have transparent translations:
-- de
 - pt
 - ru
