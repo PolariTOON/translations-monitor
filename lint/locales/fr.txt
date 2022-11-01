@@ -1,4 +1,4 @@
-Translation coverage: 601 / 601 required (100.00%), 1 / 41 optional (2.44%)
+Translation coverage: 606 / 606 required (100.00%), 1 / 42 optional (2.38%)
 The following keys have extra, but optional, translations:
 - char_maybee
 The following keys have missing, but optional, translations:
@@ -40,6 +40,7 @@ The following keys have missing, but optional, translations:
 - char_crogo
 - char_shicka
 - char_tristopio
+- char_violette
 - ui_light_probes
 - ui_lightmaps
 The following keys have transparent translations:

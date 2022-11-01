@@ -3,5 +3,6 @@ The following locales have transparent translations:
 - de
 - es
 - fr
+- nl
 - pt
 - sv

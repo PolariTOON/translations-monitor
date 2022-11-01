@@ -1,4 +1,4 @@
-Translation coverage: 601 / 601 required (100.00%), 41 / 41 optional (100.00%)
+Translation coverage: 602 / 606 required (99.34%), 41 / 42 optional (97.62%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -41,6 +41,13 @@ The following keys have extra, but optional, translations:
 - char_tristopio
 - ui_light_probes
 - ui_lightmaps
+The following keys have missing translations:
+- hive_sign_1
+- hive_sign_2
+- hive_sign_3
+- ui_respawn
+The following keys have missing, but optional, translations:
+- char_violette
 The following keys have transparent translations:
 - char_baaren
 - char_bear_01
