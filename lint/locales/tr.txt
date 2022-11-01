@@ -1,4 +1,4 @@
-Translation coverage: 360 / 601 required (59.90%), 2 / 41 optional (4.88%)
+Translation coverage: 360 / 606 required (59.41%), 2 / 42 optional (4.76%)
 The following keys have extra translations:
 - final_boss_1_1
 - final_boss_1_2
@@ -202,6 +202,9 @@ The following keys have missing translations:
 - hive_shop
 - hive_shop_equip
 - hive_shop_unequip
+- hive_sign_1
+- hive_sign_2
+- hive_sign_3
 - hive_task_boss
 - hive_task_gold
 - hive_task_level
@@ -313,6 +316,8 @@ The following keys have missing translations:
 - ui_game_creator
 - ui_game_over
 - ui_progression
+- ui_respawn
+- ui_skip
 - ui_version
 The following keys have missing, but optional, translations:
 - char_baaren
@@ -354,5 +359,6 @@ The following keys have missing, but optional, translations:
 - char_maybee
 - char_shicka
 - char_tristopio
+- char_violette
 The following keys have multiple translations:
 - level1_boss__1 (2)

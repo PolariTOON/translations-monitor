@@ -18,4 +18,5 @@ The following locales have transparent translations:
 - el
 - es
 - id
+- nl
 - sv

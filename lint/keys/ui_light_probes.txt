@@ -17,4 +17,5 @@ The following locales have transparent translations:
 - de
 - el
 - es
+- nl
 - sv

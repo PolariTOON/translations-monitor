@@ -1,4 +1,4 @@
-Translation coverage: 601 / 601 required (100.00%), 2 / 41 optional (4.88%)
+Translation coverage: 606 / 606 required (100.00%), 2 / 42 optional (4.76%)
 The following keys have extra translations:
 - hub_level4_intro_1
 - hub_level4_intro_2
@@ -69,8 +69,7 @@ The following keys have missing, but optional, translations:
 - char_maybee
 - char_shicka
 - char_tristopio
-The following keys have multiple translations:
-- level1_sign_1 (2)
+- char_violette
 The following keys have transparent translations:
 - arcade_race_2
 - cosmetic_006
@@ -78,7 +77,6 @@ The following keys have transparent translations:
 - cosmetic_071
 - cosmetic_084
 - cosmetic_094
-- hub_bear_15
 - hub_bear_30
 - mission_parkour
 - time_format

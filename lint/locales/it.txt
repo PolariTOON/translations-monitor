@@ -1,4 +1,4 @@
-Translation coverage: 337 / 601 required (56.07%), 2 / 41 optional (4.88%)
+Translation coverage: 337 / 606 required (55.61%), 2 / 42 optional (4.76%)
 The following keys have extra translations:
 - arcade_1_3
 - arcade_intro_2
@@ -217,6 +217,9 @@ The following keys have missing translations:
 - hive_shop
 - hive_shop_equip
 - hive_shop_unequip
+- hive_sign_1
+- hive_sign_2
+- hive_sign_3
 - hive_task_boss
 - hive_task_gold
 - hive_task_level
@@ -337,6 +340,8 @@ The following keys have missing translations:
 - ui_game_creator
 - ui_game_over
 - ui_progression
+- ui_respawn
+- ui_skip
 - ui_version
 - ui_website
 The following keys have missing, but optional, translations:
@@ -379,6 +384,7 @@ The following keys have missing, but optional, translations:
 - char_maybee
 - char_shicka
 - char_tristopio
+- char_violette
 The following keys have transparent translations:
 - char_fennec
 - mission_parkour

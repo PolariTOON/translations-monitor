@@ -4,5 +4,6 @@ The following locales have transparent translations:
 - es
 - fr
 - id
+- nl
 - pt
 - sv

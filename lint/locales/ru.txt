@@ -1,4 +1,4 @@
-Translation coverage: 557 / 601 required (92.68%), 2 / 41 optional (4.88%)
+Translation coverage: 557 / 606 required (91.91%), 2 / 42 optional (4.76%)
 The following keys have extra translations:
 - arcade_intro_2
 - final_boss_1_1
@@ -88,6 +88,9 @@ The following keys have missing translations:
 - hive_shop
 - hive_shop_equip
 - hive_shop_unequip
+- hive_sign_1
+- hive_sign_2
+- hive_sign_3
 - hive_task_boss
 - hive_task_gold
 - hive_task_level
@@ -119,6 +122,8 @@ The following keys have missing translations:
 - ui_game_creator
 - ui_game_over
 - ui_progression
+- ui_respawn
+- ui_skip
 - ui_version
 The following keys have missing, but optional, translations:
 - char_baaren
@@ -160,6 +165,7 @@ The following keys have missing, but optional, translations:
 - char_maybee
 - char_shicka
 - char_tristopio
+- char_violette
 The following keys have multiple translations:
 - level1_tutorial_1 (2)
 - level1_tutorial_2 (2)
@@ -272,9 +278,6 @@ The following keys have transparent translations:
 - cosmetic_097
 - cosmetic_098
 - cosmetic_default
-- hive_boss_1_1
-- hive_boss_1_2
-- hive_boss_1_3
 - hive_boss_1_4
 - hive_boss_1_5
 - hive_boss_1_6
@@ -289,15 +292,6 @@ The following keys have transparent translations:
 - level1_tutorial_1
 - level1_tutorial_2
 - level1_tutorial_3
-- level4_boss_1_1
-- level4_boss_1_2
-- level4_boss_1_3
-- level4_boss_1_4
-- level4_boss_1_5
-- level4_boss_2_1
-- level4_boss_2_2
-- level4_boss_2_3
-- level4_hairless_rat
 - party_bee_1
 - party_capitalos
 - party_capitalus
@@ -322,15 +316,6 @@ The following keys have transparent translations:
 - party_turtle_4
 - party_turtle_5
 - party_turtle_6
-- scientist_cutscene_1_3
-- scientist_cutscene_1_4
-- scientist_cutscene_1_5
-- scientist_cutscene_1_6
-- scientist_cutscene_1_7
-- scientist_cutscene_2_1
-- scientist_cutscene_2_2
-- scientist_cutscene_3_1
-- scientist_cutscene_3_2
 - shicka_hive_1
 - shicka_hive_2
 - shicka_hive_3
