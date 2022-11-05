@@ -507,6 +507,7 @@ The following keys have transparent translations:
 - level2_sign_3
 - level2_sign_5
 - level2_start_cutscene_2
+- level3_crocodile_1
 - level3_crocodile_2
 - level3_crocodile_3
 - level3_crocodile_4

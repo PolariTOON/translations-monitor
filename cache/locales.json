@@ -1300,9 +1300,6 @@
 			"Rally"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [
 			"Es tut mir sszzo leid, dasszz ich Leute verletzt habe, wir haben nur Befehle befolgt..."
 		],
@@ -1988,7 +1985,6 @@
 		"ui_shopinfo": [
 			"Capitalus gibt dir einen boost wenn du Werbung guckst. Wähle einen der folgenden booster um die Werbung zu starten und deine Belohnung zu erhalten."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [
 			"Überspringen"
 		],
@@ -2933,9 +2929,6 @@
 		"mission_parkour": [],
 		"mission_race": [],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -3473,7 +3466,6 @@
 		"ui_shopinfo": [
 			"Ο Capitalus θα σου δώση ένα ενισχυτικό αν δεις ένα διαφημιστικό. Διάλεξε ένα από τα ακόλουθα ενισχυτικά για να ξεκινήσεις το βίντεο και να λάβεις την ανταμοιβή σου."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -3904,7 +3896,7 @@
 			"Headless"
 		],
 		"cosmetic_047": [
-			"Shirt (king)"
+			"Shirt (donator)"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -4171,10 +4163,10 @@
 			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
 		],
 		"hive_ending_2": [
-			"From the looks of thingszz, the Kernel exploded when hitting the hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
+			"From the looks of thingszz, the Kernel exploded when hitting the Hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
 		],
 		"hive_ending_3": [
-			"The hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
+			"The Hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
 		],
 		"hive_ending_4": [
 			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let’s gather at the Bear Vvvillage, shall we?"
@@ -4465,7 +4457,7 @@
 			"Fortunately there is no purple honey in this part of the village."
 		],
 		"level1_turtle_5": [
-			"The upper part of the village is full of Purple Honey. We lowered the stairs to prevent the contaminated turtles from coming here."
+			"The upper part of the village is full of purple honey. We lowered the stairs to prevent the contaminated turtles from coming here."
 		],
 		"level1_turtle_6": [
 			"The inhabitants were joyful before the bees began to make this purple honey..."
@@ -4574,7 +4566,7 @@
 		],
 		"level3_boss_3": [],
 		"level3_crocodile_1": [
-			"Our friends contaminated by Purple Honey have returned to their primary instincts, they hunt in the water. Be careful."
+			"Our friends contaminated by purple honey have returned to their primary instincts, they hunt in the water. Be careful."
 		],
 		"level3_crocodile_2": [
 			"Unlike us, bears are not very agile in the water. Attract contaminated crocodiles near the edge of the water in order to jump on them."
@@ -4604,7 +4596,7 @@
 			"A few years ago, some bees began to build this gigantic wall without the queen knowing it. They were already preparing something before her kidnapping!"
 		],
 		"level3_fennec_7": [
-			"My family wanted to escape the area after the arrival of the Purple Honey, but the wall prevented us from doing so."
+			"My family wanted to escape the area after the arrival of the purple honey, but the wall prevented us from doing so."
 		],
 		"level3_fennec_8": [
 			"In ancient times, before the arrival of the bee dynasty, bears brought peace to this desert. The many bear statues prove this."
@@ -4697,7 +4689,7 @@
 			"I live in a cheese wheel, my house is made out of food. This is heaven."
 		],
 		"level4_mouse_3": [
-			"Mice live upstairs, but we have to venture downstairs to get food. There rats are really dumb but they still are dangerous."
+			"Mice live upstairs, but we have to venture downstairs to get food. Rats here are really dumb but they still are dangerous."
 		],
 		"level4_mouse_4": [
 			"We built this castle as a home, it's cosy and colorful here."
@@ -4814,9 +4806,6 @@
 			"Rally"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [
 			"I’m so sorry for hurting people, we were just following orderszz…"
 		],
@@ -5502,7 +5491,6 @@
 		"ui_shopinfo": [
 			"Capitalus will give you a booster if you watch an advertisement. Choose one of the following boosters to launch the video and receive your reward."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [
 			"Skip"
 		],
@@ -6523,9 +6511,6 @@
 			"Rally"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -7117,7 +7102,6 @@
 		"ui_shopinfo": [
 			"Capitalus will give you a booster if you watch an advertisement. Choose one of the following boosters to launch the video and receive your reward."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -7483,7 +7467,7 @@
 			"Sans tête"
 		],
 		"cosmetic_047": [
-			"T-shirt (royal)"
+			"T-shirt (donateur)"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -7750,10 +7734,10 @@
 			"Nous szommes dézzzolée d'avoir guerroyé contre toi, mon cher oursz. Nous n'étions pas nous-même là-bas, le Kernel... ajzziszait sur notre raizzzon."
 		],
 		"hive_ending_2": [
-			"Forsze est de consztater, que le Kernel a ekzplozzzé en heurtant la ruchze en chzutant... Nouzzz avons été téléportézzz ici pour quelque raizzzon, hélasz votre frère a problablement échzoué ailleurs."
+			"Forsze est de consztater, que le Kernel a ekzplozzzé en heurtant la Ruchze en chzutant... Nouzzz avons été téléportézzz ici pour quelque raizzzon, hélasz votre frère a problablement échzoué ailleurs."
 		],
 		"hive_ending_3": [
-			"La ruchze n'est plus, mais puiszque dorénavant nous szommes libre, nouzzz allons clore szette uzzzine de miel violet et resztaurer la paizzz à travers notre royaume."
+			"La Ruchze n'est plus, mais puiszque dorénavant nous szommes libre, nouzzz allons clore szette uzzzine de miel violet et resztaurer la paizzz à travers notre royaume."
 		],
 		"hive_ending_4": [
 			"Merszi à vous de nouzzz avoir szauvée Baaren. Merszi d'avoir szauvé tout le monde. Raszemblons-nous au Villajzze Oursz, voulez-vous ?"
@@ -8041,7 +8025,7 @@
 			"Je préfère rester ici à l'abri, il se passe des choses étranges dehors..."
 		],
 		"level1_turtle_4": [
-			"Heureusement qu'il n'y a pas de miel dans cette partie du village."
+			"Heureusement qu'il n'y a pas de miel violet dans cette partie du village."
 		],
 		"level1_turtle_5": [
 			"La partie supérieure du village est pleine de miel violet, on a abaissé l'escalier pour empêcher les tortues contaminées de venir ici."
@@ -8276,7 +8260,7 @@
 			"Je vis dans une meule de fromage, ma maison est faite de nourriture. C'est le paradis."
 		],
 		"level4_mouse_3": [
-			"Les souris vivent à l'étage mais nous devons nous aventurer en bas pour récupérer de la nourriture. Les rats sont très stupides mais restent dangereux."
+			"Les souris vivent à l'étage mais nous devons nous aventurer en bas pour récupérer de la nourriture. Les rats ici sont très stupides mais ils sont quand même dangereux."
 		],
 		"level4_mouse_4": [
 			"Nous avons contruit ce château comme maison, c'est sympathique et coloré ici."
@@ -8393,9 +8377,6 @@
 			"Rallye"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [
 			"Je szuis dézzzolée d'avoir bleszé des jzzens, nous ne faiszions que szuivre dezzz ordres..."
 		],
@@ -9077,7 +9058,6 @@
 		"ui_shopinfo": [
 			"Capitalus te donnera un bonus si tu regardes une publicité. Choisis un des bonus ci-dessous pour lancer la vidéo et récupérer ta récompense."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [
 			"Passer"
 		],
@@ -10102,9 +10082,6 @@
 			"Balapan"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -10696,7 +10673,6 @@
 		"ui_shopinfo": [
 			"Capitalus akan memberikan bonus jika Kamu menonton iklan. Pilih salah satu bonus berikut untuk menonton iklan dan terima hadiah Kamu."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -11675,9 +11651,6 @@
 			"Rally"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -12267,7 +12240,6 @@
 		"ui_shopinfo": [
 			"Capitalus vi darà un bonus se guardate una pubblicità. Scegli uno dei bonus qui sotto per lanciare il video e raccogliere la tua ricompensa."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -13242,9 +13214,6 @@
 			"ラリー"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -13834,7 +13803,6 @@
 		"ui_shopinfo": [
 			"キャピタルスは広告を見るとブースターをプレゼントしてくれます。 以下のブースターの中から1つを選んで動画を起動し、 報酬を受け取りましょう。"
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -15097,9 +15065,6 @@
 			"Rally"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [
 			"Het spijt me dat ik dieren pijn heb gedaan, we vvvvolgden gewoon bevelen op..."
 		],
@@ -15773,7 +15738,6 @@
 		"ui_shopinfo": [
 			"Capitalus will give you a booster if you watch an advertisement. Choose one of the following boosters to launch the video and receive your reward."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -17118,9 +17082,6 @@
 			"Wyścig"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [
 			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy…"
 		],
@@ -17804,7 +17765,6 @@
 		"ui_shopinfo": [
 			"Capitalus da ci ulepszenie, jeśli obejrzysz reklamę. Wybierz jedno z następujących ulepszenie, aby uruchomić film i otrzymać nagrodę."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [
 			"Pomiń"
 		],
@@ -17866,7 +17826,7 @@
 			"Freio (veículo)"
 		],
 		"action_center_camera": [
-			"Centralizar Câmera"
+			"Centralizar câmera"
 		],
 		"action_gas": [
 			"Acelerar (veículo)"
@@ -18327,7 +18287,7 @@
 			"Casco de tartaruga"
 		],
 		"cosmetic_099": [
-			"Pilhas de areia"
+			"A Poeira"
 		],
 		"cosmetic_100": [
 			"Ursinho"
@@ -18438,7 +18398,7 @@
 			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva… agindo sobre minha cabeça."
 		],
 		"hive_ending_2": [
-			"Do jeito que as coiszzas estão, o Kernel explodiu quando atingiu a colmeia sendo destruída... Fomoszz teleportados para cá de alguma forma, maszz seu irmão provvvavvvelmente foi parar em outro local."
+			"Do jeito que as coiszzas estão, o Kernel explodiu quando atingiu a Colmeia sendo destruída... Fomoszz teleportados para cá de alguma forma, maszz seu irmão provvvavvvelmente foi parar em outro local."
 		],
 		"hive_ending_3": [
 			"A Colmeia se foi, maszz agora que estou livre, posso finalmente deszzligar a fábrica de mel roxo e restaurar a pazzz sobre meu reino."
@@ -18459,10 +18419,10 @@
 			"Retornar pro visual anterior"
 		],
 		"hive_sign_1": [
-			"Entrada da Colmeia. Não invada."
+			"Entrada da Colmeia. Não ultrapasse."
 		],
 		"hive_sign_2": [
-			"Propriedade da abelha. Não entre."
+			"Propriedade das abelhas. Não entre."
 		],
 		"hive_sign_3": [
 			"Último aviso. Não entre."
@@ -18483,35 +18443,35 @@
 			"Obrigado por me salvar da caverna do Golem!"
 		],
 		"hub_bear_02": [
-			"Dê uma olhada na plataforma perto de mim; você pode ir nela pra mudar sua aparência!"
+			"Dê uma olhada na plataforma de pedra perto de mim, você pode ir nela pra mudar sua aparência."
 		],
 		"hub_bear_03": [
 			"Eu me pergunto onde está a verdadeira Abelha Rainha..."
 		],
 		"hub_bear_04": [
-			"Você deve ter levado um bom tempo pra coletar todas as moedas na Aldeia das Tartarugas!"
+			"Você deve ter levado um bom tempo pra achar todas as moedas na Aldeia das Tartarugas!"
 		],
 		"hub_bear_05": [
 			"Auto-sacrifício é a condição da virtude."
 		],
 		"hub_bear_06": [
-			"Você conseguiu manter o equilíbrio naquelas plataformas giratórias; tu tem muito talento!"
+			"Você conseguiu manter o equilíbrio naquelas plataformas giratórias, tu tem muito talento!"
 		],
 		"hub_bear_07": [
-			"Você é meu herói, Baaren. Sem você, eu ainda estaria em uma jaula..."
+			"Você é meu herói Baaren; sem você, eu ainda estaria em uma jaula..."
 		],
 		"hub_bear_08": [
-			"As abelhas tinham me escondido naquele canto no topo do rio. Felizmente você me viu..."
+			"As abelhas tinham me escondido naquele canto no topo do rio, felizmente você me viu..."
 		],
 		"hub_bear_09": [
-			"Muito bem, você derrotou o grande Yeti! Obrigado!"
+			"Mandou bem, você derrotou o grande Yeti! Obrigado!"
 		],
 		"hub_bear_1": [],
 		"hub_bear_10": [
-			"Eu conseguia ver a aldeia inteira da minha jaula no topo da montanha!"
+			"Eu conseguia ver o vale inteiro da minha jaula no topo da montanha."
 		],
 		"hub_bear_11": [
-			"Estou feliz por ter finalmente voltado pra cá; aquele vale era horrível."
+			"Estou feliz por ter finalmente voltado pra cá, aquele vale era horrível."
 		],
 		"hub_bear_12": [
 			"Talvez devêssemos ter trazido os pinguins aqui pra salvá-los?"
@@ -18529,7 +18489,7 @@
 			"Você não sabe de nada, Urso Baaren."
 		],
 		"hub_bear_17": [
-			"É tão bom voltar pra cá! Fiquei trancado naquela pirâmide por tempo demais..."
+			"É tão bom voltar pra cá, fiquei trancado naquela pirâmide por tempo demais."
 		],
 		"hub_bear_18": [
 			"Os fenecos são tão adoráveis, eu adoraria adotar um!"
@@ -18539,19 +18499,19 @@
 		],
 		"hub_bear_2": [],
 		"hub_bear_20": [
-			"Você deve conhecer o deserto como a palma da sua mão, agora que coletou um monte de moedas!"
+			"Você deve conhecer o deserto como a palma da sua mão agora que coletou todas as moedas!"
 		],
 		"hub_bear_21": [
-			"A Abelha Rainha está planejando algo terrível; ela foi ao deserto preparar o elemento final de seu plano mestre."
+			"A Abelha Rainha está planejando algo terrível, ela foi ao deserto preparar o elemento final de seu plano mestre."
 		],
 		"hub_bear_22": [
-			"A muralha pode ter sido construída pra testar o Mel Roxo antes de ser usado no resto do reino. Ou talvez as abelhas estivessem tentando se proteger de algo? Quem sabe?"
+			"A muralha pode ter sido construída pra testar o mel roxo antes de ser usado no resto do reino. Ou talvez as abelhas estivessem tentando se proteger de algo? Quem sabe?"
 		],
 		"hub_bear_23": [
 			"Uma lenda diz que a pirâmide contém uma relíquia que concede imensos poderes ao seu portador. Espero que essa relíquia não exista de verdade..."
 		],
 		"hub_bear_24": [
-			"A construção da muralha deve ter sido um grande trabalho. As abelhas devem ter um bom motivo pra fazê-la."
+			"A construção da muralha provavelmente foi um trabalho e tanto, as abelhas devem ter um bom motivo pra construí-la."
 		],
 		"hub_bear_25": [
 			"*sons de filhote alegre*"
@@ -18590,29 +18550,17 @@
 		"hub_capitalus": [
 			"Olááá! Sou eu, Capitaluuus! Se você aceitar assistir uma propagaaanda, eu posso te dar preseeentes!"
 		],
-		"hub_level4_intro_1": [
-			"Hey Baaren, aí está você! Hmm... acho que você merece uma explicação pra tudo que está acontecendo. Há 8 anos atrás, fui à pirâmide do Deserto Beemothep e peguei emprestado o Artefato para minha pesquisa."
-		],
-		"hub_level4_intro_2": [
-			"Eu descobri que ele tem duas propriedades principais: controle mental e manipulação de tamanho. Após uma tonelada de trabalho, consegui criar este dispositivo magnífico: A MÁQUINA DE ENCOLHIMENTO!"
-		],
-		"hub_level4_intro_3": [
-			"Eu também experimentei a parte do controle mental, e as coisas saíram, heh heh... um pouco erradas, eu acho. Como você pode ver, alguém descobriu meus estudos, roubou o artefato e o usou para criar o Mel Roxo."
-		],
-		"hub_level4_intro_4": [
-			"De qualquer forma, as abelhas não sabiam o que fazer com os ursos filhotes, então os encolheram e esconderam nesta casa."
-		],
-		"hub_level4_intro_5": [
-			"Ok, então tudo está ligado a esse artefato, como alguns fenecos no deserto nos contaram. Precisamos pegar de volta o artefato da Abelha Rainha! Mas primeiro, vamos salvar aqueles pobres filhotes!"
-		],
-		"hub_level4_intro_6": [
-			"Eles são muito pequenos, não posso abrir as jaulas sozinho; e a casa está infestada de ratos. Ehhh, realmente não quero ir pra lá... mas se você quiser salvá-los, posso te ajudar!"
-		],
+		"hub_level4_intro_1": [],
+		"hub_level4_intro_2": [],
+		"hub_level4_intro_3": [],
+		"hub_level4_intro_4": [],
+		"hub_level4_intro_5": [],
+		"hub_level4_intro_6": [],
 		"hub_scientist": [
 			"Não se preocupe, a máquina de encolhimento provavelmente é segura."
 		],
 		"hub_sign_1": [
-			"Boas vindas ao hub! Ande por cima dos círculos azuis para entrar em fases!"
+			"Boas vindas ao hub! Ande sob dos círculos azuis para entrar em fases!"
 		],
 		"hub_tristopio": [
 			"Opa! Está procurando uma boa missão? Eu acho que tenho o que você precisa!"
@@ -18662,9 +18610,7 @@
 		"intro_7": [],
 		"intro_8": [],
 		"intro_9": [],
-		"level1_boss_1": [
-			"Baaren! Você veio pra me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
-		],
+		"level1_boss_1": [],
 		"level1_boss_1_1": [
 			"Baaren! Você veio me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
 		],
@@ -18677,9 +18623,7 @@
 		"level1_boss_1_4": [
 			"Cuidado, ele está te atacando!!!"
 		],
-		"level1_boss_2": [
-			"Quando ele estiver te perseguindo, deixe-o ficar cansado; quando estiver atordoado, ataque pra dar dano!"
-		],
+		"level1_boss_2": [],
 		"level1_boss_2_1": [
 			"Você conseguiu, bom trabalho! Você pode pegar aquela chave e vir aqui para me libertar."
 		],
@@ -18689,15 +18633,9 @@
 		"level1_boss_2_3": [
 			"Me pergunto o que seu irmão estava fazendo aqui. Eu não tinha visto ele faz um tempo, talvez ele estava hibernando. A gente deveria procurar por ele no Vale Nevado, é o próximo destino daqui."
 		],
-		"level1_boss_3": [
-			"E também preste atenção nas pedras caindo do teto! Eu confio em você, Baaren!"
-		],
-		"level1_boss_4": [
-			"Cuidado, ele vai começar!"
-		],
-		"level1_boss_5": [
-			"Você derrotou essa coisa! Boa jogada! Pegue a chave e venha aqui me libertar!"
-		],
+		"level1_boss_3": [],
+		"level1_boss_4": [],
+		"level1_boss_5": [],
 		"level1_boss__1": [],
 		"level1_boss__2": [],
 		"level1_boss__3": [],
@@ -18710,10 +18648,10 @@
 			"Tente falar com as tartarugas para pegar informações sobre a aldeia."
 		],
 		"level1_intro_3": [
-			"Algumas tartarugas foram infectadas com o mel roxo; cuidado com elas!"
+			"Algumas tartarugas foram infectadas com o mel roxo, cuidado com elas!"
 		],
 		"level1_intro_4": [
-			"Barulhos suspeitos foram ouvidos perto de um poço; nós devemos ir checar!"
+			"Barulhos suspeitos foram ouvidos perto de um poço; nós devemos ir checar."
 		],
 		"level1_sign_1": [
 			"Boas vindas à Aldeia das Tartarugas!"
@@ -18734,7 +18672,7 @@
 			"Você precisa coletar pelo menos 125 moedas de 150 nesta fase para abrir esta jaula."
 		],
 		"level1_stair_cutscene_1": [
-			"As tartarugas bloquearam o caminho da parte de cima da aldeia pra isolar as tartarugas contaminadas."
+			"As tartarugas bloquearam o caminho da parte de cima da aldeia pra isolar as outras contaminadas."
 		],
 		"level1_stair_cutscene_2": [],
 		"level1_start_cutscene_1": [],
@@ -18742,29 +18680,27 @@
 		"level1_start_cutscene_3": [],
 		"level1_start_cutscene_4": [],
 		"level1_turtle_1": [
-			"Os habitantes da aldeia estão com medo! Você tem que nos ajudar!"
+			"Os habitantes da aldeia estão com medo, você tem que nos ajudar!"
 		],
 		"level1_turtle_2": [
 			"Meu pai ficou muito mau desde que comeu esse mel roxo estranho... Você tem que salvar ele!"
 		],
 		"level1_turtle_3": [
-			"Eu prefiro ficar aqui em casa; coisas estranhas acontecem lá fora..."
+			"Eu prefiro ficar aqui em casa, coisas estranhas acontecem lá fora..."
 		],
 		"level1_turtle_4": [
 			"Felizmente não tem mel roxo nesta parte da aldeia."
 		],
 		"level1_turtle_5": [
-			"A parte de cima da aldeia está cheia de Mel Roxo. Nós descemos as escadas pra impedir que as tartarugas contaminadas venham aqui."
+			"A parte de cima da aldeia está cheia de mel roxo. Nós descemos as escadas pra impedir as tartarugas contaminadas de virem aqui."
 		],
 		"level1_turtle_6": [
 			"Os habitantes viviam alegres antes das abelhas começarem a fazer esse mel roxo..."
 		],
 		"level1_turtle_7": [
-			"Hermit costumava contar estórias sobre uma caverna escondida em algum lugar no lago, antes de ser levado pelas abelhas..."
+			"O Hermit costumava contar estórias sobre uma caverna escondida em algum lugar no lago, antes de ser levado pelas abelhas..."
 		],
-		"level1_tutorial_0": [
-			"Toque aqui para ver o tutorial da fase"
-		],
+		"level1_tutorial_0": [],
 		"level1_tutorial_1": [
 			"Há jaulas de ursos espalhadas por essa área. Cada uma tem sua própria chave, então devemos encontrá-la primeiro. Devem estar por algum lugar perto das jaulas."
 		],
@@ -18775,7 +18711,7 @@
 			"Aliás, observe que as moedas vão reaparecer cada vez que saírmos da fase."
 		],
 		"level2_boss_1": [
-			"Aqui está o renomado Yeti... Vamos evitar ataques por enquanto. Espere ele ficar exausto."
+			"Aqui está o renomado Yeti... Vamos evitar os ataques dele por enquanto. Espere ele ficar exausto antes de confrontar."
 		],
 		"level2_boss_2": [
 			"Você viu aquilo? Tinha alguém ali! Que era... roxo."
@@ -18793,28 +18729,28 @@
 			"Os anciões deste vilarejo dizem que o Yeti vive na área..."
 		],
 		"level2_penguin_2": [
-			"Eu sou fã de quebra-cabeças! Construí um de madeira mais ao sul do vale."
+			"Eu sou um fã de quebra-cabeças! Construí um de madeira mais ao sul do vale."
 		],
 		"level2_penguin_3": [
 			"Você pode escalar esta parede atrás de mim; é um atalho pro topo da montanha."
 		],
 		"level2_penguin_4": [
-			"Se você encontrar o Rei das Renas, tente ganhar altura suficiente pra pular na cabeça dele!"
+			"Se você encontrar o Rei das Renas, tente ganhar altura pra pular na cabeça dele!"
 		],
 		"level2_penguin_5": [
-			"Tem um elevador no final do rio, mas você tem que escalar a montanha primeiro pra ativar ele."
+			"Tem um elevador no final do rio, mas você tem que escalar a montanha primeiro para ativar ele."
 		],
 		"level2_penguin_6": [
-			"Eu prefiro ficar escondido no meu iglu; há muitas coisas estranhas lá fora..."
+			"Eu prefiro ficar escondido no meu iglu, há muitas coisas estranhas lá fora..."
 		],
 		"level2_reindeer_1": [
-			"As máquinas da serraria estão danificadas, impossível parar as serras!"
+			"As máquinas da serraria estão danificadas, é impossível parar as serras!"
 		],
 		"level2_reindeer_2": [
-			"Meus amigos lá fora ficaram loucos! Você tem que nos ajudar a combater as abelhas!"
+			"Meus amigos lá fora ficaram loucos! Você tem que nos ajudar a combater as abelhas..."
 		],
 		"level2_reindeer_3": [
-			"Eu me refugiei no telhado da casa, é muito perigoso lá embaixo com todo esse mel roxo..."
+			"Eu me refugiei no telhado da casa, é muito perigoso lá embaixo com todo esse mel roxo."
 		],
 		"level2_sign_1": [
 			"Serraria"
@@ -18838,14 +18774,12 @@
 			"Alguns pinguins e renas que vivem aqui não foram contaminados. Fale com eles pra pegar informações sobre a redondeza."
 		],
 		"level2_start_cutscene_3": [
-			"Cuidado com os monstros debaixo da neve! Fique nas plataformas pra não incomodar eles!"
+			"Cuidado com os monstros escavando a neve! Fique nas plataformas pra não incomodar eles!"
 		],
 		"level2_start_cutscene_4": [
-			"Dizem que gritos são ouvidos vindo dessa direção à noite..."
+			"Dizem que gritos são escutados vindo dessa direção à noite..."
 		],
-		"level3_boss_1": [
-			"Baaren! Você conseguiu chegar aqui! Preste atenção por onde anda; essa sala está cheia de coisas velhas e perigosas!"
-		],
+		"level3_boss_1": [],
 		"level3_boss_1_1": [
 			"Baaren! Você conseguiu chegar aqui! Estou tão feliz de te ver! Preste atenção onde você caminha, esta tumba é provavelmente cheia de armadilhas perigosas."
 		],
@@ -18858,20 +18792,16 @@
 		"level3_boss_1_4": [
 			"Por favor, ache uma maneira de me tirar daqui para podermos ir pra casa!"
 		],
-		"level3_boss_2": [
-			"As abelhas planejam coisas estranhas com relíquias antigas. Eu acho que a Rainha está tentando ficar mais poderosa..."
-		],
+		"level3_boss_2": [],
 		"level3_boss_2_1": [
 			"Cara, isso foi assustador. O Kernel não está aqui, as abelhas devem ter roubado antes de chegarmos."
 		],
 		"level3_boss_2_2": [
 			"O cientista da Vila dos Ursos provavelmente sabe alguma coisa sobre este artefato."
 		],
-		"level3_boss_3": [
-			"Vamos, encontre uma maneira de chegar aqui e depois voltamos pra casa!"
-		],
+		"level3_boss_3": [],
 		"level3_crocodile_1": [
-			"Nossos amigos contaminados pelo Mel Roxo voltaram aos seus instintos primários, eles caçam na água. Tenha cuidado."
+			"Nossos amigos contaminados pelo mel roxo voltaram aos seus instintos primários, eles caçam na água. Tenha cuidado."
 		],
 		"level3_crocodile_2": [
 			"Ao contrário de nós, ursos não são muito ágeis na água. Atraia os crocodilos contaminados pra perto da borda do lago para pular neles."
@@ -18883,13 +18813,13 @@
 			"Ei, você se parece com as estátuas nas ruínas! As abelhas construíram essa muralha antes de eu nascer; nunca vi nada sobre o resto do mundo."
 		],
 		"level3_fennec_1": [
-			"Desde a chegada das abelhas, alguns colegas nossos foram contaminados... Agora vagam fora da aldeia atacando tudo o que se aproxima deles."
+			"Desde a chegada das abelhas, alguns colegas nossos foram contaminados. Agora vagam fora da aldeia atacando tudo o que se aproxima deles."
 		],
 		"level3_fennec_2": [
 			"As abelhas parecem interessadas na pirâmide; elas podem estar tentando recuperar um artefato antigo."
 		],
 		"level3_fennec_3": [
-			"Veja o que essas abelhas fizeram na nossa bela região... É um desastre! Essa imensa muralha nos isola do resto do mundo."
+			"Veja o que essas abelhas fizeram na nossa bela região... É um desastre. Essa imensa muralha nos isola do resto do mundo."
 		],
 		"level3_fennec_4": [
 			"O acesso ao ponto d'água ficou muito difícil desde que os crocodilos se instalaram no oásis. Nós estávamos lá primeiro!"
@@ -18904,19 +18834,19 @@
 			"Minha família queria escapar da área após a chegada do Mel Roxo, mas a muralha nos impediu de fazer isso."
 		],
 		"level3_fennec_8": [
-			"Em tempos antigos, antes da dinastia das abelhas, ursos trouxeram paz a este deserto. As muitas estátuas de ursos provam isso."
+			"Em tempos antigos, antes da chegada dinastia das abelhas, ursos trouxeram paz a este deserto. As muitas estátuas de ursos provam isso."
 		],
 		"level3_intro_1": [
-			"O Deserto Beemothep é a maior região de todas as que temos explorado até agora."
+			"O Deserto Beemothep é a maior região de todas as que exploramos até agora."
 		],
 		"level3_intro_2": [
-			"Podemos explorar o oásis, a Vila dos Crocodilos, a Vila dos Fenecos, muitas ruínas, um templo e várias outras coisas!"
+			"Podemos ir e explorar o oásis, a Vila dos Crocodilos, a Vila dos Fenecos, muitas ruínas, um templo e várias outras coisas!"
 		],
 		"level3_intro_3": [
-			"As abelhas parecem ter construído uma muralha ao redor da área... Elas estão interessadas ​​na pirâmide. Peça informações aos habitantes!"
+			"As abelhas parecem ter construído uma muralha ao redor das vilas. Elas estão interessadas ​​na pirâmide. Peça informações aos habitantes."
 		],
 		"level3_intro_4": [
-			"Para viajar neste deserto, vamos usar este quadriciclo. Durante a condução, use os controles de ar para evitar virar de cabeça pra baixo."
+			"Para viajar neste deserto, vamos usar este carrinho. Enquanto dirige, use os controles de ar para não virar de cabeça pra baixo."
 		],
 		"level3_sign_1": [
 			"Aluguel de quadriciclo para suas atividades no deserto! Ande nos botões vermelhos pra recuperar seu veículo."
@@ -18927,9 +18857,7 @@
 		"level3_sign_3": [
 			"PROIBIDO AO PÚBLICO//NÃO ENTRE"
 		],
-		"level4_boss_1": [
-			"Eu tenho e-es-esperado por você, ursinho, desde que entrou nesta casa!"
-		],
+		"level4_boss_1": [],
 		"level4_boss_1_1": [
 			"Eu estava e-e-esperando você aparecer, ursinho; estava te vendo esse tempo todo desde que pisou nesta casa..."
 		],
@@ -18945,9 +18873,7 @@
 		"level4_boss_1_5": [
 			"Você é mi-mi-minúsculo, ursinho, eu posso facilmente te e-e-esmagar!"
 		],
-		"level4_boss_2": [
-			"Você parece su-su-surpreso... Seu amigo cientista esqueceu de falar sobre mim? DEPOIS DE TUDO O QUE ELE FEZ CO-CO-COMIGO?!"
-		],
+		"level4_boss_2": [],
 		"level4_boss_2_1": [
 			"Muito obrigado por dar um jeito nele, ele era perigoso e imprevisível... hmm... diferente de mim, não é?"
 		],
@@ -18960,18 +18886,10 @@
 		"level4_boss_2_4": [
 			"Você deveria ir pra Colmeia, tenho certeza que a verdade nos espera lá."
 		],
-		"level4_boss_3": [
-			"Ele me deixou consciente e inteligente durante seus experimentos, mas nã-nã-não livre; eu era o favorito dele."
-		],
-		"level4_boss_4": [
-			"As abelhas me deixaram grande u-us-usando o Artefato para que eu pudesse proteger os filhotes de serem resgatados. Pensou que tranquei o alçapão do porão pra me e-es-esconder? Foi uma armadilha, e você caiu direitinho ne-ne-nela!"
-		],
-		"level4_boss_5": [
-			"Você foi a última coisa que me impedia de escapar de-de-desta casa; e agora que você é pequenino, posso facilmente te e-es-esmagar!"
-		],
-		"level4_boss_6": [
-			"Adeus, Baaren."
-		],
+		"level4_boss_3": [],
+		"level4_boss_4": [],
+		"level4_boss_5": [],
+		"level4_boss_6": [],
 		"level4_crogo_1": [
 			"Olá pequeno. Meu nome é Crogo, o crocodilo. Crogo nunca viu um urso tão nanico! Talvez você possa ajudar Crogo."
 		],
@@ -18979,82 +18897,82 @@
 			"Crogo deixou o oásis por um túnel subaquático porque Crogo precisava de comida e ele acabou vindo parar aqui."
 		],
 		"level4_crogo_3": [
-			"Crogo comeu alguns ratos; um deles estava carregando uma coisa de metal e agora sua barriga dói muito."
+			"Crogo comeu alguns ratos e um deles estava carregando uma coisa de metal, e agora sua barriga dói muito."
 		],
 		"level4_crogo_4": [
-			"Talvez você possa ir lá pra ver o que está causando a dor e remover."
+			"Talvez você possa ir lá pra ver o que está causando a dor e tirar."
 		],
 		"level4_hairless_rat": [
 			"Oi urso nanico. Sou Violette, a ratinha sem pelos. Os outros ratos são malvados, me baniram porque eu não tenho cabelo. Mim não morder, ser legal com você. Eu só quero fazer amigo. Você é meu amigo?"
 		],
 		"level4_intro_1": [
-			"Uau, ficar pequenino é uma sensação esquisita... Esta casa parece gigantesca!"
+			"Uau, ficar pequenininho é uma sensação esquisita... Esta casa parece gigantesca!"
 		],
 		"level4_intro_2": [
-			"Eu espero que não acabemos em lugares estranhos..."
+			"Espero que não acabemos em lugares estranhos..."
 		],
 		"level4_intro_3": [
-			"Os camundongos vivem no andar de cima. São uma espécie pacífica, mas podem ser um pouco egoístas às vezes. Deveríamos conversar com eles e ver se têm alguma informação valiosa pra encontrar os filhotes!"
+			"Os camundongos vivem no andar de cima. São uma espécie pacífica, mas podem ser um pouco egoístas às vezes. Deveríamos conversar com eles e ver se têm alguma informação valiosa para encontrar os filhotes."
 		],
 		"level4_intro_4": [
 			"Os ratos, por outro lado, são loucos e vão nos atacar assim que nos virem. A maioria deles está na Cidade dos Ratos, embaixo da escada, perto da entrada do porão."
 		],
 		"level4_mouse_1": [
-			"Há uma velha tampa de garrafa enferrujada na Cidade dos Ratos. É minha única herança, passada de geração em geração na minha família. Se você trazer ela de volta aqui, te darei esta chave."
+			"Há uma velha tampa de garrafa enferrujada na Cidade dos Ratos. É minha única herança, passada de geração em geração na minha família. Se você trazer ela de volta aqui, vou te dar esta chave."
 		],
 		"level4_mouse_2": [
-			"Eu vivo em uma rodela de queijo; minha casa é feita de comida! Aqui é o paraíso!"
+			"Eu vivo em uma rodela de queijo; minha casa é feita de comida. Aqui é um paraíso."
 		],
 		"level4_mouse_3": [
-			"Camundongos vivem no andar de cima, mas temos que nos aventurar aqui embaixo para pegar comida. Os ratos daqui são bem tolos, mas ainda sim perigosos."
+			"Camundongos vivem no andar de cima, mas temos que nos aventurar aqui embaixo pra pegar comida. Os ratos de lá são bem tolos, mas ainda sim perigosos."
 		],
 		"level4_mouse_4": [
-			"Nós construímos este castelo como uma casa; é aconchegante e colorido aqui."
+			"Nós construímos este castelo como uma casa, é aconchegante e colorido aqui."
 		],
 		"level4_mouse_5": [
 			"Pisar nestes tijolinhos machucam meus pés!"
 		],
 		"level4_mouse_6": [
-			"Viver em um castelo de tijolinhos é como jogar aquele famoso jogo de cubos!"
+			"Viver em um castelo de tijolinhos é como jogar aquele famoso jogo com cubos!"
 		],
 		"level4_mouse_7": [
 			"Eu sou o melhor em pique-esconde!"
 		],
 		"level4_mouse_8": [
-			"Eu vi uma chave lá em cima nas prateleiras. Acho que você pode ganhar altura suficiente quicando nessas almofadas."
+			"Eu vi uma chave aqui em cima nas prateleiras. Acho que você pode ganhar altura suficiente quicando nessas almofadas."
 		],
 		"level4_sign_1": [
 			"Você precisa coletar pelo menos 175 moedas de 200 nesta fase para abrir esta jaula."
 		],
 		"loading_1": [
-			"Se o jogo estiver devagar e/ou travando, dê uma olhada nas configurações gráficas."
+			"Se o jogo estiver lento, dê uma olhada no menu de configurações."
 		],
 		"loading_10": [
-			"Sinta-se livre para explorar o hub e encontrar algumas coisas interessantes!"
+			"Sinta-se livre pra explorar o hub e encontrar coisas interessantes!"
 		],
 		"loading_11": [
-			"É possível obter muitas moedas no Mundo Fliperama!"
+			"Você pode ganhar um monte de moedas jogando no Mundo Fliperama!"
 		],
 		"loading_12": [
-			"Observe o medidor de oxigênio debaixo d'água; ursos também precisam respirar!"
+			"Observe a barra de oxigênio debaixo d'água, ursos também precisam respirar!"
 		],
 		"loading_13": [
 			"Corações reaparecem após 30 segundos."
 		],
 		"loading_2": [
-			"Se encontrar algum bug, por favor, conte-o no servidor do Discord."
+			"Se encontrar qualquer bug, por favor, conte-o no servidor do Discord."
 		],
 		"loading_3": [
-			"É preciso destrancar a Porta das Moedas da fase antes de salvar qualquer urso."
+			"Lembre-se de salvar na nuvem manualmente de vez em quando."
 		],
 		"loading_4": [
-			"Você pode atacar inimigos dando um soco, mergulhando neles ou pulando em suas cabeças."
+			"Você pode atacar inimigos com soco, mergulhando neles ou pulando em suas cabeças."
 		],
 		"loading_5": [
-			"Capitalus pode te dar alguns bônus se alguma fase estiver muito difícil..."
+			"Capitalus pode te dar alguns bônus se uma fase estiver muito difícil..."
 		],
 		"loading_6": [
-			"Se você quiser fazer speedruns, há opções pra isso nas configurações."
+			"Se quiser fazer speedruns, há opções pra isso no menu de pausa."
 		],
 		"loading_7": [
 			"Junte-se à comunidade no Servidor do Discord! O link está no menu de pausa."
@@ -19069,10 +18987,10 @@
 			"Já disponível em {0}"
 		],
 		"mission_0_1": [
-			"Bem-vindo à minha missão Chão é Lava! Se tocar o chão, você perderá uma vida e voltará pro seu último checkpoint."
+			"Bem-vindo à minha missão Chão é Lava! Se você tocar o chão, vai perder uma vida e voltará pro checkpoint anterior."
 		],
 		"mission_0_2": [
-			"Corações não vão reaparecer, então use eles com cuidado. Esses ursos azuis são checkpoints que se ativam ao passar por eles."
+			"Corações não vão reaparecer, então use com cuidado. Esses ursos azuis são checkpoints que são ativados ao passar por eles."
 		],
 		"mission_0_3": [
 			"Seu objetivo é chegar até mim sem morrer. Boa sorte!"
@@ -19084,10 +19002,10 @@
 			"Bem-vindo à minha missão Voo com Avião de Papel! Pegue um e passe através de todos os anéis em ordem. Boa sorte!"
 		],
 		"mission_3_1": [
-			"Bem-vindo à minha missão Inundação! A água irá subir lentamente; fique em solo seco pra não se afogar! Seu objetivo é alcançar minha pequena caixa boiando. Boa sorte!"
+			"Bem-vindo à minha missão Inundação! A água vai começar a subir devagar. Fique em solo pra não se afogar! Seu objetivo é alcançar minha caixinha boiando. Boa sorte!"
 		],
 		"mission_4_1": [
-			"Bem-vindo à minha missão de caça aos ovos! Há 3 escondidos nesta fase."
+			"Bem-vindo à minha missão de Caça aos Ovos! Há 3 escondidos nesta fase."
 		],
 		"mission_4_2": [
 			"Quando você encontrar todos, traga eles até mim. Boa sorte!"
@@ -19096,7 +19014,7 @@
 			"Bem-vindo à minha missão Problema Elétrico! Como você vê, a casa foi inundada, e a energia ainda está ligada. Há uma alavanca na sala debaixo das escadas pra desligar. Boa sorte!"
 		],
 		"mission_6_1": [
-			"Bem-vindo à minha missão de parkour! É bem simples, apenas siga as plataformas pra chegar até mim."
+			"Bem-vindo à minha missão de parkour! É bem simples, apenas siga as plataformas até chegar em mim."
 		],
 		"mission_6_2": [
 			"Recomendo você evitar tocar na água..."
@@ -19123,15 +19041,6 @@
 			"Rali"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [
-			"Antes de salvar qualquer urso, precisamos abrir a Porta das Moedas. Temos que coletar 60 para abrí-la!"
-		],
-		"old level1 _tutorial_2": [
-			"Uma vez que a Porta das Moedas é aberta, ela permanecerá assim nas próximas vezes que visitarmos a fase, e essas pedras serão substituídas por ursos pra salvar."
-		],
-		"old level1 _tutorial_3": [
-			"Moedas e inimigos reaparecerão cada vez que sairmos de uma fase."
-		],
 		"party_bee_1": [
 			"Sinto muito por machucar pessoaszz, só estavvvamoszz seguindo ordenszz…"
 		],
@@ -19178,7 +19087,7 @@
 			"Este lugar não tem neve nem gelo... e a água é... líquida..."
 		],
 		"party_penguin_2": [
-			"Que bela vista!"
+			"Que ótima vista!"
 		],
 		"party_queen": [
 			"Obrigada por salvvvar o reino! Eu organizzzei uma boa festa pra vocêszz, se divirtam!"
@@ -19218,7 +19127,7 @@
 		"rat_boss": [],
 		"reindeer": [],
 		"save_bear_tip_1": [
-			"Libertamos um urso! Devemos continuar olhando ao redor na Aldeia das Tartarugas antes de irmos pra outras áreas."
+			"Libertamos um urso! Devemos continuar olhando ao redor na Aldeia antes de irmos pra outras áreas."
 		],
 		"save_bear_tip_2": [
 			"Iremos pro Vale Nevado mais tarde."
@@ -19261,16 +19170,16 @@
 			"Siga as setas azuis pra chegar à Aldeia das Tartarugas!"
 		],
 		"shicka_0_2": [
-			"Não podemos machucá-lo; vamos tentar sobreviver por enquanto!"
+			"Não podemos machucá-lo, vamos tentar sobreviver por enquanto!"
 		],
 		"shicka_0_3": [
 			"Eu acho que posso empurrá-lo desta plataforma!"
 		],
 		"shicka_0_4": [
-			"Precisamos salvar 3 ursos para abrir o POrtão dos Ursos"
+			"Precisamos salvar 3 ursos para abrir o Portão dos Ursos"
 		],
 		"shicka_1_1": [
-			"Você deveria tentar usar seu ataque nessa alavanca."
+			"Você devia tentar usar seu ataque nessa alavanca."
 		],
 		"shicka_1_2": [
 			"Nossa, a água está tão quente!"
@@ -19285,7 +19194,7 @@
 			"Temos que encontrar algo pesado pra manter a gangorra no lugar."
 		],
 		"shicka_1_6": [
-			"Olha! Outro mochileiro como eu! Nós somos de uma espécie rara e dependemos de nossos portadores."
+			"Olha! Outro mochileiro como eu. Nós somos de uma espécie rara e dependemos de nossos portadores."
 		],
 		"shicka_2_1": [
 			"Cuidado com estas serras!"
@@ -19297,25 +19206,25 @@
 			"Precisamos encontrar uma alavanca pra ativar esse elevador."
 		],
 		"shicka_2_4": [
-			"Ele é grande demais para apenas socar! Encontre uma maneira de ganhar altura e pular na cabeça dele."
+			"Ele é grande demais pra só um toque! Ache uma maneira de ganhar altura e pular na cabeça dele."
 		],
 		"shicka_2_5": [
-			"A chave não está aqui dentro; acho que deve estar perto da entrada."
+			"A chave não está aqui dentro, acho que deve estar perto da entrada."
 		],
 		"shicka_3_1": [
 			"Esta é a Vila dos Fenecos. Eles costumavam adorar ursos antes da dinastia das abelhas."
 		],
 		"shicka_3_2": [
-			"Deveríamos encontrar um mapa antes de entrar na pirâmide!"
+			"Deveríamos encontrar um mapa antes de entrar na pirâmide."
 		],
 		"shicka_3_3": [
 			"Um mapa do interior da pirâmide! Você deveria copiar em um pedaço de papel."
 		],
 		"shicka_3_4": [
-			"Um iglu? No deserto? Isto é... estranho."
+			"Um iglu? No deserto? Isso é... estranho."
 		],
 		"shicka_3_5": [
-			"Deve haver algum tipo de mecanismo de ativar pra chegar lá em cima..."
+			"Deve ter algum tipo de mecanismo para ativar pra chegar lá em cima..."
 		],
 		"shicka_3_6": [
 			"Que bela vista!"
@@ -19327,7 +19236,7 @@
 			"Eu acho que você pode dar uma barrigada pra destruir esse ralo... (segure B)"
 		],
 		"shicka_4_2": [
-			"O forno está bem quente! Pise no prato se você não quiser ser queimado!"
+			"O forno está bem quente! Pise no prato se não quiser ser queimado."
 		],
 		"shicka_4_3": [
 			"Nós podemos usar esse canhão para ir pro andar de cima mais rápido!"
@@ -19356,13 +19265,13 @@
 			"Olááá e boooas vindas ao meu serviiiço de customização de ursos!"
 		],
 		"studio_help_2": [
-			"Na loja, você pode comprar novos itens em troca de moedas; itens novos ficam disponíveis a cada 6 horas. Você ainda pode abrir uma lootbox pra ganhar um item aleatório que possa não estar na loja!"
+			"Na loja, você pode comprar novos itens em troca de moedas. Itens novos ficam disponíveis a cada 6 horas. Você ainda pode abrir uma loot box pra ganhar um item aleatório que possa não estar na loja!"
 		],
 		"studio_help_3": [
-			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), doador (verde) e Tristopio (rosa). Itens de doador podem ser obtidos na loja do meu irmão."
+			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e doador (verde). Itens de doador podem ser pegos na loja do meu irmão."
 		],
 		"studio_help_4": [
-			"Tristopio é o coelho rosa no outro lado do rio; seus itens são bem especiais... Aliás, tudo o que você desbloquear pode ser equipado aqui, de graça."
+			"Tristopio é o coelho rosa no outro lado do rio. Seus itens são bem especiais... Aliás, tudo o que você desbloquear pode ser equipado aqui, de graça."
 		],
 		"studio_help_5": [
 			"Certo, espero que esteja tudo claro. Uh, quero dizer... Ceeerto, espero que esteja tudo clarooo!"
@@ -19392,7 +19301,7 @@
 			"Modo Treinamento"
 		],
 		"tristopio_practice_info": [
-			"Missão concluída! Você pode jogá-la de novo sem perder headsets."
+			"Missão concluída! Você pode jogar ela de novo sem perder headsets."
 		],
 		"tristopio_start": [
 			"Começar Missão"
@@ -19417,7 +19326,7 @@
 			"...e depois explorar o Deserto Beemothep."
 		],
 		"tutorial_sign_01": [
-			"Bem-vindo(a) ao Super Bear Adventure! Use o joystick à esquerda para se mover."
+			"Bem-vindo(a) ao Super Bear Adventure! Use o direcional à esquerda para se mover."
 		],
 		"tutorial_sign_02": [
 			"Pressione A para pular."
@@ -19429,7 +19338,7 @@
 			"Pressione A no ar para um salto duplo."
 		],
 		"tutorial_sign_05": [
-			"Pressionando B e depois A enquanto estiver no chão irá realizar um salto longo. Pressione B no ar para mergulhar."
+			"Pressionando B e depois A enquanto estiver no chão pra fazer um salto longo. Pressione B no ar para mergulhar."
 		],
 		"tutorial_sign_06": [
 			"Você pode escalar videiras caminhando em direção a elas."
@@ -19451,7 +19360,7 @@
 			"Você pode dar um segundo salto durante um mergulho e depois mergulhar de novo para cobrir grandes distâncias!"
 		],
 		"tutorial_sign_12": [
-			"Ao fazer uma barrigada e soltar B antes de bater no chão, você irá quicar mais alto."
+			"Ao dar uma barrigada e soltar B antes de bater no chão, você fará um pulo concentrado."
 		],
 		"tutorial_sign_2": [],
 		"tutorial_sign_3": [],
@@ -19483,10 +19392,10 @@
 			"Conquistas"
 		],
 		"ui_ad_text": [
-			"Você está prestes a assistir um anúncio. Após o vídeo acabar, você receberá sua recompensa."
+			"Você está prestes a assistir um anúncio. Após assistir o vídeo, você receberá sua recompensa."
 		],
 		"ui_arcade_enter": [
-			"Entre no Mundo Fliperama pra ganhar moedas com mini-jogos!"
+			"Vá ao Mundo Fliperama pra ganhar moedas com mini-jogos!"
 		],
 		"ui_arcade_exit": [
 			"Saindo do Mundo Fliperama..."
@@ -19510,7 +19419,7 @@
 			"Recorde de moedas:"
 		],
 		"ui_binding": [
-			"Configurações Gamepad/Teclado"
+			"Configurar Controle/Teclado"
 		],
 		"ui_birds": [
 			"Aves"
@@ -19525,7 +19434,7 @@
 			"Cancelar"
 		],
 		"ui_capitalus_hint": [
-			"Esta fase está muito difícil? Tente obter um boost de vida de Capitalus no hub ou assista a um anúncio pra reviver!"
+			"Esta fase está muito difícil? Tente pegar um boost de vida com Capitalus no hub ou assista a um anúncio pra reviver!"
 		],
 		"ui_cloud": [
 			"Saves na Nuvem"
@@ -19543,7 +19452,7 @@
 			"Detector de moedas"
 		],
 		"ui_coin_detector_confirm": [
-			"O detector de moedas agora está ativo!"
+			"O detector de moedas agora está ativo."
 		],
 		"ui_coin_detector_desc": [
 			"Uma linha mostra a direção da moeda mais próxima.//O efeito acaba quando você sai do jogo."
@@ -19594,7 +19503,7 @@
 			"Compra completa! Você é agora um doador! Obrigado!"
 		],
 		"ui_donator_info": [
-			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a cosméticos exclusivos;//- Ganha 2x moedas sem anúncios;//- Obtém vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
+			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2x mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
 		],
 		"ui_donator_title": [
 			"Comprar status de Doador"
@@ -19709,7 +19618,7 @@
 			"Conectando ao Google Play..."
 		],
 		"ui_lootbox": [
-			"Comprar Loot box"
+			"Comprar loot box"
 		],
 		"ui_main_menu_1": [
 			"Pressione qualquer lugar para continuar"
@@ -19775,16 +19684,16 @@
 			"Reiniciar fase"
 		],
 		"ui_restartconfirm": [
-			"Você realmente quer reiniciar a fase?"
+			"Você realmente quer recomeçar a fase?"
 		],
 		"ui_resume": [
 			"Continuar"
 		],
 		"ui_returntohub": [
-			"Retornar ao hub"
+			"Voltar ao hub"
 		],
 		"ui_returntotitle": [
-			"Retornar pra Tela de Título"
+			"Voltar pra Tela de Título"
 		],
 		"ui_reversed": [
 			"Invertido"
@@ -19795,9 +19704,7 @@
 		"ui_save": [
 			"Espaço"
 		],
-		"ui_save_cloud": [
-			"Salvar na Nuvem"
-		],
+		"ui_save_cloud": [],
 		"ui_select_quality": [
 			"Selecione uma qualidade gráfica:"
 		],
@@ -19817,10 +19724,7 @@
 			"Mais coisas virão em futuras atualizações..."
 		],
 		"ui_shopinfo": [
-			"Capitalus te dará um boost se você assistir a um anúncio. Escolha um dos seguintes boosters para reproduzir o vídeo e receber sua recompensa."
-		],
-		"ui_show_cloud": [
-			"Mostrar salvamentos na Nuvem"
+			"Capitalus te dará um bônus se você assistir a um anúncio. Escolha um dos seguintes bônus para começar o vídeo e receber sua recompensa."
 		],
 		"ui_skip": [
 			"Pular"
@@ -19848,7 +19752,7 @@
 			"Fichas do Tristopio"
 		],
 		"ui_tristopio_info": [
-			"Venha aqui para uma nova missão às 10 horas da manhã todo dia!//Você ganha uma Ficha do Tristopio a cada missão concluída. Fichas podem ser usadas pra desbloquear roupas únicas! Você perde um headset a cada vez que falhar nas missões."
+			"Venha aqui para uma nova missão às 10 horas da manhã todo dia!//Cada missão concluída te dá uma Ficha do Tristopio. Você pode gastar elas pra desbloquear roupas únicas! Cada vez que falhar em uma missão, você perde um headset."
 		],
 		"ui_tristopio_title": [
 			"Loja do Tristopio"
@@ -20002,7 +19906,7 @@
 		"char_bear_31": [],
 		"char_bear_32": [],
 		"char_bee": [
-			"Bee"
+			"Пчела"
 		],
 		"char_brother": [
 			"Брат Баарена"
@@ -20024,7 +19928,7 @@
 			"Пингвин"
 		],
 		"char_queen": [
-			"Queen Beeatrice"
+			"Королева Беатриса"
 		],
 		"char_reindeer": [
 			"Северный олень"
@@ -20438,43 +20342,43 @@
 			"К сожалению, мои сородичи медведи предпочитают мир и хотят жить с другими животными в равенстве. Это ничтожно, какое отсутствие амбиций. Даже ты, мой собственный брат, предал меня."
 		],
 		"hive_boss_1_4": [
-			"The Kernel is quite wonderful, isn’t it? I used its powers to control Queen Beeatrice and take over the bees."
+			"Кернел довольно чудесный, не так ли? Я использовал его силы, чтобы управлять королевой Беатрисой и захватить пчёл."
 		],
 		"hive_boss_1_5": [
-			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion…"
+			"Я продолжил свои эксперименты с этим магическим артифактом и теперь понимаю его лучше, чем кто-либо другой. Теперь я могу управлять разумом медведей! Теперь, когда ты здесь, я могу подавить твоё восстание..."
 		],
 		"hive_boss_1_6": [
-			"Don’t move, it won’t hurt. Probably."
+			"Не двигайся, больно не будет. Наверно."
 		],
 		"hive_boss_1_7": [
-			"Wow, that was close!"
+			"Вау, это было близко!"
 		],
 		"hive_boss_1_8": [
-			"Nice reflexes brother! Looks like I won’t be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
+			"Хорошие рефлексы, брат! Похоже, мне не удастся попасть в тебя этим лазером, но возможно, сама королева Беатриса сможет тебя успокоить."
 		],
 		"hive_boss_2_1": [
-			"You can't escape anymore!"
+			"Ты больше не сможешь сбежать!"
 		],
 		"hive_boss_2_2": [
-			"The spell wasn't calibrated for a Backpacker! Oh no... no no NO! It went so wrong!"
+			"Заклинание не было откалибровано под рюкзак! О нет... нет нет НЕТ! Всё пошло не так!"
 		],
 		"hive_boss_3_1": [
-			"Okay Shicka, it's time to fight the real me!"
+			"Хорошо, Шика, пришло время сразиться с настоящим мной!"
 		],
 		"hive_ending_1": [
-			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
+			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была сабой там, Кернел... вввлиял на мой разззум."
 		],
 		"hive_ending_2": [
-			"From the looks of thingszz, the Kernel exploded when hitting the hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
+			"Судя по вввсему, Кернел взззорвался, ударивввшись об Улей по пути вввниз...Насзз сюда телепортировввало каким-то образом, но твввой брат, наввверное, оказззался где-то ещё."
 		],
 		"hive_ending_3": [
-			"The hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
+			"Улья больше нет, но теперь, когда я свввободна, я зззакрою фабрику фиолетового мёда и восззтановлю мир в своём королевввстве."
 		],
 		"hive_ending_4": [
-			"Thank you for savvving me Baaren. Thank you for savvving everyone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Спасибо, что спасзз меня, Баарен. Спасибо, что спасзз вввсех. Не собраться ли нам в Медвежьей деревввне?"
 		],
 		"hive_maybee": [
-			"Bears are awful but maybee i can beenefit off of you. I'm beesy doing beesiness."
+			"Медввведи отвввратительны, но можжжет я смогу получить от тебя вввыгоду. Я зззанята ведением бизззнеса."
 		],
 		"hive_shop": [],
 		"hive_shop_equip": [],
@@ -20649,7 +20553,7 @@
 			"Королева пчёл царствовала над королевством. Она была честна и ценилась всеми."
 		],
 		"intro_2_1": [
-			"… Пчелы не стали производить другой вид мёда в улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
+			"… Пчелы не стали производить другой вид мёда в Улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
 		],
 		"intro_2_2": [
 			"К сожалению, существа, которые употребили его, вскоре начали сходить с ума и атаковать своих друзей как неразумные животные."
@@ -20799,15 +20703,15 @@
 			"Нажмите здесь, чтобы показать обучение."
 		],
 		"level1_tutorial_1": [
-			"There are bear cages scattered around the area. Each cage has its own key so we need to find it first. They should be somewhere near the cages.",
+			"По всей территории расположены клетки с медведями. К каждой клетке есть её собственный ключ, так что нам нужно сначала найти его. Они должны быть где-то рядом с клетками.",
 			"Прежде чем спасать медведя, нужно открыть дверь за монеты. Нужно собрать 60 монет, чтобы открыть её."
 		],
 		"level1_tutorial_2": [
-			"Once we free enough of our friends, we will be able to open this gate.",
+			"Когда мы освободим достаточно наших друзей, мы сможем открыть эти ворота.",
 			"Как только дверца для монет откроется, она останется открытой при следующем посещении уровня, и эти камни должны быть заменены медведями для спасения."
 		],
 		"level1_tutorial_3": [
-			"Also, note that coins will reappear each time we leave the level.",
+			"Также заметь, что монеты будут появляться заново каждый раз, когда мы покидаем уровень.",
 			"Монеты и враги будут появляться каждый раз, когда мы выходим с уровня."
 		],
 		"level2_boss_1": [
@@ -21159,9 +21063,6 @@
 			"Гонки"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [
 			"I’m so sorry for hurting people, we were just following orderszz…"
 		],
@@ -21172,10 +21073,10 @@
 			"Wow, you saved all the bearszz! Good job! We must be bad at hiding cageszz."
 		],
 		"party_capitalos": [
-			"You got invited to the party for free?!"
+			"Тебя пригласили на вечеринку бесплатно?!"
 		],
 		"party_capitalus": [
-			"So many new clients! STONKS!"
+			"Так много новых клиентов! STONKS!"
 		],
 		"party_crocodile_1": [
 			"The air is sure colder here than in the desert."
@@ -21223,7 +21124,7 @@
 			"Ouch! I got a confetti in my eye, it hurts!"
 		],
 		"party_tristopio": [
-			"Party! Party! Party! Party! Party!"
+			"Вечеринка! Вечеринка! Вечеринка! Вечеринка! Вечеринка!"
 		],
 		"party_turtle_1": [
 			"Where does a turtle go when it’s raining?//…//To a shellter!"
@@ -21369,13 +21270,13 @@
 			"Ты можешь сделать рывок вниз, чтобы подпрыгнуть выше."
 		],
 		"shicka_hive_1": [
-			"A giant caterpillar! You can climb somewhere to get the high ground and jump on its back."
+			"Гигантская гусеница! Ты можешь забраться куда-нибудь на возвышенность и прыгнуть ей на спину."
 		],
 		"shicka_hive_2": [
-			"It's over caterpillar, we have the high ground!"
+			"Всё кончено, гусеница, мы стоим выше тебя!"
 		],
 		"shicka_hive_3": [
-			"If we hit these purple balls, we can send them back at him!"
+			"Если мы ударим по этим фиолетовым шарам, то мы сможем отправить их обратно в него!"
 		],
 		"sign": [],
 		"sign_help": [],
@@ -21843,7 +21744,6 @@
 		"ui_shopinfo": [
 			"Капиталус поможет Вам, если Вы посмотрите рекламу. Выберите один из вариантов, чтобы запустить видео и получить награду."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [
 			"Показать облачные сохранения"
@@ -22756,9 +22656,6 @@
 		"mouse": [
 			"Mus"
 		],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -23310,7 +23207,6 @@
 		"ui_shopinfo": [
 			"Capitalus will give you a booster if you watch an advertisement. Choose one of the following boosters to launch the video and receive your reward."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
@@ -24312,9 +24208,6 @@
 			"Ralli"
 		],
 		"mouse": [],
-		"old level1 _tutorial_1": [],
-		"old level1 _tutorial_2": [],
-		"old level1 _tutorial_3": [],
 		"party_bee_1": [],
 		"party_bee_2": [],
 		"party_bee_3": [],
@@ -24906,7 +24799,6 @@
 		"ui_shopinfo": [
 			"Bir reklam izlersen Capitalus sana sağlık arttırıcı verecek. Aşağıdaki arttırıcılardan birini seçerek videoyu başlatın ve ödülü kazanın."
 		],
-		"ui_show_cloud": [],
 		"ui_skip": [],
 		"ui_snow_cloud": [],
 		"ui_speedrun_mode": [
