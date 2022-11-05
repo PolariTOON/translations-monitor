@@ -5,6 +5,5 @@ The following locales have extra translations:
 - id
 - it
 - ja
-- pt
 - ru
 - tr

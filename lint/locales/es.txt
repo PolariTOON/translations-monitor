@@ -385,7 +385,6 @@ The following keys have transparent translations:
 - level2_start_cutscene_2
 - level2_start_cutscene_3
 - level2_start_cutscene_4
-- level3_crocodile_1
 - level3_crocodile_2
 - level3_crocodile_3
 - level3_crocodile_4
@@ -395,7 +394,6 @@ The following keys have transparent translations:
 - level3_fennec_4
 - level3_fennec_5
 - level3_fennec_6
-- level3_fennec_7
 - level3_fennec_8
 - level3_intro_1
 - level3_intro_2
@@ -414,7 +412,6 @@ The following keys have transparent translations:
 - level4_intro_4
 - level4_mouse_1
 - level4_mouse_2
-- level4_mouse_3
 - level4_mouse_4
 - level4_mouse_5
 - level4_mouse_6
