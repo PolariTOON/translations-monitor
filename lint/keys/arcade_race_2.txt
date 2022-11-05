@@ -6,10 +6,9 @@ The following locales have missing translations:
 - it
 - ja
 - nl
-- ru
+- pt
 - sv
 - tr
 The following locales have transparent translations:
 - de
 - fr
-- pt

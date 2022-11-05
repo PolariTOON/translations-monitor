@@ -3,7 +3,3 @@ The following locales have missing translations:
 - el
 - it
 - sv
-The following locales have multiple translations:
-- es (2)
-The following locales have transparent translations:
-- nl

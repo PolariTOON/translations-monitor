@@ -1,32 +1,38 @@
-Translation coverage: 602 / 606 required (99.34%), 41 / 42 optional (97.62%)
+Translation coverage: 602 / 606 required (99.34%), 7 / 42 optional (16.67%)
 The following keys have extra, but optional, translations:
+- char_bear_04
+- char_bear_05
+- char_bear_08
+- char_bear_10
+- char_bear_17
+- char_bear_19
+- char_bear_26
+The following keys have missing translations:
+- hive_sign_1
+- hive_sign_2
+- hive_sign_3
+- ui_respawn
+The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
 - char_bear_02
 - char_bear_03
-- char_bear_04
-- char_bear_05
 - char_bear_06
 - char_bear_07
-- char_bear_08
 - char_bear_09
-- char_bear_10
 - char_bear_11
 - char_bear_12
 - char_bear_13
 - char_bear_14
 - char_bear_15
 - char_bear_16
-- char_bear_17
 - char_bear_18
-- char_bear_19
 - char_bear_20
 - char_bear_21
 - char_bear_22
 - char_bear_23
 - char_bear_24
 - char_bear_25
-- char_bear_26
 - char_bear_27
 - char_bear_28
 - char_bear_29
@@ -39,47 +45,10 @@ The following keys have extra, but optional, translations:
 - char_maybee
 - char_shicka
 - char_tristopio
+- char_violette
 - ui_light_probes
 - ui_lightmaps
-The following keys have missing translations:
-- hive_sign_1
-- hive_sign_2
-- hive_sign_3
-- ui_respawn
-The following keys have missing, but optional, translations:
-- char_violette
 The following keys have transparent translations:
-- char_baaren
-- char_bear_01
-- char_bear_02
-- char_bear_03
-- char_bear_06
-- char_bear_07
-- char_bear_09
-- char_bear_11
-- char_bear_12
-- char_bear_13
-- char_bear_14
-- char_bear_15
-- char_bear_16
-- char_bear_18
-- char_bear_20
-- char_bear_21
-- char_bear_22
-- char_bear_23
-- char_bear_24
-- char_bear_25
-- char_bear_27
-- char_bear_28
-- char_bear_30
-- char_bear_31
-- char_bear_32
-- char_capitalos
-- char_capitalus
-- char_crogo
-- char_maybee
-- char_shicka
-- char_tristopio
 - cosmetic_006
 - cosmetic_048
 - cosmetic_094

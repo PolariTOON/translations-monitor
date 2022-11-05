@@ -7,5 +7,3 @@ The following locales have missing translations:
 - ja
 - sv
 - tr
-The following locales have transparent translations:
-- ru
