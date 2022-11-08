@@ -1,11 +1,10 @@
-Translation coverage: 8 / 14 required (57.14%), 0 / 0 optional (100.00%)
+Translation coverage: 11 / 14 required (78.57%), 0 / 0 optional (100.00%)
 The following locales have missing translations:
-- de
-- el
-- it
 - ja
 - pt
 - sv
 The following locales have transparent translations:
+- el
 - es
 - id
+- it
