@@ -1,4 +1,13 @@
 import fs from "fs";
+import fetch from "node-fetch";
+const bears = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/bears.json")).json();
+const challenges = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/challenges.json")).json();
+const levels = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/levels.json")).json();
+const missions = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/missions.json")).json();
+const outfits = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/outfits.json")).json();
+const parts = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/parts.json")).json();
+const rarities = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/rarities.json")).json();
+const updates = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/updates.json")).json();
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
 function capitalize(word, locale) {
 	const characters = [...word];
@@ -37,6 +46,27 @@ function bind(array) {
 		})));
 	}
 	return binding;
+}
+function supports(locale) {
+	return ["en-US", "fr", "pt-BR"].includes(locale);
+}
+function merge(original, override) {
+	for (const [index, value] of override.entries()) {
+		if (index >= original.length) {
+			original.push(Object.create(null));
+		} else {
+			original[index] ??= Object.create(null);
+		}
+		for (const [key, locales] of Object.entries(value)) {
+			original[index][key] = Object.create(null);
+			for (const [locale, word] of Object.entries(locales)) {
+				if (supports(locale)) {
+					original[index][key][locale] = word;
+				}
+			}
+		}
+	}
+	return original;
 }
 function computeBears() {
 	const bears = [];
@@ -195,18 +225,20 @@ function computeRarities() {
 	});
 	return rarities;
 }
-const bears = bind(computeBears());
-const challenges = bind(computeChallenges());
-const levels = bind(computeLevels());
-const outfits = bind(computeOutfits());
-const parts = bind(computeParts());
-const rarities = bind(computeRarities());
+merge(bears, bind(computeBears()));
+merge(challenges, bind(computeChallenges()));
+merge(levels, bind(computeLevels()));
+merge(outfits, bind(computeOutfits()));
+merge(parts, bind(computeParts()));
+merge(rarities, bind(computeRarities()));
 await fs.promises.mkdir("bind", {
 	recursive: true,
 });
 await fs.promises.writeFile(`bind/bears.json`, `${JSON.stringify(bears, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/challenges.json`, `${JSON.stringify(challenges, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/levels.json`, `${JSON.stringify(levels, null, "\t")}\n`);
+await fs.promises.writeFile(`bind/missions.json`, `${JSON.stringify(missions, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/outfits.json`, `${JSON.stringify(outfits, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/parts.json`, `${JSON.stringify(parts, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/rarities.json`, `${JSON.stringify(rarities, null, "\t")}\n`);
+await fs.promises.writeFile(`bind/updates.json`, `${JSON.stringify(updates, null, "\t")}\n`);
