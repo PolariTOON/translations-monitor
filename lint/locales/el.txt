@@ -1,10 +1,12 @@
-Translation coverage: 604 / 606 required (99.67%), 2 / 42 optional (4.76%)
+Translation coverage: 604 / 608 required (99.34%), 2 / 42 optional (4.76%)
 The following keys have extra, but optional, translations:
 - ui_light_probes
 - ui_lightmaps
 The following keys have missing translations:
 - char_bee
 - char_queen
+- cosmetic_103
+- cosmetic_104
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01

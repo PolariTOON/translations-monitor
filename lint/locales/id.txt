@@ -1,5 +1,7 @@
-Translation coverage: 605 / 606 required (99.83%), 0 / 42 optional (0.00%)
+Translation coverage: 605 / 608 required (99.51%), 0 / 42 optional (0.00%)
 The following keys have missing translations:
+- cosmetic_103
+- cosmetic_104
 - ui_game_over
 The following keys have missing, but optional, translations:
 - char_baaren

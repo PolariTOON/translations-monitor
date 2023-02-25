@@ -168,7 +168,9 @@
 		"char_turtle": [
 			"Schildkröte"
 		],
-		"char_violette": [],
+		"char_violette": [
+			"Violett"
+		],
 		"cosmetic_001": [
 			"Banditenmaske"
 		],
@@ -475,6 +477,10 @@
 		"cosmetic_102": [
 			"Geisterspur"
 		],
+		"cosmetic_103": [
+			"Katzenkopf"
+		],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Standard"
 		],
@@ -569,7 +575,7 @@
 			"Danke, daszz du mich gerettet haszzt, Baaren. Danke, daszz ihr alle gerettet habt. Lasszzt uns im Bärendorf vvverszzzammeln, ja?"
 		],
 		"hive_maybee": [
-			"Bären sind furchtbar, aber vvvvielleicht kann ich von dir profitieren. Ich bin fleißßßig am Geschäfte machen."
+			"Bären sind furchtbar, aber vvvvielleicht kann ich vvvon dir profitieren. Ich bin fleißßßig am Geschäfte machen."
 		],
 		"hive_shop": [
 			"Maybee's Geschenkeladen"
@@ -602,7 +608,7 @@
 			"Voraussetzung zum Freischalten:"
 		],
 		"hub_bear_01": [
-			"Von meinem Käfig auf dem Gipfel des Berges konnte ich den ganzen Tal sehen."
+			"Danke dass du mich aus der Golem Höhle gerettet hast!"
 		],
 		"hub_bear_02": [
 			"Sieh dir die Steinplattform hinter mir an, dort kannst du dein Kostüm wechseln."
@@ -722,7 +728,7 @@
 			"Bis..."
 		],
 		"intro_2_1": [
-			"... die Bienen begannen im Bienenstock eine andere Art von Honig zu produzieren. Kurze Zeit später waren dieser neue Geschmack und die violette Farbe bei allen beliebt."
+			"... die Bienen begannen im Bienenstock eine andere Art von Honig zu produzieren. Kurze Zeit später waren dieser neue Geschmack und die Lila Farbe bei allen beliebt."
 		],
 		"intro_2_2": [
 			"Leider fingen die Kreaturen, die es aßen, bald an, verrückt zu werden und ihre Freunde wie hirnlose Tiere anzugreifen."
@@ -1151,7 +1157,7 @@
 			"Rallye"
 		],
 		"party_bee_1": [
-			"Eszz tut mir szzo leid, dasszz ich Leute verletzt habe, wir haben nur Befehle befolgt..."
+			"Eszz tut mir szzo leid, dasszz ich Leute vvverletzt habe, wir haben nur Befehle befolgt..."
 		],
 		"party_bee_2": [
 			"Wie nennt man eine Biene mit unordentlichem Haar?/...//Ein Friszzbee."
@@ -1382,7 +1388,7 @@
 			"{0}std{1}min{2}s"
 		],
 		"title_gameplay": [
-			"Spielmechanik"
+			"Spielweise"
 		],
 		"title_graphics1": [
 			"Grafiken"
@@ -1448,7 +1454,7 @@
 			"Die Kamera kann gedreht werden, indem man mit dem Finger über den oberen Teil des Bildschirms fährt."
 		],
 		"tutorial_sign_08": [
-			"An der Oberfläche drückst du B, um zu tauchen. Drücke unter Wasser A, um aufzusteigen."
+			"Drücke an der Oberfläche B, um zu tauchen. Drücke unter Wasser A, um aufzusteigen."
 		],
 		"tutorial_sign_09": [
 			"Du kannst B drücken, um bestimmte Objekte zu greifen. Drücke erneut B, um sie loszulassen."
@@ -1625,7 +1631,7 @@
 			"Bildwiederholrate"
 		],
 		"ui_freed": [
-			"Du befreitest"
+			"Du hast befreit:"
 		],
 		"ui_game_creator": [
 			"Spiel gemacht von {0}"
@@ -1690,7 +1696,7 @@
 		"ui_light_probes": [],
 		"ui_lightmaps": [],
 		"ui_load": [
-			"Ladet"
+			"Laden"
 		],
 		"ui_load_ad": [
 			"Lade Anzeige..."
@@ -1786,7 +1792,7 @@
 			"Wiederbeleben"
 		],
 		"ui_save": [
-			"Speichern"
+			"Speicher"
 		],
 		"ui_select_quality": [
 			"Wähle die Grafikqualität:"
@@ -1840,7 +1846,7 @@
 			"Tristopio's Geschäft"
 		],
 		"ui_unlock": [
-			"du hast freigeschaltet"
+			"Du hast freigeschaltet,"
 		],
 		"ui_vehicle_controls": [
 			"Fahrzeugsteuerung"
@@ -2333,6 +2339,8 @@
 		"cosmetic_102": [
 			"Μονοπάτι φάντασμα"
 		],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Προεπιλεγμένο"
 		],
@@ -4079,7 +4087,7 @@
 			"Retro bear"
 		],
 		"cosmetic_036": [
-			"Retro shicka"
+			"Retro Shicka"
 		],
 		"cosmetic_037": [
 			"Banana hat"
@@ -4278,6 +4286,12 @@
 		],
 		"cosmetic_102": [
 			"Ghost trail"
+		],
+		"cosmetic_103": [
+			"Cat head"
+		],
+		"cosmetic_104": [
+			"Deal with it"
 		],
 		"cosmetic_default": [
 			"Default"
@@ -5273,7 +5287,7 @@
 			"Receive 100 coins instantly to purchase costumes."
 		],
 		"ui_2x_coins": [
-			"2x coins"
+			"Coins × 2"
 		],
 		"ui_6hp": [
 			"6 life points"
@@ -5396,7 +5410,7 @@
 			"Purchase complete! You are now a donor! Thank you!"
 		],
 		"ui_donator_info": [
-			"Buying the donor status gives you access to://- Supporting the developer of the game!;//- Unrewarded ads removal;//- Exclusive costumes;//- 2x coins without ads;//- Maximum health to 6;//- First revive for free"
+			"Buying the donor status gives you access to://- Supporting the developer of the game!//- Unrewarded ads removal//- Exclusive costumes//- Coins × 2 without ads//- Maximum health to 6//- First revive for free"
 		],
 		"ui_donator_title": [
 			"Buy donor status"
@@ -6147,6 +6161,8 @@
 		"cosmetic_102": [
 			"El rastro de los fantasmas"
 		],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Defecto"
 		],
@@ -8009,6 +8025,12 @@
 		"cosmetic_102": [
 			"Traînée fantôme"
 		],
+		"cosmetic_103": [
+			"Tête de chat"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Défaut"
 		],
@@ -9003,7 +9025,7 @@
 			"Reçois 100 pièces instantanément pour acheter des costumes."
 		],
 		"ui_2x_coins": [
-			"Pièces x2"
+			"Pièces × 2"
 		],
 		"ui_6hp": [
 			"6 points de vie"
@@ -9126,7 +9148,7 @@
 			"Achat réussi. Tu es maintenant un donateur ! Merci !"
 		],
 		"ui_donator_info": [
-			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces x2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
+			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces × 2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
 		],
 		"ui_donator_title": [
 			"Acheter le statut donateur"
@@ -9871,6 +9893,8 @@
 		"cosmetic_102": [
 			"Jejak hantu"
 		],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Standar"
 		],
@@ -11733,6 +11757,8 @@
 		"cosmetic_102": [
 			"Sentiero fantasma"
 		],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Difetto"
 		],
@@ -12413,7 +12439,7 @@
 			"Come si chiama la Regina Mirabape quando il Re delle Renne è in ritardo all'appuntamento?"
 		],
 		"party_bee_3": [
-			"Wow, hai salvato tutti gli orsi! Ben fatto! Dobbiamo essere pessimi nel nascondere le cazzate."
+			"Wow, hai salvato tutti gli orsi! Ben fatto! Dobbiamo essere pessimi nel nascondere le gabbie."
 		],
 		"party_capitalos": [
 			"Sei stato invitato alla festa gratuitamente?!"
@@ -12626,7 +12652,7 @@
 			"Nel negozio è possibile acquistare nuovi cosmetici in cambio di monete. Gli articoli in vendita cambiano ogni 6 ore. È anche possibile aprire un pacchetto per ottenere un oggetto a caso che potrebbe non essere nel negozio."
 		],
 		"studio_help_3": [
-			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), donatore (verde), Tristopio (rosa). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
+			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa), donatore (verde). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
 		],
 		"studio_help_4": [
 			"Tristopio è il coniglio rosa dall'altra parte del fiume, i suoi oggetti sono piuttosto speciali... A proposito, tutto quello che si sblocca può essere equipaggiato qui, gratuitamente."
@@ -13341,6 +13367,8 @@
 		"cosmetic_100": [],
 		"cosmetic_101": [],
 		"cosmetic_102": [],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [],
 		"help_birds": [
 			"鳥を無効化するとパフォーマンスが向上します。"
@@ -14495,10 +14523,10 @@
 			"Het racespel is een tijdrit. Na elke ronde ontvang je munten op basis van de tijd die je nodig hebt om de ronde te voltooien."
 		],
 		"arcade_1_2": [
-			"Stap in het voertuig door op B te drukken. Probeer in de lucht in evenwicht te blijven met behulp van uw lucht"
+			"Stap in het voertuig door op B te drukken. Probeer in de lucht in evenwicht te blijven met behulp van je lucht controle."
 		],
 		"arcade_2_1": [
-			"Het Platform Parkour is een oneindig parkour gemaakt van verschillende platforms. Hoe verder je gaat in de parkour, hoe meer munten je krijgt, maar hoe moeilijker de sprongen zullen zijn."
+			"Het Platform Parkour is een oneindig parkour gemaakt van verschillende platforms. Hoe verder je gaat in de parkour, hoe meer munten je krijgt, maar hoe moeilijker het parkour wordt."
 		],
 		"arcade_2_2": [
 			"Elke keer dat je valt, wordt de parkour willekeurig opnieuw gegenereerd."
@@ -14947,6 +14975,12 @@
 		"cosmetic_102": [
 			"Spookspoor"
 		],
+		"cosmetic_103": [
+			"Kat hoofd"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Standaard"
 		],
@@ -15197,7 +15231,7 @@
 			"… de bijen begonnen met het produceren van een ander soort honing in de korf. Kort daarna was deze nieuwe smaak en deze paarse kleur geliefd door iedereen."
 		],
 		"intro_2_2": [
-			"Helaas begonnen wezens die het consumeerden al snel gek te worden en hun vrienden aan te vallen als hersenloze dieren,"
+			"Helaas begonnen wezens die het consumeerden al snel gek te worden en hun vrienden aan te vallen als hersenloze dieren."
 		],
 		"intro_2_3": [
 			"Niemand weet waarom de bijen hun eigen koninkrijk begonnen te verwoesten en de bewoners waren te zwak om terug te vechten."
@@ -15224,7 +15258,7 @@
 			"Wanneer hij je aanvalt, moet je zijn aanvallen ontwijken en wachten totdat hij is uitgeput voordat je terugvecht."
 		],
 		"level1_boss_1_3": [
-			"kijk ook uit voor de stenen die van het plafond vallen! Ik geloof in jou, Baaren!"
+			"Kijk ook uit voor de stenen die van het plafond vallen! Ik geloof in jou, Baaren!"
 		],
 		"level1_boss_1_4": [
 			"Kijk uit, het valt je aan!!!"
@@ -15245,7 +15279,7 @@
 			"Probeer te praten met de schildpadden om informatie te krijgen over het dorp."
 		],
 		"level1_intro_3": [
-			"Sommige schilddpadden zijn aangetast door paarse honing, pas op!"
+			"Sommige schilddpadden zijn aangetast door de paarse honing, pas op!"
 		],
 		"level1_intro_4": [
 			"Vreemde geluiden kwamen uit de buurt van die put. Je zou het moeten uitzoeken."
@@ -15257,10 +15291,10 @@
 			"Deze hendel sluit het pad."
 		],
 		"level1_sign_3": [
-			"Kluizenaar huis"
+			"Kluizenaar's huis"
 		],
 		"level1_sign_4": [
-			"Visserhuisje"
+			"Vissershuisje"
 		],
 		"level1_sign_5": [
 			"Golem grot"
@@ -15284,7 +15318,7 @@
 			"Gelukkig is er geen paarse honing in dit deel van het dorp."
 		],
 		"level1_turtle_5": [
-			"Het bovenste deel van het dorp is vol van paarse honing. We hebben de trap weggehaald om geen besmette schildpadden hier te laten gaan."
+			"Het bovenste deel van het dorp is vol van paarse honing. We hebben de trap weggehaald om geen besmette schildpadden hier heen te laten gaan."
 		],
 		"level1_turtle_6": [
 			"De inwoners waren gelukkig tot de bijen de paarse honing maakte..."
@@ -15770,7 +15804,7 @@
 			"We moeten iets zwaars vinden om de wip op zijn plaats te houden."
 		],
 		"shicka_1_6": [
-			"Kijken!  Nog een Backpacker zoals ik. Wij zijn een zeldzame soort en zijn afhankelijk van onze drager."
+			"Kijk! Nog een Backpacker zoals ik. Wij zijn een zeldzame soort en zijn afhankelijk van onze drager."
 		],
 		"shicka_2_1": [
 			"Pas op voor deze zaagbladen!"
@@ -15989,7 +16023,7 @@
 			"Vogels"
 		],
 		"ui_buy": [
-			"Koop loot box"
+			"Koop"
 		],
 		"ui_camera_sensitivity": [
 			"Camera gevoeligheid"
@@ -16130,7 +16164,7 @@
 			"Weet je zeker dat je de intro en tutorial opnieuw wil doen?"
 		],
 		"ui_invert_camera": [
-			"gespiegelde camera"
+			"Gespiegelde camera"
 		],
 		"ui_item_time": [
 			"Nieuwe voorwerpen in"
@@ -16258,7 +16292,7 @@
 			"Herleven"
 		],
 		"ui_save": [
-			"Opslaan"
+			"Opslag"
 		],
 		"ui_select_quality": [
 			"Kies de grafische kwaliteit:"
@@ -16270,7 +16304,7 @@
 			"Schaduwen"
 		],
 		"ui_shicka_tips": [
-			"Shika's tips"
+			"Shicka's tips"
 		],
 		"ui_shop": [
 			"Capitalus' winkel"
@@ -16279,7 +16313,7 @@
 			"Er zal nog meer komen in toekomstige updates"
 		],
 		"ui_shopinfo": [
-			"Capitalus zal je een booster geven als je een advertentie kijkt. Kies een van deze boosters om eem advertentie te kijken voor een beloning."
+			"Capitalus zal je een booster geven als je een advertentie kijkt. Kies een van deze boosters om een advertentie te kijken voor een beloning."
 		],
 		"ui_skip": [
 			"Overslaan"
@@ -16291,7 +16325,7 @@
 			"Start"
 		],
 		"ui_stickers_found": [
-			"gevonden stickers"
+			"Gevonden stickers"
 		],
 		"ui_time": [
 			"Tijd"
@@ -16823,6 +16857,8 @@
 		"cosmetic_102": [
 			"Szlak dusz"
 		],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"domyślny"
 		],
@@ -18422,7 +18458,7 @@
 			"Urso polar"
 		],
 		"cosmetic_015": [
-			"Corpo gordo"
+			"Barrigão"
 		],
 		"cosmetic_016": [
 			"Corpo musculoso"
@@ -18677,6 +18713,10 @@
 		"cosmetic_102": [
 			"Rastro fantasma"
 		],
+		"cosmetic_103": [
+			"Cabeça de gato"
+		],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Padrão"
 		],
@@ -20607,6 +20647,12 @@
 		"cosmetic_102": [
 			"Призрачный след"
 		],
+		"cosmetic_103": [
+			"Кошачья голова"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Стандартный"
 		],
@@ -20668,7 +20714,7 @@
 			"Кернел довольно чудесный, не так ли? Я использовал его силы, чтобы управлять королевой Беатрисой и захватить пчёл."
 		],
 		"hive_boss_1_5": [
-			"Я продолжил свои эксперименты с этим магическим артифактом и теперь понимаю его лучше, чем кто-либо другой. Теперь я могу управлять разумом медведей! Теперь, когда ты здесь, я могу подавить твоё восстание..."
+			"Я продолжил свои эксперименты с этим магическим артефактом и теперь понимаю его лучше, чем кто-либо другой. Теперь я могу управлять разумом медведей! Теперь, когда ты здесь, я могу подавить твоё восстание..."
 		],
 		"hive_boss_1_6": [
 			"Не двигайся, больно не будет. Наверно."
@@ -20689,7 +20735,7 @@
 			"Хорошо, Шика, пришло время сразиться с настоящим мной!"
 		],
 		"hive_ending_1": [
-			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была сабой там, Кернел... вввлиял на мой разззум."
+			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была собой там, Кернел... вввлиял на мой разззум."
 		],
 		"hive_ending_2": [
 			"Судя по вввсему, Кернел взззорвался, ударивввшись об Улей по пути вввниз...Насзз сюда телепортировввало каким-то образом, но твввой брат, наввверное, оказззался где-то ещё."
@@ -20896,7 +20942,7 @@
 			"Кстати, я видел твоего брата здесь ранее сегодня, он выглядел не очень хорошо. Я надеюсь, ты найдёшь его."
 		],
 		"level1_boss_2_3": [
-			"Интересно, что твой брат здесь делал. Я давно его не видел, может он был в спячке. Мы должны поискать его в Снежной долине, это следующий пункт назначения отсюда."
+			"Интересно, что твой брат здесь делал. Я давно его не видела, может он был в спячке. Мы должны поискать его в Снежной долине, это следующий пункт назначения отсюда."
 		],
 		"level1_intro_1": [
 			"Черепаший город был милым местом до недавних событий."
@@ -21502,7 +21548,7 @@
 			"В этом магазине вы сможете обменять свои монеты на новые предметы! Новые предметы будут появляться каждые 6 часов! Так же, вы можете открывать Ящики с одеждой для получения предметов которых нет в магазине!"
 		],
 		"studio_help_3": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), донорская (зелёная), Тристопио (розовая). Донорские предметы можно преобрести в магазине моего брата."
+			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донорская (зелёная). Донорские предметы можно преобрести в магазине моего брата."
 		],
 		"studio_help_4": [
 			"Тристопио это кролик на другой стороне реки, его предметы очень редкие ! Так же, всё что вы приобретёте вы сможете надеть здесь, бесплатно."
@@ -22201,6 +22247,8 @@
 		"cosmetic_100": [],
 		"cosmetic_101": [],
 		"cosmetic_102": [],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [],
 		"help_birds": [],
 		"help_fancy_shaders": [],
@@ -23199,6 +23247,8 @@
 		"cosmetic_102": [
 			"Hayalet izi"
 		],
+		"cosmetic_103": [],
+		"cosmetic_104": [],
 		"cosmetic_default": [
 			"Varsayılan"
 		],
@@ -24094,7 +24144,7 @@
 			"Mağazadan akçe karşılığında yeni ögeler satın alabilirsiniz. Her 6 saatte bir yeni ögeler hazır olacak. Ayrıca mağazada bulunmayabilecek rastgele ögeleri edinmek için bir kutu açabilirsin"
 		],
 		"studio_help_3": [
-			"5 ender sınıf vardır: yaygın (beyaz), ender (mavi), efsanevi (fuşya), bağışçı (yeşil), Tristopio (pembe). Bağışçı ögelerini kardeşimin mağazasından alabilirsin."
+			"5 ender sınıf vardır: yaygın (beyaz), ender (mavi), efsanevi (fuşya), Tristopio (pembe), bağışçı (yeşil). Bağışçı ögelerini kardeşimin mağazasından alabilirsin."
 		],
 		"studio_help_4": [
 			"Tristopio nehrin diğer tarafındaki pembe tavşan, ögeleri oldukça özeldir... Bu arada, açtığınız her şeyi burada ücretsiz olarak giyebilirsiniz."

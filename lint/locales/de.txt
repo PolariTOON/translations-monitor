@@ -1,4 +1,8 @@
-Translation coverage: 606 / 606 required (100.00%), 0 / 42 optional (0.00%)
+Translation coverage: 607 / 608 required (99.84%), 1 / 42 optional (2.38%)
+The following keys have extra, but optional, translations:
+- char_violette
+The following keys have missing translations:
+- cosmetic_104
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -39,12 +43,10 @@ The following keys have missing, but optional, translations:
 - char_maybee
 - char_shicka
 - char_tristopio
-- char_violette
 - ui_light_probes
 - ui_lightmaps
 The following keys have transparent translations:
 - arcade_race_2
-- cosmetic_036
 - cosmetic_048
 - cosmetic_056
 - mission_parkour

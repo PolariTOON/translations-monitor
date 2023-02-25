@@ -1,4 +1,4 @@
-Translation coverage: 355 / 648 required (54.78%), 0 / 0 optional (100.00%)
+Translation coverage: 355 / 650 required (54.62%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -162,6 +162,8 @@ The following keys have missing translations:
 - cosmetic_100
 - cosmetic_101
 - cosmetic_102
+- cosmetic_103
+- cosmetic_104
 - cosmetic_default
 - hive_boss_1_1
 - hive_boss_1_2

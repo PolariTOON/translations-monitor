@@ -136,7 +136,7 @@ function computeOutfits() {
 			name: keys["cosmetic_default"],
 		});
 	}
-	for (let k = 0; k < 102; ++k) {
+	for (let k = 0; k < 104; ++k) {
 		outfits.push({
 			name: keys[`cosmetic_${`${k + 1}`.padStart(3, "0")}`],
 		});

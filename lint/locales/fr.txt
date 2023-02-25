@@ -1,4 +1,4 @@
-Translation coverage: 606 / 606 required (100.00%), 1 / 42 optional (2.38%)
+Translation coverage: 608 / 608 required (100.00%), 1 / 42 optional (2.38%)
 The following keys have extra, but optional, translations:
 - char_maybee
 The following keys have missing, but optional, translations:
@@ -51,6 +51,7 @@ The following keys have transparent translations:
 - cosmetic_006
 - cosmetic_048
 - cosmetic_094
+- cosmetic_104
 - mission_parkour
 - time_format
 - ui_game_over

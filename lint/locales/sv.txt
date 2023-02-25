@@ -1,4 +1,4 @@
-Translation coverage: 41 / 606 required (6.77%), 0 / 42 optional (0.00%)
+Translation coverage: 41 / 608 required (6.74%), 0 / 42 optional (0.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -136,6 +136,8 @@ The following keys have missing translations:
 - cosmetic_100
 - cosmetic_101
 - cosmetic_102
+- cosmetic_103
+- cosmetic_104
 - cosmetic_default
 - help_birds
 - help_fancy_shaders

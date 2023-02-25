@@ -1,7 +1,9 @@
-Translation coverage: 605 / 606 required (99.83%), 1 / 42 optional (2.38%)
+Translation coverage: 605 / 608 required (99.51%), 1 / 42 optional (2.38%)
 The following keys have extra, but optional, translations:
 - char_maybee
 The following keys have missing translations:
+- cosmetic_103
+- cosmetic_104
 - ui_game_over
 The following keys have missing, but optional, translations:
 - char_baaren
@@ -50,6 +52,7 @@ The following keys have transparent translations:
 - binding_axis
 - cosmetic_006
 - cosmetic_020
+- cosmetic_036
 - cosmetic_048
 - cosmetic_094
 - hub_bear_15

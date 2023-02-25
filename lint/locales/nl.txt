@@ -1,4 +1,4 @@
-Translation coverage: 606 / 606 required (100.00%), 1 / 42 optional (2.38%)
+Translation coverage: 608 / 608 required (100.00%), 1 / 42 optional (2.38%)
 The following keys have extra, but optional, translations:
 - char_crogo
 The following keys have missing, but optional, translations:
@@ -47,12 +47,14 @@ The following keys have transparent translations:
 - arcade_race_2
 - boss_rat
 - cosmetic_006
+- cosmetic_036
 - cosmetic_048
 - cosmetic_069
 - cosmetic_070
 - cosmetic_081
 - cosmetic_085
 - cosmetic_094
+- cosmetic_104
 - mission_parkour
 - mission_race
 - title_gameplay
@@ -61,6 +63,7 @@ The following keys have transparent translations:
 - ui_game_over
 - ui_in
 - ui_level1
+- ui_shicka_tips
 - ui_start
 - ui_timer
 - ui_tokens

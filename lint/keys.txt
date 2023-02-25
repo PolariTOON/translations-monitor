@@ -157,9 +157,9 @@ char_shicka has missing, but optional, translations de, el, es, fr, id, it, nl, 
 char_tristopio has extra, but optional, translations ru
 char_tristopio has missing translations ja
 char_tristopio has missing, but optional, translations de, el, es, fr, id, it, nl, pl, pt, sv, tr
-char_violette has extra, but optional, translations ru
+char_violette has extra, but optional, translations de, ru
 char_violette has missing translations ja
-char_violette has missing, but optional, translations de, el, es, fr, id, it, nl, pl, pt, sv, tr
+char_violette has missing, but optional, translations el, es, fr, id, it, nl, pl, pt, sv, tr
 cosmetic_001 has missing translations ja, sv
 cosmetic_002 has missing translations ja, sv
 cosmetic_003 has missing translations ja, sv
@@ -200,7 +200,7 @@ cosmetic_033 has missing translations ja, sv
 cosmetic_034 has missing translations ja, sv
 cosmetic_035 has missing translations ja, sv
 cosmetic_036 has missing translations ja, sv
-cosmetic_036 has transparent translations de, tr
+cosmetic_036 has transparent translations es, it, nl, pl
 cosmetic_037 has missing translations ja, sv
 cosmetic_038 has missing translations ja, sv
 cosmetic_039 has missing translations ja, sv
@@ -277,6 +277,9 @@ cosmetic_099 has missing translations ja, sv
 cosmetic_100 has missing translations ja, sv
 cosmetic_101 has missing translations ja, sv
 cosmetic_102 has missing translations ja, sv
+cosmetic_103 has missing translations el, es, id, it, ja, pl, sv, tr
+cosmetic_104 has missing translations de, el, es, id, it, ja, pl, pt, sv, tr
+cosmetic_104 has transparent translations fr, nl, ru
 cosmetic_default has missing translations ja, sv
 help_birds has missing translations sv
 help_fancy_shaders has missing translations sv
@@ -710,6 +713,7 @@ ui_select_quality has missing translations sv
 ui_sfx_volume has missing translations sv
 ui_shadows has missing translations sv
 ui_shicka_tips has missing translations sv
+ui_shicka_tips has transparent translations nl
 ui_shop has missing translations sv
 ui_shop_future has missing translations sv
 ui_shopinfo has missing translations sv

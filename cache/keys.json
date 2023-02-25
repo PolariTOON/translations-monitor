@@ -347,7 +347,7 @@
 			"Bボタンを押して乗り物に乗ってください。そしてレース中は”アクセル”と”ブレーキ”を使ってバランスを保ってください。"
 		],
 		"nl": [
-			"Stap in het voertuig door op B te drukken. Probeer in de lucht in evenwicht te blijven met behulp van uw lucht"
+			"Stap in het voertuig door op B te drukken. Probeer in de lucht in evenwicht te blijven met behulp van je lucht controle."
 		],
 		"pl": [
 			"Aby dostać się do pojazdu, naciśnij przycisk B. Będąc w powietrzu, staraj się zachować równowagę za pomocą guzików kontroli."
@@ -389,7 +389,7 @@
 			"”プラットフォームパルクール”は、 異なるプラットフォームで作られた無限のパルクールステージです。 パルクールを進むごとにコインが増えていきますが、 ジャンプが難しくなっていきます。"
 		],
 		"nl": [
-			"Het Platform Parkour is een oneindig parkour gemaakt van verschillende platforms. Hoe verder je gaat in de parkour, hoe meer munten je krijgt, maar hoe moeilijker de sprongen zullen zijn."
+			"Het Platform Parkour is een oneindig parkour gemaakt van verschillende platforms. Hoe verder je gaat in de parkour, hoe meer munten je krijgt, maar hoe moeilijker het parkour wordt."
 		],
 		"pl": [
 			"Platform Parkour to nieskończony parkour wykonany z różnych platform. Im dalej idziesz w parkour, tym więcej monet dostaniesz, ale tym trudniejsze będą skoki."
@@ -2574,7 +2574,9 @@
 		]
 	},
 	"char_violette": {
-		"de": [],
+		"de": [
+			"Violett"
+		],
 		"el": [],
 		"en": [
 			"Violette"
@@ -3181,7 +3183,7 @@
 			"Grube ciało"
 		],
 		"pt": [
-			"Corpo gordo"
+			"Barrigão"
 		],
 		"ru": [
 			"Толстый медведь"
@@ -3999,7 +4001,7 @@
 			"Ρετρό σίκαλη"
 		],
 		"en": [
-			"Retro shicka"
+			"Retro Shicka"
 		],
 		"es": [
 			"Retro Shicka"
@@ -6663,6 +6665,58 @@
 			"Hayalet izi"
 		]
 	},
+	"cosmetic_103": {
+		"de": [
+			"Katzenkopf"
+		],
+		"el": [],
+		"en": [
+			"Cat head"
+		],
+		"es": [],
+		"fr": [
+			"Tête de chat"
+		],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Kat hoofd"
+		],
+		"pl": [],
+		"pt": [
+			"Cabeça de gato"
+		],
+		"ru": [
+			"Кошачья голова"
+		],
+		"sv": [],
+		"tr": []
+	},
+	"cosmetic_104": {
+		"de": [],
+		"el": [],
+		"en": [
+			"Deal with it"
+		],
+		"es": [],
+		"fr": [
+			"Deal with it"
+		],
+		"id": [],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Deal with it"
+		],
+		"pl": [],
+		"pt": [],
+		"ru": [
+			"Deal with it"
+		],
+		"sv": [],
+		"tr": []
+	},
 	"cosmetic_default": {
 		"de": [
 			"Standard"
@@ -7526,7 +7580,7 @@
 			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião…"
 		],
 		"ru": [
-			"Я продолжил свои эксперименты с этим магическим артифактом и теперь понимаю его лучше, чем кто-либо другой. Теперь я могу управлять разумом медведей! Теперь, когда ты здесь, я могу подавить твоё восстание..."
+			"Я продолжил свои эксперименты с этим магическим артефактом и теперь понимаю его лучше, чем кто-либо другой. Теперь я могу управлять разумом медведей! Теперь, когда ты здесь, я могу подавить твоё восстание..."
 		],
 		"sv": [],
 		"tr": [
@@ -7806,7 +7860,7 @@
 			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva… agindo sobre minha cabeça."
 		],
 		"ru": [
-			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была сабой там, Кернел... вввлиял на мой разззум."
+			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была собой там, Кернел... вввлиял на мой разззум."
 		],
 		"sv": [],
 		"tr": [
@@ -7935,7 +7989,7 @@
 	},
 	"hive_maybee": {
 		"de": [
-			"Bären sind furchtbar, aber vvvvielleicht kann ich von dir profitieren. Ich bin fleißßßig am Geschäfte machen."
+			"Bären sind furchtbar, aber vvvvielleicht kann ich vvvon dir profitieren. Ich bin fleißßßig am Geschäfte machen."
 		],
 		"el": [
 			"Οι Αρκούδες είναι απαίσιοι, αλλά ίσως μπορώ να επωφεληθώ από εσένα. Είμαι μπέζζι και κάνω μπέζζι."
@@ -8375,7 +8429,7 @@
 	},
 	"hub_bear_01": {
 		"de": [
-			"Von meinem Käfig auf dem Gipfel des Berges konnte ich den ganzen Tal sehen."
+			"Danke dass du mich aus der Golem Höhle gerettet hast!"
 		],
 		"el": [
 			"Ευχαριστώ που με έσωσες από την σπηλιά του Γκόλεμ !"
@@ -10045,7 +10099,7 @@
 	},
 	"intro_2_1": {
 		"de": [
-			"... die Bienen begannen im Bienenstock eine andere Art von Honig zu produzieren. Kurze Zeit später waren dieser neue Geschmack und die violette Farbe bei allen beliebt."
+			"... die Bienen begannen im Bienenstock eine andere Art von Honig zu produzieren. Kurze Zeit später waren dieser neue Geschmack und die Lila Farbe bei allen beliebt."
 		],
 		"el": [
 			"...οι μέλισσες άρχισαν να παράγουν ένα διαφορετικό είδος μελιού στην κυψέλη. Λίγο αργότερα, αυτή η νέα γεύση και αυτό το μωβ χρώμα αγαπήθηκαν από όλους."
@@ -10107,7 +10161,7 @@
 		],
 		"ja": [],
 		"nl": [
-			"Helaas begonnen wezens die het consumeerden al snel gek te worden en hun vrienden aan te vallen als hersenloze dieren,"
+			"Helaas begonnen wezens die het consumeerden al snel gek te worden en hun vrienden aan te vallen als hersenloze dieren."
 		],
 		"pl": [
 			"Niestety istoty, które go pochłonęły, wkrótce zaczęły szaleć i atakować swoich przyjaciół jak dzikie zwierzęta."
@@ -10467,7 +10521,7 @@
 		],
 		"ja": [],
 		"nl": [
-			"kijk ook uit voor de stenen die van het plafond vallen! Ik geloof in jou, Baaren!"
+			"Kijk ook uit voor de stenen die van het plafond vallen! Ik geloof in jou, Baaren!"
 		],
 		"pl": [
 			"Zwróć też uwagę na kamienie spadające z sufitu! Wierzę w ciebie, Baaren!"
@@ -10636,7 +10690,7 @@
 			"Me pergunto o que seu irmão estava fazendo aqui. Eu não tinha visto ele faz um tempo, talvez ele estava hibernando. A gente deveria procurar por ele no Vale Nevado, é o próximo destino daqui."
 		],
 		"ru": [
-			"Интересно, что твой брат здесь делал. Я давно его не видел, может он был в спячке. Мы должны поискать его в Снежной долине, это следующий пункт назначения отсюда."
+			"Интересно, что твой брат здесь делал. Я давно его не видела, может он был в спячке. Мы должны поискать его в Снежной долине, это следующий пункт назначения отсюда."
 		],
 		"sv": [],
 		"tr": [
@@ -10747,7 +10801,7 @@
 		],
 		"ja": [],
 		"nl": [
-			"Sommige schilddpadden zijn aangetast door paarse honing, pas op!"
+			"Sommige schilddpadden zijn aangetast door de paarse honing, pas op!"
 		],
 		"pl": [
 			"Niektóre żółwie zostały zakażone fioletowym miodem, uważaj na nie!"
@@ -10913,7 +10967,7 @@
 			"わらし仙人の家"
 		],
 		"nl": [
-			"Kluizenaar huis"
+			"Kluizenaar's huis"
 		],
 		"pl": [
 			"Dom Pustelnika"
@@ -10955,7 +11009,7 @@
 			"漁師の家"
 		],
 		"nl": [
-			"Visserhuisje"
+			"Vissershuisje"
 		],
 		"pl": [
 			"Dom rybaka"
@@ -11291,7 +11345,7 @@
 			"村の上の方は紫の蜜でいっぱいです、 汚染されたカメがここに来ないように階段を下げました。"
 		],
 		"nl": [
-			"Het bovenste deel van het dorp is vol van paarse honing. We hebben de trap weggehaald om geen besmette schildpadden hier te laten gaan."
+			"Het bovenste deel van het dorp is vol van paarse honing. We hebben de trap weggehaald om geen besmette schildpadden hier heen te laten gaan."
 		],
 		"pl": [
 			"Górna część wioski jest pełna Purpurowego Miodu. Obniżyliśmy schody, aby zapobiec przybyciu skażonych żółwi."
@@ -15991,7 +16045,7 @@
 	},
 	"party_bee_1": {
 		"de": [
-			"Eszz tut mir szzo leid, dasszz ich Leute verletzt habe, wir haben nur Befehle befolgt..."
+			"Eszz tut mir szzo leid, dasszz ich Leute vvverletzt habe, wir haben nur Befehle befolgt..."
 		],
 		"el": [
 			"Λυπάμαι πολύ που πληγώσαμε ανθρώπους, απλά ακολουθούσαμε εντολές..."
@@ -16089,7 +16143,7 @@
 			"Wow, kau menyelamatkan semua beruangzz! Kerja bagus! Kita pasti buruk dalam menyembunyikan kandangzz."
 		],
 		"it": [
-			"Wow, hai salvato tutti gli orsi! Ben fatto! Dobbiamo essere pessimi nel nascondere le cazzate."
+			"Wow, hai salvato tutti gli orsi! Ben fatto! Dobbiamo essere pessimi nel nascondere le gabbie."
 		],
 		"ja": [],
 		"nl": [
@@ -17997,7 +18051,7 @@
 			"見て！私のようなバックパッカーを持っている人ががもう一人いる！我々は珍しい生き物なのに！"
 		],
 		"nl": [
-			"Kijken!  Nog een Backpacker zoals ik. Wij zijn een zeldzame soort en zijn afhankelijk van onze drager."
+			"Kijk! Nog een Backpacker zoals ik. Wij zijn een zeldzame soort en zijn afhankelijk van onze drager."
 		],
 		"pl": [
 			"Zobacz! Inny plecakowicz tak jak ja. Jesteśmy częścią rzadkiego gatunku i jesteśmy zależni od naszego nosiciela."
@@ -18993,7 +19047,7 @@
 			"Ada 5 kategori barang: umum (putih), jarang (biru), epik (magenta), Tristopio (pink) dan donor (hijau). Barang donor dapat diperoleh di toko saudaraku."
 		],
 		"it": [
-			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), donatore (verde), Tristopio (rosa). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
+			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa), donatore (verde). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
 		],
 		"ja": [
 			"レアリティには、コモン（白）、レア（青）、エピック（マゼンタ）、トリストピオ（ピンク）、ドナー（緑）の5種類があります。ドナーのアイテムは、兄のショップで手に入れることができます。"
@@ -19008,11 +19062,11 @@
 			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e doador (verde). Itens de doador podem ser pegos na loja do meu irmão."
 		],
 		"ru": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), донорская (зелёная), Тристопио (розовая). Донорские предметы можно преобрести в магазине моего брата."
+			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донорская (зелёная). Донорские предметы можно преобрести в магазине моего брата."
 		],
 		"sv": [],
 		"tr": [
-			"5 ender sınıf vardır: yaygın (beyaz), ender (mavi), efsanevi (fuşya), bağışçı (yeşil), Tristopio (pembe). Bağışçı ögelerini kardeşimin mağazasından alabilirsin."
+			"5 ender sınıf vardır: yaygın (beyaz), ender (mavi), efsanevi (fuşya), Tristopio (pembe), bağışçı (yeşil). Bağışçı ögelerini kardeşimin mağazasından alabilirsin."
 		]
 	},
 	"studio_help_4": {
@@ -19137,7 +19191,7 @@
 	},
 	"title_gameplay": {
 		"de": [
-			"Spielmechanik"
+			"Spielweise"
 		],
 		"el": [
 			"Gameplay"
@@ -20065,7 +20119,7 @@
 	},
 	"tutorial_sign_08": {
 		"de": [
-			"An der Oberfläche drückst du B, um zu tauchen. Drücke unter Wasser A, um aufzusteigen."
+			"Drücke an der Oberfläche B, um zu tauchen. Drücke unter Wasser A, um aufzusteigen."
 		],
 		"el": [
 			"Στην επιφάνεια, πατήστε το B για κατάδυση. Κάτω από το νερό, πατήστε το A για να ανεβείτε."
@@ -20365,13 +20419,13 @@
 			"2x κέρματα"
 		],
 		"en": [
-			"2x coins"
+			"Coins × 2"
 		],
 		"es": [
 			"Monedas x2"
 		],
 		"fr": [
-			"Pièces x2"
+			"Pièces × 2"
 		],
 		"id": [
 			"2x koin"
@@ -21055,7 +21109,7 @@
 			"購入"
 		],
 		"nl": [
-			"Koop loot box"
+			"Koop"
 		],
 		"pl": [
 			"Kup"
@@ -22089,13 +22143,13 @@
 			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- 2x νομίσματα χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
 		],
 		"en": [
-			"Buying the donor status gives you access to://- Supporting the developer of the game!;//- Unrewarded ads removal;//- Exclusive costumes;//- 2x coins without ads;//- Maximum health to 6;//- First revive for free"
+			"Buying the donor status gives you access to://- Supporting the developer of the game!//- Unrewarded ads removal//- Exclusive costumes//- Coins × 2 without ads//- Maximum health to 6//- First revive for free"
 		],
 		"es": [
 			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas x2 sin publicidad// vida máxima a 6// primera resurrección gratis"
 		],
 		"fr": [
-			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces x2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
+			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces × 2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
 		],
 		"id": [
 			"Membeli status donor memberikan Kamu akses:! // - mendukung pengembang aplikasi // - menghilangkan iklan yang tidak berhadiah // - kostum eksklusif // - 2x koin tanpa iklan // - nyawa maksimal menjadi 6 // - menghidupkan kembali gratis untuk yang pertama kali"
@@ -22549,7 +22603,7 @@
 	},
 	"ui_freed": {
 		"de": [
-			"Du befreitest"
+			"Du hast befreit:"
 		],
 		"el": [
 			"Ελευθερώσατε"
@@ -23021,7 +23075,7 @@
 			"反転カメラ"
 		],
 		"nl": [
-			"gespiegelde camera"
+			"Gespiegelde camera"
 		],
 		"pl": [
 			"Kamera odwrócona"
@@ -23469,7 +23523,7 @@
 	},
 	"ui_load": {
 		"de": [
-			"Ladet"
+			"Laden"
 		],
 		"el": [
 			"Φόρτωση"
@@ -24807,7 +24861,7 @@
 	},
 	"ui_save": {
 		"de": [
-			"Speichern"
+			"Speicher"
 		],
 		"el": [
 			"Αποθήκευση"
@@ -24831,7 +24885,7 @@
 			"保存"
 		],
 		"nl": [
-			"Opslaan"
+			"Opslag"
 		],
 		"pl": [
 			"Zapis"
@@ -25001,7 +25055,7 @@
 			"シッカのコツ"
 		],
 		"nl": [
-			"Shika's tips"
+			"Shicka's tips"
 		],
 		"pl": [
 			"Wskazówki Shicki"
@@ -25127,7 +25181,7 @@
 			"キャピタルスは広告を見るとブースターをプレゼントしてくれます。 以下のブースターの中から1つを選んで動画を起動し、 報酬を受け取りましょう。"
 		],
 		"nl": [
-			"Capitalus zal je een booster geven als je een advertentie kijkt. Kies een van deze boosters om eem advertentie te kijken voor een beloning."
+			"Capitalus zal je een booster geven als je een advertentie kijkt. Kies een van deze boosters om een advertentie te kijken voor een beloning."
 		],
 		"pl": [
 			"Capitalus da ci ulepszenie, jeśli obejrzysz reklamę. Wybierz jedno z następujących ulepszenie, aby uruchomić film i otrzymać nagrodę."
@@ -25293,7 +25347,7 @@
 			"ステッカー発見"
 		],
 		"nl": [
-			"gevonden stickers"
+			"Gevonden stickers"
 		],
 		"pl": [
 			"Naklejka znaleziona!"
@@ -25563,7 +25617,7 @@
 	},
 	"ui_unlock": {
 		"de": [
-			"du hast freigeschaltet"
+			"Du hast freigeschaltet,"
 		],
 		"el": [
 			"Ξεκλείδωσες"

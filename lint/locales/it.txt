@@ -1,7 +1,9 @@
-Translation coverage: 601 / 606 required (99.17%), 1 / 42 optional (2.38%)
+Translation coverage: 601 / 608 required (98.85%), 1 / 42 optional (2.38%)
 The following keys have extra, but optional, translations:
 - char_maybee
 The following keys have missing translations:
+- cosmetic_103
+- cosmetic_104
 - merch_ad
 - time_format
 - ui_framerate
@@ -53,6 +55,7 @@ The following keys have transparent translations:
 - char_fennec
 - cosmetic_006
 - cosmetic_020
+- cosmetic_036
 - cosmetic_048
 - cosmetic_094
 - hub_bear_30
