@@ -1,4 +1,4 @@
-Translation coverage: 41 / 608 required (6.74%), 0 / 42 optional (0.00%)
+Translation coverage: 41 / 613 required (6.69%), 0 / 44 optional (0.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -127,7 +127,6 @@ The following keys have missing translations:
 - cosmetic_091
 - cosmetic_092
 - cosmetic_093
-- cosmetic_094
 - cosmetic_095
 - cosmetic_096
 - cosmetic_097
@@ -137,7 +136,6 @@ The following keys have missing translations:
 - cosmetic_101
 - cosmetic_102
 - cosmetic_103
-- cosmetic_104
 - cosmetic_default
 - help_birds
 - help_fancy_shaders
@@ -370,6 +368,9 @@ The following keys have missing translations:
 - party_turtle_4
 - party_turtle_5
 - party_turtle_6
+- rarity_common
+- rarity_epic
+- rarity_rare
 - save_bear_tip_1
 - save_bear_tip_2
 - scientist_cutscene_1_1
@@ -429,6 +430,7 @@ The following keys have missing translations:
 - tristopio_practice
 - tristopio_practice_info
 - tristopio_start
+- tristopio_today
 - tutorial_shicka_1
 - tutorial_shicka_2
 - tutorial_shicka_3
@@ -479,6 +481,9 @@ The following keys have missing translations:
 - ui_cosm_owned
 - ui_cosm_shop
 - ui_credits
+- ui_day_0
+- ui_day_1
+- ui_day_2
 - ui_delete
 - ui_deleteconfirm
 - ui_disconnected
@@ -608,5 +613,7 @@ The following keys have missing, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
+- cosmetic_094
+- cosmetic_104
 - ui_light_probes
 - ui_lightmaps

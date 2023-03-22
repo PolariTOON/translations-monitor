@@ -1,4 +1,4 @@
-Translation coverage: 355 / 650 required (54.62%), 0 / 0 optional (100.00%)
+Translation coverage: 358 / 657 required (54.49%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -284,9 +284,13 @@ The following keys have missing translations:
 - shicka_hive_2
 - shicka_hive_3
 - time_format
+- tristopio_today
 - ui_binding
 - ui_coins_found
 - ui_credits
+- ui_day_0
+- ui_day_1
+- ui_day_2
 - ui_discord
 - ui_game_creator
 - ui_game_over

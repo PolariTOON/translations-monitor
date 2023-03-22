@@ -1,12 +1,10 @@
-Translation coverage: 595 / 608 required (97.86%), 0 / 42 optional (0.00%)
+Translation coverage: 602 / 613 required (98.21%), 0 / 44 optional (0.00%)
 The following keys have missing translations:
 - arcade_race_2
 - cosmetic_006
 - cosmetic_048
 - cosmetic_071
 - cosmetic_084
-- cosmetic_094
-- cosmetic_104
 - hub_bear_15
 - hub_bear_30
 - mission_parkour
@@ -54,6 +52,8 @@ The following keys have missing, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
+- cosmetic_094
+- cosmetic_104
 - ui_light_probes
 - ui_lightmaps
 The following keys have transparent translations:

@@ -146,7 +146,7 @@ function computeOutfits() {
 function computeParts() {
 	const parts = [];
 	const outfitsByPart = [
-		[13, 28, 32, 41, 49, 54, 59, 63, 84, 90],
+		[13, 28, 32, 41, 49, 54, 59, 63, 84, 90, 103],
 		[15, 16, 52, 64],
 		[14, 18, 22, 35, 39, 40, 43, 70, 73, 74, 79, 82, 101],
 		[19, 20, 21, 29, 36, 42, 68, 69, 77, 78, 80, 85, 93],
@@ -192,6 +192,18 @@ function computeRarities() {
 	rarities.push({
 		name: keys["cosmetic_default"],
 	});
+	rarities.push({
+		name: keys["rarity_common"],
+	});
+	rarities.push({
+		name: keys["rarity_rare"],
+	});
+	rarities.push({
+		name: keys["rarity_epic"],
+	});
+	rarities.push({
+		name: keys["char_tristopio"],
+	});
 	const unknownRarities = [];
 	const locales = keys["studio_help_3"];
 	for (const locale of Object.keys(locales)) {
@@ -207,14 +219,6 @@ function computeRarities() {
 			unknownRarities[index][locale] = [capitalize(word, locale)];
 		}
 	}
-	for (let k = 0; k < 3 && k < unknownRarities.length - 2; ++k) {
-		rarities.push({
-			name: unknownRarities[k],
-		});
-	}
-	rarities.push({
-		name: keys["char_tristopio"],
-	});
 	if (4 < unknownRarities.length) {
 		rarities.push({
 			name: unknownRarities[4],

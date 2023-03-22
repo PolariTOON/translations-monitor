@@ -150,6 +150,7 @@ char_maybee has extra, but optional, translations es, fr, it, ru
 char_maybee has missing translations ja
 char_maybee has missing, but optional, translations de, el, id, nl, pl, pt, sv, tr
 char_penguin has missing translations tr
+char_penguin has transparent translations id
 char_queen has missing translations el, ja, sv, tr
 char_shicka has extra, but optional, translations ru
 char_shicka has missing translations ja
@@ -257,7 +258,7 @@ cosmetic_082 has missing translations ja, sv
 cosmetic_083 has missing translations ja, sv
 cosmetic_084 has missing translations ja, pt, sv
 cosmetic_085 has missing translations ja, sv
-cosmetic_085 has transparent translations el, id, nl, tr
+cosmetic_085 has transparent translations el, nl, tr
 cosmetic_086 has missing translations ja, sv
 cosmetic_087 has missing translations ja, sv
 cosmetic_088 has missing translations ja, sv
@@ -266,8 +267,9 @@ cosmetic_090 has missing translations ja, sv
 cosmetic_091 has missing translations ja, sv
 cosmetic_092 has missing translations ja, sv
 cosmetic_093 has missing translations ja, sv
-cosmetic_093 has transparent translations id
-cosmetic_094 has missing translations ja, pt, sv
+cosmetic_094 has extra, but optional, translations de, el, es, fr, id, it, nl, pl, ru, tr
+cosmetic_094 has missing translations ja
+cosmetic_094 has missing, but optional, translations pt, sv
 cosmetic_094 has transparent translations el, es, fr, id, it, nl, pl, ru, tr
 cosmetic_095 has missing translations ja, sv
 cosmetic_096 has missing translations ja, sv
@@ -277,9 +279,11 @@ cosmetic_099 has missing translations ja, sv
 cosmetic_100 has missing translations ja, sv
 cosmetic_101 has missing translations ja, sv
 cosmetic_102 has missing translations ja, sv
-cosmetic_103 has missing translations el, es, id, it, ja, pl, sv, tr
-cosmetic_104 has missing translations de, el, es, id, it, ja, pl, pt, sv, tr
-cosmetic_104 has transparent translations fr, nl, ru
+cosmetic_103 has missing translations ja, sv
+cosmetic_104 has extra, but optional, translations el, es, fr, id, it, nl, pl, ru, tr
+cosmetic_104 has missing translations ja
+cosmetic_104 has missing, but optional, translations de, pt, sv
+cosmetic_104 has transparent translations el, es, fr, id, it, nl, pl, ru, tr
 cosmetic_default has missing translations ja, sv
 help_birds has missing translations sv
 help_fancy_shaders has missing translations sv
@@ -518,6 +522,10 @@ party_turtle_3 has missing translations ja, sv
 party_turtle_4 has missing translations ja, sv
 party_turtle_5 has missing translations ja, sv
 party_turtle_6 has missing translations ja, sv
+rarity_common has missing translations sv
+rarity_epic has missing translations sv
+rarity_rare has missing translations sv
+rarity_rare has transparent translations fr
 save_bear_tip_1 has missing translations sv
 save_bear_tip_2 has missing translations sv
 scientist_cutscene_1_1 has missing translations ja, sv
@@ -570,7 +578,7 @@ studio_help_5 has missing translations sv
 time_format has missing translations it, ja, pt, sv
 time_format has transparent translations el, es, fr
 title_gameplay has missing translations sv
-title_gameplay has transparent translations el, nl
+title_gameplay has transparent translations el, id, nl
 title_graphics1 has missing translations sv
 title_graphics1 has transparent translations nl
 title_graphics2 has missing translations sv
@@ -580,6 +588,7 @@ tristopio_no_life has missing translations sv
 tristopio_practice has missing translations sv
 tristopio_practice_info has missing translations sv
 tristopio_start has missing translations sv
+tristopio_today has missing translations ja, sv
 tutorial_shicka_1 has missing translations sv
 tutorial_shicka_2 has missing translations sv
 tutorial_shicka_3 has missing translations sv
@@ -630,6 +639,9 @@ ui_cosm_new has missing translations sv
 ui_cosm_owned has missing translations sv
 ui_cosm_shop has missing translations sv
 ui_credits has missing translations ja, sv
+ui_day_0 has missing translations ja, sv
+ui_day_1 has missing translations ja, sv
+ui_day_2 has missing translations ja, sv
 ui_delete has missing translations sv
 ui_deleteconfirm has missing translations sv
 ui_disconnected has missing translations sv

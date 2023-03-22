@@ -1,4 +1,4 @@
-Translation coverage: 608 / 608 required (100.00%), 42 / 42 optional (100.00%)
+Translation coverage: 613 / 613 required (100.00%), 44 / 44 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -40,6 +40,8 @@ The following keys have extra, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
+- cosmetic_094
+- cosmetic_104
 - ui_light_probes
 - ui_lightmaps
 The following keys have transparent translations:

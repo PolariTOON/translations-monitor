@@ -1,10 +1,11 @@
-Translation coverage: 601 / 608 required (98.85%), 0 / 42 optional (0.00%)
+Translation coverage: 608 / 613 required (99.18%), 2 / 44 optional (4.55%)
+The following keys have extra, but optional, translations:
+- cosmetic_094
+- cosmetic_104
 The following keys have missing translations:
 - char_bee
 - char_penguin
 - char_queen
-- cosmetic_103
-- cosmetic_104
 - ui_game_over
 - ui_version
 The following keys have missing, but optional, translations:
@@ -59,3 +60,4 @@ The following keys have transparent translations:
 - cosmetic_071
 - cosmetic_085
 - cosmetic_094
+- cosmetic_104

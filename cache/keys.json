@@ -176,7 +176,7 @@
 			"Sauter"
 		],
 		"id": [
-			"Loncat"
+			"Lompat"
 		],
 		"it": [
 			"Salto"
@@ -296,7 +296,7 @@
 			"Ceci est une course contre-la-montre. Après chaque tour tu gagnes des pièces en fonction du temps mis à compléter le tour."
 		],
 		"id": [
-			"Permainan balap ini adalah berpacu waktu. Setelah setiap putaran, kamu akan mendapatkan koin berdasarkan waktu yang kamu habiskan untuk menyelesaikan putaran."
+			"Game balap ini adalah game berpacu waktu. Setelah melewati satu putaran, kamu akan mendapatkan koin berdasarkan waktu yang kamu habiskan untuk menyelesaikan putaran."
 		],
 		"it": [
 			"La Gara è una corsa contro il tempo. Dopo aver completato un giro, si vincono monete in base al tempo fatto."
@@ -338,7 +338,7 @@
 			"Entre dans le véhicule en appuyant sur B. En l'air, essaye de rester droit en utilisant le contrôle aérien."
 		],
 		"id": [
-			"Masuk ke kendaraan dengan menekan tombol B. Saat di udara, usahakan untuk tetap seimbang menggunakan kontrol udara."
+			"Masuk ke dalam kendaraan dengan menekan tombol B. Saat di udara, usahakan untuk tetap seimbang menggunakan kontrol udara."
 		],
 		"it": [
 			"Entra nel veicolo premendo il tasto B. Mentre sei a mezzaria, cerca di bilanciarti controllando il movimento."
@@ -380,7 +380,7 @@
 			"La Parkour de Plateformes est un parcours infini composé de différentes plateformes. Plus tu iras loin, plus tu auras de pièces, mais les sauts deviendront plus difficiles."
 		],
 		"id": [
-			"Platform Parkour adalah parkour tanpa batas terbuat dari berbagai macam platform. Semakin jauh kamu di parkour, semakin banyak koin yang kamu akan dapatkan, namun juga akan semakin sulit loncatannya."
+			"Platform Parkour adalah parkour tanpa batas yang terbuat dari berbagai macam platform. Semakin jauh kamu melangkah di parkour, semakin banyak koin yang akan kamu dapatkan, tetapi lompatannya akan semakin sulit."
 		],
 		"it": [
 			"Il Parkour è un percorso infinito composto da diverse piattaforme. Più arrivi lontano, più monete otterrai, ma i salti diventeranno più difficili."
@@ -422,7 +422,7 @@
 			"Chaque fois que tu tombes dans le vide, le parcours est généré aléatoirement à nouveau."
 		],
 		"id": [
-			"Setiap kali kamu terjatuh ke void, platform parkour akan dibuat secara acak lagi."
+			"Setiap kali kamu terjatuh, platform parkour akan dibuat secara acak lagi."
 		],
 		"it": [
 			"Ogni volta che si cade nel vuoto, il percorso verrà ricostruito in modo casuale."
@@ -464,7 +464,7 @@
 			"Toutes les 15 plateformes, le type de parcours change. Les types actuels sont : normal, mur, eau, glace et rythme."
 		],
 		"id": [
-			"Setiap 15 platform, parkour akan berubah tipe. Tipe yang ada sekarang: normal, dinding, air dan es batu."
+			"Setiap 15 platform, jenis parkour akan berubah. Jenis-jenis yang ada sekarang: normal, dinding, air, es batu dan ritme."
 		],
 		"it": [
 			"Ogni 15 piattaforme, il tipo di percorso cambia. Tra questi vi sono: normali, a parete, acqua e ghiaccio."
@@ -506,7 +506,7 @@
 			"Le Tourniquet consiste à éviter les pics pendant que les lames tournent. Évite de te faire éjecter de la plateforme !"
 		],
 		"id": [
-			"Batang Berputar adalah menghindari duri-duri sambil batang berputar. Hindari terbuang keluar dari platform!"
+			"Game Batang Berputar adalah tentang menghindari duri-duri selagi batang berputar. Hindari terlempar dari platform!"
 		],
 		"it": [
 			"Evita le spine mentre Lo Spazzolatore proverà a spazzarti via con i pali roteanti. Pericolo caduta!"
@@ -548,7 +548,7 @@
 			"Des pièces apparaîtront sur cette plateforme régulièrement. Plus tu survivras longtemps, plus tu en auras."
 		],
 		"id": [
-			"Koin akan muncul di platform ini seiring dengan waktu. Semakin lama kamu selamat, semakin banyak koin yang akan kamu dapatkan."
+			"Koin akan muncul di platform ini seiring dengan waktu. Semakin lama kamu bertahan, semakin banyak koin yang akan kamu dapatkan."
 		],
 		"it": [
 			"Le monete appariranno regolarmente su queste piattaforme."
@@ -632,7 +632,7 @@
 			"Si tu veux connaître les règles de ces jeux, marche sur ces boutons."
 		],
 		"id": [
-			"Jika kamu ingin mempelajari peraturan permainan, jalan ke tombol ini."
+			"Jika kamu ingin mempelajari aturan mainnya, jalan ke tombol ini."
 		],
 		"it": [
 			"Per leggere le regole dei vari giochi, cammina su questi pulsanti."
@@ -752,7 +752,7 @@
 			"Désert"
 		],
 		"id": [
-			"Gurun pasir"
+			"Gurun"
 		],
 		"it": [
 			"Deserto"
@@ -832,7 +832,7 @@
 			"Tour ://Meilleur :"
 		],
 		"id": [
-			"Saat ini://Baik:"
+			"Saat ini://Terbaik:"
 		],
 		"it": [
 			"Tour ://Migliori :"
@@ -962,7 +962,7 @@
 			"As"
 		],
 		"pl": [
-			"oś"
+			"Oś"
 		],
 		"pt": [
 			"Eixo"
@@ -1240,7 +1240,7 @@
 			"Le Golem Tortue"
 		],
 		"id": [
-			"Sang Golem Penyu"
+			"Golem Kura-kura"
 		],
 		"it": [
 			"Testuggine di Pietra"
@@ -2252,7 +2252,7 @@
 			"Souris"
 		],
 		"id": [
-			"Tikus"
+			"Curut"
 		],
 		"it": [
 			"Topo"
@@ -2296,7 +2296,7 @@
 			"Manchot"
 		],
 		"id": [
-			"Pinguin"
+			"Penguin"
 		],
 		"it": [
 			"Pinguino"
@@ -2336,7 +2336,7 @@
 			"Reine Mirabeille"
 		],
 		"id": [
-			"Kraliçe Beeatrice"
+			"Ratu Beeatrice"
 		],
 		"it": [
 			"Regina Mirabape"
@@ -2546,7 +2546,7 @@
 			"Tortue"
 		],
 		"id": [
-			"Penyu"
+			"Kura-kura"
 		],
 		"it": [
 			"Tartaruga"
@@ -3330,7 +3330,7 @@
 			"Shicka dorée"
 		],
 		"id": [
-			"Shicka Emas"
+			"Shicka emas"
 		],
 		"it": [
 			"Shicka d'oro"
@@ -3450,7 +3450,7 @@
 			"Ours rose"
 		],
 		"id": [
-			"Beruang merah muda"
+			"Beruang pink"
 		],
 		"it": [
 			"Orso rosa"
@@ -3930,7 +3930,7 @@
 			"T-shirt (rouge)"
 		],
 		"id": [
-			"Kemeja (merah)"
+			"Kaos (merah)"
 		],
 		"it": [
 			"Maglietta (rossa)"
@@ -4466,7 +4466,7 @@
 			"Camisa (doador)"
 		],
 		"ru": [
-			"Майка (донор)"
+			"Майка (донатер)"
 		],
 		"sv": [],
 		"tr": [
@@ -4688,7 +4688,7 @@
 			"T-shirt (effrayant)"
 		],
 		"id": [
-			"Baju (seram)"
+			"Kaos (seram)"
 		],
 		"it": [
 			"Maglietta (spaventosa)"
@@ -4904,7 +4904,7 @@
 			"Coroa de doador"
 		],
 		"ru": [
-			"Корона донора"
+			"Корона донатера"
 		],
 		"sv": [],
 		"tr": [
@@ -5048,7 +5048,7 @@
 			"Œuf sur le plat"
 		],
 		"id": [
-			"Telur goreng"
+			"Telur ceplok"
 		],
 		"it": [
 			"Uovo nel piatto"
@@ -5248,7 +5248,7 @@
 			"Blouse de laboratoire"
 		],
 		"id": [
-			"Jas lab"
+			"Jas laboratorium"
 		],
 		"it": [
 			"Camice da laboratorio"
@@ -5288,7 +5288,7 @@
 			"Shicka invisible"
 		],
 		"id": [
-			"Shicka yang tak terlihat"
+			"Shicka tak terlihat"
 		],
 		"it": [
 			"Shicka invisibile"
@@ -5526,7 +5526,7 @@
 			"Ours sombre"
 		],
 		"id": [
-			"Beruang hitam"
+			"Beruang kulit gelap"
 		],
 		"it": [
 			"Orso scuro"
@@ -5686,7 +5686,7 @@
 			"Shicka ours"
 		],
 		"id": [
-			"Beruang Shicka"
+			"Shicka Beruang"
 		],
 		"it": [
 			"Orso Shicka"
@@ -5964,7 +5964,7 @@
 			"Shicka à ressort"
 		],
 		"id": [
-			"Bobble Shicka"
+			"Shicka Bobble"
 		],
 		"it": [
 			"Primavera Shicka"
@@ -6004,7 +6004,7 @@
 			"Chapeau breton"
 		],
 		"id": [
-			"Topi Brittany"
+			"Awan Hujan"
 		],
 		"it": [
 			"Cappello bretone"
@@ -6044,7 +6044,7 @@
 			"Cape (rouge)"
 		],
 		"id": [
-			"Topi (merah)"
+			"Jubah (merah)"
 		],
 		"it": [
 			"Capo (rosso)"
@@ -6084,7 +6084,7 @@
 			"Cape (ours)"
 		],
 		"id": [
-			"Topi (beruang)"
+			"Jubah (beruang)"
 		],
 		"it": [
 			"Capo (orso)"
@@ -6284,7 +6284,7 @@
 			"Shicka cosmique"
 		],
 		"id": [
-			"Cosmic Shicka"
+			"Shicka Kosmik"
 		],
 		"it": [
 			"Shicka cosmico"
@@ -6522,7 +6522,7 @@
 			"La poussière"
 		],
 		"id": [
-			"Debu"
+			"Debu pasir"
 		],
 		"it": [
 			"La polvere"
@@ -6669,21 +6669,31 @@
 		"de": [
 			"Katzenkopf"
 		],
-		"el": [],
+		"el": [
+			"Κεφάλι γάτας"
+		],
 		"en": [
 			"Cat head"
 		],
-		"es": [],
+		"es": [
+			"Cabeza de gato"
+		],
 		"fr": [
 			"Tête de chat"
 		],
-		"id": [],
-		"it": [],
+		"id": [
+			"Kepala Kucing"
+		],
+		"it": [
+			"Testa di gatto"
+		],
 		"ja": [],
 		"nl": [
 			"Kat hoofd"
 		],
-		"pl": [],
+		"pl": [
+			"Głowa kota"
+		],
 		"pt": [
 			"Cabeça de gato"
 		],
@@ -6691,31 +6701,45 @@
 			"Кошачья голова"
 		],
 		"sv": [],
-		"tr": []
+		"tr": [
+			"Kedi kafası"
+		]
 	},
 	"cosmetic_104": {
 		"de": [],
-		"el": [],
+		"el": [
+			"Deal with it"
+		],
 		"en": [
 			"Deal with it"
 		],
-		"es": [],
+		"es": [
+			"Deal with it"
+		],
 		"fr": [
 			"Deal with it"
 		],
-		"id": [],
-		"it": [],
+		"id": [
+			"Deal with it"
+		],
+		"it": [
+			"Deal with it"
+		],
 		"ja": [],
 		"nl": [
 			"Deal with it"
 		],
-		"pl": [],
+		"pl": [
+			"Deal with it"
+		],
 		"pt": [],
 		"ru": [
 			"Deal with it"
 		],
 		"sv": [],
-		"tr": []
+		"tr": [
+			"Deal with it"
+		]
 	},
 	"cosmetic_default": {
 		"de": [
@@ -6744,7 +6768,7 @@
 			"Standaard"
 		],
 		"pl": [
-			"domyślny"
+			"Domyślny"
 		],
 		"pt": [
 			"Padrão"
@@ -6858,7 +6882,7 @@
 			"Les niveaux redémarrent plus vite (utile pour les speedruns)"
 		],
 		"id": [
-			"Tingkat me-restart lebih cepat. (Berguna untuk speedruns)"
+			"Level di-restart lebih cepat. (Berguna untuk speedrun)"
 		],
 		"it": [
 			"I livelli si riavviano più velocemente (utile per lo speedrunning)"
@@ -6900,7 +6924,7 @@
 			"Désactiver les poissons améliore les performances"
 		],
 		"id": [
-			"Menonaktifkan ikan meningkatkan performa."
+			"Menonaktifkan ikan akan meningkatkan performa."
 		],
 		"it": [
 			"Disattivare i pesci migliora le prestazioni."
@@ -6942,7 +6966,7 @@
 			"Désactiver les fleurs et les algues améliore les performances"
 		],
 		"id": [
-			"Menonaktifkan bunga dan rumput laut meningkatkan performa."
+			"Menonaktifkan bunga dan rumput laut akan meningkatkan performa."
 		],
 		"it": [
 			"La disattivazione di fiori e alghe migliora le prestazioni."
@@ -7152,7 +7176,7 @@
 			"Quand tu as une clef, la direction de la cage correspondante est affichée"
 		],
 		"id": [
-			"Ketika Kamu mendapatkan kunci, akan menampilkan arah menuju kandang yang bersangkutan."
+			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang cocok."
 		],
 		"it": [
 			"Quando ottieni una chiave, viene mostrata la direzione della gabbia corrispondente."
@@ -7320,7 +7344,7 @@
 			"Le chronomètre tourne tout le temps et s'arrête seulement quand tu bats le boss final. La sauvegarde est désactivée."
 		],
 		"id": [
-			"Timer akan selalu berjalan dan hanya akan berhenti saat kamu mengalahkan bos terakhir. Penyimpanan dinonaktifkan."
+			"Timer akan selalu berjalan dan hanya akan berhenti saat kamu mengalahkan bos terakhir. Menyimpan dinonaktifkan."
 		],
 		"it": [
 			"Il cronometro funziona sempre e si ferma solo quando si colpisce il boss finale. Il salvataggio è disabilitato."
@@ -7362,7 +7386,7 @@
 			"Affiche un chronomètre (utile pour les speedruns)"
 		],
 		"id": [
-			"Menampilkan timer (berguna untuk speedruns)"
+			"Menampilkan timer (berguna untuk speedrun)"
 		],
 		"it": [
 			"Visualizza il cronometro (utile per lo speedrunning)"
@@ -7444,7 +7468,7 @@
 			"Tu as libéré ces ours pour anéantir mes efforts. Si les ours avaient pris contrôle du royaume, nous aurions tout ce que nous désirons. Nous aurions pu reprendre le pouvoir que nous avions eu jadis."
 		],
 		"id": [
-			"Kau membebaskan beruang-beruang itu hanya untuk memusnahkan usahaku. Jika beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa merebut kembali kekuatan yang pernah kita miliki."
+			"Kau membebaskan beruang-beruang itu hanya untuk menghancurkan usahaku. Jika para beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa merebut kembali kekuasaan yang pernah kita miliki."
 		],
 		"it": [
 			"Avete liberato quegli orsi per distruggere i miei sforzi. Se gli orsi avessero preso il controllo del regno, avremmo avuto tutto ciò che volevamo. Avremmo potuto riacquistare il potere che avevamo un tempo."
@@ -7484,7 +7508,7 @@
 			"Malheureusement, mes semblables préfèrent la paix et vivre d'égaux à égaux avec les autres animaux. C'est pathétique, quel manque d'ambitions. Même toi, mon propre frère, tu m'as trahi."
 		],
 		"id": [
-			"Sayangnya, rekan-rekan beruang saya lebih memilih perdamaian dan ingin hidup dengan hewan lain sebagai sederajat. Ini menyedihkan, betapa kurangnya ambisi. Bahkan kamu, saudaraku sendiri, mengkhianatiku."
+			"Sayangnya, teman-teman beruangku lebih memilih perdamaian dan ingin hidup dengan hewan lain sebagai setara. Ini menyedihkan, betapa kurangnya ambisi. Bahkan kau, saudaraku sendiri, mengkhianatiku."
 		],
 		"it": [
 			"Purtroppo, la mia specie preferisce la pace e la vita alla pari con gli altri animali. È patetico, che mancanza di ambizione. Persino tu, mio fratello, mi hai tradito."
@@ -7515,7 +7539,7 @@
 			"Ο Πυρήνας είναι υπέροχος, έτσι δεν είναι; Χρησιμοποίησα τις δυνάμεις του για να ελέγξω τη βασίλισσα Beeatrice και να καταλάβω τις μέλισσες."
 		],
 		"en": [
-			"The Kernel is quite wonderful, isn’t it? I used its powers to control Queen Beeatrice and take over the bees."
+			"The Kernel is quite wonderful, isn't it? I used its powers to control Queen Beeatrice and take over the bees."
 		],
 		"es": [
 			"El Kernel es bastante maravilloso, ¿no? Usé sus poderes para controlar a la Reina Mirabeja y tomar el mando de las abejas."
@@ -7524,7 +7548,7 @@
 			"Le Kernel est assez merveilleux, n'est-ce pas ? J'ai utilisé ses pouvoirs pour contrôle Reine Mirabeille et prendre le commandement des abeilles."
 		],
 		"id": [
-			"Kernel cukup luar biasa, bukan? Aku menggunakan kekuatannya untuk mengendalikan Ratu Beeatrice dan mengambil alih lebah."
+			"Kernel ini cukup luar biasa, bukan? Aku menggunakan kekuatannya untuk mengendalikan Ratu Beeatrice dan mengambil alih para lebah."
 		],
 		"it": [
 			"Il Kernel è davvero meraviglioso, non è vero? Ho usato i suoi poteri per controllare la regina Mirabape e prendere il comando delle api."
@@ -7555,7 +7579,7 @@
 			"Συνέχισα τα πειράματά μου με αυτό το μαγικό τεχνούργημα και τώρα το καταλαβαίνω περισσότερο από οποιονδήποτε άλλον. Τώρα μπορώ να ελέγχω το μυαλό των αρκούδων! Τώρα που είσαι εδώ, μπορώ να συντρίψω την επανάστασή σου..."
 		],
 		"en": [
-			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion…"
+			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion..."
 		],
 		"es": [
 			"Continué mis experimentos con este artefacto mágico y ahora lo entiendo mejor que nadie. ¡Ahora puedo controlar los pensamientos de los osos! Ahora que estás aquí, puedo aplastar tu rebelión..."
@@ -7564,7 +7588,7 @@
 			"J'ai continué mes expériences avec cet artefact magique et maintenant le comprends mieux que quiconque. Je peux maintenant contrôler la pensée des ours ! Maintenant que tu es ici, je peux écraser ta rébellion..."
 		],
 		"id": [
-			"Aku melanjutkan eksperimenku dengan artefak ajaib ini dan sekarang memahaminya lebih dari siapa pun. Aku sekarang bisa mengendalikan pikiran beruang! Sekarang kau ada di sini, aku bisa menghancurkan pemberontakanmu..."
+			"Aku melanjutkan eksperimenku dengan artefak ajaib ini dan sekarang memahaminya lebih dari siapa pun. Sekarang aku bisa mengendalikan pikiran beruang! Sekarang kau ada di sini, aku bisa menghancurkan pemberontakanmu..."
 		],
 		"it": [
 			"Ho continuato i miei esperimenti con questo artefatto magico e ora lo capisco meglio di chiunque altro. Ora posso controllare i pensieri degli orsi! Ora che siete qui, posso schiacciare la vostra ribellione..."
@@ -7574,10 +7598,10 @@
 			"Ik zette mijn experimenten met dit magische artefact voort en begrijp het nu meer dan wie dan ook. Ik kan nu de gedachten van beren beheersen! Nu je hier bent, kan ik je opstand ter ondergang brengen..."
 		],
 		"pl": [
-			"Kontynuowałem swoje eksperymenty z magicznym artefaktem i teraz rozumiem to bardziej niż ktokolwiek. Teraz mogę kontrolować umysły niedźwiedzi! Teraz jak tu jesteś, to mogę zmiażdżyć twój bunt…"
+			"Kontynuowałem swoje eksperymenty z magicznym artefaktem i teraz rozumiem to bardziej niż ktokolwiek. Teraz mogę kontrolować umysły niedźwiedzi! Teraz jak tu jesteś, to mogę zmiażdżyć twój bunt..."
 		],
 		"pt": [
-			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião…"
+			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião..."
 		],
 		"ru": [
 			"Я продолжил свои эксперименты с этим магическим артефактом и теперь понимаю его лучше, чем кто-либо другой. Теперь я могу управлять разумом медведей! Теперь, когда ты здесь, я могу подавить твоё восстание..."
@@ -7595,7 +7619,7 @@
 			"Μην κουνηθείς, δεν θα πονέσει. Πιθανόν."
 		],
 		"en": [
-			"Don’t move, it won’t hurt. Probably."
+			"Don't move, it won't hurt. Probably."
 		],
 		"es": [
 			"No te muevas, no te dolerá. Probablemente no lo hará."
@@ -7675,7 +7699,7 @@
 			"Ωραία αντανακλαστικά, αδερφέ! Φαίνεται ότι δεν θα σε αγγίξω με το λέιζερ, αλλά ίσως η ίδια η βασίλισσα Μπιάτρις μπορεί να σε ηρεμήσει."
 		],
 		"en": [
-			"Nice reflexes brother! Looks like I won’t be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
+			"Nice reflexes brother! Looks like I won't be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
 		],
 		"es": [
 			"¡Buenos reflejos, hermano! Parece que no voy a golpearte con este láser, pero tal vez la propia Reina Mirabeja pueda calmarte."
@@ -7684,7 +7708,7 @@
 			"Beaux réflexes mon frère ! On dirait que je ne vais pas te toucher avec ce laser, mais peut-être que Reine Mirabeille elle-même peut te calmer."
 		],
 		"id": [
-			"Refleks yang bagus, kawan! Sepertinya aku tidak akan menyentuhmu dengan laser itu, tapi mungkin Ratu Beeatrice sendiri bisa menenangkanmu."
+			"Refleks yang bagus, saudaraku! Sepertinya aku tidak akan menyentuhmu dengan laser itu, tapi mungkin Ratu Beeatrice sendiri bisa menenangkanmu."
 		],
 		"it": [
 			"Bei riflessi, fratello! Sembra che non riuscirò a colpirti con questo laser, ma forse la regina Mirabape in persona potrà calmarti."
@@ -7764,7 +7788,7 @@
 			"Le sort n'était pas calibré pour un Backpacker ! Oh non... non non NON ! Ça a fait n'importe quoi !"
 		],
 		"id": [
-			"Mantranya tidak dikalibrasi untuk Backpacker! Oh tidak... tidak tidak tidak TIDAK! Ini sangat salah!"
+			"Mantra nya tidak dikalibrasi untuk Backpacker! Oh tidak... tidak, tidak, tidak! Ini sangat salah!"
 		],
 		"it": [
 			"L'incantesimo non è stato calibrato per un Backpacker! Oh no... no no NO! Ha fatto di tutto!"
@@ -7804,7 +7828,7 @@
 			"Ok Shicka, il est l'heure de se battre contre le vrai moi !"
 		],
 		"id": [
-			"Oke Shicka, saatnya untuk melawan saya yang sebenarnya!"
+			"Baiklah, Shicka. Saatnya untuk melawan diriku yang sebenarnya!"
 		],
 		"it": [
 			"Ok Shicka, è ora di combattere il vero me!"
@@ -7835,7 +7859,7 @@
 			"Λυπάμαι που σε πολέμησα, αγαπητή μου αρκούδα. Δεν ήμουν ο εαυτός μου εκεί πίσω, ο πυρήνας... δρούσε στο μυαλό μου."
 		],
 		"en": [
-			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
+			"I'm sorry I fought you, my dear bear. I waszzn't myself back there, the Kernel waszz... acting on my mind."
 		],
 		"es": [
 			"Sentimos haber luchado contra ti, mi querida bearz. No estábamos allí nosotros, el Kernel... ajzzisz en nuestro raizzzon."
@@ -7854,10 +7878,10 @@
 			"Het spijt me dat ik tegen je vocht, mijn lieve beer. Ik waszz daar niet mezelf, de Kernel waszz ... mijn gedachten aan het beïnvloeden."
 		],
 		"pl": [
-			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro… działo na mój umysł."
+			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro... działo na mój umysł."
 		],
 		"pt": [
-			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva… agindo sobre minha cabeça."
+			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva... agindo sobre minha cabeça."
 		],
 		"ru": [
 			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была собой там, Кернел... вввлиял на мой разззум."
@@ -7884,7 +7908,7 @@
 			"Forsze est de consztater, que le Kernel a ekzplozzzé en heurtant la Ruchze en chzutant... Nouzzz avons été téléportézzz ici pour quelque raizzzon, hélasz votre frère a problablement échzoué ailleurs."
 		],
 		"id": [
-			"Dari yang terlihatzz, Kernel meledak ketika menabrak Hivvve dalam perjalanannya ke bawah... Kami diteleportasi ke sini entah bagaimana, tapi saudaramu mungkin berakhir di tempat lain."
+			"Dari yang terlihat, Kernel itu meledak saat menabrak sarang lebah sewaktu turun ke bawah... Kami diteleportasi ke sini entah bagaimana, tapi saudaramu mungkin sudah berakhir di tempat lain."
 		],
 		"it": [
 			"Forsze è di consztater, che il Kernel ha ekzplozzzé colpendo il Ruchze mentre cade ... Siamo stati teletrasportati qui per qualche razzone, alasz tuo fratello ha probabilmente fallito altrove."
@@ -7924,7 +7948,7 @@
 			"La Ruchze n'est plus, mais puiszque dorénavant nous szommes libre, nouzzz allons clore szette uzzzine de miel violet et resztaurer la paizzz à travers notre royaume."
 		],
 		"id": [
-			"Hivvve sudah tidak ada lagi, tapi sekarang aku bebas, aku akan menutup pabrik madu ungu dan mengembalikan kedamaian di kerajaanku."
+			"Sarang lebah sudah tidak ada lagi, tapi sekarang setelah aku bebas, aku akan menutup pabrik madu ungu dan mengembalikan kedamaian di kerajaanku."
 		],
 		"it": [
 			"Il Ruchze non c'è più, ma poiché ora siamo liberi, chiuderemo questa uzzzina di miele viola e ripristineremo la pace in tutto il nostro regno."
@@ -7955,7 +7979,7 @@
 			"Σε ευχαριστώ που με έσωσες, Μπάαρεν. Σε ευχαριστώ που έσωσες όλους. Ας συγκεντρωθούμε στο χωριό της Αρκούδας, εντάξει;"
 		],
 		"en": [
-			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let's gather at the Bear Vvvillage, shall we?"
 		],
 		"es": [
 			"Merszi a ti por habernos salvado Baaren. Merszi por salvar a todos. Reunámonos en el Villajzze Oursz, ¿de acuerdo?"
@@ -7964,7 +7988,7 @@
 			"Merszi à vous de nouzzz avoir szauvée Baaren. Merszi d'avoir szauvé tout le monde. Raszemblons-nous au Villajzze Oursz, voulez-vous ?"
 		],
 		"id": [
-			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semua orang. Mari kita berkumpul di desa beruang, bolehkah kita?"
+			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semua orang. Mari berkumpul di desa beruang!"
 		],
 		"it": [
 			"Merszi a te per averci salvato Baaren. Merszi per aver salvato tutti. Ci ritroviamo a Villajzze Oursz, che ne dite?"
@@ -8004,7 +8028,7 @@
 			"Lezzz oursz comme toi m'effrayent, maizzz ont du potensziel. Offrant montzzz et merveilles, jzze peux m'en faire mon miel. Jzze n'ai pas mon pareil pour me faire de l'ozzzeille."
 		],
 		"id": [
-			"Bearszz sangat mengerikan tapi mungkin aku bisa mendapatkan keuntungan darimu. Aku beeszzy melakukan beeszziness."
+			"Beruang sangat mengerikan tapi mungkin aku bisa mendapatkan keuntungan darimu. Aku sibuk melakukan bisnis."
 		],
 		"it": [
 			"Gli orsi come te mi spaventano, ma sono potenti. Offrendo montzzz e meraviglie, jzze può farmi il mio miele. Non sono all'altezza di te quando si tratta di farmi sentire bene."
@@ -8084,7 +8108,7 @@
 			"Équiper"
 		],
 		"id": [
-			"Lengkapi"
+			"Pakai"
 		],
 		"it": [
 			"Equipaggiamento"
@@ -8164,7 +8188,7 @@
 			"Entrée de la Ruche. Intrusion interdite."
 		],
 		"id": [
-			"Pintu masuk sarang. Dilarang masuk tanpa izin."
+			"Pintu masuk sarang lebah. Dilarang masuk tanpa izin."
 		],
 		"it": [
 			"Ingresso all'alveare. Non si può entrare."
@@ -8204,7 +8228,7 @@
 			"Propriété des abeilles. Ne pas entrer."
 		],
 		"id": [
-			"Properti lebah. Jangan masuk."
+			"Properti lebah. Dilarang masuk."
 		],
 		"it": [
 			"Proprietà delle api. Non entrare."
@@ -8244,7 +8268,7 @@
 			"Dernier avertissement. Ne pas entrer."
 		],
 		"id": [
-			"Peringatan terakhir. Jangan masuk."
+			"Peringatan terakhir. Dilarang masuk."
 		],
 		"it": [
 			"Ultimo avvertimento. Non entrare."
@@ -8404,7 +8428,7 @@
 			"Conditions de déverrouillage :"
 		],
 		"id": [
-			"Buka kunci persyaratan:"
+			"Syarat untuk membuka:"
 		],
 		"it": [
 			"Condizioni di sblocco:"
@@ -8444,7 +8468,7 @@
 			"Merci de m'avoir sauvé dans la grotte du golem !"
 		],
 		"id": [
-			"Terima kasih karena telah menyelamatkan aku dari gua golem!"
+			"Terima kasih karena telah menyelamatkanku dari gua golem!"
 		],
 		"it": [
 			"Grazie per avermi salvato nella grotta della Testuggine!"
@@ -8488,7 +8512,7 @@
 			"Jette un œil à la plateforme en pierre derrière moi, tu peux y aller pour changer de costume."
 		],
 		"id": [
-			"Lihatlah platform batu di belakangku, Kamu dapat pergi ke sana untuk mengubah kostummu."
+			"Lihatlah platform batu di belakangku, kamu dapat pergi ke sana untuk mengubah kostummu."
 		],
 		"it": [
 			"Dai un'occhiata alla piattaforma di pietra dietro di me, puoi salirci per cambiare i cosmetici."
@@ -8532,7 +8556,7 @@
 			"Je me demande où se trouve la vraie Reine des abeilles..."
 		],
 		"id": [
-			"Aku ingin tahu di mana sebenarnya Ratu Lebah ..."
+			"Aku ingin tahu di mana Ratu Lebah yang sebenarnya..."
 		],
 		"it": [
 			"Mi chiedo dove sia la vera Ape Regina..."
@@ -8576,7 +8600,7 @@
 			"Tu as dû en mettre du temps pour trouver toutes les pièces de Tortibourg !"
 		],
 		"id": [
-			"Kamu pasti telah memakan banyak waktu untuk menemukan semua koin di Kampung Penyu!"
+			"Kau pasti telah memakan banyak waktu untuk menemukan semua koin di Desa Kura-kura!"
 		],
 		"it": [
 			"Ci deve essere voluto molto tempo per trovare tutte le parti del Villaggio delle Tartarughe!"
@@ -8620,7 +8644,7 @@
 			"Le sacrifice de soi est la condition de la vertu."
 		],
 		"id": [
-			"Pengorbanan diri sebuah kebajikan yang mulia."
+			"Pengorbanan diri adalah syarat kebajikan."
 		],
 		"it": [
 			"Sacrificarsi per gli altri è motivo di grande virtù."
@@ -8662,7 +8686,7 @@
 			"Tu as réussi à garder l'équilibre sur ces plateformes qui tournent, quel talent !"
 		],
 		"id": [
-			"Kamu berhasil menjaga keseimbangan pada platform berputar itu, Kamu memiliki banyak bakat!"
+			"Kau berhasil menjaga keseimbangan pada platform berputar itu, kau memiliki banyak bakat!"
 		],
 		"it": [
 			"Sei riuscito a mantenere l'equilibrio su quelle piattaforme roteanti, che talento!"
@@ -8704,7 +8728,7 @@
 			"Tu es mon héros Baaren, sans toi je serais encore en cage à l'heure qu'il est..."
 		],
 		"id": [
-			"Kamu pahlawanku Baaren, tanpa Kamu aku masih akan berada di kandang ..."
+			"Kau adalah pahlawanku Baaren, tanpamu aku pasti masih akan terkurung di kandang..."
 		],
 		"it": [
 			"Sei il mio eroe Baaren, senza il tuoi aiuto sarei ancora in gabbia in questo momento..."
@@ -8748,7 +8772,7 @@
 			"Les abeilles m'avaient cachée dans ce coin en haut de la rivière, heureusement que tu m'as vue..."
 		],
 		"id": [
-			"Lebah menyembunyikanku di sudut atas sungai, untungnya Kamu melihat aku ..."
+			"Para lebah menyembunyikanku di sudut atas sungai, untung saja kau melihatku..."
 		],
 		"it": [
 			"Le api mi hanno nascosto in quell'angolo lungo il fiume, è un bene che mi abbiate visto..."
@@ -8770,7 +8794,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Arılar beni nehrin üstündeki bu köşeye sakladılar, neyse ki beni fark ettin…"
+			"Arılar beni nehrin üstündeki bu köşeye sakladılar, neyse ki beni fark ettin..."
 		]
 	},
 	"hub_bear_09": {
@@ -8790,7 +8814,7 @@
 			"Bien joué, tu as vaincu cet énorme Yéti, merci !"
 		],
 		"id": [
-			"Hebat sekali, Kamu mengalahkan Yeti, terima kasih!"
+			"Hebat sekali, Kau mengalahkan Yeti itu, terima kasih!"
 		],
 		"it": [
 			"Ben fatto, hai sconfitto quell'enorme Yeti, grazie!"
@@ -8876,7 +8900,7 @@
 			"Je suis content d'être enfin retourné ici, cette vallée était horrible."
 		],
 		"id": [
-			"Aku senang akhirnya kembali di sini, lembah itu mengerikan."
+			"Aku senang aku akhirnya bisa kembali ke sini, lembah itu mengerikan."
 		],
 		"it": [
 			"Sono contento di essere finalmente tornato qui, quella valle non era affatto gradevole."
@@ -8918,7 +8942,7 @@
 			"On aurait peut-être dû ramener les manchots ici pour les sauver, non ?"
 		],
 		"id": [
-			"Mungkin kita juga harus membawa penguin ke sini untuk menyelamatkan mereka?"
+			"Mungkin kita juga harus membawa para penguin ke sini untuk menyelamatkan mereka?"
 		],
 		"it": [
 			"Forse avremmo dovuto portare qui i pinguini per salvarli, no?"
@@ -9044,7 +9068,7 @@
 			"The bear goes skrrrahh, pap, pap, ka-ka-ka. Skidiki-pap-pap, and a pu-pu-pudrrrr-boom !"
 		],
 		"id": [
-			"Beruang itu pergi skrrrahh, pap, pap, ka-ka-ka. Skidiki-pap-smear, dan pu-pu-pudrrrr-boom!"
+			"Beruang itu berbunyi skrrrahh, pap, pap, ka-ka-ka. Skidiki-pap-smear, dan pu-pu-pudrrrr-boom!"
 		],
 		"it": [
 			"L'orso fa skrrrahhh, pap, pap, pap, ka-ka-ka. Skidiki-pap-pap-pap, e un pu-pu-pudrrrr-boom!"
@@ -9084,7 +9108,7 @@
 			"Tu ne sais rien Baaren Bear."
 		],
 		"id": [
-			"Kamu tidak tahu apa-apa beruang Baaren."
+			"Kau tidak tahu apa-apa beruang Baaren."
 		],
 		"it": [
 			"Non sai nulla, Baaren Bear."
@@ -9125,10 +9149,10 @@
 			"Es bueno haber vuelto, quede encerrado en esa piramide por demasiado tiempo."
 		],
 		"fr": [
-			"C’est tellement plaisant de revenir ici, je suis resté enfermé dans cette pyramide pendant bien trop longtemps."
+			"C'est tellement plaisant de revenir ici, je suis resté enfermé dans cette pyramide pendant bien trop longtemps."
 		],
 		"id": [
-			"Sangat menyenangkan akhirnya kembali kesini, sudah terlalu lama aku terkunci di piramid itu."
+			"Aku senang aku akhirnya bisa kembali ke sini, sudah terlalu lama aku terkurung di piramida itu."
 		],
 		"it": [
 			"È così bello essere di nuovo qui, sono rimasto intrappolato in questa piramide troppo a lungo."
@@ -9167,10 +9191,10 @@
 			"¡Los fénec son tan adorables, me encantaria adoptar uno!"
 		],
 		"fr": [
-			"Les fennecs sont tellement adorables, j’aimerais en adopter un !"
+			"Les fennecs sont tellement adorables, j'aimerais en adopter un !"
 		],
 		"id": [
-			"Binatang Fennecs begitu menggemaskan, aku ingin mengadopsi satu!"
+			"Binatang Fennec begitu menggemaskan, aku mau pelihara satu!"
 		],
 		"it": [
 			"I Fennecs sono così adorabili. Quanto vorrei poterne adottare uno!"
@@ -9212,7 +9236,7 @@
 			"Nos ancêtres lointains étaient les protecteurs du désert mais nous sommes revenus ici depuis plusieurs générations."
 		],
 		"id": [
-			"Nenek moyang kita adalah pelindung padang pasir tapi kami kembali ke tempat ini setelah beberapa generasi."
+			"Nenek moyang kita adalah pelindung gurun, tapi kami kembali ke tempat ini setelah beberapa generasi."
 		],
 		"it": [
 			"I nostri lontani antenati erano i protettori del deserto, ma siamo tornati in questo luogo per molte generazioni."
@@ -9254,7 +9278,7 @@
 			"Tu dois connaître le désert comme ta poche maintenant que tu as récupéré toutes les pièces !"
 		],
 		"id": [
-			"Kamu harus tahu padang pasir seperti punggung tangan Kamu, karena sekarang Kamu sudah menemukan semua koin!"
+			"Kau pasti sudah mengenal daerah gurun itu seperti punggung tanganmu sekarang, karena kau sudah menemukan semua koin nya!"
 		],
 		"it": [
 			"Devi conoscere il deserto come il palmo della tua mano, ora che hai recuperato tutte le monete!"
@@ -9293,10 +9317,10 @@
 			"La reina abeja esta preparando algo terrible, fue al desierto a preparar el elemento final para su plan maestro."
 		],
 		"fr": [
-			"La Reine des abeilles prépare quelque chose de terrible, elle s’est rendue dans le désert pour récupérer l’élément final de son plan."
+			"La Reine des abeilles prépare quelque chose de terrible, elle s'est rendue dans le désert pour récupérer l'élément final de son plan."
 		],
 		"id": [
-			"Ratu Lebah mempersiapkan sesuatu yang mengerikan, dia pergi ke padang pasir untuk mempersiapkan unsur terakhir dari rencananya."
+			"Ratu Lebah sedang mempersiapkan sesuatu yang mengerikan, dia pergi ke gurun untuk mempersiapkan unsur terakhir dari rencananya."
 		],
 		"it": [
 			"L'ape regina sta tramando qualcosa di terribile, è andata nel deserto per recuperare l'ultimo pezzo del suo piano malvagio."
@@ -9338,7 +9362,7 @@
 			"Le mur a peut-être été construit pour tester le miel violet avant son utilisation dans le reste du royaume. Ou peut-être que les abeilles essayaient de se protéger de quelque chose ? Qui sait ?"
 		],
 		"id": [
-			"Dinding itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
+			"Dinding itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin para lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
 		],
 		"it": [
 			"Il muro potrebbe essere stato costruito per testare il Miele Viola prima che fosse usato nel resto del regno. O forse le api cercavano di proteggersi da qualcosa? Chi lo sa?"
@@ -9377,10 +9401,10 @@
 			"Una legenda dice que la piramide contiene una reliquia que da un inmenso poder a su portador. Espero que esta reliquia no exista en realidad..."
 		],
 		"fr": [
-			"Une légende raconte que la pyramide renferme une relique octroyant des pouvoirs immenses à son porteur. J’espère que cette relique n’existe pas réellement..."
+			"Une légende raconte que la pyramide renferme une relique octroyant des pouvoirs immenses à son porteur. J'espère que cette relique n'existe pas réellement..."
 		],
 		"id": [
-			"Sebuah legenda mengatakan piramid ini berisi pusaka yang memberikan kekuatan besar untuk pemiliknya. Aku berharap pusaka itu tidak benar adanya ..."
+			"Sebuah legenda mengatakan bahwa piramida itu berisi peninggalan yang memberikan kekuatan besar untuk pemiliknya. Kuharap peninggalan itu tidak benar keadaanya..."
 		],
 		"it": [
 			"La leggenda vuole che la piramide contenga una reliquia che conferisce poteri immensi al suo portatore. Spero che quella reliquia non esista davvero..."
@@ -9402,7 +9426,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Bir efsane, piramidi elinde bulunduran kimseye muazzam güçler vereceğini yazar. Umarım böyle bir kalıntı gerçekte yoktur …"
+			"Bir efsane, piramidi elinde bulunduran kimseye muazzam güçler vereceğini yazar. Umarım böyle bir kalıntı gerçekte yoktur ..."
 		]
 	},
 	"hub_bear_24": {
@@ -9419,10 +9443,10 @@
 			"Construir esa muralla fue seguro un trabajo tremendo, seguro que las abejas tubieron una rason importante para constuirla."
 		],
 		"fr": [
-			"La construction du mur a probablement été un travail titanesque, les abeilles doivent avoir une raison importante pour l’avoir construit."
+			"La construction du mur a probablement été un travail titanesque, les abeilles doivent avoir une raison importante pour l'avoir construit."
 		],
 		"id": [
-			"Pembangunan tembok itu mungkin pekerjaan yang luar biasa, lebah harus memiliki alasan penting untuk membangun itu."
+			"Pembangunan tembok itu mungkin pekerjaan yang luar biasa, lebah pasti punya alasan yang penting untuk membangun itu."
 		],
 		"it": [
 			"La costruzione del muro è stata un'impresa titanica, le api devono aver avuto un motivo importante per costruirlo."
@@ -9464,7 +9488,7 @@
 			"*bruits de bébé heureux*"
 		],
 		"id": [
-			"*suara suara bayi senang*"
+			"*suara bayi senang*"
 		],
 		"it": [
 			"*Suoni di bambini felici"
@@ -9504,7 +9528,7 @@
 			"*bruits de bébé fatigué*"
 		],
 		"id": [
-			"*suara suara bayi lelah*"
+			"*suara bayi lelah*"
 		],
 		"it": [
 			"*suoni di bambino stanco*"
@@ -9544,7 +9568,7 @@
 			"*bruits de bébé en colère*"
 		],
 		"id": [
-			"*suara suara bayi marah*"
+			"*suara bayi marah*"
 		],
 		"it": [
 			"*Rumori da bambino arrabbiato"
@@ -9584,7 +9608,7 @@
 			"La troisième loi de Newton ne semble pas s'appliquer dans ce royaume."
 		],
 		"id": [
-			"Hukum gerak Newton yang ketiga sepertinya tidak berlaku di dunia ini."
+			"Hukum gerak Newton yang ketiga tampaknya tidak berlaku di dunia ini."
 		],
 		"it": [
 			"La terza legge di Newton non sembra essere applicabile in questo campo."
@@ -9624,7 +9648,7 @@
 			"*regard confus*"
 		],
 		"id": [
-			"*Tatapan kebingungan*"
+			"*menatap dengan bingung*"
 		],
 		"it": [
 			"*(sguardo confuso)"
@@ -9742,7 +9766,7 @@
 			"Moi ours."
 		],
 		"id": [
-			"Saya adalah beruang."
+			"Aku beruang."
 		],
 		"it": [
 			"Io orso."
@@ -9782,7 +9806,7 @@
 			"Saluuut ! C'est moi, Capitalooos, le frère de Capitalus ! Si tu soutiens le développeur du jeeeu, tu obtiendras des cadeaux très spéciauuux !"
 		],
 		"id": [
-			"Halooo! ini aku, Capitalooos, saudaranya Capitalus! Kalo kamu mau mendukung pengembang aplikasi ini, aku akan memberikanmu hadiaaah!"
+			"Halooo! ini aku, Capitalooos, saudaranya Capitalus! Kalau kau ingin mendukung developer game ini, aku akan memberikanmu hadiaaah!"
 		],
 		"it": [
 			"Ciao! Sono io, Capitalooos, il fratello di Capitalus! Se sostieni lo sviluuuuppatore del gioco, riceverai dei regali molto speciaaaali!"
@@ -9824,7 +9848,7 @@
 			"Saluuut ! C'est moi, Capitaluuus ! Si tu acceptes de regarder une publicitééé, je t'offrirais des cadeauuux !"
 		],
 		"id": [
-			"Halooo! Ini aku, Capitaluuus! Kalo kamu mau menonton iklan, aku akan memberikanmu hadiaaah!"
+			"Halooo! Ini aku, Capitaluuus! Kalau kau ingin menonton iklan, aku akan memberikanmu hadiaaah!"
 		],
 		"it": [
 			"Saluti! Sono io, Capitaluuuus! Se accetti di guardare una puuuubblicità, ti farò dei reeeegali!"
@@ -9866,7 +9890,7 @@
 			"Ne t'inquiète pas, la machine rétrécissante est très probablement sûre."
 		],
 		"id": [
-			"Jangan khawatir, mesin pengecil kemungkinan besar aman digunakan."
+			"Jangan khawatir, mesin pengecil ini kemungkinan besar aman digunakan."
 		],
 		"it": [
 			"Tranquilli, il Rimpicciolitore è... probabilmente... senza problemi."
@@ -9908,7 +9932,7 @@
 			"Bienvenue dans le hub ! Place-toi sur les cercles bleus pour entrer dans un niveau."
 		],
 		"id": [
-			"Selamat datang di hub! Pergi ke lingkaran biru untuk memasuki suatu tingkat."
+			"Selamat datang di hub! Pergi ke lingkaran biru untuk memasuki suatu level."
 		],
 		"it": [
 			"Benvenuto nell'hub! Sali sulle pedane blu per entrare in un livello."
@@ -9952,7 +9976,7 @@
 			"Bonjour à toi ! Tu es à la recherche d'une mission sympa ? Je crois que j'ai ce qu'il te faut !"
 		],
 		"id": [
-			"Halo yang disana! Apakah Kamu mencari sebuah misi keren? Sepertinya aku memiliki apa yang Kamu cari!"
+			"Halo yang disana! Apa kau sedang mencari sebuah misi keren? Sepertinya aku punya apa yang kau cari!"
 		],
 		"it": [
 			"Ehilà! Siete alla ricerca di una bella sfida? Penso di avere quello che vi serve!"
@@ -10034,7 +10058,7 @@
 			"Reine Mirabeille, la reine des abeilles, était une dirigeante adorée, elle était juste et appréciée de tous. L'équilibre entre toutes les créatures était parfait."
 		],
 		"id": [
-			"Ratu Beeatrice, sang ratu lebah, adalah penguasa yang dicintai, dia adil dan dihargai oleh semua orang. Keseimbangan antara semua makhluk sangat sempurna."
+			"Ratu Beeatrice, sang ratu lebah, adalah penguasa yang dicintai, dia adil dan dihargai oleh semua orang. Keseimbangan antara semua makhluk itu sangat sempurna."
 		],
 		"it": [
 			"La regina Mirabape, l'ape regina, era un'amata sovrana, era giusta e amata da tutti. L'equilibrio tra tutte le creature era perfetto."
@@ -10105,32 +10129,32 @@
 			"...οι μέλισσες άρχισαν να παράγουν ένα διαφορετικό είδος μελιού στην κυψέλη. Λίγο αργότερα, αυτή η νέα γεύση και αυτό το μωβ χρώμα αγαπήθηκαν από όλους."
 		],
 		"en": [
-			"… the bees started producing a different kind of honey in the Hive. Shortly after, this new flavor and this purple color were beloved by everybody."
+			"... the bees started producing a different kind of honey in the Hive. Shortly after, this new flavor and this purple color were beloved by everybody."
 		],
 		"es": [
 			"...las abejas empezaron a producir un tipo de miel diferente en la Colmena. Poco despues, este nuevo sabor y su color morado fue amado por todos."
 		],
 		"fr": [
-			"… les abeilles commencent à produire un nouveau genre de miel dans la Ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés de tous."
+			"... les abeilles commencent à produire un nouveau genre de miel dans la Ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés de tous."
 		],
 		"id": [
-			".... lebah mulai memproduksi jenis madu yang berbeda di dalam sarang. Tak lama setelah itu, rasa baru dan warna ungu ini disukai oleh semua orang."
+			"...lebah mulai memproduksi jenis madu yang berbeda di sarang lebah. Tak lama kemudian, rasa baru dan warna ungu ini disukai oleh semua orang."
 		],
 		"it": [
 			"... le api iniziarono a produrre un nuovo tipo di miele nell'alveare. In breve tempo, il nuovo gusto e il colore viola furono apprezzati da tutti."
 		],
 		"ja": [],
 		"nl": [
-			"… de bijen begonnen met het produceren van een ander soort honing in de korf. Kort daarna was deze nieuwe smaak en deze paarse kleur geliefd door iedereen."
+			"... de bijen begonnen met het produceren van een ander soort honing in de korf. Kort daarna was deze nieuwe smaak en deze paarse kleur geliefd door iedereen."
 		],
 		"pl": [
-			"… pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
+			"... pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
 		],
 		"pt": [
 			"...as abelhas começaram a produzir um tipo diferente de mel na Colmeia. Momentos depois, esse novo sabor e coloração roxa foram amados por todos."
 		],
 		"ru": [
-			"… Пчелы не стали производить другой вид мёда в Улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
+			"... Пчелы не стали производить другой вид мёда в Улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
 		],
 		"sv": [],
 		"tr": [
@@ -10154,7 +10178,7 @@
 			"Malheureusement, les créatures qui le consommèrent devinrent rapidement folles et attaquèrent leurs amis tels des animaux sans cervelle."
 		],
 		"id": [
-			"Sayangnya, makhluk-makhluk yang mengkonsumsinya segera mulai berubah menjadi gila dan menyerang teman-teman mereka seperti binatang yang tidak punya pikiran."
+			"Sayangnya, makhluk-makhluk yang mengkonsumsinya segera mulai berubah menjadi gila dan menyerang teman-teman mereka seperti binatang yang tidak berakal."
 		],
 		"it": [
 			"Purtroppo, le creature che l'hanno consumata sono presto impazzite e hanno attaccato i loro amici come animali senza cervello."
@@ -10194,7 +10218,7 @@
 			"Personne ne sait pourquoi les abeilles commencèrent à semer la pagaille au sein de leur propre royaume et ses habitants étaient trop faibles pour résister."
 		],
 		"id": [
-			"Tidak ada yang tahu mengapa lebah-lebah itu mulai mendatangkan malapetaka pada kerajaan mereka sendiri, dan penghuninya terlalu lemah untuk melawan."
+			"Tidak ada yang tahu mengapa lebah-lebah itu mulai mendatangkan malapetaka pada kerajaan mereka sendiri, dan penduduknya terlalu lemah untuk melawan."
 		],
 		"it": [
 			"Nessuno sa perché le api abbiano iniziato a creare scompiglio nel loro regno e i suoi abitanti fossero troppo deboli per resistere."
@@ -10234,7 +10258,7 @@
 			"Rapidement, les abeilles se rendirent compte que les ours n'étaient mystérieusement pas infectés par le miel violet."
 		],
 		"id": [
-			"Tak lama kemudian, lebah-lebah itu menyadari bahwa beruang secara misterius tidak terpengaruh oleh madu ungu."
+			"Tak lama kemudian, para lebah menyadari bahwa beruang secara misterius tidak terpengaruh oleh madu ungu."
 		],
 		"it": [
 			"Ben presto le api si accorsero che gli orsi erano misteriosamente non infettati dal miele viola."
@@ -10274,7 +10298,7 @@
 			"Cette résistance causa leur perte : les abeilles menèrent une offensive contre le Village Ours et les emprisonnèrent pour empêcher toute révolte."
 		],
 		"id": [
-			"Perlawanan ini menyebabkan kerugian mereka: lebah menyerbu Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
+			"Perlawanan ini menyebabkan kerugian mereka: para lebah menyerbu Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
 		],
 		"it": [
 			"Questa resistenza fu la loro rovina: le api condussero un'offensiva contro il Villaggio degli Orsi e li imprigionarono per impedire qualsiasi rivolta."
@@ -10314,7 +10338,7 @@
 			"Par chance, un ours réussit à éviter l'attaque. Mais désormais, le destin du peuple repose sur ses épaules."
 		],
 		"id": [
-			"Untungnya, seekor beruang berhasil menghindari serangan itu. Tetapi sekarang, nasib orang-orang berada di pundaknya."
+			"Untungnya, seekor beruang berhasil menghindari serangan itu. Tetapi sekarang, nasib rakyat berada di pundaknya."
 		],
 		"it": [
 			"Fortunatamente, un orso è riuscito a evitare l'attacco. Ma ora il destino del popolo è sulle sue spalle."
@@ -10354,7 +10378,7 @@
 			"Le monde a besoin d'un héros. Quelqu'un pour rétablir l'équilibre, quelqu'un pour mettre un terme à ce cauchemar violet."
 		],
 		"id": [
-			"Dunia membutuhkan seorang pahlawan. Seseorang untuk mengembalikan keseimbangan, seseorang untuk mengakhiri malapetaka ungu ini."
+			"Dunia membutuhkan seorang pahlawan. Seseorang untuk memulihkan keseimbangan, seseorang untuk mengakhiri malapetaka ungu ini."
 		],
 		"it": [
 			"Il mondo ha bisogno di un eroe. Qualcuno che ristabilisca l'equilibrio, qualcuno che ponga fine a questo incubo viola."
@@ -10394,7 +10418,7 @@
 			"Nous sauveras-tu, Baaren ?"
 		],
 		"id": [
-			"Maukah kamu menyelamatkan kami, Baaren?"
+			"Maukah kau menyelamatkan kami, Baaren?"
 		],
 		"it": [
 			"Ci salverai, Baaren?"
@@ -10434,7 +10458,7 @@
 			"Baaren ! Tu es venu me sauver ! Fais attention, le Golem Tortue est très dangereux !"
 		],
 		"id": [
-			"Baaren! Kau datang untuk menyelamatkanku! Hati-hati, Turtle Golem sangat berbahaya!"
+			"Baaren! Kau datang untuk menyelamatkanku! Hati-hati, Golem Kura-kura sangat berbahaya!"
 		],
 		"it": [
 			"Baaren! Sei venuto a salvarmi! Fate attenzione, il Golem della Tartaruga è molto pericoloso!"
@@ -10474,7 +10498,7 @@
 			"Lorsqu'il te charge, esquive ses attaques et attends qu'il soit épuisé avant de contre-attaquer."
 		],
 		"id": [
-			"Ketika ia menyerang Anda, hindari serangannya dan tunggu sampai ia kelelahan sebelum melawan balik."
+			"Saat dia menyerangmu, hindari serangannya dan tunggu sampai dia kelelahan sebelum melawan balik."
 		],
 		"it": [
 			"Quando vi carica, schivate i suoi attacchi e aspettate che si esaurisca prima di contrattaccare."
@@ -10514,7 +10538,7 @@
 			"Aussi, fais attention aux rochers qui tombent du plafond ! Je crois en toi, Baaren !"
 		],
 		"id": [
-			"Juga, perhatikan batu-batu yang jatuh dari langit-langit! Aku percaya padamu, Baaren!"
+			"Juga, perhatikan batu-batu yang jatuh dari atas! Aku percaya padamu, Baaren!"
 		],
 		"it": [
 			"Inoltre, fate attenzione alle rocce che cadono dal soffitto! Io credo in te, Baaren!"
@@ -10554,7 +10578,7 @@
 			"Attention, il t'attaque !!!"
 		],
 		"id": [
-			"Awas, dia menyerangmu!!!!"
+			"Awas, dia menyerangmu!"
 		],
 		"it": [
 			"Attenti, vi sta attaccando!!!"
@@ -10594,7 +10618,7 @@
 			"Tu l'as fait ! Tu peux prendre la clef et venir ici pour me libérer."
 		],
 		"id": [
-			"Kamu berhasil, kerja bagus! Kamu bisa mengambil kuncinya dan datang ke sini untuk membebaskanku."
+			"Kau berhasil, kerja bagus! Kau bisa mengambil kuncinya dan datang ke sini untuk membebaskanku."
 		],
 		"it": [
 			"Ce l'hai fatta! Puoi prendere la chiave e venire qui a liberarmi."
@@ -10625,7 +10649,7 @@
 			"Παρεμπιπτόντως, είδα τον αδελφό σου εδώ νωρίτερα σήμερα, δεν φαινόταν τόσο καλά. Ελπίζω να τον βρεις."
 		],
 		"en": [
-			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you will find him."
+			"By the way, I saw your brother here earlier today, he didn't seem so well. I hope you will find him."
 		],
 		"es": [
 			"Por cierto, hoy he visto a tu hermano por aquí, no tenía muy buen aspecto. Espero que lo encuentres."
@@ -10665,7 +10689,7 @@
 			"Αναρωτιέμαι τι έκανε ο αδελφός σου εδώ. Έχω καιρό να τον δω, ίσως να ήταν σε χειμερία νάρκη. Θα πρέπει να τον ψάξουμε στην Κοιλάδα του Χιονιού, είναι ο επόμενος προορισμός από εδώ."
 		],
 		"en": [
-			"I wonder what your brother was doing here. I haven’t seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it’s the next destination from here."
+			"I wonder what your brother was doing here. I haven't seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it's the next destination from here."
 		],
 		"es": [
 			"Me pregunto qué hacía tu hermano aquí. Hacía tiempo que no lo veía, quizás estaba hibernando. Deberíamos buscarlo en el Valle de las Nieves, que es el siguiente destino desde aquí."
@@ -10674,7 +10698,7 @@
 			"Je me demande ce que ton frère faisait ici. Je ne l'avais pas vu depuis un certain temps, peut-être qu'il hibernait. Nous devrions le chercher à la Vallée des Neiges, c'est la prochaine destination à partir d'ici."
 		],
 		"id": [
-			"Aku ingin tahu apa yang dilakukan kakakmu di sini. Saya belum melihatnya dalam beberapa saat, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
+			"Aku ingin tahu apa yang dilakukan saudaramu di sini. Aku belum melihatnya untuk beberapa saat, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
 		],
 		"it": [
 			"Mi chiedo cosa ci facesse tuo fratello qui. Non lo vedevo da un po', forse era in letargo. Dovremmo cercarlo nella Valle della Neve, la prossima destinazione da qui."
@@ -10714,7 +10738,7 @@
 			"Tortibourg était un endroit charmant avant les récents évenements."
 		],
 		"id": [
-			"Turtletown adalah tempat yang indah sebelum kejadian baru-baru ini."
+			"Desa Kura-kura adalah tempat yang indah sebelum kejadian baru-baru ini."
 		],
 		"it": [
 			"Il Villaggio delle Tartarughe era un posto tranquillo prima dei recenti eventi."
@@ -10754,7 +10778,7 @@
 			"Essaye de parler aux habitants pour obtenir des informations sur le village."
 		],
 		"id": [
-			"Cobalah berbicara dengan para kura-kura untuk mengumpulkan informasi tentang desa."
+			"Cobalah berbicara dengan para kura-kura untuk mengumpulkan informasi tentang desa ini."
 		],
 		"it": [
 			"Provate a parlare con gli abitanti del posto per avere informazioni sul villaggio."
@@ -10874,7 +10898,7 @@
 			"Bienvenue à Tortibourg !"
 		],
 		"id": [
-			"Selamat Datang ke Kampung Penyu!"
+			"Selamat Datang di Desa Kura-kura!"
 		],
 		"it": [
 			"Benvenuti al Villaggio delle Tartarughe!"
@@ -11084,7 +11108,7 @@
 			"Il faut récupérer au moins 125 pièces sur 150 dans ce niveau pour ouvrir cette cage."
 		],
 		"id": [
-			"Kamu perlu menemukan setidaknya 125 koin dari 150 di tingkat ini untuk membuka kandang ini."
+			"Kamu perlu menemukan setidaknya 125 koin dari 150 di level ini untuk membuka kandang ini."
 		],
 		"it": [
 			"Almeno 125 delle 150 monete di questo livello devono essere recuperate per aprire questa gabbia."
@@ -11126,7 +11150,7 @@
 			"Les tortues ont bloqué l'accès à la partie supérieure du village afin d'isoler les tortues contaminées."
 		],
 		"id": [
-			"Para penyu menutup jalan ke bagian atas kampung ini untuk mengisolasi para penyu yang terkontaminasi."
+			"Para Kura-kura menutup jalan ke bagian atas desa ini untuk mengisolasi para Kura-kura yang terkontaminasi."
 		],
 		"it": [
 			"Le tartarughe hanno bloccato l'accesso alla parte superiore del villaggio per isolare le tartarughe infette."
@@ -11168,7 +11192,7 @@
 			"Les habitants du village ont peur, vous devez nous aider !"
 		],
 		"id": [
-			"Penduduk kampung ketakutan, Kamu harus membantu kami!"
+			"Penduduk desa ketakutan, kau harus membantu kami!"
 		],
 		"it": [
 			"Gli abitanti del villaggio hanno paura, vi prego di aiutarci!"
@@ -11210,7 +11234,7 @@
 			"Mon papa a mangé ce miel violet bizarre et depuis il est devenu très méchant, tu dois le sauver !"
 		],
 		"id": [
-			"Ayahku makan madu berwarna ungu yang aneh itu dan sejak itu ia menjadi sangat jahat, Kamu harus menyelamatkannya!"
+			"Ayahku makan madu berwarna ungu yang aneh itu dan sejak saat itu dia menjadi sangat jahat, kau harus menyelamatkannya!"
 		],
 		"it": [
 			"Mio padre ha mangiato questo strano Miele Viola e da allora è diventato molto molto cattivo, dovete salvarlo!"
@@ -11252,7 +11276,7 @@
 			"Je préfère rester ici à l'abri, il se passe des choses étranges dehors..."
 		],
 		"id": [
-			"Aku lebih memilih untuk tinggal di rumah saja, hal-hal aneh terjadi di luar sana ..."
+			"Aku lebih memilih untuk tinggal di rumah saja, hal-hal aneh terjadi di luar sana..."
 		],
 		"it": [
 			"Preferisco starmene qui al sicuro, fuori accadono cose strane..."
@@ -11274,7 +11298,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Burada evde kalmayı tercih ederim, dışarıda bilinmeyen şeyler oluyor …"
+			"Burada evde kalmayı tercih ederim, dışarıda bilinmeyen şeyler oluyor ..."
 		]
 	},
 	"level1_turtle_4": {
@@ -11294,7 +11318,7 @@
 			"Heureusement qu'il n'y a pas de miel violet dans cette partie du village."
 		],
 		"id": [
-			"Untungnya tidak ada madu berwarna ungu di bagian kampung ini."
+			"Untung saja tidak ada madu ungu di bagian desa ini."
 		],
 		"it": [
 			"È un bene che non ci sia Miele Viola in questa zona del villaggio."
@@ -11336,7 +11360,7 @@
 			"La partie supérieure du village est pleine de miel violet, on a abaissé l'escalier pour empêcher les tortues contaminées de venir ici."
 		],
 		"id": [
-			"Bagian atas dari kampung penuh madu ungu, kami menurunkan tangga untuk mencegah penyu yang terkontaminasi datang ke sini."
+			"Bagian atas desa penuh dengan madu ungu, kami menurunkan tangga untuk mencegah kura-kura yang terkontaminasi datang ke sini."
 		],
 		"it": [
 			"La parte superiore del villaggio è piena di Miele Viola, abbiamo abbassato le scale per impedire alle tartarughe infette di venire qui."
@@ -11378,7 +11402,7 @@
 			"Les habitants étaient joyeux avant que les abeilles ne se mettent à fabriquer ce miel violet..."
 		],
 		"id": [
-			"Para penduduk sangat menyenangkan sebelum para lebah membuat madu ungu itu ..."
+			"Para penduduk bergembira sebelum para lebah membuat madu ungu itu..."
 		],
 		"it": [
 			"La gente era felice prima che le api iniziassero a produrre questo Miele Viola..."
@@ -11400,7 +11424,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Arılar mor balı yapmaya başlamadan önce yerliler sevinç doluydu …"
+			"Arılar mor balı yapmaya başlamadan önce yerliler sevinç doluydu ..."
 		]
 	},
 	"level1_turtle_7": {
@@ -11420,7 +11444,7 @@
 			"L'ermite parlait souvent d'une grotte sous-marine quelque part au fond du lac avant de se faire avoir par les abeilles..."
 		],
 		"id": [
-			"Sang Pertapa biasanya menceritakan kisah tentang suatu gua bawah air di Danau sebelum dia dibawa oleh lebah ..."
+			"Sang Pertapa biasanya menceritakan kisah tentang suatu gua bawah air di Danau sebelum dia dibawa oleh para lebah..."
 		],
 		"it": [
 			"L'Eremita parlava spesso di una grotta sottomarina da qualche parte sul fondo del lago prima di essere catturato dalle api..."
@@ -11462,7 +11486,7 @@
 			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages."
 		],
 		"id": [
-			"Ada kandang beruang yang tersebar di sekitar area tersebut. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci-kunci itu seharusnya berada di suatu tempat di dekat kandang."
+			"Ada kandang beruang yang tersebar di sekitar area ini. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci nya seharusnya berada di dekat kandang."
 		],
 		"it": [
 			"Ci sono gabbie per orsi sparse per l'area. Ogni gabbia ha la sua chiave, quindi dobbiamo prima trovarla. Dovrebbero essere da qualche parte vicino alle gabbie."
@@ -11546,7 +11570,7 @@
 			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau."
 		],
 		"id": [
-			"Juga, perhatikan bahwa koin akan muncul kembali setiap kali kita meninggalkan level."
+			"Perhatikan juga bahwa koin akan muncul kembali setiap kali kita meninggalkan level."
 		],
 		"it": [
 			"Inoltre, notate che le monete riappariranno ogni volta che lasceremo il livello."
@@ -11588,7 +11612,7 @@
 			"Voici le fameux Yéti. Évitons ses attaques pour le moment. Attends qu'il s'épuise avant d'attaquer."
 		],
 		"id": [
-			"Ini adalah Yeti yang terkenal... Mari kita hindari serangannya untuk saat ini. Tunggu sampai dia kelelahan sebelum menyerang."
+			"Ini dia Yeti yang terkenal itu... Mari kita hindari serangannya untuk saat ini. Tunggu sampai dia kelelahan sebelum menyerang."
 		],
 		"it": [
 			"Questo è il celeberrimo Yeti. Evitiamo i suoi attacchi per ora. Aspetta che si stanchi prima di attaccare."
@@ -11621,7 +11645,7 @@
 			"Το είδατε αυτό; Υπήρχε κάποιος εκεί πέρα! που ήταν... μωβ."
 		],
 		"en": [
-			"Did you see that? There was someone over there! who was… purple."
+			"Did you see that? There was someone over there! who was... purple."
 		],
 		"es": [
 			"¿Has visto eso? ¡Había alguien ahí arriba! Que era... púrpura."
@@ -11630,7 +11654,7 @@
 			"As-tu vu ça ? Il y avait quelqu'un là-haut ! qui était... violet."
 		],
 		"id": [
-			"Apakah kamu melihat itu? Ada seseorang di sana! yang berwarna... ungu."
+			"Apa kau melihat itu? Ada seseorang di sana! yang berwarna... ungu."
 		],
 		"it": [
 			"L'avete visto? C'era qualcuno lassù! Era... viola."
@@ -11640,13 +11664,13 @@
 			"Zag je dat? Er was daar iemand! Hij was... paars."
 		],
 		"pl": [
-			"Widziałeś to? Ktoś tam był! kto był… fioletowy. Widziałeś to? Ktoś tam był! który był… fioletowy…"
+			"Widziałeś to? Ktoś tam był! kto był... fioletowy. Widziałeś to? Ktoś tam był! który był... fioletowy..."
 		],
 		"pt": [
 			"Você viu aquilo? Tinha alguém ali! Que era... roxo."
 		],
 		"ru": [
-			"Ты видел это? Там кто-то был! И он был… фиолетовый."
+			"Ты видел это? Там кто-то был! И он был... фиолетовый."
 		],
 		"sv": [],
 		"tr": [
@@ -11661,7 +11685,7 @@
 			"Κάτι δεν πάει καλά με όλα αυτά..."
 		],
 		"en": [
-			"Something doesn’t seem right about all this..."
+			"Something doesn't seem right about all this..."
 		],
 		"es": [
 			"Algo no está bien en esto..."
@@ -11750,7 +11774,7 @@
 			"La dynastie des Abeilles a commencé là, peut-être que nous pourrions trouver des réponses dans la Grande Pyramide de Beemothep."
 		],
 		"id": [
-			"Dinasti lebah dimulai di sana, mungkin kita bisa menemukan jawaban di Piramida Agung Beemothep."
+			"Dinasti lebah dimulai dari sana, mungkin kita bisa menemukan jawaban di Piramida Besar Beemothep."
 		],
 		"it": [
 			"La dinastia delle api è iniziata lì, forse possiamo trovare risposte nella Grande Piramide di Beemothep."
@@ -11790,7 +11814,7 @@
 			"La Vallée des Neiges a aussi subi l'attaque des abeilles."
 		],
 		"id": [
-			"Lembah Salju juga telah diserang oleh lebah."
+			"Lembah Salju juga telah diserang oleh para lebah."
 		],
 		"it": [
 			"Purtroppo anche la valle innevata è stata attaccata dalle api."
@@ -11874,7 +11898,7 @@
 			"Fais attention aux monstres qui creusent sous la neige. Reste sur les plateformes pour ne pas les énerver."
 		],
 		"id": [
-			"Hati-hati dengan monster yang menggali di bawah salju! Tetaplah berada di platform agar tidak mengganggu mereka!"
+			"Hati-hati dengan monster yang menggali di bawah salju! Tetap di atas platform agar tidak mengganggu mereka!"
 		],
 		"it": [
 			"Attenti ai mostri che scavano sotto la neve. Rimanete sulle piattaforme o diventerete una preda!"
@@ -11958,7 +11982,7 @@
 			"Les vieux du village disent qu'un Yéti vit dans les parages."
 		],
 		"id": [
-			"Para sesepuh kampung ini mengatakan bahwa Yeti tinggal di sekitaran daerah ini..."
+			"Para tetua desa ini mengatakan bahwa Yeti tinggal di sekitaran daerah ini..."
 		],
 		"it": [
 			"Gli anziani del villaggio dicono che c'è uno Yeti che vive da queste parti."
@@ -12042,7 +12066,7 @@
 			"Tu peux escalader ce mur derrière moi, c'est un raccourci vers le haut de la montagne."
 		],
 		"id": [
-			"Kamu dapat memanjat dinding ini di belakangku, ini adalah jalan pintas ke puncak gunung."
+			"Kau bisa memanjat tebing ini di belakangku, ini adalah jalan pintas ke puncak gunung."
 		],
 		"it": [
 			"Puoi scalare quel muro dietro di me, è una scorciatoia per la cima della montagna."
@@ -12084,7 +12108,7 @@
 			"Si tu croises le Roi des rennes, essaye de prendre de la hauteur pour sauter sur sa tête."
 		],
 		"id": [
-			"Jika Kamu menemukan Raja Rusa, cobalah untuk mencapai ketinggian untuk melompat ke kepalanya."
+			"Jika kau menemukan Raja Rusa, cobalah untuk mencapai ketinggian untuk melompat di atas kepalanya."
 		],
 		"it": [
 			"Se incontrate il Re delle Renne, cercate di salire abbastanza in alto da saltare sulla sua testa."
@@ -12126,7 +12150,7 @@
 			"Il y a un ascenseur au bout de la rivière mais tu dois d'abord escalader la montagne pour l'activer."
 		],
 		"id": [
-			"Ada lift di ujung sungai tetapi Kamu harus terlebih dahulu mendaki gunung untuk mengaktifkannya."
+			"Ada lift di ujung sungai, tetapi kau harus mendaki gunung terlebih dahulu untuk mengaktifkannya."
 		],
 		"it": [
 			"C'è un ascensore alla foce del fiume, ma bisogna prima salire sulla montagna per attivarlo."
@@ -12168,7 +12192,7 @@
 			"Je préfère rester caché dans mon igloo, il se passe trop de choses étranges dehors..."
 		],
 		"id": [
-			"Aku lebih memilih untuk tinggal tersembunyi dalam igloo-ku, ada terlalu banyak hal-hal aneh di luar sana ..."
+			"Aku lebih memilih untuk tetap tersembunyi dalam igloo-ku, ada terlalu banyak hal-hal aneh di luar sana..."
 		],
 		"it": [
 			"Preferisco rimanere al calduccio nel mio igloo, ci sono troppe cose strane che accadono lì fuori..."
@@ -12252,7 +12276,7 @@
 			"Mes amis dehors sont devenus fous, tu dois nous aider à combattre les abeilles..."
 		],
 		"id": [
-			"Teman-temanku di luar sana menjadi gila! Kamu harus membantu kami untuk melawan lebah ..."
+			"Teman-temanku di luar sana menjadi gila! Kau harus membantu kami untuk melawan lebah-lebah itu..."
 		],
 		"it": [
 			"I miei amici fuori sono impazziti, devi aiutarci a combattere le api..."
@@ -12294,7 +12318,7 @@
 			"Je me suis réfugié sur le toit de ma maison, c'est trop dangereux en bas avec tout ce miel violet."
 		],
 		"id": [
-			"Aku berlindung di atap rumahku, terlalu berbahaya di bawah sana dengan semua madu ungu."
+			"Aku berlindung di atap rumahku, terlalu berbahaya di bawah sana dengan semua madu ungu itu."
 		],
 		"it": [
 			"Mi sono nascosta sul tetto di casa mia, è troppo pericoloso laggiù con tutto quel Miele Viola."
@@ -12336,7 +12360,7 @@
 			"Scierie"
 		],
 		"id": [
-			"Tempat penggergajian kayu"
+			"Tempat penggergajian"
 		],
 		"it": [
 			"Segheria"
@@ -12537,16 +12561,16 @@
 			"Baaren! Κατάφερες να έρθεις εδώ! Χαίρομαι τόσο πολύ που σε βλέπω! Προσέξτε πού περπατάτε, αυτός ο τάφος είναι πιθανότατα γεμάτος επικίνδυνες παγίδες."
 		],
 		"en": [
-			"Baaren! You managed to get here! I’m so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
+			"Baaren! You managed to get here! I'm so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
 		],
 		"es": [
 			"¡Baaren! ¡Has llegado hasta aquí! ¡Me alegro de verte! Ten cuidado donde pisas, esta tumba probablemente esté llena de trampas peligrosas."
 		],
 		"fr": [
-			"Baaren ! Tu as réussi à venir jusqu’ici ! Je suis heureux de te voir ! Fais attention à là où tu marches, ce tombeau est probablement plein de dangereux pièges."
+			"Baaren ! Tu as réussi à venir jusqu'ici ! Je suis heureux de te voir ! Fais attention à là où tu marches, ce tombeau est probablement plein de dangereux pièges."
 		],
 		"id": [
-			"Baaren! Anda berhasil sampai di sini! Aku sangat senang melihatmu! Perhatikan jalanmu, makam ini mungkin penuh dengan jebakan berbahaya."
+			"Baaren! Kau berhasil sampai di sini! Aku sangat senang melihatmu! Perhatikan jalanmu, makam ini mungkin penuh dengan jebakan berbahaya."
 		],
 		"it": [
 			"Baaren! Sei arrivato qui! Sono felice di vederti! Fate attenzione a dove mettete i piedi, questa tomba è probabilmente piena di trappole pericolose."
@@ -12577,7 +12601,7 @@
 			"Σε αυτό το δωμάτιο λέγεται ότι είναι κρυμμένος ο πυρήνας. Είναι ένα πολύ παλιό και ισχυρό τεχνούργημα."
 		],
 		"en": [
-			"This room is where the Kernel is said to be hidden. It’s a very old and powerful artifact."
+			"This room is where the Kernel is said to be hidden. It's a very old and powerful artifact."
 		],
 		"es": [
 			"En esta sala es donde se dice que está escondido el Kernel. Es un artefacto muy antiguo y poderoso."
@@ -12586,7 +12610,7 @@
 			"Cette pièce est là où le Kernel est dit être caché. C'est un artefact très ancien et puissant."
 		],
 		"id": [
-			"Ruangan ini adalah tempat Kernel dikatakan tersembunyi. Ini adalah artefak yang sangat tua dan kuat."
+			"Ruangan ini adalah tempat Kernel disembunyikan. Itu adalah artefak yang sangat tua dan kuat."
 		],
 		"it": [
 			"In questa stanza si dice che sia nascosto il Kernel. È un manufatto molto antico e potente."
@@ -12617,7 +12641,7 @@
 			"Οι μέλισσες σχεδιάζουν παράξενα πράγματα με τον Πυρήνα. Νομίζω ότι σχετίζεται με το πορφυρό μέλι."
 		],
 		"en": [
-			"Bees are scheming strange things with the Kernel. I think it’s related to the purple honey."
+			"Bees are scheming strange things with the Kernel. I think it's related to the purple honey."
 		],
 		"es": [
 			"Las abejas hacen cosas extrañas con el Kernel. Creo que tiene algo que ver con la miel púrpura."
@@ -12626,7 +12650,7 @@
 			"Les abeilles manigancent des choses étranges avec le Kernel. Je pense que c'est lié au miel violet."
 		],
 		"id": [
-			"Lebah merencanakan hal-hal aneh dengan Kernel. Kurasa ini berhubungan dengan madu ungu."
+			"Para lebah merencanakan hal-hal aneh dengan Kernel. Kurasa ini berhubungan dengan madu ungu."
 		],
 		"it": [
 			"Le api fanno cose strane con il kernel. Credo che abbia a che fare con il miele viola."
@@ -12697,7 +12721,7 @@
 			"Αυτό ήταν τρομακτικό. Ο Πυρήνας δεν είναι εδώ, οι μέλισσες πρέπει να τον έκλεψαν πριν φτάσουμε εδώ."
 		],
 		"en": [
-			"Oof, that was scary. The Kernel isn’t here, the bees must have stolen it before we got here."
+			"Oof, that was scary. The Kernel isn't here, the bees must have stolen it before we got here."
 		],
 		"es": [
 			"Uf, eso fue aterrador. El Kernel no está aquí, las abejas deben haberlo robado antes de que llegáramos."
@@ -12706,7 +12730,7 @@
 			"Ouf, c'était terrifiant. Le Kernel n'est pas ici, les abeilles ont dû le voler avant que l'on arrive ici."
 		],
 		"id": [
-			"Oof, itu menakutkan. Kernel tidak ada di sini, lebah pasti mencurinya sebelum kita sampai di sini."
+			"Astaga, itu tadi menakutkan. Kernel nya tidak ada di sini, para lebah pasti telah mencurinya sebelum kita sampai di sini."
 		],
 		"it": [
 			"È stato terrificante. Il Kernel non è qui, le api devono averlo rubato prima che arrivassimo."
@@ -12783,10 +12807,10 @@
 			"Nuestros amigos infectados con miel púrpura han vuelto a sus instintos primarios, cazando en el agua. Ten cuidado."
 		],
 		"fr": [
-			"Nos amis contaminés par le miel violet sont revenus à leur instinct primaire, ils chassent dans l’eau. Fais attention."
+			"Nos amis contaminés par le miel violet sont revenus à leur instinct primaire, ils chassent dans l'eau. Fais attention."
 		],
 		"id": [
-			"Teman-teman kita yang terkontaminasi oleh madu ungu telah kembali ke naluri utama mereka, mereka berburu di dalam air. Hati-hati."
+			"Teman-teman kami yang terkontaminasi oleh madu ungu telah kembali ke naluri utama mereka, mereka berburu di dalam air. Hati-hati."
 		],
 		"it": [
 			"I nostri amici contaminati dal Miele Viola sono tornati ai loro istinti primordiali, cacciano chiunque si immerga. Fate attenzione."
@@ -12825,10 +12849,10 @@
 			"A diferencia de nosotros, los osos no son muy ágiles en el agua. Atrae a los cocodrilos infectados cerca de la orilla del agua para que salten sobre ellos."
 		],
 		"fr": [
-			"Contrairement à nous, les ours ne sont pas très agiles dans l’eau. Attire les crocodiles contaminés près du bord de l’eau pour leur sauter dessus."
+			"Contrairement à nous, les ours ne sont pas très agiles dans l'eau. Attire les crocodiles contaminés près du bord de l'eau pour leur sauter dessus."
 		],
 		"id": [
-			"Tidak seperti kita, beruang tidak lincah di dalam air. Pancing buaya terkontaminasi ke dekat tepi air untuk dapat melompat ke mereka."
+			"Tidak seperti kami, beruang tidak terlalu lincah di dalam air. Pancing buaya yang terkontaminasi ke tepi air untuk dapat melompat ke mereka."
 		],
 		"it": [
 			"A differenza nostra, gli orsi non sono molto agili in acqua. Vi consiglio di attirare i coccodrilli infetti sulle sponde saltarci sopra."
@@ -12870,7 +12894,7 @@
 			"Depuis la construction du mur, il est devenu difficile de trouver à manger..."
 		],
 		"id": [
-			"Sejak pembangunan dinding itu beberapa tahun yang lalu, sekarang menjadi sulit untuk mencari makanan ..."
+			"Sejak pembangunan tembok itu beberapa tahun yang lalu, sekarang mencari makanan menjadi sangat sulit..."
 		],
 		"it": [
 			"Da quando è stato costruito il muro, è stato difficile trovare cibo..."
@@ -12909,10 +12933,10 @@
 			"Te pareces a las estatuas de las ruinas. Las abejas construyeron este muro antes de que yo naciera, nunca supe nada del resto del mundo."
 		],
 		"fr": [
-			"Tu ressembles aux statues dans les ruines. Les abeilles ont construit ce mur avant ma naissance, je n’ai jamais rien connu du reste du monde."
+			"Tu ressembles aux statues dans les ruines. Les abeilles ont construit ce mur avant ma naissance, je n'ai jamais rien connu du reste du monde."
 		],
 		"id": [
-			"Hei, kamu seperti patung yang ada di reruntuhan! Para lebah membuat dinding ini sebelum aku lahir, aku tidak pernah melihat dunia luar selain yang ada di dalam dinding ini."
+			"Hei, kau seperti patung yang ada di reruntuhan itu! Para lebah membuat tembok ini sebelum aku lahir, jadi aku tidak pernah melihat dunia luar selain yang ada di dalam tembok ini."
 		],
 		"it": [
 			"Siete come le statue tra le rovine. Le api hanno costruito questo muro prima che io nascessi, non ho mai saputo nulla del mondo esterno."
@@ -12951,10 +12975,10 @@
 			"Desde que llegaron las abejas, algunos de los nuestros se han contaminado. Vagan por las afueras del pueblo atacando a todo lo que se acerca."
 		],
 		"fr": [
-			"Depuis l’arrivée des abeilles, certains de nos confrères ont été contaminés. Ils errent en dehors du village en attaquant tout ce qui s’y approche."
+			"Depuis l'arrivée des abeilles, certains de nos confrères ont été contaminés. Ils errent en dehors du village en attaquant tout ce qui s'y approche."
 		],
 		"id": [
-			"Sejak kedatangan lebah, beberapa rekan kami telah terkontaminasi. Mereka berkeliaran di luar kampung menyerang segala sesuatu yang mendekati mereka."
+			"Sejak kedatangan para lebah, beberapa teman kami telah terkontaminasi. Mereka berkeliaran di luar desa menyerang apa pun yang mendekati mereka."
 		],
 		"it": [
 			"Dall'arrivo delle api, alcuni dei nostri compagni sono stati infetti. Brancolano fuori dal villaggio attaccando tutto ciò che è in portata."
@@ -12996,7 +13020,7 @@
 			"Les abeilles semblent intéressées par la pyramide, elles essayeraient de récupérer un artefact ancien."
 		],
 		"id": [
-			"Lebah tampaknya tertarik pada piramida, mereka mungkin mencoba untuk memulihkan artefak tua."
+			"Para lebah tampaknya tertarik pada piramida, mereka mungkin mencoba untuk memulihkan sebuah artefak tua."
 		],
 		"it": [
 			"Le api sembrano interessate alla piramide, forse stanno cercando di recuperare un antico artefatto."
@@ -13035,10 +13059,10 @@
 			"Mira lo que estas abejas han hecho a nuestra hermosa tierra... Es un desastre. Este enorme muro nos aísla del resto del mundo."
 		],
 		"fr": [
-			"Regarde ce que ces abeilles ont fait à notre belle contrée… C’est un véritable désastre. Cet immense mur nous isole du reste du monde."
+			"Regarde ce que ces abeilles ont fait à notre belle contrée... C'est un véritable désastre. Cet immense mur nous isole du reste du monde."
 		],
 		"id": [
-			"Lihatlah apa yang para lebah lakukan terhadap wilayah kita yang indah ... Ini adalah bencana. Dinding besar ini mengisolasi kita dari seluruh dunia."
+			"Lihatlah apa yang para lebah telah lakukan terhadap wilayah kami yang indah... Ini bencana. Tembok besar ini mengisolasi kami dari seluruh dunia."
 		],
 		"it": [
 			"Osservate cosa hanno fatto queste api alla nostra bella terra! È disastroso."
@@ -13077,10 +13101,10 @@
 			"El acceso al abrevadero es muy difícil desde que los cocodrilos se instalaron en el oasis. ¡Nosotros llegamos primero!"
 		],
 		"fr": [
-			"L’accès au point d’eau est très difficile depuis que les crocodiles se sont installés à l’oasis. Nous étions là d’abord !"
+			"L'accès au point d'eau est très difficile depuis que les crocodiles se sont installés à l'oasis. Nous étions là d'abord !"
 		],
 		"id": [
-			"Akses ke sumber air sangat sulit karena buaya telah menetap di oasis. Kami berada di sana pertama!"
+			"Akses ke sumber air sangat sulit karena buaya telah menetap di mata air. Kami berada di sana lebih dulu!"
 		],
 		"it": [
 			"L'accesso alla pozza d'acqua è stato molto difficile da quando i coccodrilli si sono trasferiti nell'oasi. C'eravamo prima noi!"
@@ -13119,10 +13143,10 @@
 			"Hace miles de años, mis antepasados eran siervos de las abejas. Construyeron la pirámide para una de las reinas más grandes."
 		],
 		"fr": [
-			"Il y a des milliers d’années, mes ancêtres étaient les serviteurs des abeilles. Ils ont construit la pyramide pour une des plus grandes reines."
+			"Il y a des milliers d'années, mes ancêtres étaient les serviteurs des abeilles. Ils ont construit la pyramide pour une des plus grandes reines."
 		],
 		"id": [
-			"Ribuan tahun yang lalu, nenek moyangku adalah hamba lebah. Mereka membangun piramida untuk salah satu ratu terbesar."
+			"Ribuan tahun yang lalu, nenek moyangku adalah hamba para lebah. Mereka membangun piramida untuk salah satu ratu terbesar."
 		],
 		"it": [
 			"Migliaia di anni fa, i miei antenati erano tra i più fedeli servi delle api. Hanno costruito la piramide per una delle più importanti regine."
@@ -13203,10 +13227,10 @@
 			"Mi familia quiso huir de la zona tras la llegada de la miel morada, pero el muro nos lo impidió."
 		],
 		"fr": [
-			"Ma famille voulait fuir la région après l’arrivée du miel violet mais le mur nous en a empêché."
+			"Ma famille voulait fuir la région après l'arrivée du miel violet mais le mur nous en a empêché."
 		],
 		"id": [
-			"Keluargaku ingin kabur dari sini setelah kedatangan Madu Ungu, tapi dinding itu menghalangi kita."
+			"Keluargaku ingin kabur dari daerah ini setelah kedatangan madu ungu itu, tapi tembok itu mencegah kami untuk melakukannya."
 		],
 		"it": [
 			"La mia famiglia voleva fuggire dopo l'arrivo del Miele Viola, ma il muro ci ha bloccato."
@@ -13245,10 +13269,10 @@
 			"En la antigüedad, antes de la llegada de la dinastía de las abejas, los osos trajeron la paz a este desierto. Las numerosas estatuas lo atestiguan."
 		],
 		"fr": [
-			"Dans des temps anciens, avant l’arrivée de la dynastie des abeilles, les ours ont apporté la paix dans ce désert. Les nombreuses statues en témoignent."
+			"Dans des temps anciens, avant l'arrivée de la dynastie des abeilles, les ours ont apporté la paix dans ce désert. Les nombreuses statues en témoignent."
 		],
 		"id": [
-			"Pada zaman kuno, sebelum kedatangan dinasti lebah, beruang membawa perdamaian ke padang pasir ini. Buktinya, ada banyak patung beruang di padang pasir ini."
+			"Pada zaman kuno, sebelum kedatangan dinasti lebah, beruang membawa perdamaian ke gurun ini. Buktinya, ada banyak patung beruang di gurun ini."
 		],
 		"it": [
 			"Nell'antichità, prima dell'arrivo della dinastia delle api, gli orsi portavano la pace in questo deserto. Numerose statue ne sono la testimonianza."
@@ -13287,10 +13311,10 @@
 			"El desierto de Beemothep es una zona más extensa de lo que hemos explorado hasta ahora."
 		],
 		"fr": [
-			"Le Désert Beemothep est une région plus grande que ce que l’on a exploré jusqu’à présent."
+			"Le Désert Beemothep est une région plus grande que ce que l'on a exploré jusqu'à présent."
 		],
 		"id": [
-			"Padang pasir Beemothep merupakan daerah yang lebih besar dari apa yang kita telah jalajahi sejauh ini."
+			"Gurun Beemothep adalah daerah yang lebih besar dari apa yang kita telah jalajahi sejauh ini."
 		],
 		"it": [
 			"Il Deserto Beemhotep è un'area più vasta di qualunque abbiamo esplorato finora."
@@ -13329,10 +13353,10 @@
 			"Podemos visitar el oasis, el poblado de los cocodrilos, el poblado de los fennec, una de las muchas ruinas o el templo."
 		],
 		"fr": [
-			"Nous pourrons aller faire un tour à l’oasis, au Village Crocodile, au Village Fennec, à une des nombreuses ruines ou encore au temple."
+			"Nous pourrons aller faire un tour à l'oasis, au Village Crocodile, au Village Fennec, à une des nombreuses ruines ou encore au temple."
 		],
 		"id": [
-			"Kita bisa pergi dan menjelajahi oasis, Kampung Buaya, Kampung Fennec, banyak reruntuhan, kuil, dan banyak hal lainnya."
+			"Kita bisa pergi dan menjelajahi mata air, Desa Buaya, Desa Fennec, banyak reruntuhan, kuil, dan banyak hal lainnya!"
 		],
 		"it": [
 			"Potremo andare all'oasi, al villaggio dei coccodrilli, al villaggio dei fennec, a una delle tante rovine o anche al tempio, abbiamo molto da fare!"
@@ -13374,7 +13398,7 @@
 			"Les abeilles semblent avoir construit un mur autour des villages. Elles s'intéressent à la pyramide. Demandons des informations aux habitants."
 		],
 		"id": [
-			"Para lebah telah membangun dinding di sekitaran kampung-kampung. Mereka tertarik dengan piramid. Tanya para penduduk untuk mendapatkan informasi."
+			"Para lebah tampaknya telah membangun tembok di sekitaran desa. Mereka tertarik dengan piramida. Tanya para penduduk untuk mendapatkan informasi."
 		],
 		"it": [
 			"Le api sembrano aver costruito un muro intorno ai villaggi. Sono interessati alla piramide. Chiediamo informazioni agli abitanti."
@@ -13416,7 +13440,7 @@
 			"Pour se déplacer dans ce désert, nous allons utiliser ce quad. En conduisant, utilise le contrôle aérien pour ne pas te retourner."
 		],
 		"id": [
-			"Untuk menjelajahi padang pasir ini, kita akan menggunakan motor beroda 4. Saat menyetir, gunakan kendali udara untuk menghindari terjungkir balik."
+			"Untuk menjelajahi gurun ini, kita akan menggunakan motor quad ini. Saat menyetir, gunakan kendali udara untuk menghindari terjungkir balik."
 		],
 		"it": [
 			"Per spostarti in questo deserto, userai questo quad. Mentre sei a mezzaria, usa il controllo aereo in modo per non ribaltarti."
@@ -13458,7 +13482,7 @@
 			"Location de quad pour vos activités dans le désert. Marchez sur les boutons rouges pour récupérer votre véhicule."
 		],
 		"id": [
-			"Penyewaan motor beroda 4 untuk segala kegiatanmu di padang pasir. Berjalan diatas tombol merah untuk mengambil motormu."
+			"Penyewaan motor quad untuk segala kegiatanmu di gurun. Berjalanlah diatas tombol merah untuk mendapatkan kendaraanmu lagi."
 		],
 		"it": [
 			"Affittate un quad per le vostre attività nel deserto. Cammina sui pulsanti rossi per recuperare il tuo veicolo."
@@ -13500,7 +13524,7 @@
 			"Village Fennec"
 		],
 		"id": [
-			"Kampung Fennec"
+			"Desa Fennec"
 		],
 		"it": [
 			"Villaggio dei Fennec"
@@ -13542,7 +13566,7 @@
 			"INTERDIT AU PUBLIC//DÉFENSE D'ENTRER"
 		],
 		"id": [
-			"DILARANG UNTUK UMUM // JANGAN MASUK"
+			"DILARANG UNTUK UMUM//JANGAN MASUK"
 		],
 		"it": [
 			"VIETATO AL PUBBLICO//DIVIETO DI ENTRARE"
@@ -13584,7 +13608,7 @@
 			"Je ta-ta-t'attendais, petit ours, je n'ai fait que t'observer depuis que tu as mis les pieds dans cette maison..."
 		],
 		"id": [
-			"Aku sudah e-e-mengharapkanmu, beruang kecil, aku sudah mengawasimu sejak kau melangkah ke rumah ini..."
+			"Aku sudah me-me-menunggumu beruang kecil, aku sudah mengawasimu sejak kau masuk ke rumah ini..."
 		],
 		"it": [
 			"Ti ho aspettato, orsetto, ti ho osservato da quando sei entrato in questa casa..."
@@ -13624,7 +13648,7 @@
 			"Tu as l'air su-su-surpris. Ton ami le scientifique a oublié de te parler de moi ? APRÈS TOUT CE QU'IL M'A F-F-FAIT ?!"
 		],
 		"id": [
-			"Kau tampak su-su-su-terkejut. Teman ilmuwanmu lupa memberitahumu tentang aku? SETELAH SEMUA YANG DIA LAKUKAN PADAKU?!"
+			"Kau tampak te-te-te-terkejut. apakah teman ilmuwanmu lupa memberitahumu tentang aku? SETELAH SEMUA YANG DIA LA-LA-LAKUKAN PADAKU?!"
 		],
 		"it": [
 			"Sembri molto sorpreso. Il tuo amico scienziato si è dimenticato di parlarti di me? DOPO TUTTO QUELLO CHE MI HA FATTO?"
@@ -13664,7 +13688,7 @@
 			"Il m'a rendu géant et intelligent durant ses expériences, mais il ne voulait pas m-m-me libérer. J'étais son préféré, sa plus grande réussite."
 		],
 		"id": [
-			"Dia membuatku menjadi raksasa dan pintar selama eksperimennya, tapi dia tidak akan membiarkan aku bebas. Aku adalah favoritnya, pencapaian terbesarnya."
+			"Dia membuatku menjadi raksasa dan pintar selama eksperimennya, tapi dia tidak akan membiarkan aku b-b-be-bebas. Aku adalah favoritnya, pencapaian terbesarnya."
 		],
 		"it": [
 			"Mi ha reso gigante e intelligente nei suoi esperimenti, ma non mi ha lasciato m-muovere. Ero il suo preferito, il suo più grande successo."
@@ -13704,7 +13728,7 @@
 			"Tu pensais que j'avais verrouillé la trappe du sous-sol pour me ca-ca-cacher ? C'était un piège, et tu es tombé en plein de-de-dedans !"
 		],
 		"id": [
-			"Kau pikir aku mengunci pintu jebakan ruang bawah tanah untuk hi-hi-hide? Itu adalah jebakan, dan kau jatuh tepat ke dalamnya!"
+			"Kau pikir aku mengunci pintu jebakan ruang bawah tanah untuk be-be-bersembunyi? Itu adalah jebakan, dan kau jatuh tepat ke d-d-dalamnya!"
 		],
 		"it": [
 			"Pensavi che avessi chiuso la botola del seminterrato per nascondermi? Era una trappola e tu ci sei caduto dentro!"
@@ -13744,7 +13768,7 @@
 			"Tu es si mi-mi-minuscule, petit ours, je peux fa-fa-facilement t'écraser !"
 		],
 		"id": [
-			"Kau sangat kecil, beruang kecil, aku bisa dengan mudah meremukkanmu!"
+			"Kau sangat ke-ke-kecil, beruang kecil, aku bisa dengan mudah me-me-menghancurkanmu!"
 		],
 		"it": [
 			"Sei così piccolo, orsetto, che posso schiacciarti così facilmente!"
@@ -13775,7 +13799,7 @@
 			"Σε ευχαριστώ πολύ που τον αντιμετώπισες, ήταν επικίνδυνος και απρόβλεπτος... χμμ... σε αντίθεση με μένα, σωστά;"
 		],
 		"en": [
-			"Thank you so much for dealing with him, he was dangerous and unpredictable… hmm... unlike me, right?"
+			"Thank you so much for dealing with him, he was dangerous and unpredictable... hmm... unlike me, right?"
 		],
 		"es": [
 			"Muchas gracias por cuidar de él, era peligroso e imprevisible... um... a diferencia de mí, ¿no?"
@@ -13784,7 +13808,7 @@
 			"Merci beaucoup de t'être occupé de lui, il était dangereux et imprévisible... hum... contrairement à moi, pas vrai ?"
 		],
 		"id": [
-			"Terima kasih banyak karena telah menghadapinya, dia berbahaya dan tak terduga... hmm... tidak seperti aku, kan?"
+			"Terima kasih banyak karena telah menghadapinya, dia berbahaya dan tak terduga... Hmm... tidak seperti saya, 'kan?"
 		],
 		"it": [
 			"Grazie mille per esserti preso cura di lui, era pericoloso e imprevedibile... a differenza di me, giusto?"
@@ -13794,7 +13818,7 @@
 			"Heel erg bedankt voor het afrekenen met hem, hij was gevaarlijk en onvoorspelbaar... hmm... in tegenstelling tot mij, toch?"
 		],
 		"pl": [
-			"Bardzo ci dziękuję za to że się nim zająłeś, był niebezpieczny i nieobliczalny… hmm... w przeciwieństwie do mnie, racja?"
+			"Bardzo ci dziękuję za to że się nim zająłeś, był niebezpieczny i nieobliczalny... hmm... w przeciwieństwie do mnie, racja?"
 		],
 		"pt": [
 			"Muito obrigado por dar um jeito nele, ele era perigoso e imprevisível... hmm... diferente de mim, não é?"
@@ -13824,7 +13848,7 @@
 			"Je dois t'avouer quelque chose. Avant l'incident du miel violet, quelqu'un s'est introduit dans ma maison une nuit et a volé une partie de mon travail sur le Kernel."
 		],
 		"id": [
-			"Aku harus mengakui sesuatu. Sebelum insiden madu ungu, seseorang masuk ke rumahku pada suatu malam dan mencuri beberapa karyaku mengenai Kernel."
+			"Saya harus mengakui sesuatu. Sebelum insiden madu ungu, seseorang masuk ke rumah saya pada suatu malam dan mencuri beberapa karya saya mengenai Kernel."
 		],
 		"it": [
 			"Devo ammettere una cosa. Prima dell'incidente del miele viola, una notte qualcuno è entrato in casa mia e ha rubato parte del mio lavoro sul Kernel."
@@ -13855,7 +13879,7 @@
 			"Δεν είδα το πρόσωπό του, αλλά ήταν μια αρκούδα. Δεν είμαι σίγουρος ότι οι μέλισσες είναι πίσω από όλη αυτή την τρέλα. Νομίζω ότι κάποιος τους την έστησε."
 		],
 		"en": [
-			"I didn’t see his face but he was a bear. I’m not sure the bees are behind all this madness. I think someone set them up."
+			"I didn't see his face but he was a bear. I'm not sure the bees are behind all this madness. I think someone set them up."
 		],
 		"es": [
 			"No le vi la cara pero era un oso. No sé si las abejas están detrás de toda esta locura. Creo que alguien les tendió una trampa."
@@ -13864,7 +13888,7 @@
 			"Je n'ai pas vu son visage mais c'était un ours. Je ne suis pas sûr que les abeilles soient derrière toute cette folie. Je pense que quelqu'un les a piégées."
 		],
 		"id": [
-			"Saya tidak melihat wajahnya tapi dia adalah seekor beruang. Saya tidak yakin lebah berada di balik semua kegilaan ini. Saya pikir seseorang menjebak mereka."
+			"Saya tidak melihat wajahnya tapi dia adalah seekor beruang. Saya tidak yakin para lebah berada di balik semua kegilaan ini. Saya pikir seseorang menjebak mereka."
 		],
 		"it": [
 			"Non ho visto il suo volto, ma era un orso. Non sono sicuro che dietro questa follia ci siano le api. Credo che qualcuno li abbia incastrati."
@@ -13895,7 +13919,7 @@
 			"Πρέπει να πας στην Κυψέλη, είμαι σίγουρος ότι η αλήθεια μας περιμένει εκεί."
 		],
 		"en": [
-			"You should go to the Hive, I’m sure the truth awaits us there."
+			"You should go to the Hive, I'm sure the truth awaits us there."
 		],
 		"es": [
 			"Deberías ir a la Colmena, estoy seguro de que la verdad nos espera allí."
@@ -13904,7 +13928,7 @@
 			"Tu devrais aller à la Ruche, je suis sûr que la vérité nous y attend."
 		],
 		"id": [
-			"Anda harus pergi ke Hive, saya yakin kebenaran menunggu kita di sana."
+			"Anda harus pergi ke sarang lebah, saya yakin kebenaran menunggu kita di sana."
 		],
 		"it": [
 			"Dovresti andare all'Alveare, sono sicuro che la verità ci aspetta lì."
@@ -13944,7 +13968,7 @@
 			"Hé salut petit. Mon nom à moi c'est Crogo le crocodile. Crogo n'a jamais vu d'ours si petit ! Peut-être que tu pourrais aider Crogo."
 		],
 		"id": [
-			"Halo kecil. Namaku Crogo sang buaya. Crogo tidak pernah melihat berubah sekecil kamu. Mungkin kamu bisa menolong Crogo."
+			"Hai kecil. Namaku Crogo sang buaya. Crogo tidak pernah melihat beruang sekecil kamu. Mungkin kamu bisa menolong Crogo."
 		],
 		"it": [
 			"Ehila', piccolina. Mi chiamo Crogo il Coccodrillo. Crogo non ha mai visto un orso così piccolo! Forse potresti aiutare Crogo."
@@ -13986,7 +14010,7 @@
 			"Crogo a quitté l'oasis à travers un tunnel sous l'eau parce que Crogo avait besoin de manger mais il a fini ici."
 		],
 		"id": [
-			"Crogo pergi meninggalkan oasis melalui terowongan bawah air karena Crogo memerlukan makanan, dan terperangkap disini."
+			"Crogo pergi meninggalkan mata air melalui terowongan bawah air karena Crogo memerlukan makanan, dan terperangkap disini."
 		],
 		"it": [
 			"Crogo ha lasciato l'oasi attraverso un tunnel sottomarino perché Crogo aveva bisogno di mangiare, ma è finito qui."
@@ -14028,7 +14052,7 @@
 			"Crogo a mangé quelques rats mais l'un d'eux portait un truc en métal et maintenant son bidon fait très mal."
 		],
 		"id": [
-			"Crogo makan beberapa tikus dan salah satu dari mereka membawa barang berbahan beso dan perutku sekarang kesakitan."
+			"Crogo makan beberapa tikus dan salah satu dari mereka membawa barang berbahan besi, dan sekarang perut Crogo kesakitan."
 		],
 		"it": [
 			"Crogo ha mangiato dei topi, ma uno di loro indossava una cosa di metallo e ora la sua pancia gli fa molto male."
@@ -14070,7 +14094,7 @@
 			"Peut-être que tu pourrais aller là-dedans pour voir ce qui fait mal et le retirer."
 		],
 		"id": [
-			"Mungkin kamu bisa masuk kesana untuk memeriksa apa yang membuat sakit dan menghilangkannya."
+			"Mungkin kamu bisa masuk kesana untuk memeriksa apa yang menyebabkan rasa sakit nya dan menghilangkannya."
 		],
 		"it": [
 			"Forse potresti entrare lì dentro per vedere cosa gli fa male e tirarlo fuori."
@@ -14112,7 +14136,7 @@
 			"Coucou p'tit ours. Suis Violette le rat chauve. Les autres rats sont méchants, ils m'ont bannie parce que je n'ai pas de poils. Moi pas mordre, seulement gentille. Je veux juste me faire ami. Tu es mon ami ?"
 		],
 		"id": [
-			"Hai beruang kecil. Saya Violette si tikus tak berbulu. Tikus-tikus lain jahat, mereka melarang saya karena saya tidak punya rambut. Aku tidak menggigit, hanya baik. Aku hanya ingin berteman. Apakah kamu temanku?"
+			"Hai beruang kecil. Aku Violette si tikus tak berbulu. Tikus-tikus lain jahat, mereka mengusirku karena aku tidak mempunyai bulu. Aku tidak menggigit, aku baik. Aku hanya ingin berteman. Apa kamu temanku?"
 		],
 		"it": [
 			"Ciao orsetto. Io sono Violette, il ratto pelato. Gli altri ratti sono cattivi, mi hanno bandito perché non ho peli. Non mordo, sono solo gentile. Voglio solo fare amicizia. Sei mio amico?"
@@ -14152,7 +14176,7 @@
 			"Ouah être minuscule est tellement étrange. La maison paraît gigantesque !"
 		],
 		"id": [
-			"Wow menjadi kecil terasa aneh... rumah ini menjadi seperti raksasa!"
+			"Wow, menjadi kecil terasa aneh... rumah ini menjadi seperti raksasa!"
 		],
 		"it": [
 			"Wow, essere piccoli è così strano... La casa sembra gigantesca!"
@@ -14194,7 +14218,7 @@
 			"J'espère que nous n'allons pas nous retrouver dans des endroits bizarres..."
 		],
 		"id": [
-			"Aku harap kita tidak akan berakhir di tempat-tempat aneh ..."
+			"Aku harap kita tidak akan berakhir di tempat-tempat aneh..."
 		],
 		"it": [
 			"Spero che non finiremo in qualche altro posto strano..."
@@ -14236,7 +14260,7 @@
 			"Les souris vivent à l'étage. Elles sont une espèce paisible mais elles peuvent parfois être un peu égoïstes. Nous devrions leur parler pour voir si elles ont des informations utiles pour trouver les bébés."
 		],
 		"id": [
-			"Para curut hidup di lantai atas. Mereka spesies yang damai, tapi terkadang mereka bisa egois. Kita perlu ajak bicara mereka untuk mencari tahu apakah mereka punya informasi penting untuk mencari para bayi."
+			"Para curut tinggal di lantai atas. Mereka spesies yang damai, tapi terkadang mereka bisa egois. Kita perlu ajak mereka bicara untuk mencari tahu apakah mereka punya informasi penting untuk mencari para bayi."
 		],
 		"it": [
 			"I topi vivono al piano di sopra. Sono una specie pacifica, ma a volte possono essere un po' egoisti. Dovremmo parlarci, alcuni di loro potrebbero avere informazioni utili per trovare i cuccioli."
@@ -14278,7 +14302,7 @@
 			"Les rats sont l'exact opposé, ils sont fous et attaqueront à vue. La plupart d'entre eux sont à Rativille, sous l'escalier, à côté de l'entrée du sous-sol."
 		],
 		"id": [
-			"Disisi lain para tikus itu gila dan akan menyerang begitu mereka melihat kita. Sebagian besar dari mereka ada di Kota Tikus dibawah tangga, sebelahnya pintu masuk basement"
+			"Di sisi lain para tikus itu gila dan akan menyerang begitu mereka melihat kita. Sebagian besar dari mereka ada di Kota Tikus dibawah tangga, di sebelah pintu masuk ruang bawah tanah."
 		],
 		"it": [
 			"I ratti invece sono l'esatto opposto, sono pazzi e attaccheranno a vista. La maggior parte si trova a Ratville, sotto le scale, accanto all'ingresso del seminterrato."
@@ -14320,7 +14344,7 @@
 			"Il y a une vieille capsule de bouteille à Rativille. C'est mon seul héritage, il est passé de génération en génération dans ma famille. Si tu me l'apportes je te donnerais cette clef."
 		],
 		"id": [
-			"Ada tutup botol berkarat tua di Kota Tikus. Barang itu adalah barang pusakaku, diwarisi dari generasi ke generasi di keluargaku. Kalau kamu bisa bawa barang itu kembali kesini, aku akan berikan kunci ini."
+			"Ada tutup botol berkarat tua di Kota Tikus. Barang itu adalah satu-satunya barang pusakaku, diwarisi dari generasi ke generasi di keluargaku. Kalau kau bisa bawa barang itu kembali kesini, aku akan memberikanmu kunci ini."
 		],
 		"it": [
 			"A Ratville c'è un vecchio tappo di bottiglia. È la mia unica eredità, è stata tramandata di generazione in generazione nella mia famiglia. Se me la porti, ti darò questa chiave."
@@ -14404,7 +14428,7 @@
 			"Les souris vivent à l'étage mais nous devons nous aventurer en bas pour récupérer de la nourriture. Les rats ici sont très stupides mais ils sont quand même dangereux."
 		],
 		"id": [
-			"Curut tinggal diatas, tapi kita harus turun untuk mencari makanan. Tikus-tikus ini sangat bodoh, tapi mereka tetap berbahaya."
+			"Para curut tinggal diatas, tapi kami harus turun ke bawah untuk mencari makanan. Tikus-tikus itu sangat bodoh, tapi mereka tetap berbahaya."
 		],
 		"it": [
 			"I topi normalmente vivono al piano di sopra, ma noi dobbiamo avventurarci al piano di sotto per procurarci da mangiare. I ratti sono molto stupidi ma comunque pericolosi."
@@ -14446,7 +14470,7 @@
 			"Nous avons contruit ce château comme maison, c'est sympathique et coloré ici."
 		],
 		"id": [
-			"Kami sudah membangun benteng ini sebagai rumah, ini nyaman dan berwarna-warni di sini."
+			"Kami membangun kastil ini sebagai rumah, di sini nyaman dan berwarna-warni."
 		],
 		"it": [
 			"Abbiamo costruito questo castello come una casa, si sta bene qui."
@@ -14530,7 +14554,7 @@
 			"Vivre dans un château de briques c'est comme jouer à ce jeu super connu avec des cubes."
 		],
 		"id": [
-			"Tinggal di kastil balok seperti bermain game terkenal itu yang ada balok-baloknya!"
+			"Tinggal di kastil balok ini berasa seperti bermain game terkenal itu yang ada balok-baloknya!"
 		],
 		"it": [
 			"Vivere in questo castello di mattoni è come giocare a quel gioco super famoso con i cubi."
@@ -14572,7 +14596,7 @@
 			"Je suis le meilleur à cache-cache !"
 		],
 		"id": [
-			"Aku yang terbaik di permainan petak umpet!"
+			"Aku paling jago dalam permainan petak umpet!"
 		],
 		"it": [
 			"Sono il migliore a nascondino!"
@@ -14614,7 +14638,7 @@
 			"J'ai vu une clef là-haut sur les étagères. Je pense que tu peux y monter en rebondissant sur les oreillers."
 		],
 		"id": [
-			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantulkan diri pada bantal."
+			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantulkan di atas bantal."
 		],
 		"it": [
 			"Ho visto una chiave lassù sugli scaffali. Penso tu possa raggiungerla rimbalzando sui cuscini."
@@ -14656,7 +14680,7 @@
 			"Il faut récupérer au moins 175 pièces sur 200 dans ce niveau pour ouvrir cette cage."
 		],
 		"id": [
-			"Kamu perlu menemukan setidaknya 175 koin dari 200 di tingkat ini untuk membuka kandang ini."
+			"Kamu perlu menemukan setidaknya 175 koin dari 200 di level ini untuk membuka kandang ini."
 		],
 		"it": [
 			"Almeno 175 delle 200 monete di questo livello devono essere recuperate per aprire questa gabbia."
@@ -14698,7 +14722,7 @@
 			"Si le jeu tourne trop lentement, jette un œil au menu paramètres."
 		],
 		"id": [
-			"Jika permainan berjalan terlalu lambat, coba lihat di menu pengaturan."
+			"Jika game berjalan terlalu lambat, coba lihat menu pengaturan."
 		],
 		"it": [
 			"Se il gioco va troppo lento, dai un'occhiata al menu delle opzioni."
@@ -14916,7 +14940,7 @@
 			"Si tu trouves un bogue, merci de le signaler sur le serveur Discord."
 		],
 		"id": [
-			"Permainan ini masih dalam versi beta jadi jika Kamu menemukan bug, tolong laporkan di server Discord."
+			"Jika kamu menemukan sebuah bug, tolong laporkan di server Discord kami."
 		],
 		"it": [
 			"Il gioco è ancora in versione beta, quindi se trovi un bug, segnalalo sul server Discord."
@@ -14960,7 +14984,7 @@
 			"N'oublie pas de faire des sauvegardes cloud manuelles de temps en temps."
 		],
 		"id": [
-			"Kamu perlu untuk membuka pintu koin pada masing-masing tingkat sebelum dapat menyelamatkan beruang."
+			"Ingatlah untuk melakukan penyimpanan cloud secara manual dari waktu ke waktu."
 		],
 		"it": [
 			"Devi sbloccare la porta della moneta del livello prima di poter salvare gli orsi."
@@ -15048,7 +15072,7 @@
 			"Capitalus peut te donner des bonus si un niveau est trop difficile..."
 		],
 		"id": [
-			"Capitalus dapat memberikan bonus jika suatu tingkat terlalu sulit..."
+			"Capitalus dapat memberikan bonus jika suatu level terlalu sulit..."
 		],
 		"it": [
 			"Capitalus può darvi dei bonus se un livello è troppo difficile."
@@ -15092,7 +15116,7 @@
 			"Si tu veux faire du speedrun, il y a des options pour cela dans le menu pause."
 		],
 		"id": [
-			"Jika kamu ingin melakukan speedrunning, ada opsi nya di menu pause."
+			"Jika kamu ingin speedrun, ada pengaturan nya di menu pause."
 		],
 		"it": [
 			"Se si desidera eseguire speedrun, ci sono opzioni per facilitarti nel menu di pausa."
@@ -15136,7 +15160,7 @@
 			"Rejoins la communauté sur le serveur Discord ! Le lien est dans le menu pause."
 		],
 		"id": [
-			"Bergabung dengan komunitas di Discord Server! Tautan tersebut ada dalam di menu pause."
+			"Bergabunglah dengan komunitas kami di Discord! Link nya ada di menu pause."
 		],
 		"it": [
 			"Unisciti alla comunità sul server Discord! Il link si trova nel menu di pausa."
@@ -15180,7 +15204,7 @@
 			"Certaines choses peuvent être détruites avec une charge au sol."
 		],
 		"id": [
-			"Beberapa hal dapat dihancurkan dengan menhentakkan perut."
+			"Beberapa hal dapat dihancurkan dengan menghentakkan perut."
 		],
 		"it": [
 			"Alcune cose possono essere distrutte con una carica a terra."
@@ -15224,7 +15248,7 @@
 			"Utilise tes pièces dans le hub pour débloquer des vêtements."
 		],
 		"id": [
-			"Gunakan koin Kamu dalam hub untuk membuka pakaian baru!"
+			"Gunakan koin mu di hub untuk membuka pakaian baru!"
 		],
 		"it": [
 			"Usa le tue monete nell'hub per sbloccare i vestiti."
@@ -15306,7 +15330,7 @@
 			"Bienvenue dans la mission : le sol est en lave ! Si tu touches le sol, tu perdras de la vie et retourneras au point de contrôle précédent."
 		],
 		"id": [
-			"Selamat datang di misi lantai berlava milikku. Kalo kamu menyentuh lantai, kamu akan kehilangan nyawa dan kembali ke cekpoin sebelumnya."
+			"Selamat datang di misi lantai adalah lava milikku! Kalau kamu menyentuh daratan, kamu akan kehilangan satu nyawa dan kembali ke checkpoint sebelumnya."
 		],
 		"it": [
 			"Benvenuto alla mia sfida del pavimento di lava! Se tocchi il suolo, perderai la salute e tornerai al checkpoint precedente."
@@ -15348,7 +15372,7 @@
 			"Les cœurs ne réapparaissent pas donc utilise-les avec précaution. Ces ours bleus sont les points de contrôle qui sont activés quand tu les touches."
 		],
 		"id": [
-			"Nyawa tidak akan muncul kembali, jadi gunakan dengan bijak. Beruang biru itu adalah cekpoin yang dapat diaktifkan dengan menyentuhnya."
+			"Nyawa tidak akan muncul kembali, jadi gunakan dengan bijak. Beruang biru itu adalah checkpoint yang dapat diaktifkan dengan menyentuhnya."
 		],
 		"it": [
 			"I cuori non verranno rigenerati, quindi usateli con cautela. Questi orsi blu sono checkpoint che si attivano quando li tocchi."
@@ -15390,7 +15414,7 @@
 			"Ton but est de me rejoindre sans mourir. Bonne chance !"
 		],
 		"id": [
-			"Tujuan kamu adalah untuk mencapai aku tanpa mati. Semoga beruntung!"
+			"Tujuanmu adalah untuk mencapai aku tanpa mati. Semoga beruntung!"
 		],
 		"it": [
 			"Il tuo obiettivo è quello di arrivare a me senza morire. Buona fortuna!"
@@ -15432,7 +15456,7 @@
 			"Bienvenue dans ma mission : rallye ! Traverse chaque anneau dans l'ordre et essaye de terminer le tour avant moi. Bonne chance !"
 		],
 		"id": [
-			"Selamat Datang di misi reli milikku! Pergi melalui setiap cincin dalam rangka dan mencoba untuk menyelesaikan satu lap sebelum aku. Semoga berhasil!"
+			"Selamat Datang di misi balapan milikku! Lewati setiap lingkaran secara berurutan dan coba selesaikan satu putaran sebelum aku. Semoga beruntung!"
 		],
 		"it": [
 			"Benvenuto alla mia sfida di rally! Passa attraverso ogni anello in ordine e cerca di completare un giro prima di me. Buona fortuna!"
@@ -15474,7 +15498,7 @@
 			"Bienvenue dans ma mission : voltige ! Embarque à bord d'un avion en papier et traverse chaque anneau dans l'ordre. Bonne chance !"
 		],
 		"id": [
-			"Selamat Datang di misi penerbangan pesawat kertas milikku! Ambil pesawat kertas dan pergi melalui setiap cincin dalam rangka. Semoga berhasil!"
+			"Selamat Datang di misi penerbangan pesawat kertas milikku! Naik pesawat kertas dan lewati setiap lingkaran secara berurutan. Semoga beruntung!"
 		],
 		"it": [
 			"Benvenuto alla mia sfida di volo con l'aereo di carta! Afferra un aeroplano di carta e passa attraverso ogni anello in ordine. Buona fortuna!"
@@ -15516,7 +15540,7 @@
 			"Bienvenue dans ma mission : inondation ! L'eau va commencer à monter lentement. Reste sur le sol pour ne pas te noyer ! Ton objectif est de rejoindre ma petite caisse flottante. Bonne chance !"
 		],
 		"id": [
-			"Selamat datang di misi banjir milikku! Air akan meningkat sedikit demi sedikit. Tetaplah berada di daratan agar tidak tenggelam. Tujuan kamu adalah untuk mencapai kotak mengambang kecilku. Semoga beruntung!"
+			"Selamat datang di misi banjir milikku! Air akan mulai naik secara perlahan. Tetaplah berada di dataran agar tidak tenggelam. Tujuanmu adalah untuk mencapai kotak mengambang kecilku. Semoga beruntung!"
 		],
 		"it": [
 			"Benvenuto alla mia sfida dell'inondazione! L'acqua inizierà a salire lentamente. Rimani a terra per non affogare! Il tuo obiettivo è raggiungere la mia piccola cassa galleggiante. Buona fortuna!"
@@ -15558,7 +15582,7 @@
 			"Bienvenue dans ma mission : chasse aux œufs ! Il y a 3 œufs cachés dans ce niveau."
 		],
 		"id": [
-			"Selamat datang di misi pencarian telur milikku! Disini ada 3 telur yang tersembunyi."
+			"Selamat datang di misi berburu telur milikku! Ada 3 telur yang tersembunyi di level ini."
 		],
 		"it": [
 			"Benvenuto alla mia sfida di caccia alle uova! Ci sono 3 uova nascoste in questo livello."
@@ -15600,7 +15624,7 @@
 			"Dès que tu les as tous trouvés, rapporte-les moi. Bonne chance !"
 		],
 		"id": [
-			"Setelah kamu menemukan semuanya, bawa semuanya ke aku. Semoga beruntung!"
+			"Setelah kamu menemukan ketiga telurnya, bawa semuanya kepadaku. Semoga beruntung!"
 		],
 		"it": [
 			"Una volta trovate tutte, portatele da me. Buona fortuna!"
@@ -15642,7 +15666,7 @@
 			"Bienvenue dans ma mission : problème électrique ! Comme tu le vois la maison a été inondée mais l'électricité n'a pas été coupée. Il y a un interrupteur dans le placard sous l'escalier pour couper le courant. Bonne chance !"
 		],
 		"id": [
-			"Selamat datang di misi masalah listrik milikku! Seperti yang kamu lihat, rumah ini kebanjiran tapi listriknya masih menyala. Disana ada sakelar di dalam ruang dibawah tangga untuk mematikan listrik. Semoga beruntung!"
+			"Selamat datang di misi masalah listrik milikku! Seperti yang kamu lihat, rumah ini kebanjiran tapi listriknya masih menyala. Ada sakelar di ruangan bawah tangga untuk mematikan listrik. Semoga beruntung!"
 		],
 		"it": [
 			"Benvenuto alla mia sfida dell'elettricità! Come vedete la casa è stata allagata ma la corrente elettrica è ancora accesa. C'è un interruttore nella stanza sotto le scale per togliere la corrente. Buona fortuna!"
@@ -15684,7 +15708,7 @@
 			"Bienvenue dans ma mission : parkour ! Cette mission est plutôt simple, suis juste le parcours pour me rejoindre."
 		],
 		"id": [
-			"Selamat datang di misi parkour milikku! Misi ini cukup simpel, lakukan saja parkour untuk mencapai aku."
+			"Selamat datang di misi parkour milikku! Misi ini cukup sederhana, lakukan saja parkour untuk mencapai aku."
 		],
 		"it": [
 			"Benvenuto alla mia sfida di parkour! Questa sfida è abbastanza semplice, basta seguire il percorso per raggiungermi."
@@ -16051,7 +16075,7 @@
 			"Λυπάμαι πολύ που πληγώσαμε ανθρώπους, απλά ακολουθούσαμε εντολές..."
 		],
 		"en": [
-			"I’m so sorry for hurting people, we were just following orderszz…"
+			"I'm so sorry for hurting people, we were just following orderszz..."
 		],
 		"es": [
 			"Siento haber herido a algunas personas, sólo seguíamos órdenes..."
@@ -16060,7 +16084,7 @@
 			"Je szuis dézzzolée d'avoir bleszé des jzzens, nous ne faiszions que szuivre dezzz ordres..."
 		],
 		"id": [
-			"Aku sangat menyesal telah menyakiti orang, kami hanya mengikuti perintahzz..."
+			"Maafkan aku karena telah menyakiti orang-orang, kami hanya mengikuti perintah..."
 		],
 		"it": [
 			"Mi dispiace di aver fatto del male a qualcuno, stavamo solo eseguendo degli ordini..."
@@ -16070,10 +16094,10 @@
 			"Het spijt me dat ik dieren pijn heb gedaan, we vvvvolgden gewoon bevelen op..."
 		],
 		"pl": [
-			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy…"
+			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy..."
 		],
 		"pt": [
-			"Sinto muito por machucar pessoaszz, só estavvvamoszz seguindo ordenszz…"
+			"Sinto muito por machucar pessoaszz, só estavvvamoszz seguindo ordenszz..."
 		],
 		"ru": [
 			"Мне так жжжаль, что мы ранили людей, мы просззто следовввали приказззам..."
@@ -16100,7 +16124,7 @@
 			"Comment appelles-tu Reine Mirabeille quand le Roi des rennes est en retard à son rendez-vous ?//...//L'abeille aux bois dormant."
 		],
 		"id": [
-			"Bagaimana kau menyebut lebah dengan rambut berantakan? //...//A friszzbee."
+			"Ke mana Lebah pergi saat berlibur?//...//Ke tempat Perlembahan!"
 		],
 		"it": [
 			"Come si chiama la Regina Mirabape quando il Re delle Renne è in ritardo all'appuntamento?"
@@ -16140,7 +16164,7 @@
 			"Ouah, tu as szauvé tous les oursz ! Bien jzzoué ! Nous devonzzz être nulles pour cachzer les cajzzes."
 		],
 		"id": [
-			"Wow, kau menyelamatkan semua beruangzz! Kerja bagus! Kita pasti buruk dalam menyembunyikan kandangzz."
+			"Wow, kau menyelamatkan semua beruang! Kerja bagus! Kami pasti tidak pandai menyembunyikan kandang..."
 		],
 		"it": [
 			"Wow, hai salvato tutti gli orsi! Ben fatto! Dobbiamo essere pessimi nel nascondere le gabbie."
@@ -16193,7 +16217,7 @@
 			"Zostaliście zaproszeni na imprezę za darmo?!"
 		],
 		"pt": [
-			"Você foi convidado para a festa de graça?!"
+			"Você foi convidado pra festa de graça?!"
 		],
 		"ru": [
 			"Тебя пригласили на вечеринку бесплатно?!"
@@ -16260,7 +16284,7 @@
 			"L'air est clairement plus froid ici que dans le désert."
 		],
 		"id": [
-			"Udara di sini pasti lebih dingin daripada di gurun."
+			"Udara di sini tentu lebih dingin daripada di gurun."
 		],
 		"it": [
 			"Qui l'aria è chiaramente più fredda che nel deserto."
@@ -16340,7 +16364,7 @@
 			"Les chutes d'eau sont impressionnantes ! Je n'en avais jamais vu de ma vie."
 		],
 		"id": [
-			"Air terjun sangat mengesankan! Saya belum pernah melihatnya dalam hidup saya."
+			"Air terjun sangat mengesankan! Aku belum pernah melihatnya dalam hidupku."
 		],
 		"it": [
 			"Le cascate sono impressionanti! Non ne avevo mai visto uno in vita mia."
@@ -16371,7 +16395,7 @@
 			"Αυτό το μέρος είναι πανέμορφο... Είμαι εντυπωσιασμένος."
 		],
 		"en": [
-			"This place is beautiful… I’m impressed."
+			"This place is beautiful... I'm impressed."
 		],
 		"es": [
 			"Este lugar es hermoso... Estoy impresionado."
@@ -16380,7 +16404,7 @@
 			"Cet endroit est superbe... je suis impressionné."
 		],
 		"id": [
-			"Tempat ini indah... Saya terkesan."
+			"Tempat ini indah... Aku terkesan."
 		],
 		"it": [
 			"Questo posto è bellissimo... sono impressionato."
@@ -16390,7 +16414,7 @@
 			"Deze plek is prachtig... Ik ben onder de indruk."
 		],
 		"pl": [
-			"To miejsce jest piękne… Jestem pod wrażeniem."
+			"To miejsce jest piękne... Jestem pod wrażeniem."
 		],
 		"pt": [
 			"Este lugar é lindo... Estou impressionado."
@@ -16451,7 +16475,7 @@
 			"Η βασίλισσα Beeatrice είναι τεράστια... ε, ήθελα να πω όμορφη."
 		],
 		"en": [
-			"Queen Beeatrice is ginormous… huh, I meant to say beautiful."
+			"Queen Beeatrice is ginormous... huh, I meant to say beautiful."
 		],
 		"es": [
 			"Reine Mirabeja es elefantiásica... er, quise decir hermosa."
@@ -16460,7 +16484,7 @@
 			"Reine Mirabeille est éléphantesque... euh, je voulais dire magnifique."
 		],
 		"id": [
-			"Ratu Beeatrice sangat besar... huh, maksud saya mengatakan indah."
+			"Ratu Beeatrice sangat besar... Eh, maksudku cantik."
 		],
 		"it": [
 			"Reine Mirabape è elefantiaca... volevo dire bellissima."
@@ -16470,10 +16494,10 @@
 			"Koningin Beeatrice is gigantisch... huh, ik bedoelde mooi te zeggen."
 		],
 		"pl": [
-			"Królowa Beetrycja jest ogromna… huh, chciałem powiedzieć piękna."
+			"Królowa Beetrycja jest ogromna... huh, chciałem powiedzieć piękna."
 		],
 		"pt": [
-			"Rainha Beeatrice é enorme… huh, eu quis dizer bonita."
+			"Rainha Beeatrice é enorme... huh, eu quis dizer bonita."
 		],
 		"ru": [
 			"Королева Беатриса огромная... хах, я хотел сказать красивая."
@@ -16571,7 +16595,7 @@
 			"Δεν εμπιστεύομαι αυτόν τον επιστήμονα."
 		],
 		"en": [
-			"I don’t trust this scientist."
+			"I don't trust this scientist."
 		],
 		"es": [
 			"No confío en este científico."
@@ -16611,7 +16635,7 @@
 			"Αυτό το μέρος δεν έχει ούτε χιόνι ούτε πάγο... και το νερό είναι... υγρό..."
 		],
 		"en": [
-			"This place neither has snow nor ice… and the water is… liquid…"
+			"This place neither has snow nor ice... and the water is... liquid..."
 		],
 		"es": [
 			"Este lugar no tiene nieve ni hielo... y el agua es... líquida..."
@@ -16630,7 +16654,7 @@
 			"Deze plaats heeft geen sneeuw of ijs... en het water is... vloeibaar..."
 		],
 		"pl": [
-			"To miejsce ma śnieg jak i za równo lód… a woda jest… płynna…"
+			"To miejsce ma śnieg jak i za równo lód... a woda jest... płynna..."
 		],
 		"pt": [
 			"Este lugar não tem neve nem gelo... e a água é... líquida..."
@@ -16780,7 +16804,7 @@
 			"Cet endroit est définitivement trop chaud pour moi."
 		],
 		"id": [
-			"Tempat ini pasti terlalu panas untukku."
+			"Tempat ini terlalu panas untukku."
 		],
 		"it": [
 			"Questo posto è decisamente troppo caldo per me."
@@ -16891,32 +16915,32 @@
 			"Πού πηγαίνει μια χελώνα όταν βρέχει; //...//Σε ένα κέλυφος!"
 		],
 		"en": [
-			"Where does a turtle go when it’s raining?//…//To a shellter!"
+			"Where does a turtle go when it's raining?//...//To a shellter!"
 		],
 		"es": [
 			"¿Qué dice una tortuga cuando se le enfrían los pies?"
 		],
 		"fr": [
-			"Que dit une tortue lorsqu'elle a froid aux pattes ?//…//On se l'écaille !"
+			"Que dit une tortue lorsqu'elle a froid aux pattes ?//...//On se l'écaille !"
 		],
 		"id": [
-			"Kemana kura-kura pergi saat hujan? //...//Ke tempat penembakan!"
+			"Apa nama seorang kura-kura yang tidak bekerja?//...//Seseorang yang berpura-pura!"
 		],
 		"it": [
 			"Cosa dice una tartaruga quando le sue zampe si raffreddano?"
 		],
 		"ja": [],
 		"nl": [
-			"Waar loopt een schildpad het liefst op?//…//een schildPAD!"
+			"Waar loopt een schildpad het liefst op?//...//een schildPAD!"
 		],
 		"pl": [
-			"Gdzie idzie żółw kiedy pada?//…//Do shelltera!"
+			"Gdzie idzie żółw kiedy pada?//...//Do shelltera!"
 		],
 		"pt": [
-			"O que é uma tartaruga que saiu de sua casa?//…//Um des-casca-do!"
+			"O que é uma tartaruga que saiu de sua casa?//...//Um des-casca-do!"
 		],
 		"ru": [
-			"У кого скелет прочнее панциря?//…//У ЧЕРЕПахи!"
+			"У кого скелет прочнее панциря?//...//У ЧЕРЕПахи!"
 		],
 		"sv": [],
 		"tr": [
@@ -16940,7 +16964,7 @@
 			"As-tu vu mon téléphone tortable ?"
 		],
 		"id": [
-			"Apakah kamu melihat telepon tempurungku?"
+			"Aku rasa ponsel ku lebih lambat daripada aku..."
 		],
 		"it": [
 			"Avete visto il mio telefono a forma di tartaruga?"
@@ -16971,7 +16995,7 @@
 			"Χαίρομαι που βγήκα από το καβούκι μου και ήρθα στο πάρτι."
 		],
 		"en": [
-			"I’m glad I got out of my shell and came to the party."
+			"I'm glad I got out of my shell and came to the party."
 		],
 		"es": [
 			"Me alegro de haber salido de mi caparazón y haber venido a la fiesta."
@@ -16980,7 +17004,7 @@
 			"Je suis content d'avoir réussi à sortir de ma carapace et d'être venu à la fête."
 		],
 		"id": [
-			"Aku senang aku keluar dari tempurung dan datang ke pesta."
+			"Aku senang aku bisa keluar dari tempurung ku dan datang ke pesta."
 		],
 		"it": [
 			"Sono contento di essere uscito dal mio guscio e di essere venuto alla festa."
@@ -17051,13 +17075,13 @@
 			"Πολύ ευγενικό εκ μέρους των μελισσών που οργάνωσαν αυτό το πάρτι, αλλά δεν θα φέρει πίσω το σπίτι μου που κατέστρεψαν..."
 		],
 		"en": [
-			"That’s very kind of the bees to put together this party, but it won’t bring back my house that they destroyed…"
+			"That's very kind of the bees to put together this party, but it won't bring back my house that they destroyed..."
 		],
 		"es": [
 			"Es muy bonito que las abejas hagan esta fiesta, pero no me devolverán la casa que destruyeron..."
 		],
 		"fr": [
-			"C'est vraiment gentil de la part des abeilles d'organiser cette fête, mais ça ne me rendra pas ma maison qu'elles ont détruite…"
+			"C'est vraiment gentil de la part des abeilles d'organiser cette fête, mais ça ne me rendra pas ma maison qu'elles ont détruite..."
 		],
 		"id": [
 			"Lebah-lebah itu sangat baik hati mengadakan pesta ini, tapi itu tidak akan mengembalikan rumahku yang mereka hancurkan..."
@@ -17070,7 +17094,7 @@
 			"Dat is heel aardig van de bijen om dit feest te organiseren, maar het zal mijn huis niet terugbrengen nadat ze het hebben vernietigd ..."
 		],
 		"pl": [
-			"To bardzo miłe ze strony pszczół żeby zrobić to przyjęcie, ale nie zwróci mi to mojego domu które zniszczyły…"
+			"To bardzo miłe ze strony pszczół żeby zrobić to przyjęcie, ale nie zwróci mi to mojego domu które zniszczyły..."
 		],
 		"pt": [
 			"É muito legal das abelhas organizarem esta festa, mas isso não vai trazer de volta minha casa que elas destruíram..."
@@ -17100,7 +17124,7 @@
 			"Il m'a fallu 6 mois pour monter ici."
 		],
 		"id": [
-			"Butuh waktu 6 bulan untuk sampai ke sini."
+			"Aku butuh waktu 6 bulan untuk sampai ke sini."
 		],
 		"it": [
 			"Mi ci sono voluti 6 mesi per arrivare fin qui."
@@ -17123,6 +17147,132 @@
 			"Buraya gelmem 6 ayımı aldı."
 		]
 	},
+	"rarity_common": {
+		"de": [
+			"Gewöhnlich"
+		],
+		"el": [
+			"Κοινή"
+		],
+		"en": [
+			"Common"
+		],
+		"es": [
+			"Común"
+		],
+		"fr": [
+			"Commun"
+		],
+		"id": [
+			"Biasa"
+		],
+		"it": [
+			"Comune"
+		],
+		"ja": [
+			"コモン"
+		],
+		"nl": [
+			"Normaal"
+		],
+		"pl": [
+			"Zwykły"
+		],
+		"pt": [
+			"Comum"
+		],
+		"ru": [
+			"Обычный"
+		],
+		"sv": [],
+		"tr": [
+			"Yaygın (beyaz)"
+		]
+	},
+	"rarity_epic": {
+		"de": [
+			"Episch"
+		],
+		"el": [
+			"Επική"
+		],
+		"en": [
+			"Epic"
+		],
+		"es": [
+			"Épico"
+		],
+		"fr": [
+			"Épique"
+		],
+		"id": [
+			"Epik"
+		],
+		"it": [
+			"Epico"
+		],
+		"ja": [
+			"エピック"
+		],
+		"nl": [
+			"Episch"
+		],
+		"pl": [
+			"Epicki"
+		],
+		"pt": [
+			"Épico"
+		],
+		"ru": [
+			"Эпический"
+		],
+		"sv": [],
+		"tr": [
+			"Efsanevi"
+		]
+	},
+	"rarity_rare": {
+		"de": [
+			"Selten"
+		],
+		"el": [
+			"Σπάνια"
+		],
+		"en": [
+			"Rare"
+		],
+		"es": [
+			"Raro"
+		],
+		"fr": [
+			"Rare"
+		],
+		"id": [
+			"Langka"
+		],
+		"it": [
+			"Raro"
+		],
+		"ja": [
+			"レア"
+		],
+		"nl": [
+			"Zeldzaam"
+		],
+		"pl": [
+			"Rzadki"
+		],
+		"pt": [
+			"Raro"
+		],
+		"ru": [
+			"Редкий"
+		],
+		"sv": [],
+		"tr": [
+			"Ender"
+		]
+	},
 	"save_bear_tip_1": {
 		"de": [
 			"Wir haben einen Bären befreit! Wir sollten uns weiter in der Schildkrötenstadt umsehen, bevor wir in andere Gebiete gehen."
@@ -17140,7 +17290,7 @@
 			"Nous avons libéré un ours ! Nous devrions continuer à chercher à Tortibourg avant d'aller dans d'autres régions."
 		],
 		"id": [
-			"Kita berhasil membebaskan satu beruang! Kita sebaiknya melihat sekitaran Kampung Penyu sebelum pergi ke area lain."
+			"Kita berhasil membebaskan satu beruang! Kita sebaiknya melihat sekitaran Desa Kura-kura sebelum pergi ke area lain."
 		],
 		"it": [
 			"Abbiamo liberato un orso! Dovremmo continuare a cercare nel Villaggio delle Tartarughe prima di andare altrove."
@@ -17224,7 +17374,7 @@
 			"Salut Baaren ! Hum, je pense avoir une idée d'où vient le miel violet."
 		],
 		"id": [
-			"Hai Baaren! Hmm, saya pikir saya mungkin punya petunjuk dari mana madu ungu itu berasal."
+			"Hai Baaren! Hmm, saya rasa saya mungkin punya petunjuk dari mana madu ungu itu berasal."
 		],
 		"it": [
 			"Ciao Baaren! Credo di avere un'idea della provenienza del miele viola."
@@ -17264,7 +17414,7 @@
 			"Il y a 8 ans, j'ai entendu parler d'un artefact mystérieux et puissant. Je suis allé à la Grande Pyramide de Beemothep et j'ai \"emprunté\" le Kernel pour mes recherches."
 		],
 		"id": [
-			"8 tahun yang lalu, saya mendengar tentang artefak misterius dan kuat. Saya pergi ke Piramida Besar Beemothep dan \"meminjam\" Kernel untuk penelitian saya."
+			"8 tahun yang lalu, saya mendengar tentang sebuah artefak yang misterius dan kuat. Saya pergi ke Piramida Agung Beemothep dan \"meminjam\" Kernel untuk penelitian saya."
 		],
 		"it": [
 			"Otto anni fa ho sentito parlare di un artefatto misterioso e potente. Sono andato alla Grande Piramide di Beemothep e ho \"preso in prestito\" il Kernel per le mie ricerche."
@@ -17304,7 +17454,7 @@
 			"J'ai découvert qu'il a deux propriétés majeures : le contrôle de la pensée et la manipulation de taille. Après beaucoup de travail je suis arrivé a créer ce superbe appareil : LA MACHINE RÉTRÉCISSANTE !"
 		],
 		"id": [
-			"Saya menemukan bahwa ia memiliki dua sifat utama: pengendalian pikiran dan manipulasi ukuran. Setelah bekerja keras, saya berhasil menciptakan perangkat yang luar biasa ini: MESIN YANG MENGECILKAN UKURAN!"
+			"Saya menemukan bahwa artefak itu memiliki dua sifat utama: pengendalian pikiran dan manipulasi ukuran. Setelah bekerja keras, saya berhasil menciptakan perangkat yang luar biasa ini: MESIN PENGECIL!"
 		],
 		"it": [
 			"Ho scoperto che ha due proprietà principali: il controllo del pensiero e la manipolazione delle dimensioni. Dopo un lungo lavoro sono riuscito a creare questo superbo dispositivo: la SHRINKING MACHINE!"
@@ -17335,7 +17485,7 @@
 			"Πειραματίστηκα επίσης στο κομμάτι του ελέγχου του νου και ας πούμε ότι τα πράγματα... χμμ... δεν πήγαν όπως τα είχαμε σχεδιάσει."
 		],
 		"en": [
-			"I also experimented on the mind control part and let’s say things... hmm… did not go as planned."
+			"I also experimented on the mind control part and let's say things... hmm... did not go as planned."
 		],
 		"es": [
 			"También experimenté con el control del pensamiento y digamos que las cosas... um... no salieron como estaba previsto."
@@ -17344,7 +17494,7 @@
 			"J'ai également fait des expériences sur le contrôle de la pensée et disons que les choses... hum... ne se sont pas déroulées comme prévu."
 		],
 		"id": [
-			"Saya juga bereksperimen pada bagian pengendalian pikiran dan katakanlah hal-hal... hmm... tidak berjalan sesuai rencana."
+			"Saya juga bereksperimen pada bagian pengendalian pikiran dan katakanlah... hmm... tidak berjalan sesuai rencana."
 		],
 		"it": [
 			"Ho anche sperimentato il controllo del pensiero e diciamo che le cose... ehm... non sono andate come previsto."
@@ -17354,7 +17504,7 @@
 			"Ik heb ook geëxperimenteerd met het hersenspoelen en laten we zeggen dingen... hmm... gingen niet zoals gepland."
 		],
 		"pl": [
-			"Również eksperymentowałem nad kontroli umysłu i powiedzmy coś... hmm… nie poszedł zgodnie z planem."
+			"Również eksperymentowałem nad kontroli umysłu i powiedzmy coś... hmm... nie poszedł zgodnie z planem."
 		],
 		"pt": [
 			"Eu também experimentei a parte do controle mental e vamos dizer que as coisas... hmm... não foram como o planejado."
@@ -17415,7 +17565,7 @@
 			"Θα μπορούσα να σας πω περισσότερα για τον Πυρήνα, αλλά είμαι σε δύσκολη θέση αυτή τη στιγμή. Οι μέλισσες δεν ήξεραν τι να κάνουν με τα αρκουδάκια, οπότε τα συρρίκνωσαν και τα έκρυψαν στο σπίτι μου."
 		],
 		"en": [
-			"I could tell you more about the Kernel, but I’m in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
+			"I could tell you more about the Kernel, but I'm in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
 		],
 		"es": [
 			"Podría contarte más cosas sobre el Kernel, pero estoy un poco liado en este momento. Las abejas no sabían qué hacer con los cachorros, así que los encogieron y los escondieron en mi casa."
@@ -17424,7 +17574,7 @@
 			"Je pourrais t'en dire plus à propos du Kernel, mais je suis quelque peu dans le pétrin en ce moment. Les abeilles ne savaient pas quoi faire des oursons, et donc les ont rétrécis et cachés dans ma maison."
 		],
 		"id": [
-			"Saya bisa bercerita lebih banyak tentang Kernel, tapi saya cukup kesulitan sekarang. Lebah-lebah itu tidak tahu apa yang harus dilakukan dengan bayi beruang, jadi mereka mengecilkannya dan menyembunyikannya di rumah saya."
+			"Saya bisa bercerita lebih banyak tentang Kernel, tapi saya cukup kesulitan sekarang. Lebah-lebah itu tidak tahu apa yang harus dilakukan dengan bayi beruang, jadi mereka mengecilkan dan menyembunyikannya di rumah saya."
 		],
 		"it": [
 			"Potrei dirvi di più sul Kernel, ma al momento sono un po' in difficoltà. Le api non sapevano cosa fare con i cuccioli, così li hanno rimpiccioliti e nascosti in casa mia."
@@ -17495,7 +17645,7 @@
 			"Εντάξει, όλο αυτό το χάλι συνδέεται με τον πυρήνα. Πρέπει να το πάρουμε πίσω από τη βασίλισσα Μπιάτρις και όποια κι αν είναι αυτή η μωβ αρκούδα..."
 		],
 		"en": [
-			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is…"
+			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is..."
 		],
 		"es": [
 			"Vale, todo este lío es por el Kernel. Tenemos que recuperarlo de la Reina Beeatrice y de quien sea ese oso púrpura..."
@@ -17504,7 +17654,7 @@
 			"Ok, donc tout ce bazar est lié au Kernel. Nous devons le reprendre à Reine Mirabeille et qui que soit cet ours violet..."
 		],
 		"id": [
-			"Oke, jadi semua kekacauan ini terkait dengan Kernel. Kita harus mengambilnya kembali dari Ratu Beeatrice dan siapapun beruang ungu itu..."
+			"Oke, jadi semua kekacauan ini terkait dengan Kernel. Kita harus mengambilnya kembali dari Ratu Beeatrice dan siapa pun beruang ungu itu..."
 		],
 		"it": [
 			"Ok, tutto questo casino riguarda il Kernel. Dobbiamo riprenderlo dalla regina Beeatrice e da chiunque sia quell'orso viola..."
@@ -17514,7 +17664,7 @@
 			"Oké, dus deze hele puinhoop is gekoppeld aan de Kernel. We moeten het terugnemen van Koningin Beeatrice en wie die paarse beer ook is..."
 		],
 		"pl": [
-			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest…"
+			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest..."
 		],
 		"pt": [
 			"Beleza, então esta bagunça toda está ligada com o Kernel. Precisamos tomá-lo da Rainha Beeatrice e daquele urso roxo seja lá quem for..."
@@ -17544,7 +17694,7 @@
 			"Mais d'abord, allons sauver ces pauvres bébés !"
 		],
 		"id": [
-			"Tapi pertama-tama, mari kita selamatkan bayi-bayi malang itu!"
+			"Tapi pertama-tama, mari selamatkan bayi-bayi malang itu!"
 		],
 		"it": [
 			"Ma prima, andiamo a salvare quei poveri bambini!"
@@ -17575,7 +17725,7 @@
 			"Είναι πολύ μικρά και δεν μπορώ να ανοίξω τα κλουβιά μόνη μου και το σπίτι είναι γεμάτο αρουραίους. Χμμ, πραγματικά δεν θέλω να μπω εκεί μέσα..."
 		],
 		"en": [
-			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there…"
+			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there..."
 		],
 		"es": [
 			"Son demasiado pequeños para poder abrir las jaulas yo mismo y la casa está infestada de ratas. Um, realmente no quiero entrar ahí..."
@@ -17584,7 +17734,7 @@
 			"Ils sont trop minuscules donc je ne peux pas ouvrir les cages moi-même et la maison est infestée de rats. Hum, je ne veux vraiment pas aller là-dedans..."
 		],
 		"id": [
-			"Mereka terlalu kecil jadi aku tidak bisa membuka kandangnya sendiri dan rumah ini penuh dengan tikus. Hmm, aku benar-benar tidak ingin masuk ke sana..."
+			"Mereka terlalu kecil jadi saya tidak bisa membuka kandangnya sendiri dan rumah ini penuh dengan tikus. Hmm, saya benar-benar tidak ingin masuk ke sana..."
 		],
 		"it": [
 			"Sono troppo piccoli, non posso aprire le gabbie da sola e la casa è infestata dai topi. Non voglio proprio entrare lì dentro..."
@@ -17594,7 +17744,7 @@
 			"Ze zijn te klein dus ik kan de kooien niet zelf openen en het huis zit vol met ratten. Hmm, daar wil ik echt niet naar binnen..."
 		],
 		"pl": [
-			"Są za małe więc nie mogę otworzyć klatek i dom jest pełen szczurów. Hmm, Naprawdę nie chcę tam wchodzić…"
+			"Są za małe więc nie mogę otworzyć klatek i dom jest pełen szczurów. Hmm, Naprawdę nie chcę tam wchodzić..."
 		],
 		"pt": [
 			"Eles são muito pequenos então não posso abrir as jaulas sozinho e a casa está infestada de ratos. Hmm, eu realmente não quero ir lá..."
@@ -17624,7 +17774,7 @@
 			"Si tu es assez courageux pour les sauver, je peux te rétrécir et te laisser entrer."
 		],
 		"id": [
-			"Jika Anda cukup berani untuk menyelamatkan mereka, saya bisa mengecilkan Anda dan membiarkan Anda masuk."
+			"Kalau Anda cukup berani untuk menyelamatkan mereka, saya bisa mengecilkan Anda dan membiarkan Anda masuk."
 		],
 		"it": [
 			"Se sei abbastanza coraggioso da salvarli, posso rimpicciolirti e farti entrare."
@@ -17664,7 +17814,7 @@
 			"Suis les flèches bleues jusqu'à l'entrée de Tortibourg."
 		],
 		"id": [
-			"Ikuti panah biru untuk sampai ke Kampung Penyu."
+			"Ikuti panah biru untuk sampai ke Desa Kura-kura."
 		],
 		"it": [
 			"Segui le frecce blu fino all'ingresso del Villaggio delle Tartarughe."
@@ -17790,7 +17940,7 @@
 			"Nous avons besoin de sauver 3 ours pour ouvrir la grille à ours."
 		],
 		"id": [
-			"Kita harus menyelamatkan 3 beruang untuk membuka gerbang beruang."
+			"Kita harus menyelamatkan 3 beruang untuk membuka gerbang beruang ini."
 		],
 		"it": [
 			"Dobbiamo salvare 3 orsi per aprire il cancello degli orsi."
@@ -17832,7 +17982,7 @@
 			"Tu devrais essayer d'utiliser ton attaque sur ce levier."
 		],
 		"id": [
-			"Kamu harus mencoba melakukan serangan pada tuas ini."
+			"Kau harus mencoba melakukan serangan pada tuas ini."
 		],
 		"it": [
 			"Dovresti provare a usare il tuo attacco su quella leva."
@@ -17916,7 +18066,7 @@
 			"Des choses horribles se sont produites ici..."
 		],
 		"id": [
-			"Hal-hal buruk terjadi di sini ..."
+			"Hal-hal buruk terjadi di sini..."
 		],
 		"it": [
 			"Sono successe cose terribili qui..."
@@ -17958,7 +18108,7 @@
 			"Voici le puits. Voyons ce qu'il y a à l'intérieur."
 		],
 		"id": [
-			"Disini ada sumur. Ayoo kita lihat apa didalamnya."
+			"Disini ada sumur. Mari kita lihat ada apa di dalamnya."
 		],
 		"it": [
 			"Questo è il pozzo. Vediamo cosa c'è dentro."
@@ -18042,7 +18192,7 @@
 			"Regarde ! Un autre Backpacker comme moi. Nous faisons partie d'une espèce rare et nous sommes dépendant de notre porteur."
 		],
 		"id": [
-			"Lihat! Backpacker lain sepertiku. Kami adalah spesies langka dan kami bergantung dari pembawa kami."
+			"Lihat! Backpacker lain sepertiku. Kami adalah spesies yang langka dan kami bergantung pada pembawa kami."
 		],
 		"it": [
 			"Guarda! Un altro saccopelista come me. Siamo una specie rara e dipendiamo dal nostro portatore."
@@ -18126,7 +18276,7 @@
 			"Reste sur les plateformes pour rester loin de ces monstres."
 		],
 		"id": [
-			"Tetap di platform untuk menjauh dari moster-monster itu!"
+			"Tetaplah berada di atas platform untuk menjauh dari monster-monster itu!"
 		],
 		"it": [
 			"Resta sulle piattaforme per stare lontano da quei mostri."
@@ -18210,7 +18360,7 @@
 			"Il est trop grand pour simplement le frapper, trouve un moyen de prendre de la hauteur pour sauter sur sa tête."
 		],
 		"id": [
-			"Dia terlalu besar untuk dipukul! Cari cara untuk menjadi lebih tinggi dan loncat ke kepalanya."
+			"Dia terlalu besar untuk dipukul! Cari cara untuk menjadi lebih tinggi dan loncat di atas kepalanya."
 		],
 		"it": [
 			"E' troppo grande per colpirlo, trova il modo di guadagnare altezza per saltare sulla sua testa."
@@ -18252,7 +18402,7 @@
 			"La clef n'est pas à l'intérieur, je pense qu'elle doit être proche de l'entrée."
 		],
 		"id": [
-			"Kucinya tidak ada didalam, aku pikir kuncinya ada di dekat pintu masuk."
+			"Kuncinya tidak ada di dalam, kurasa kuncinya ada di dekat pintu masuk."
 		],
 		"it": [
 			"La chiave non è all'interno, penso che probabilmente sia vicino all'ingresso."
@@ -18294,7 +18444,7 @@
 			"Voici le Village Fennec. Ils vénéraient les ours avant la dynastie des abeilles."
 		],
 		"id": [
-			"Ini adalah Kampung Fennec. Dulu mereka menyembah beruang sebelum dinasti lebah."
+			"Ini adalah Desa Fennec. Mereka dulunya menyembah beruang sebelum dinasti lebah."
 		],
 		"it": [
 			"Questo è Fennec Village. I Fennec veneravano gli orsi prima della dinastia delle api."
@@ -18378,7 +18528,7 @@
 			"Une carte de l'intérieur de la pyramide ! Tu devrais la recopier sur un bout de papier."
 		],
 		"id": [
-			"Sebuah peta dari dalamnya piramida! Kamu harus menyalinnya di selembar kertas."
+			"Ada peta dari bagian dalam piramida! Kamu harus menyalinnya di selembar kertas."
 		],
 		"it": [
 			"Una mappa dell'interno della piramide! Dovresti segnartelo su un pezzo di carta."
@@ -18420,7 +18570,7 @@
 			"Un igloo ? Dans le désert ? C'est... étrange."
 		],
 		"id": [
-			"Igloo? Di padang pasir? Itu...aneh."
+			"Igloo? Di gurun? Itu... aneh."
 		],
 		"it": [
 			"Un igloo? Nel deserto? E' un po'... strano."
@@ -18462,7 +18612,7 @@
 			"Il y a sûrement un mécanisme à activer pour monter là-haut."
 		],
 		"id": [
-			"Harus ada semacam mekanisme yang diaktifkan untuk naik ke sana..."
+			"Pasti ada semacam mekanisme yang dapat diaktifkan untuk naik ke sana..."
 		],
 		"it": [
 			"Probabilmente c'è un meccanismo da attivare per arrivare lassù."
@@ -18588,7 +18738,7 @@
 			"Je pense que tu peux faire une charge au sol pour détruire l'évacuation d'eau. (maintiens B)"
 		],
 		"id": [
-			"Aku pikir kamu dapat melakukan hentakan perut untuk menghancurkan penutup drainase itu... (tahan B)"
+			"Kurasa kau bisa melakukan hentakan perut untuk menghancurkan penutup drainase itu... (tahan B)"
 		],
 		"it": [
 			"Prova a colpire lo scarico dell'acqua con una mossa delle tue! (Tieni premuto B)"
@@ -18630,7 +18780,7 @@
 			"Le four est très chaud ! Marche sur l'assiette si tu veux ne pas te brûler."
 		],
 		"id": [
-			"Oven ini sangat panas! Berdirilah pada piring kalau kamu tidak mau terbakar."
+			"Oven ini sangat panas! Berdirilah di atas piring kalau kau tidak ingin terbakar."
 		],
 		"it": [
 			"Il forno scotta! Sali sul piatto se non vuoi finire cotto a puntino."
@@ -18672,7 +18822,7 @@
 			"Nous pourrions utiliser ce canon pour monter l'escalier plus rapidement."
 		],
 		"id": [
-			"Kita bisa menggunakan meriam ini untuk mencapai lantai atas lebih cepat."
+			"Kita bisa menggunakan meriam ini untuk pergi ke lantai atas lebih cepat!"
 		],
 		"it": [
 			"Potremmo usare quel cannone per salire le scale più velocemente."
@@ -18714,7 +18864,7 @@
 			"La clef est coincée dans ce cube de glace. Trouvons quelque chose de chaud pour le faire fondre."
 		],
 		"id": [
-			"Kuncinya terjebak di dalam es batu ini. Mari kita termukan sesuatu yang panas untuk melelehkan ini."
+			"Kuncinya terjebak di dalam es batu ini. Ayo cari sesuatu yang panas untuk melelehkannya."
 		],
 		"it": [
 			"La chiave è incastrata in questo cubetto di ghiaccio. Troviamo qualcosa di caldo per scioglierlo."
@@ -18756,7 +18906,7 @@
 			"Tu peux faire une charge au sol pour rebondir plus haut."
 		],
 		"id": [
-			"Kamu dapat melakukan menghentakkan perut untuk melambung lebih tinggi."
+			"Kau bisa melakukan hentakan perut untuk melambung lebih tinggi."
 		],
 		"it": [
 			"Puoi fare uno schianto a terra per farti rimbalzare più in alto."
@@ -18798,7 +18948,7 @@
 			"Une chenille géante ! Tu peux grimper quelque part pour prendre de la hauteur et sauter sur son dos."
 		],
 		"id": [
-			"Ulat raksasa! Anda bisa memanjat ke suatu tempat untuk mendapatkan tempat yang tinggi dan melompat di punggungnya."
+			"Ulat raksasa! Kau bisa memanjat ke suatu tempat untuk mendapatkan tempat yang tinggi dan melompat di punggungnya."
 		],
 		"it": [
 			"Un bruco gigante! È possibile arrampicarsi da qualche parte per ottenere una certa altezza e saltare sul suo dorso."
@@ -18838,7 +18988,7 @@
 			"C'est fini la chenille, nous avons le dessus !"
 		],
 		"id": [
-			"Ulat itu sudah berakhir, kita punya tempat tinggi!"
+			"Ini sudah berakhir ulat, kami punya dataran tinggi!"
 		],
 		"it": [
 			"Niente più bruco, abbiamo il sopravvento!"
@@ -18878,7 +19028,7 @@
 			"Si nous frappons ces balles violettes, nous pouvons les lui renvoyer !"
 		],
 		"id": [
-			"Jika kita memukul bola-bola ungu ini, kita bisa mengirimnya kembali kepadanya!"
+			"Jika kita memukul bola-bola ungu ini, kita bisa mengirimkannya kembali kepadanya!"
 		],
 		"it": [
 			"Se colpiamo quelle palle viola, possiamo rilanciarle a lui!"
@@ -19044,7 +19194,7 @@
 			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et donateur (vert). Les articles de donateurs peuvent être obtenus à la boutique de mon frère."
 		],
 		"id": [
-			"Ada 5 kategori barang: umum (putih), jarang (biru), epik (magenta), Tristopio (pink) dan donor (hijau). Barang donor dapat diperoleh di toko saudaraku."
+			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan donator (hijau). Barang donator dapat diperoleh di toko saudaraku."
 		],
 		"it": [
 			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa), donatore (verde). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
@@ -19062,7 +19212,7 @@
 			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e doador (verde). Itens de doador podem ser pegos na loja do meu irmão."
 		],
 		"ru": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донорская (зелёная). Донорские предметы можно преобрести в магазине моего брата."
+			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донатерская (зелёная). Донатерские предметы можно преобрести в магазине моего брата."
 		],
 		"sv": [],
 		"tr": [
@@ -19086,7 +19236,7 @@
 			"Tristopio, c'est le lapin rose sur l'autre rive, ses articles sont un peu... spéciaux. Au fait, tout ce que tu débloques peut être équipé ici, gratis."
 		],
 		"id": [
-			"Tristopio adalah kelinci berwarna pink yang berada di seberang sungai. Barang-barangnya sangat spesial...Ngomong-ngomong, semua yang sudah kamu buka dapat kamu gunakan disini secara gratis."
+			"Tristopio adalah kelinci berwarna pink yang berada di seberang sungai. Barang-barangnya sangat spesial... Ngomong-ngomong, semua yang sudah kamu buka dapat kamu gunakan disini secara gratis."
 		],
 		"it": [
 			"Tristopio è il coniglio rosa dall'altra parte del fiume, i suoi oggetti sono piuttosto speciali... A proposito, tutto quello che si sblocca può essere equipaggiato qui, gratuitamente."
@@ -19128,7 +19278,7 @@
 			"Bien, j'espère que tout est clair. Euh, enfin je veux dire... Bieeen, j'espèèère que tout est claaair !"
 		],
 		"id": [
-			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku...Baiklaaaah, aku harap semuanya sudah saaangat jelas!"
+			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku... Baiklaaaah, aku harap semuanya sudah saaangat jelas!"
 		],
 		"it": [
 			"Bene, spero che sia tutto chiaro. Uh, voglio dire... Beeeene, spero che sia tutto chiaaaaro!"
@@ -19170,7 +19320,7 @@
 			"{0}h{1}min{2}s"
 		],
 		"id": [
-			"{0} jam {1} menit {2} detik"
+			"{0}j{1}m{2}d"
 		],
 		"it": [],
 		"ja": [],
@@ -19206,7 +19356,7 @@
 			"Jouabilité"
 		],
 		"id": [
-			"Permainan"
+			"Gameplay"
 		],
 		"it": [
 			"Gioco"
@@ -19416,7 +19566,7 @@
 			"Tu as perdu tous tes casques ! Tu peux regarder une publicité pour en avoir plus."
 		],
 		"id": [
-			"Kamu telah kehabisan headset! Kamu dapat menonton iklan untuk mendapatkan nya lagi."
+			"Kamu kehabisan headset! Kamu bisa menonton iklan untuk mendapatkan headset lagi."
 		],
 		"it": [
 			"Hai perso tutti i tuoi visori! Puoi guardare un annuncio per averne altri."
@@ -19458,7 +19608,7 @@
 			"Mode entraînement"
 		],
 		"id": [
-			"Mode Belajar"
+			"Mode Latihan"
 		],
 		"it": [
 			"Modalità d'esercizio"
@@ -19500,7 +19650,7 @@
 			"Tu as fini cette mission ! Tu peux y rejouer sans perdre de casque."
 		],
 		"id": [
-			"Kamu telah menyelesaikan misi ini! Sekarang Kamu dapat bermain misi ini lagi tanpa kehilangan headset."
+			"Kamu telah menyelesaikan misi ini! Sekarang kamu dapat bermain misi ini lagi tanpa kehilangan headset."
 		],
 		"it": [
 			"Hai portato a termine questa sfida! Puoi riprodurla senza perdere i visori."
@@ -19567,6 +19717,46 @@
 			"Görevi başlat"
 		]
 	},
+	"tristopio_today": {
+		"de": [
+			"Heutige Mission"
+		],
+		"el": [
+			"Σημερινή αποστολή"
+		],
+		"en": [
+			"Today's mission"
+		],
+		"es": [
+			"Misión de hoy"
+		],
+		"fr": [
+			"Mission du jour"
+		],
+		"id": [
+			"Misi hari ini"
+		],
+		"it": [
+			"Missione di oggi"
+		],
+		"ja": [],
+		"nl": [
+			"Missie van vandaag"
+		],
+		"pl": [
+			"Dzisiejsza misja"
+		],
+		"pt": [
+			"Missão de hoje"
+		],
+		"ru": [
+			"Сегодняшняя миссия"
+		],
+		"sv": [],
+		"tr": [
+			"Bugünün görevi"
+		]
+	},
 	"tutorial_shicka_1": {
 		"de": [
 			"Hey Baaren, da bist du ja! Die Bienen haben das Dorf angegriffen und alle gefangen genommen! Ich habe es geschafft, mich zu verstecken, als sie kamen."
@@ -19584,7 +19774,7 @@
 			"Ah Baaren, tu es là ! Les abeilles ont attaqué le village et capturé tout le monde ! J'ai réussi à me cacher quand elles sont arrivées."
 		],
 		"id": [
-			"Hai Baaren, disitu kau rupanya! Aku berhasil bersembunyi disaat lebah-lebah itu datang kesini. Kamu satu-satunya beruang yang tidak ditangkap..."
+			"Hai Baaren, disitu kau rupanya! Para lebah menyerang desa dan menangkap semuanya! Aku berhasil bersembunyi ketika mereka tiba."
 		],
 		"it": [
 			"Ah Baaren, eccoti qui! Sono riuscita a nascondermi quando sono arrivate le api. Sei l'unico orso che non hanno catturato..."
@@ -19606,7 +19796,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Hey Baaren, işte buradasın! Ayılar buraya gelmeden önce saklanmayı başardım. Sen arıların tutsak etmediği tek ayısın…"
+			"Hey Baaren, işte buradasın! Ayılar buraya gelmeden önce saklanmayı başardım. Sen arıların tutsak etmediği tek ayısın..."
 		]
 	},
 	"tutorial_shicka_2": {
@@ -19617,7 +19807,7 @@
 			"Νομίζω ότι πρέπει να συνεργαστούμε για να απελευθερώσουμε τους φίλους μας. Θα μπορούσα να σου δίνω συμβουλές για το περιβάλλον."
 		],
 		"en": [
-			"Were you just… sleeping? Avoiding a raid by taking a nap away from the village, that’s very you."
+			"Were you just... sleeping? Avoiding a raid by taking a nap away from the village, that's very you."
 		],
 		"es": [
 			"¿Estabas... durmiendo? Evitar un ataque durmiendo la siesta lejos de la aldea es algo totalmente tuyo."
@@ -19626,7 +19816,7 @@
 			"Étais-tu juste... en train de dormir ? Éviter une attaque en faisant une sieste loin du village, c'est tout à fait toi."
 		],
 		"id": [
-			"Aku pikir kita perlu menyelamatkan teman-teman kita! Aku bisa memberikan kamu informasi tentang lingkunganmu."
+			"Apa kau baru saja... tidur? Menghindari penyerangan dengan tidur siang jauh dari desa, itulah Baaren yang ku kenal."
 		],
 		"it": [
 			"Penso che dovremmo fare squadra per liberare i nostri amici. Potrei darti qualche consiglio sui dintorni."
@@ -19638,7 +19828,7 @@
 			"Was je gewoon... aan het slapen? Een overval vermijden door een dutje te doen weg van het dorp, typisch Baaren."
 		],
 		"pl": [
-			"Czy po prostu… spałeś? Unikanie nalotu poprzez drzemkę z dala od wioski, to bardzo ty."
+			"Czy po prostu... spałeś? Unikanie nalotu poprzez drzemkę z dala od wioski, to bardzo ty."
 		],
 		"pt": [
 			"Você estava só... dormindo? Evitar uma invasão tirando uma soneca longe da vila, bem a sua cara."
@@ -19668,7 +19858,7 @@
 			"En tout cas, nous devrions faire équipe pour libérer nos amis ! Je pourrais te donner quelques conseils sur les environs. Les Backpackers comme moi en savent beaucoup sur le royaume."
 		],
 		"id": [
-			"Aku liat lebah-lebah itu membawa beruang ke Kampung Penyu..."
+			"Bagaimanapun, kita harus bekerja sama untuk menyelamatkan teman-teman kita! Aku bisa memberikanmu informasi tentang lingkungan sekitar. Backpacker seperti aku tahu banyak tentang kerajaan."
 		],
 		"it": [
 			"Ho visto delle api che portavano gli orsi al Villaggio delle Tartarughe."
@@ -19710,7 +19900,7 @@
 			"J'ai aperçu des abeilles emmener les ours vers Tortibourg, nous devrions aller là en premier. Heureusement pour nous, la plateforme qui mène là fonctionne encore. Allons-y !"
 		],
 		"id": [
-			"Untungnya platform yang menuju  ke Kampung Penyu masih bekerja! Ayo kita selamatkan mereka!"
+			"Aku lihat para lebah membawa beruang ke Desa Kura-kura, kita harus pergi ke sana. Untungnya, platform yang menuju ke Desa Kura-kura masih bekerja. Ayo kita pergi!"
 		],
 		"it": [
 			"Per fortuna la piattaforma che porta al Villaggio delle Tartarughe funziona ancora, andiamo a liberarli!"
@@ -19752,7 +19942,7 @@
 			"Nous pourrons ensuite nous rendre dans la Vallée des Neiges..."
 		],
 		"id": [
-			"Setelah itu baru kita bisa ke Lembah Salju."
+			"Lalu kita bisa pergi ke Lembah Salju..."
 		],
 		"it": [
 			"Poi possiamo andare nella valle innevata."
@@ -19794,7 +19984,7 @@
 			"... et ensuite explorer le Désert Beemothep."
 		],
 		"id": [
-			"Kita bisa juga menjelajahi padang pasir Beemothep..."
+			"...dan kemudian menjelajahi Gurun Beemothep."
 		],
 		"it": [
 			"Potremmo anche esplorare il Deserto Beemothep."
@@ -19836,7 +20026,7 @@
 			"Bienvenue dans Super Bear Adventure ! Utilise le joystick à gauche de l'écran pour te déplacer."
 		],
 		"id": [
-			"Selamat datang di Petualangan Beruang Super! Gunakan joystick di sebelah kiri untuk berjalan."
+			"Selamat datang di Super Bear Adventure! Gunakan joystick di sebelah kiri untuk berjalan."
 		],
 		"it": [
 			"Benvenuti in Super Bear Adventure! Utilizza il joystick sul lato sinistro dello schermo per muoverti."
@@ -19922,7 +20112,7 @@
 			"Appuie sur B pour attaquer quand tu es au sol. Essaye sur ce mannequin."
 		],
 		"id": [
-			"Tekan B untuk menyerang ketika kamu berada di tanah. Cobalah boneka latihan ini."
+			"Tekan B untuk menyerang ketika kamu sedang di tanah. Coba lakukan kepada boneka latihan ini."
 		],
 		"it": [
 			"Premi B per attaccare menre sei a terra. Provalo su questo manichino."
@@ -20092,7 +20282,7 @@
 			"Tu peux faire tourner la caméra en faisant glisser ton doigt le long de la partie supérieure de l'écran."
 		],
 		"id": [
-			"Kamu dapat memutar kamera dengan menggeser jari Kamu di sepanjang bagian atas layar."
+			"Kamu dapat memutar kamera dengan menggeser jarimu di sepanjang bagian atas layar."
 		],
 		"it": [
 			"È possibile ruotare la telecamera facendo scorrere il dito lungo la parte superiore dello schermo."
@@ -20134,7 +20324,7 @@
 			"À la surface, appuie sur B pour plonger. Sous l'eau, appuie sur A pour remonter."
 		],
 		"id": [
-			"Di permukaan, tekan B untuk menyelam. Di bawah air, tekan A untuk naik."
+			"Di permukaan air, tekan B untuk menyelam. Di bawah air, tekan A untuk naik."
 		],
 		"it": [
 			"In superficie, premi B per immergerti. Sott'acqua, premi A per risalire."
@@ -20176,7 +20366,7 @@
 			"Tu peux appuyer sur B pour attraper certains objets. Appuie sur B pour les relâcher."
 		],
 		"id": [
-			"Kamu dapat menekan B untuk mengambil objek tertentu. Tekan B untuk melepas objek tersebut."
+			"Kamu dapat menekan B untuk mengambil benda tertentu. Tekan B lagi untuk melepas benda tersebut."
 		],
 		"it": [
 			"È possibile premere B per catturare determinati oggetti. Premi di nuovo B per rilasciarli."
@@ -20218,7 +20408,7 @@
 			"Maintiens B en l'air pour faire une charge au sol."
 		],
 		"id": [
-			"Tahan B saat loncat untuk melakukan hentakan perut."
+			"Tahan B saat melompat untuk melakukan hentakan perut."
 		],
 		"it": [
 			"Tieni premuto B in aria per fare uno schianto a terra."
@@ -20260,7 +20450,7 @@
 			"Tu peux faire un double saut pendant un plongeon et plonger à nouveau pour couvrir de grande distances."
 		],
 		"id": [
-			"Kamu dapat loncat dua kali saat berseluncur lalu berseluncur lagi untuk mencapai lebih jauh!"
+			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk mencapai lebih jauh!"
 		],
 		"it": [
 			"È possibile fare un doppio salto dopo un'immersione e tuffarsi di nuovo per coprire lunghe distanze."
@@ -20278,7 +20468,7 @@
 			"Você pode dar um segundo salto durante um mergulho e depois mergulhar de novo para cobrir grandes distâncias!"
 		],
 		"ru": [
-			"Вы можете дважды прыгнуть, когда находитесь в воде, и потом нырнуть снова, чтобы преодолеть большие расстояния."
+			"Вы можете сделать двойной прыжок во время нырка и затем сделать нырок снова чтобы преодолеть дальние расстояния!"
 		],
 		"sv": [],
 		"tr": [
@@ -20413,44 +20603,44 @@
 	},
 	"ui_2x_coins": {
 		"de": [
-			"2x Münzen"
+			"Münzen × 2"
 		],
 		"el": [
-			"2x κέρματα"
+			"Κέρματα × 2"
 		],
 		"en": [
 			"Coins × 2"
 		],
 		"es": [
-			"Monedas x2"
+			"Monedas × 2"
 		],
 		"fr": [
 			"Pièces × 2"
 		],
 		"id": [
-			"2x koin"
+			"Koin ×2"
 		],
 		"it": [
-			"Monete x2"
+			"Monete × 2"
 		],
 		"ja": [
-			"2xコイン"
+			"コイン×2"
 		],
 		"nl": [
-			"2x munten"
+			"Munten × 2"
 		],
 		"pl": [
-			"2x monety"
+			"Monety × 2"
 		],
 		"pt": [
-			"2x moedas"
+			"Moedas × 2"
 		],
 		"ru": [
 			"Двойные монеты."
 		],
 		"sv": [],
 		"tr": [
-			"×2 akçe"
+			"Akçe × 2"
 		]
 	},
 	"ui_6hp": {
@@ -20470,7 +20660,7 @@
 			"6 points de vie"
 		],
 		"id": [
-			"6 poin nyawa"
+			"6 buah nyawa"
 		],
 		"it": [
 			"6 punti di vita"
@@ -20512,7 +20702,7 @@
 			"Ta santé maximale monte à 6 points de vie.//L'effet s'arrête quand tu meurs ou quittes le jeu."
 		],
 		"id": [
-			"Nyawa maksimum Kamu menjadi 6 poin.//Efek ini berakhir ketika Kamu mati atau keluar dari permainan."
+			"Nyawa maksimum kamu menjadi 6 poin.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
 		],
 		"it": [
 			"La tua salute massima sale a 6 punti salute.//L'effetto si interrompe quando muori o lasci il gioco."
@@ -20680,7 +20870,7 @@
 			"Entre dans le Monde Arcade pour gagner des pièces en jouant à des mini-jeux !"
 		],
 		"id": [
-			"Masuk ke Dunia Arkade untuk mendapatkan koin dengan bermain mini-games!"
+			"Masuk ke Dunia Arkade untuk mendapatkan koin dengan bermain mini-game!"
 		],
 		"it": [
 			"Entra nel Mondo Arcade per guadagnare monete mentre giochi ai minigiochi!"
@@ -20764,7 +20954,7 @@
 			"Rester ici"
 		],
 		"id": [
-			"Tetap disini"
+			"Tetap di sini"
 		],
 		"it": [
 			"Resta qui"
@@ -21018,7 +21208,7 @@
 			"Paramètres manette/clavier"
 		],
 		"id": [
-			"Pengaturan kontroller/keyboard"
+			"Pengaturan controller/keyboard"
 		],
 		"it": [
 			"Impostazioni del joystick/tastiera"
@@ -21228,7 +21418,7 @@
 			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub ou regarde une publicité pour revivre !"
 		],
 		"id": [
-			"Apakah tingkat ini terlalu susah? Coba untuk mendapatkan nyawa tambahan dari Capitalus di hub atau tonton iklan untuk hidup kembali!"
+			"Apakah level ini terlalu susah? Cobalah untuk mendapatkan nyawa tambahan dari Capitalus di hub atau tonton iklan untuk hidup kembali!"
 		],
 		"it": [
 			"Questo livello è troppo difficile? Puoi ottenere un bonus di vita da Capitalus nell'hub o guardare un annuncio per tornare in vita!"
@@ -21270,7 +21460,7 @@
 			"Sauvegardes cloud"
 		],
 		"id": [
-			"Penyimpanan di cloud"
+			"Penyimpanan cloud"
 		],
 		"it": [
 			"Salva nel Cloud"
@@ -21279,7 +21469,7 @@
 			"クラウド保存"
 		],
 		"nl": [
-			"Oplag in Cloud"
+			"Opslag in Cloud"
 		],
 		"pl": [
 			"Zapisy chmury"
@@ -21312,7 +21502,7 @@
 			"Voir les sauvegardes cloud"
 		],
 		"id": [
-			"Tampilkan penyimpanan di cloud"
+			"Tampilkan penyimpanan cloud"
 		],
 		"it": [
 			"Vedi backup del cloud"
@@ -21480,7 +21670,7 @@
 			"Le détecteur de pièces est maintenant actif."
 		],
 		"id": [
-			"Penedeteksi koin sekarang aktif."
+			"Pendeteksi koin sekarang aktif."
 		],
 		"it": [
 			"Il rilevatore di monete è ora attivo."
@@ -21522,7 +21712,7 @@
 			"Une ligne te montre la direction de la pièce la plus proche.//L'effet s'arrête quand tu quittes le jeu."
 		],
 		"id": [
-			"Sebuah garis akan menunjukkan Kamu ke arah koin.//Efek ini berakhir ketika Kamu keluar dari permainan."
+			"Sebuah panah akan menunjuk ke arah koin terdekat.//Efek ini berakhir ketika kamu keluar dari permainan."
 		],
 		"it": [
 			"Una linea indica la direzione della moneta più vicina. L'effetto si interrompe quando si lascia il gioco."
@@ -21648,7 +21838,7 @@
 			"Connecté"
 		],
 		"id": [
-			"terhubung"
+			"Terhubung"
 		],
 		"it": [
 			"Collegato"
@@ -21690,7 +21880,7 @@
 			"Veux-tu acheter//{0}//pour {1} {2} ?"
 		],
 		"id": [
-			"Apakah Kamu ingin membeli // {0} // untuk {1} {2}?"
+			"Apa kamu ingin membeli//{0}//seharga {1} {2}?"
 		],
 		"it": [
 			"Vuoi comprare//{0}/// per {1} {2}?"
@@ -21774,7 +21964,7 @@
 			"Tu possèdes déjà//{0} !//Tu as gagné {1} pièces à la place !"
 		],
 		"id": [
-			"Kamu sudah memiliki barang // {0}! // Sebagai gantinya, Kamu mendapatkan koin sebanyak {1} !"
+			"Kamu sudah memiliki//{0}!///Sebagai gantinya, kamu mendapatkan koin sebanyak {1}!"
 		],
 		"it": [
 			"Possiedi già a//{0}!// Hai vinto {1} monete!"
@@ -21858,7 +22048,7 @@
 			"Voir le générique"
 		],
 		"id": [
-			"Saksikan kredit"
+			"Lihat credits"
 		],
 		"it": [
 			"Vedi i crediti"
@@ -21879,6 +22069,126 @@
 		"sv": [],
 		"tr": [
 			"Kredileri izleyin"
+		]
+	},
+	"ui_day_0": {
+		"de": [
+			"Heute"
+		],
+		"el": [
+			"Σήμερα"
+		],
+		"en": [
+			"Today"
+		],
+		"es": [
+			"Hoy"
+		],
+		"fr": [
+			"Aujourd'hui"
+		],
+		"id": [
+			"Hari ini"
+		],
+		"it": [
+			"Oggi"
+		],
+		"ja": [],
+		"nl": [
+			"Vandaag"
+		],
+		"pl": [
+			"Dzisiaj"
+		],
+		"pt": [
+			"Hoje"
+		],
+		"ru": [
+			"Сегодня"
+		],
+		"sv": [],
+		"tr": [
+			"Bugün"
+		]
+	},
+	"ui_day_1": {
+		"de": [
+			"Morgen"
+		],
+		"el": [
+			"Αύριο"
+		],
+		"en": [
+			"Tomorrow"
+		],
+		"es": [
+			"Mañana"
+		],
+		"fr": [
+			"Demain"
+		],
+		"id": [
+			"Besok"
+		],
+		"it": [
+			"Domani"
+		],
+		"ja": [],
+		"nl": [
+			"Morgen"
+		],
+		"pl": [
+			"Jutro"
+		],
+		"pt": [
+			"Amanhã"
+		],
+		"ru": [
+			"Завтра"
+		],
+		"sv": [],
+		"tr": [
+			"Yarın"
+		]
+	},
+	"ui_day_2": {
+		"de": [
+			"Übermorgen"
+		],
+		"el": [
+			"Μεθαύριο"
+		],
+		"en": [
+			"Later"
+		],
+		"es": [
+			"Pasado mañana"
+		],
+		"fr": [
+			"Après-demain"
+		],
+		"id": [
+			"Lusa"
+		],
+		"it": [
+			"Dopodomani"
+		],
+		"ja": [],
+		"nl": [
+			"Overmorgen"
+		],
+		"pl": [
+			"Pojutrze"
+		],
+		"pt": [
+			"Depois"
+		],
+		"ru": [
+			"Послезавтра"
+		],
+		"sv": [],
+		"tr": [
+			"Daha sonra"
 		]
 	},
 	"ui_delete": {
@@ -21940,7 +22250,7 @@
 			"Veux-tu vraiment supprimer cette sauvegarde ?"
 		],
 		"id": [
-			"Apakah Kamu yakin ingin menghapus penyimpanan ini?"
+			"Apa kamu yakin ingin menghapus slot ini?"
 		],
 		"it": [
 			"Vuoi davvero cancellare questo salvataggio?"
@@ -21982,7 +22292,7 @@
 			"Déconnecté"
 		],
 		"id": [
-			"terputus"
+			"Terputus"
 		],
 		"it": [
 			"Scollegato"
@@ -22024,7 +22334,7 @@
 			"Discord officiel//Rejoins pour des nouvelles du développement"
 		],
 		"id": [
-			"Discord Resmi // Gabung untuk mendapatkan berita pengembangan aplikasi"
+			"Official Discord//Gabung untuk mendapatkan berita pengembangan game ini."
 		],
 		"it": [
 			"Discord Ufficiale//Entra per informazioni sullo sviluppo."
@@ -22064,7 +22374,7 @@
 			"Tu es déjà donateur."
 		],
 		"id": [
-			"Kamu sudah menjadi seorang donor."
+			"Kamu sudah menjadi seorang donator."
 		],
 		"it": [
 			"Sei già un donatore."
@@ -22082,7 +22392,7 @@
 			"Você já é um doador!"
 		],
 		"ru": [
-			"Вы уже являетесь донором."
+			"Вы уже являетесь донатером."
 		],
 		"sv": [
 			"Du är redan en donator."
@@ -22108,7 +22418,7 @@
 			"Achat réussi. Tu es maintenant un donateur ! Merci !"
 		],
 		"id": [
-			"Pembelian berhasil! Sekarang kamu adalah seorang donor! Terima kasih!"
+			"Pembelian berhasil! Sekarang kamu adalah seorang donator! Terima kasih!"
 		],
 		"it": [
 			"Acquisto riuscito. Ora sei un donatore! Grazie mille! Sei fantastico!"
@@ -22126,7 +22436,7 @@
 			"Compra completa! Você é agora um doador! Obrigado!"
 		],
 		"ru": [
-			"Покупка завершена. Вы теперь донор! Спасибо!"
+			"Покупка завершена. Вы теперь донатер! Спасибо!"
 		],
 		"sv": [
 			"Köp slutfört. Du är nu en donator! Tack så mycket!"
@@ -22137,43 +22447,43 @@
 	},
 	"ui_donator_info": {
 		"de": [
-			"Mit dem Kauf des Spenderstatus erhältst du Zugang zu://- Unterstützung des Entwicklers des Spiels;//- Entfernung von Werbung;//- Exklusive Kostüme;//- 2x Münzen ohne Werbung;//- Maximale Gesundheit auf 6;//- Erste Wiederbelebung kostenlos"
+			"Mit dem Kauf des Spenderstatus erhältst du Zugang zu://- Unterstützung des Entwicklers des Spiels;//- Entfernung von Werbung;//- Exklusive Kostüme;//- Münzen × 2 ohne Werbung;//- Maximale Gesundheit auf 6;//- Erste Wiederbelebung kostenlos"
 		],
 		"el": [
-			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- 2x νομίσματα χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
+			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- Κέρματα × 2 χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
 		],
 		"en": [
 			"Buying the donor status gives you access to://- Supporting the developer of the game!//- Unrewarded ads removal//- Exclusive costumes//- Coins × 2 without ads//- Maximum health to 6//- First revive for free"
 		],
 		"es": [
-			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas x2 sin publicidad// vida máxima a 6// primera resurrección gratis"
+			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas × 2 sin publicidad// vida máxima a 6// primera resurrección gratis"
 		],
 		"fr": [
 			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces × 2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
 		],
 		"id": [
-			"Membeli status donor memberikan Kamu akses:! // - mendukung pengembang aplikasi // - menghilangkan iklan yang tidak berhadiah // - kostum eksklusif // - 2x koin tanpa iklan // - nyawa maksimal menjadi 6 // - menghidupkan kembali gratis untuk yang pertama kali"
+			"Membeli status donator memberikan Kamu akses://- Mendukung developer game ini//- Menghilangkan iklan yang tak berhadiah//- Kostum eksklusif//- Koin ×2 tanpa iklan//- Nyawa maksimal menjadi 6//- Menghidupkan kembali pertama secara gratis!"
 		],
 		"it": [
-			"Acquistando lo status di donatore si ha accesso a://- supportare lo sviluppatore del gioco! //- rimozione pubblicità senza ricompense//- cosmetici esclusivi//- monete x2 senza annunci//- vita massima a 6//- prima resurrezione gratuita"
+			"Acquistando lo status di donatore si ha accesso a://- supportare lo sviluppatore del gioco! //- rimozione pubblicità senza ricompense//- cosmetici esclusivi//- monete × 2 senza annunci//- vita massima a 6//- prima resurrezione gratuita"
 		],
 		"ja": [
 			"ドナーステータスを購入すると、 ://-ゲームの開発者をサポートすることができます！ //-報われない広告を削除する//-排他的な化粧品//-広告なしで2倍のコイン//-最大ヘルスを6にする//-最初のリバイバルを無料で行うことができます。"
 		],
 		"nl": [
-			"Het kopen van donorstatus geeft je toegang tot://- Steunen van de ontwikkelaar van de game!;//- Verwijderen van advertenties die geen beloningen geven;//- Exclusieve costuums;//- 2x munten zonder advertenties;//- Maximale leven wordt 6;//- Eerste herleving gratis"
+			"Het kopen van donorstatus geeft je toegang tot://- Steunen van de ontwikkelaar van de game!;//- Verwijderen van advertenties die geen beloningen geven;//- Exclusieve costuums;//- Munten × 2 zonder advertenties;//- Maximale leven wordt 6;//- Eerste herleving gratis"
 		],
 		"pl": [
-			"Wykupienie statusu dawcy daje dostęp do: // - wspierania twórcy gry! // - usunięcia reklam // - ekskluzywnych kosmetyków // - 2x monet bez reklam // - maksymalną ilość zdrowia do 6 // - pierwszego odrodzenia za darmo"
+			"Wykupienie statusu dawcy daje dostęp do: // - wspierania twórcy gry! // - usunięcia reklam // - ekskluzywnych kosmetyków // - Monety × 2 bez reklam // - maksymalną ilość zdrowia do 6 // - pierwszego odrodzenia za darmo"
 		],
 		"pt": [
-			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2x mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
+			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2 vezes mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
 		],
 		"ru": [
-			"Приобретение статуса донора даёт Вам доступ к://- Поддержка разработчика игры!//- Удаление обычной рекламы//- Эксклюзивная косметика//- Двойные монеты без рекламы//- Здоровье будет увеличено до 6//- Бесплатное возрождение"
+			"Приобретение статуса донатера даёт Вам доступ к://- Поддержка разработчика игры!//- Удаление обычной рекламы//- Эксклюзивная косметика//- Двойные монеты без рекламы//- Здоровье будет увеличено до 6//- Бесплатное возрождение"
 		],
 		"sv": [
-			"Att köpa donator status ger dig tillgång till: Du supportar spelutvecklaren! Tar bort reklamer utan belöningar! Exklusiva kosmetiska föremål! 2X mynt utan reklamer! Max hälsa blir 6! Första återupplivningen är gratis!"
+			"Att köpa donator status ger dig tillgång till: Du supportar spelutvecklaren! Tar bort reklamer utan belöningar! Exklusiva kosmetiska föremål! Mynt × 2 utan reklamer! Max hälsa blir 6! Första återupplivningen är gratis!"
 		],
 		"tr": [
 			"Bağışçı statüsünü satın almak size şunlara erişim sağlar://- Oyunun geliştiricisini desteklemek;//- Ödülsüz reklamların kaldırılması;//- Özel kostümler;//- Reklamsız 2 kat para;//- Maksimum sağlık 6'ya;//- Ücretsiz ilk canlanma"
@@ -22196,7 +22506,7 @@
 			"Acheter le statut donateur"
 		],
 		"id": [
-			"Beli status seorang donor."
+			"Beli status donator"
 		],
 		"it": [
 			"Acquista lo stato di donatore"
@@ -22214,7 +22524,7 @@
 			"Comprar status de Doador"
 		],
 		"ru": [
-			"Купить статус донора"
+			"Купить статус донатера"
 		],
 		"sv": [
 			"Köp donator status"
@@ -22326,7 +22636,7 @@
 			"Quitter le jeu"
 		],
 		"id": [
-			"Keluar permainan"
+			"Keluar game"
 		],
 		"it": [
 			"Chiudi il gioco"
@@ -22536,7 +22846,7 @@
 			"Compteur de FPS"
 		],
 		"id": [
-			"Konter FPS"
+			"Penghitung FPS"
 		],
 		"it": [
 			"Contatore FPS"
@@ -22660,7 +22970,7 @@
 			"Jeu créé par {0}"
 		],
 		"id": [
-			"Game yang dibuat oleh {0}"
+			"Game buatan {0}"
 		],
 		"it": [
 			"Gioco creato da {0}"
@@ -22772,7 +23082,7 @@
 			"Temps d'or"
 		],
 		"id": [
-			"Waktu terbaik"
+			"Waktu emas"
 		],
 		"it": [
 			"Tempo d'Oro"
@@ -22898,7 +23208,7 @@
 			"La Ruche"
 		],
 		"id": [
-			"Sarang lebah"
+			"Sarang Lebah"
 		],
 		"it": [
 			"L'Alveare"
@@ -22940,7 +23250,7 @@
 			"Veux-tu vraiment retourner au hub ?"
 		],
 		"id": [
-			"Apakah Kamu yakin ingin kembali ke hub?"
+			"Apa kamu yakin ingin kembali ke hub?"
 		],
 		"it": [
 			"Vuoi davvero tornare all'hub?"
@@ -23024,7 +23334,7 @@
 			"Veux-tu vraiment rejouer l'introduction et le tutoriel ?"
 		],
 		"id": [
-			"Apakah Kamu yakin ingin memutar ulang intro dan tutorial?"
+			"Apa kamu yakin ingin memutar ulang intro dan tutorial?"
 		],
 		"it": [
 			"Vuoi davvero ripetere l'introduzione e il tutorial?"
@@ -23066,7 +23376,7 @@
 			"Inverser la caméra"
 		],
 		"id": [
-			"putar balik kamera"
+			"Balik kontrol kamera"
 		],
 		"it": [
 			"Telecamera Invertita"
@@ -23234,7 +23544,7 @@
 			"Appuie sur une ligne pour voir le classement"
 		],
 		"id": [
-			"Sentuh salah satu baris untuk melihat papan peringkat"
+			"Tekan sebuah baris untuk melihat papan peringkat"
 		],
 		"it": [
 			"Premi una riga per vedere la classifica"
@@ -23276,7 +23586,7 @@
 			"Tortibourg"
 		],
 		"id": [
-			"Kampung Penyu"
+			"Desa Kura-kura"
 		],
 		"it": [
 			"Villaggio delle Tartarughe"
@@ -23360,7 +23670,7 @@
 			"Désert Beemothep"
 		],
 		"id": [
-			"Padang Pasir Beemothep"
+			"Gurun Beemothep"
 		],
 		"it": [
 			"Deserto Beemothep"
@@ -23580,7 +23890,7 @@
 			"Chargement de la publicité..."
 		],
 		"id": [
-			"Memuat iklan ..."
+			"Memuat iklan..."
 		],
 		"it": [
 			"Caricamento della pubblicità..."
@@ -23622,7 +23932,7 @@
 			"Chargement du niveau..."
 		],
 		"id": [
-			"Memuat tingkat ..."
+			"Memuat level..."
 		],
 		"it": [
 			"Caricamento del livello..."
@@ -23664,7 +23974,7 @@
 			"Connexion à Google Play..."
 		],
 		"id": [
-			"Menghubungkan ke Google Play ..."
+			"Menghubungkan ke Google Play..."
 		],
 		"it": [
 			"Accedendo a Google Play ..."
@@ -23686,7 +23996,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Google Play'e bağlanılıyor…"
+			"Google Play'e bağlanılıyor..."
 		]
 	},
 	"ui_lootbox": {
@@ -23748,7 +24058,7 @@
 			"Touche l'écran pour démarrer"
 		],
 		"id": [
-			"Tekan dimana saja untuk memulai"
+			"Tekan dimana saja untuk mulai"
 		],
 		"it": [
 			"Tocca lo schermo per iniziare"
@@ -23790,7 +24100,7 @@
 			"Choisis une sauvegarde pour commencer à jouer"
 		],
 		"id": [
-			"Pilih penyimpanan untuk memulai permainan"
+			"Pilih slot untuk mulai bermain"
 		],
 		"it": [
 			"Scegli uno slot di salvataggio per iniziare a giocare"
@@ -23958,7 +24268,7 @@
 			"(nouveau record !)"
 		],
 		"id": [
-			"(Terbaik terbaru!)"
+			"(waktu terbaik baru!)"
 		],
 		"it": [
 			"(nuovo record!)"
@@ -24084,7 +24394,7 @@
 			"Ouvrir la boutique"
 		],
 		"id": [
-			"Buka Toko"
+			"Buka toko"
 		],
 		"it": [
 			"Apri il negozio"
@@ -24458,7 +24768,7 @@
 			"Veux-tu vraiment quitter ?"
 		],
 		"id": [
-			"Apakah Kamu yakin ingin keluar?"
+			"Apa kamu yakin ingin keluar?"
 		],
 		"it": [
 			"Vuoi davvero smettere?"
@@ -24542,7 +24852,7 @@
 			"Revenir au dernier point de contrôle"
 		],
 		"id": [
-			"Respawn di pos pemeriksaan terakhir"
+			"Respawn di checkpoint terakhir"
 		],
 		"it": [
 			"Ritorno all'ultimo punto di controllo"
@@ -24582,7 +24892,7 @@
 			"Redémarrer le niveau"
 		],
 		"id": [
-			"Mulai ulang tingkat"
+			"Mulai ulang level"
 		],
 		"it": [
 			"Riavvia il livello"
@@ -24624,7 +24934,7 @@
 			"Veux-tu vraiment redémarrer le niveau ?"
 		],
 		"id": [
-			"Apakah Kamu yakin ingin me-restart tingkat?"
+			"Apa kamu yakin ingin mengulang level ini?"
 		],
 		"it": [
 			"Vuoi davvero riavviare il livello?"
@@ -24834,7 +25144,7 @@
 			"Ressusciter"
 		],
 		"id": [
-			"Menghidupkan kembali"
+			"Hidup kembali"
 		],
 		"it": [
 			"Rinasci"
@@ -24876,7 +25186,7 @@
 			"Sauvegarde"
 		],
 		"id": [
-			"Penyimpanan"
+			"Slot"
 		],
 		"it": [
 			"Salvataggio"
@@ -25004,7 +25314,7 @@
 			"Ombres"
 		],
 		"id": [
-			"bayangan"
+			"Bayangan"
 		],
 		"it": [
 			"Ombre"
@@ -25145,56 +25455,56 @@
 			"Więcej nowości nadejdzie w przyszłych akutalizacjiach"
 		],
 		"pt": [
-			"Mais coisas virão em futuras atualizações..."
+			"Mais virão em futuras atualizações..."
 		],
 		"ru": [
 			"В будущем будут появляться новые версии..."
 		],
 		"sv": [],
 		"tr": [
-			"Daha fazlası gelecek güncellemelerde…"
+			"Daha fazlası gelecek güncellemelerde..."
 		]
 	},
 	"ui_shopinfo": {
 		"de": [
-			"Capitalus schenkt dir einen Booster, wenn du dir eine Werbung ansiehst. Wähle einen der folgenden Booster, um das Video zu starten und deine Belohnung zu erhalten."
+			"Sieh dir einen Werbespot an und Capitalus//gibt dir einen Bonus!"
 		],
 		"el": [
-			"Ο Capitalus θα σας δώσει ένα ενισχυτικό αν παρακολουθήσετε μια διαφήμιση. Επιλέξτε έναν από τους παρακάτω ενισχυτές για να ξεκινήσετε το βίντεο και να λάβετε την ανταμοιβή σας."
+			"Παρακολουθήστε μια διαφήμιση και το Capitalus// θα σας δώσει ένα μπόνους!"
 		],
 		"en": [
-			"Capitalus will give you a booster if you watch an advertisement. Choose one of the following boosters to launch the video and receive your reward."
+			"Watch an ad and Capitalus//will give you a bonus!"
 		],
 		"es": [
-			"Capitalus te dará una bonificación si ves un anuncio. Elige uno de los bonos que aparecen a continuación para reproducir el vídeo y recoger tu recompensa."
+			"Premios que quieres ganar?//¡Ve un anuncio y Capitalus te lo dará!"
 		],
 		"fr": [
-			"Capitalus te donnera un bonus si tu regardes une publicité. Choisis un des bonus ci-dessous pour lancer la vidéo et récupérer ta récompense."
+			"Regarde une publicité et Capitalus//te donnera un bonus !"
 		],
 		"id": [
-			"Capitalus akan memberikan bonus jika Kamu menonton iklan. Pilih salah satu bonus berikut untuk menonton iklan dan terima hadiah Kamu."
+			"Lihat sebuah iklan dan Capitalus//akan memberikanmu bonus!"
 		],
 		"it": [
-			"Capitalus vi darà un bonus se guardate una pubblicità. Scegli uno dei bonus qui sotto per lanciare il video e raccogliere la tua ricompensa."
+			"Guardate una pubblicità e Capitalus//vi darà un bonus!"
 		],
 		"ja": [
 			"キャピタルスは広告を見るとブースターをプレゼントしてくれます。 以下のブースターの中から1つを選んで動画を起動し、 報酬を受け取りましょう。"
 		],
 		"nl": [
-			"Capitalus zal je een booster geven als je een advertentie kijkt. Kies een van deze boosters om een advertentie te kijken voor een beloning."
+			"Kijk een advertentie en Capitalus//zal je een bonus geven!"
 		],
 		"pl": [
-			"Capitalus da ci ulepszenie, jeśli obejrzysz reklamę. Wybierz jedno z następujących ulepszenie, aby uruchomić film i otrzymać nagrodę."
+			"Obejrzyj reklamę, a Capitalus//da Ci bonus!"
 		],
 		"pt": [
-			"Capitalus te dará um bônus se você assistir a um anúncio. Escolha um dos seguintes bônus para começar o vídeo e receber sua recompensa."
+			"Prêmios você quer ganhar?//Assista um anúncio e Capitalus te dará!"
 		],
 		"ru": [
-			"Капиталус поможет Вам, если Вы посмотрите рекламу. Выберите один из вариантов, чтобы запустить видео и получить награду."
+			"Посмотрите рекламу и Капиталус//даст Вам бонус!"
 		],
 		"sv": [],
 		"tr": [
-			"Bir reklam izlersen Capitalus sana sağlık arttırıcı verecek. Aşağıdaki arttırıcılardan birini seçerek videoyu başlatın ve ödülü kazanın."
+			"Bir reklam izleyin//ve Capitalus size bir bonus versin!"
 		]
 	},
 	"ui_skip": {
@@ -25214,7 +25524,7 @@
 			"Passer"
 		],
 		"id": [
-			"Loncat"
+			"Lewati"
 		],
 		"it": [
 			"Saltare"
@@ -25464,7 +25774,7 @@
 			"Veux-tu vraiment retourner à l'écran-titre ?"
 		],
 		"id": [
-			"Apakah Kamu yakin ingin kembali ke layar judul?"
+			"Apa kamu yakin ingin kembali ke layar judul?"
 		],
 		"it": [
 			"Vuoi davvero tornare al menu principale?"
@@ -25548,7 +25858,7 @@
 			"Viens ici chaque jour à 10h00 pour une nouvelle mission !//Chaque mission réussie te rapporte un jeton Tristopio. Tu peux dépenser ces jetons pour débloquer des vêtements uniques. À chaque fois que tu échoues à une mission, tu perds un casque."
 		],
 		"id": [
-			"Datang ke sini untuk misi baru setiap hari jam 10! \\\\ Setiap misi sukses Kamu akan mendapatkan satu Token Tristopio. Kamu dapat menghabiskan token Kamu untuk membuka pakaian yang unik. Setiap kali Kamu kali misi Kamu gagal, Kamu akan kehilangan satu headset."
+			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap kali misi berhasil, kamu akan mendapatkan satu Token Tristopio. Kamu dapat menghabiskan token mu untuk membuka pakaian yang unik. Setiap kali kamu gagal, kamu akan kehilangan satu headset."
 		],
 		"it": [
 			"Vieni qui per una nuova sfida ogni giorno alle 10 del mattino, ogni sfida completata con successo vi darà un gettone Tristopio. Puoi spendere i tuoi gettoni per sbloccare cosmetici unici. Ogni volta che fallisci una missione perderai un visore."
@@ -25674,7 +25984,7 @@
 			"Contrôles des véhicules"
 		],
 		"id": [
-			"kontrol kendaraan"
+			"Kontrol kendaraan"
 		],
 		"it": [
 			"Controlli del veicolo"
@@ -25716,7 +26026,7 @@
 			"Version {0}"
 		],
 		"id": [
-			"Versi"
+			"Versi {0}"
 		],
 		"it": [],
 		"ja": [],
@@ -25794,7 +26104,7 @@
 			"Regarder la bande-annonce sur YouTube"
 		],
 		"id": [
-			"Tonton trailer di YouTube"
+			"Tonton trailer nya di YouTube"
 		],
 		"it": [
 			"Guarda il trailer su YouTube"
@@ -25876,7 +26186,7 @@
 			"Oui"
 		],
 		"id": [
-			"Iya"
+			"Ya"
 		],
 		"it": [
 			"Sì"

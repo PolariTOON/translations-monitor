@@ -1237,6 +1237,15 @@
 		"party_turtle_6": [
 			"Ich habe 6 Monate gebraucht, um hierher zu kommen."
 		],
+		"rarity_common": [
+			"Gewöhnlich"
+		],
+		"rarity_epic": [
+			"Episch"
+		],
+		"rarity_rare": [
+			"Selten"
+		],
 		"save_bear_tip_1": [
 			"Wir haben einen Bären befreit! Wir sollten uns weiter in der Schildkrötenstadt umsehen, bevor wir in andere Gebiete gehen."
 		],
@@ -1414,6 +1423,9 @@
 		"tristopio_start": [
 			"Mission starten"
 		],
+		"tristopio_today": [
+			"Heutige Mission"
+		],
 		"tutorial_shicka_1": [
 			"Hey Baaren, da bist du ja! Die Bienen haben das Dorf angegriffen und alle gefangen genommen! Ich habe es geschafft, mich zu verstecken, als sie kamen."
 		],
@@ -1475,7 +1487,7 @@
 			"Erhalte sofort 100 Münzen, um Kostüme zu kaufen."
 		],
 		"ui_2x_coins": [
-			"2x Münzen"
+			"Münzen × 2"
 		],
 		"ui_6hp": [
 			"6 Lebenspunkte"
@@ -1579,6 +1591,15 @@
 		"ui_credits": [
 			"Abspann ansehen"
 		],
+		"ui_day_0": [
+			"Heute"
+		],
+		"ui_day_1": [
+			"Morgen"
+		],
+		"ui_day_2": [
+			"Übermorgen"
+		],
 		"ui_delete": [
 			"Löschen"
 		],
@@ -1598,7 +1619,7 @@
 			"Kauf abgeschlossen! Nun bist du ein Spender! Danke schön!"
 		],
 		"ui_donator_info": [
-			"Mit dem Kauf des Spenderstatus erhältst du Zugang zu://- Unterstützung des Entwicklers des Spiels;//- Entfernung von Werbung;//- Exklusive Kostüme;//- 2x Münzen ohne Werbung;//- Maximale Gesundheit auf 6;//- Erste Wiederbelebung kostenlos"
+			"Mit dem Kauf des Spenderstatus erhältst du Zugang zu://- Unterstützung des Entwicklers des Spiels;//- Entfernung von Werbung;//- Exklusive Kostüme;//- Münzen × 2 ohne Werbung;//- Maximale Gesundheit auf 6;//- Erste Wiederbelebung kostenlos"
 		],
 		"ui_donator_title": [
 			"Kaufe Spenderrang"
@@ -1813,7 +1834,7 @@
 			"Mehr wird in zukünftigen Updates kommen..."
 		],
 		"ui_shopinfo": [
-			"Capitalus schenkt dir einen Booster, wenn du dir eine Werbung ansiehst. Wähle einen der folgenden Booster, um das Video zu starten und deine Belohnung zu erhalten."
+			"Sieh dir einen Werbespot an und Capitalus//gibt dir einen Bonus!"
 		],
 		"ui_skip": [
 			"Überspringen"
@@ -2339,8 +2360,12 @@
 		"cosmetic_102": [
 			"Μονοπάτι φάντασμα"
 		],
-		"cosmetic_103": [],
-		"cosmetic_104": [],
+		"cosmetic_103": [
+			"Κεφάλι γάτας"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Προεπιλεγμένο"
 		],
@@ -3097,6 +3122,15 @@
 		"party_turtle_6": [
 			"Μου πήρε 6 μήνες να έρθω εδώ πάνω."
 		],
+		"rarity_common": [
+			"Κοινή"
+		],
+		"rarity_epic": [
+			"Επική"
+		],
+		"rarity_rare": [
+			"Σπάνια"
+		],
 		"save_bear_tip_1": [
 			"Απελευθερώσαμε μια αρκούδα! Θα πρέπει να συνεχίσουμε να ψάχνουμε στην Τερτλτάουν πριν πάμε σε άλλες περιοχές."
 		],
@@ -3274,6 +3308,9 @@
 		"tristopio_start": [
 			"Ξεκινήστε την αποστολή"
 		],
+		"tristopio_today": [
+			"Σημερινή αποστολή"
+		],
 		"tutorial_shicka_1": [
 			"Εε Baaren, εδώ είσαι ! Κατάφερα να κρυφτώ όταν οι μέλισσες έφτασαν εδώ. Είσαι η μόνη αρκούδα που δεν αιχμαλώτισαν..."
 		],
@@ -3335,7 +3372,7 @@
 			"Λαμβάνεις 100 κέρματα αμέσως για να αγοράσεις καπέλα."
 		],
 		"ui_2x_coins": [
-			"2x κέρματα"
+			"Κέρματα × 2"
 		],
 		"ui_6hp": [
 			"6 πόντους ζωής"
@@ -3439,6 +3476,15 @@
 		"ui_credits": [
 			"Πιστωτικές μονάδες ρολογιού"
 		],
+		"ui_day_0": [
+			"Σήμερα"
+		],
+		"ui_day_1": [
+			"Αύριο"
+		],
+		"ui_day_2": [
+			"Μεθαύριο"
+		],
 		"ui_delete": [
 			"Διαγραφή"
 		],
@@ -3458,7 +3504,7 @@
 			"Η αγορά ολοκληρώθηκε! Είστε τώρα δωρητής! Σας ευχαριστούμε!"
 		],
 		"ui_donator_info": [
-			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- 2x νομίσματα χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
+			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- Κέρματα × 2 χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
 		],
 		"ui_donator_title": [
 			"Αγοράστε την ιδιότητα του δωρητή"
@@ -3677,7 +3723,7 @@
 			"Περισσότερα θα έρθουν σε μελλοντικές ενημερώσεις..."
 		],
 		"ui_shopinfo": [
-			"Ο Capitalus θα σας δώσει ένα ενισχυτικό αν παρακολουθήσετε μια διαφήμιση. Επιλέξτε έναν από τους παρακάτω ενισχυτές για να ξεκινήσετε το βίντεο και να λάβετε την ανταμοιβή σας."
+			"Παρακολουθήστε μια διαφήμιση και το Capitalus// θα σας δώσει ένα μπόνους!"
 		],
 		"ui_skip": [
 			"Παράλειψη"
@@ -4351,19 +4397,19 @@
 			"Unfortunately, my fellow bears prefer peace and want to live with other animals as equals. This is pathetic, what a lack of ambitions. Even you, my own brother, betrayed me."
 		],
 		"hive_boss_1_4": [
-			"The Kernel is quite wonderful, isn’t it? I used its powers to control Queen Beeatrice and take over the bees."
+			"The Kernel is quite wonderful, isn't it? I used its powers to control Queen Beeatrice and take over the bees."
 		],
 		"hive_boss_1_5": [
-			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion…"
+			"I continued my experiments with this magic artifact and now understand it more than anyone. I can now control bears' minds! Now that you're here, I can crush your rebellion..."
 		],
 		"hive_boss_1_6": [
-			"Don’t move, it won’t hurt. Probably."
+			"Don't move, it won't hurt. Probably."
 		],
 		"hive_boss_1_7": [
 			"Wow, that was close!"
 		],
 		"hive_boss_1_8": [
-			"Nice reflexes brother! Looks like I won’t be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
+			"Nice reflexes brother! Looks like I won't be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
 		],
 		"hive_boss_2_1": [
 			"You can't escape anymore!"
@@ -4375,7 +4421,7 @@
 			"Okay Shicka, it's time to fight the real me!"
 		],
 		"hive_ending_1": [
-			"I’m sorry I fought you, my dear bear. I waszzn’t myself back there, the Kernel waszz… acting on my mind."
+			"I'm sorry I fought you, my dear bear. I waszzn't myself back there, the Kernel waszz... acting on my mind."
 		],
 		"hive_ending_2": [
 			"From the looks of thingszz, the Kernel exploded when hitting the Hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
@@ -4384,7 +4430,7 @@
 			"The Hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
 		],
 		"hive_ending_4": [
-			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let’s gather at the Bear Vvvillage, shall we?"
+			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let's gather at the Bear Vvvillage, shall we?"
 		],
 		"hive_maybee": [
 			"Bearszz are awful but maybee I can beenefit off of you. I'm beeszzy doing beeszziness."
@@ -4540,7 +4586,7 @@
 			"Until..."
 		],
 		"intro_2_1": [
-			"… the bees started producing a different kind of honey in the Hive. Shortly after, this new flavor and this purple color were beloved by everybody."
+			"... the bees started producing a different kind of honey in the Hive. Shortly after, this new flavor and this purple color were beloved by everybody."
 		],
 		"intro_2_2": [
 			"Unfortunately, creatures that consumed it soon began to turn crazy and attack their friends like mindless animals."
@@ -4579,10 +4625,10 @@
 			"You did it, great job! You can take the key and come here to free me."
 		],
 		"level1_boss_2_2": [
-			"By the way, I saw your brother here earlier today, he didn’t seem so well. I hope you will find him."
+			"By the way, I saw your brother here earlier today, he didn't seem so well. I hope you will find him."
 		],
 		"level1_boss_2_3": [
-			"I wonder what your brother was doing here. I haven’t seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it’s the next destination from here."
+			"I wonder what your brother was doing here. I haven't seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it's the next destination from here."
 		],
 		"level1_intro_1": [
 			"Turtletown was a lovely place before the recent events."
@@ -4651,10 +4697,10 @@
 			"Here is the renowned Yeti... Let's avoid its attacks for now. Wait until it's exhausted before attacking."
 		],
 		"level2_boss_2": [
-			"Did you see that? There was someone over there! who was… purple."
+			"Did you see that? There was someone over there! who was... purple."
 		],
 		"level2_boss_3": [
-			"Something doesn’t seem right about all this..."
+			"Something doesn't seem right about all this..."
 		],
 		"level2_boss_4": [
 			"Anyway, we should save this bear and then investigate the Beemothep Desert."
@@ -4717,19 +4763,19 @@
 			"Yeti's lair"
 		],
 		"level3_boss_1_1": [
-			"Baaren! You managed to get here! I’m so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
+			"Baaren! You managed to get here! I'm so happy to see you! Pay attention to where you walk, this tomb is probably full of dangerous booby traps."
 		],
 		"level3_boss_1_2": [
-			"This room is where the Kernel is said to be hidden. It’s a very old and powerful artifact."
+			"This room is where the Kernel is said to be hidden. It's a very old and powerful artifact."
 		],
 		"level3_boss_1_3": [
-			"Bees are scheming strange things with the Kernel. I think it’s related to the purple honey."
+			"Bees are scheming strange things with the Kernel. I think it's related to the purple honey."
 		],
 		"level3_boss_1_4": [
 			"Please, find a way to get me out of here so we can go home!"
 		],
 		"level3_boss_2_1": [
-			"Oof, that was scary. The Kernel isn’t here, the bees must have stolen it before we got here."
+			"Oof, that was scary. The Kernel isn't here, the bees must have stolen it before we got here."
 		],
 		"level3_boss_2_2": [
 			"The scientist at the Bear Village probably knows some stuff about this artifact."
@@ -4807,16 +4853,16 @@
 			"You are so ti-ti-tiny, little bear, I can easily cr-cr-crush you!"
 		],
 		"level4_boss_2_1": [
-			"Thank you so much for dealing with him, he was dangerous and unpredictable… hmm... unlike me, right?"
+			"Thank you so much for dealing with him, he was dangerous and unpredictable... hmm... unlike me, right?"
 		],
 		"level4_boss_2_2": [
 			"I have to admit something. Before the purple honey incident, someone broke into my house one night and stole some of my work regarding the Kernel."
 		],
 		"level4_boss_2_3": [
-			"I didn’t see his face but he was a bear. I’m not sure the bees are behind all this madness. I think someone set them up."
+			"I didn't see his face but he was a bear. I'm not sure the bees are behind all this madness. I think someone set them up."
 		],
 		"level4_boss_2_4": [
-			"You should go to the Hive, I’m sure the truth awaits us there."
+			"You should go to the Hive, I'm sure the truth awaits us there."
 		],
 		"level4_crogo_1": [
 			"Hello little one. My name is Crogo the crocodile. Crogo never seen a bear this small! Maybe you could help Crogo."
@@ -4969,7 +5015,7 @@
 			"Rally"
 		],
 		"party_bee_1": [
-			"I’m so sorry for hurting people, we were just following orderszz…"
+			"I'm so sorry for hurting people, we were just following orderszz..."
 		],
 		"party_bee_2": [
 			"How do you call a bee with messy hair?//...//A friszzbee."
@@ -4993,13 +5039,13 @@
 			"Waterfalls are impressive! I have never seen one in my life."
 		],
 		"party_crocodile_4": [
-			"This place is beautiful… I’m impressed."
+			"This place is beautiful... I'm impressed."
 		],
 		"party_fennec_1": [
 			"What a nice shop!"
 		],
 		"party_fennec_2": [
-			"Queen Beeatrice is ginormous… huh, I meant to say beautiful."
+			"Queen Beeatrice is ginormous... huh, I meant to say beautiful."
 		],
 		"party_fennec_3": [
 			"I have never seen grass this green."
@@ -5008,10 +5054,10 @@
 			"You have your own little desert here!"
 		],
 		"party_fennec_5": [
-			"I don’t trust this scientist."
+			"I don't trust this scientist."
 		],
 		"party_penguin_1": [
-			"This place neither has snow nor ice… and the water is… liquid…"
+			"This place neither has snow nor ice... and the water is... liquid..."
 		],
 		"party_penguin_2": [
 			"What a great view!"
@@ -5032,22 +5078,31 @@
 			"Party! Party! Party! Party! Party!"
 		],
 		"party_turtle_1": [
-			"Where does a turtle go when it’s raining?//…//To a shellter!"
+			"Where does a turtle go when it's raining?//...//To a shellter!"
 		],
 		"party_turtle_2": [
 			"Have you seen my shellphone?"
 		],
 		"party_turtle_3": [
-			"I’m glad I got out of my shell and came to the party."
+			"I'm glad I got out of my shell and came to the party."
 		],
 		"party_turtle_4": [
 			"Colors everywhere!"
 		],
 		"party_turtle_5": [
-			"That’s very kind of the bees to put together this party, but it won’t bring back my house that they destroyed…"
+			"That's very kind of the bees to put together this party, but it won't bring back my house that they destroyed..."
 		],
 		"party_turtle_6": [
 			"It took me 6 months to get up here."
+		],
+		"rarity_common": [
+			"Common"
+		],
+		"rarity_epic": [
+			"Epic"
+		],
+		"rarity_rare": [
+			"Rare"
 		],
 		"save_bear_tip_1": [
 			"We freed one bear! We should keep looking around in Turtletown before going to other areas."
@@ -5065,25 +5120,25 @@
 			"I found out it has two major properties: mind control and size manipulation. After a ton of work, I managed to create this magnificent device: THE SHRINKING MACHINE!"
 		],
 		"scientist_cutscene_1_4": [
-			"I also experimented on the mind control part and let’s say things... hmm… did not go as planned."
+			"I also experimented on the mind control part and let's say things... hmm... did not go as planned."
 		],
 		"scientist_cutscene_1_5": [
 			"As you can see, someone found out about my research, stole the Kernel and used it to create the purple honey."
 		],
 		"scientist_cutscene_1_6": [
-			"I could tell you more about the Kernel, but I’m in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
+			"I could tell you more about the Kernel, but I'm in quite the pickle right now. The bees didn't know what to do with the baby bears, so they shrunk them down and hid them in my house."
 		],
 		"scientist_cutscene_1_7": [
 			"Maybe they thought it was abandoned or something? Is it that dirty? Anyway..."
 		],
 		"scientist_cutscene_2_1": [
-			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is…"
+			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is..."
 		],
 		"scientist_cutscene_2_2": [
 			"But first, let's save those poor babies!"
 		],
 		"scientist_cutscene_3_1": [
-			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there…"
+			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there..."
 		],
 		"scientist_cutscene_3_2": [
 			"If you are brave enough to save them, I can shrink you down and let you in."
@@ -5226,11 +5281,14 @@
 		"tristopio_start": [
 			"Start mission"
 		],
+		"tristopio_today": [
+			"Today's mission"
+		],
 		"tutorial_shicka_1": [
 			"Hey Baaren, there you are! The bees attacked the village and captured everyone! I managed to hide when they arrived."
 		],
 		"tutorial_shicka_2": [
-			"Were you just… sleeping? Avoiding a raid by taking a nap away from the village, that’s very you."
+			"Were you just... sleeping? Avoiding a raid by taking a nap away from the village, that's very you."
 		],
 		"tutorial_shicka_3": [
 			"Anyway, we should team up to free our friends! I could give you some advice about the surroundings. Backpackers like me know a lot about the kingdom."
@@ -5390,6 +5448,15 @@
 		],
 		"ui_credits": [
 			"Watch credits"
+		],
+		"ui_day_0": [
+			"Today"
+		],
+		"ui_day_1": [
+			"Tomorrow"
+		],
+		"ui_day_2": [
+			"Later"
 		],
 		"ui_delete": [
 			"Delete"
@@ -5629,7 +5696,7 @@
 			"More will come in future updates..."
 		],
 		"ui_shopinfo": [
-			"Capitalus will give you a booster if you watch an advertisement. Choose one of the following boosters to launch the video and receive your reward."
+			"Watch an ad and Capitalus//will give you a bonus!"
 		],
 		"ui_skip": [
 			"Skip"
@@ -6161,8 +6228,12 @@
 		"cosmetic_102": [
 			"El rastro de los fantasmas"
 		],
-		"cosmetic_103": [],
-		"cosmetic_104": [],
+		"cosmetic_103": [
+			"Cabeza de gato"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Defecto"
 		],
@@ -6919,6 +6990,15 @@
 		"party_turtle_6": [
 			"He tardado 6 meses en llegar hasta aquí."
 		],
+		"rarity_common": [
+			"Común"
+		],
+		"rarity_epic": [
+			"Épico"
+		],
+		"rarity_rare": [
+			"Raro"
+		],
 		"save_bear_tip_1": [
 			"¡Hemos liberado a un oso! Deberíamos seguir buscando en Tortuciudad antes de ir a otras zonas."
 		],
@@ -7096,6 +7176,9 @@
 		"tristopio_start": [
 			"Lanzar la misión"
 		],
+		"tristopio_today": [
+			"Misión de hoy"
+		],
 		"tutorial_shicka_1": [
 			"¡Ah Baaren, ahí estás! ¡Las abejas han atacado el pueblo y han capturado a todos! Me las arreglé para esconderme cuando llegaron."
 		],
@@ -7157,7 +7240,7 @@
 			"Recibe 100 monedas al instante para comprar trajes."
 		],
 		"ui_2x_coins": [
-			"Monedas x2"
+			"Monedas × 2"
 		],
 		"ui_6hp": [
 			"6 puntos de salud"
@@ -7261,6 +7344,15 @@
 		"ui_credits": [
 			"Ver los créditos"
 		],
+		"ui_day_0": [
+			"Hoy"
+		],
+		"ui_day_1": [
+			"Mañana"
+		],
+		"ui_day_2": [
+			"Pasado mañana"
+		],
 		"ui_delete": [
 			"Borrar"
 		],
@@ -7280,7 +7372,7 @@
 			"Compra con éxito. ¡Ahora eres un donante! Gracias."
 		],
 		"ui_donator_info": [
-			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas x2 sin publicidad// vida máxima a 6// primera resurrección gratis"
+			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas × 2 sin publicidad// vida máxima a 6// primera resurrección gratis"
 		],
 		"ui_donator_title": [
 			"Comprar la condición de donante"
@@ -7493,7 +7585,7 @@
 			"Más información en futuras actualizaciones..."
 		],
 		"ui_shopinfo": [
-			"Capitalus te dará una bonificación si ves un anuncio. Elige uno de los bonos que aparecen a continuación para reproducir el vídeo y recoger tu recompensa."
+			"Premios que quieres ganar?//¡Ve un anuncio y Capitalus te lo dará!"
 		],
 		"ui_skip": [
 			"Saltar"
@@ -8206,10 +8298,10 @@
 			"Tu ne sais rien Baaren Bear."
 		],
 		"hub_bear_17": [
-			"C’est tellement plaisant de revenir ici, je suis resté enfermé dans cette pyramide pendant bien trop longtemps."
+			"C'est tellement plaisant de revenir ici, je suis resté enfermé dans cette pyramide pendant bien trop longtemps."
 		],
 		"hub_bear_18": [
-			"Les fennecs sont tellement adorables, j’aimerais en adopter un !"
+			"Les fennecs sont tellement adorables, j'aimerais en adopter un !"
 		],
 		"hub_bear_19": [
 			"Nos ancêtres lointains étaient les protecteurs du désert mais nous sommes revenus ici depuis plusieurs générations."
@@ -8218,16 +8310,16 @@
 			"Tu dois connaître le désert comme ta poche maintenant que tu as récupéré toutes les pièces !"
 		],
 		"hub_bear_21": [
-			"La Reine des abeilles prépare quelque chose de terrible, elle s’est rendue dans le désert pour récupérer l’élément final de son plan."
+			"La Reine des abeilles prépare quelque chose de terrible, elle s'est rendue dans le désert pour récupérer l'élément final de son plan."
 		],
 		"hub_bear_22": [
 			"Le mur a peut-être été construit pour tester le miel violet avant son utilisation dans le reste du royaume. Ou peut-être que les abeilles essayaient de se protéger de quelque chose ? Qui sait ?"
 		],
 		"hub_bear_23": [
-			"Une légende raconte que la pyramide renferme une relique octroyant des pouvoirs immenses à son porteur. J’espère que cette relique n’existe pas réellement..."
+			"Une légende raconte que la pyramide renferme une relique octroyant des pouvoirs immenses à son porteur. J'espère que cette relique n'existe pas réellement..."
 		],
 		"hub_bear_24": [
-			"La construction du mur a probablement été un travail titanesque, les abeilles doivent avoir une raison importante pour l’avoir construit."
+			"La construction du mur a probablement été un travail titanesque, les abeilles doivent avoir une raison importante pour l'avoir construit."
 		],
 		"hub_bear_25": [
 			"*bruits de bébé heureux*"
@@ -8278,7 +8370,7 @@
 			"Jusqu'à ce que..."
 		],
 		"intro_2_1": [
-			"… les abeilles commencent à produire un nouveau genre de miel dans la Ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés de tous."
+			"... les abeilles commencent à produire un nouveau genre de miel dans la Ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés de tous."
 		],
 		"intro_2_2": [
 			"Malheureusement, les créatures qui le consommèrent devinrent rapidement folles et attaquèrent leurs amis tels des animaux sans cervelle."
@@ -8455,7 +8547,7 @@
 			"Repère du Yéti"
 		],
 		"level3_boss_1_1": [
-			"Baaren ! Tu as réussi à venir jusqu’ici ! Je suis heureux de te voir ! Fais attention à là où tu marches, ce tombeau est probablement plein de dangereux pièges."
+			"Baaren ! Tu as réussi à venir jusqu'ici ! Je suis heureux de te voir ! Fais attention à là où tu marches, ce tombeau est probablement plein de dangereux pièges."
 		],
 		"level3_boss_1_2": [
 			"Cette pièce est là où le Kernel est dit être caché. C'est un artefact très ancien et puissant."
@@ -8473,46 +8565,46 @@
 			"Le scientifique au Village Ours sait probablement quelque chose sur cet artefact."
 		],
 		"level3_crocodile_1": [
-			"Nos amis contaminés par le miel violet sont revenus à leur instinct primaire, ils chassent dans l’eau. Fais attention."
+			"Nos amis contaminés par le miel violet sont revenus à leur instinct primaire, ils chassent dans l'eau. Fais attention."
 		],
 		"level3_crocodile_2": [
-			"Contrairement à nous, les ours ne sont pas très agiles dans l’eau. Attire les crocodiles contaminés près du bord de l’eau pour leur sauter dessus."
+			"Contrairement à nous, les ours ne sont pas très agiles dans l'eau. Attire les crocodiles contaminés près du bord de l'eau pour leur sauter dessus."
 		],
 		"level3_crocodile_3": [
 			"Depuis la construction du mur, il est devenu difficile de trouver à manger..."
 		],
 		"level3_crocodile_4": [
-			"Tu ressembles aux statues dans les ruines. Les abeilles ont construit ce mur avant ma naissance, je n’ai jamais rien connu du reste du monde."
+			"Tu ressembles aux statues dans les ruines. Les abeilles ont construit ce mur avant ma naissance, je n'ai jamais rien connu du reste du monde."
 		],
 		"level3_fennec_1": [
-			"Depuis l’arrivée des abeilles, certains de nos confrères ont été contaminés. Ils errent en dehors du village en attaquant tout ce qui s’y approche."
+			"Depuis l'arrivée des abeilles, certains de nos confrères ont été contaminés. Ils errent en dehors du village en attaquant tout ce qui s'y approche."
 		],
 		"level3_fennec_2": [
 			"Les abeilles semblent intéressées par la pyramide, elles essayeraient de récupérer un artefact ancien."
 		],
 		"level3_fennec_3": [
-			"Regarde ce que ces abeilles ont fait à notre belle contrée… C’est un véritable désastre. Cet immense mur nous isole du reste du monde."
+			"Regarde ce que ces abeilles ont fait à notre belle contrée... C'est un véritable désastre. Cet immense mur nous isole du reste du monde."
 		],
 		"level3_fennec_4": [
-			"L’accès au point d’eau est très difficile depuis que les crocodiles se sont installés à l’oasis. Nous étions là d’abord !"
+			"L'accès au point d'eau est très difficile depuis que les crocodiles se sont installés à l'oasis. Nous étions là d'abord !"
 		],
 		"level3_fennec_5": [
-			"Il y a des milliers d’années, mes ancêtres étaient les serviteurs des abeilles. Ils ont construit la pyramide pour une des plus grandes reines."
+			"Il y a des milliers d'années, mes ancêtres étaient les serviteurs des abeilles. Ils ont construit la pyramide pour une des plus grandes reines."
 		],
 		"level3_fennec_6": [
 			"Il y a quelques années, certaines abeilles ont commencé a construire ce gigantesque mur sans que la reine ne le sache. Elles préparaient déjà quelque chose avant son kidnapping !"
 		],
 		"level3_fennec_7": [
-			"Ma famille voulait fuir la région après l’arrivée du miel violet mais le mur nous en a empêché."
+			"Ma famille voulait fuir la région après l'arrivée du miel violet mais le mur nous en a empêché."
 		],
 		"level3_fennec_8": [
-			"Dans des temps anciens, avant l’arrivée de la dynastie des abeilles, les ours ont apporté la paix dans ce désert. Les nombreuses statues en témoignent."
+			"Dans des temps anciens, avant l'arrivée de la dynastie des abeilles, les ours ont apporté la paix dans ce désert. Les nombreuses statues en témoignent."
 		],
 		"level3_intro_1": [
-			"Le Désert Beemothep est une région plus grande que ce que l’on a exploré jusqu’à présent."
+			"Le Désert Beemothep est une région plus grande que ce que l'on a exploré jusqu'à présent."
 		],
 		"level3_intro_2": [
-			"Nous pourrons aller faire un tour à l’oasis, au Village Crocodile, au Village Fennec, à une des nombreuses ruines ou encore au temple."
+			"Nous pourrons aller faire un tour à l'oasis, au Village Crocodile, au Village Fennec, à une des nombreuses ruines ou encore au temple."
 		],
 		"level3_intro_3": [
 			"Les abeilles semblent avoir construit un mur autour des villages. Elles s'intéressent à la pyramide. Demandons des informations aux habitants."
@@ -8770,7 +8862,7 @@
 			"Fiesta ! Fiesta ! Fiesta ! Fiesta ! Fiesta !"
 		],
 		"party_turtle_1": [
-			"Que dit une tortue lorsqu'elle a froid aux pattes ?//…//On se l'écaille !"
+			"Que dit une tortue lorsqu'elle a froid aux pattes ?//...//On se l'écaille !"
 		],
 		"party_turtle_2": [
 			"As-tu vu mon téléphone tortable ?"
@@ -8782,10 +8874,19 @@
 			"Des couleurs partout !"
 		],
 		"party_turtle_5": [
-			"C'est vraiment gentil de la part des abeilles d'organiser cette fête, mais ça ne me rendra pas ma maison qu'elles ont détruite…"
+			"C'est vraiment gentil de la part des abeilles d'organiser cette fête, mais ça ne me rendra pas ma maison qu'elles ont détruite..."
 		],
 		"party_turtle_6": [
 			"Il m'a fallu 6 mois pour monter ici."
+		],
+		"rarity_common": [
+			"Commun"
+		],
+		"rarity_epic": [
+			"Épique"
+		],
+		"rarity_rare": [
+			"Rare"
 		],
 		"save_bear_tip_1": [
 			"Nous avons libéré un ours ! Nous devrions continuer à chercher à Tortibourg avant d'aller dans d'autres régions."
@@ -8964,6 +9065,9 @@
 		"tristopio_start": [
 			"Lancer la mission"
 		],
+		"tristopio_today": [
+			"Mission du jour"
+		],
 		"tutorial_shicka_1": [
 			"Ah Baaren, tu es là ! Les abeilles ont attaqué le village et capturé tout le monde ! J'ai réussi à me cacher quand elles sont arrivées."
 		],
@@ -9128,6 +9232,15 @@
 		],
 		"ui_credits": [
 			"Voir le générique"
+		],
+		"ui_day_0": [
+			"Aujourd'hui"
+		],
+		"ui_day_1": [
+			"Demain"
+		],
+		"ui_day_2": [
+			"Après-demain"
 		],
 		"ui_delete": [
 			"Supprimer"
@@ -9363,7 +9476,7 @@
 			"Plus arrivera dans les mises à jour futures..."
 		],
 		"ui_shopinfo": [
-			"Capitalus te donnera un bonus si tu regardes une publicité. Choisis un des bonus ci-dessous pour lancer la vidéo et récupérer ta récompense."
+			"Regarde une publicité et Capitalus//te donnera un bonus !"
 		],
 		"ui_skip": [
 			"Passer"
@@ -9431,7 +9544,7 @@
 			"Gas (kendaraan)"
 		],
 		"action_jump": [
-			"Loncat"
+			"Lompat"
 		],
 		"action_move_x": [
 			"Bergerak horizontal"
@@ -9440,31 +9553,31 @@
 			"Bergerak vertikal"
 		],
 		"arcade_1_1": [
-			"Permainan balap ini adalah berpacu waktu. Setelah setiap putaran, kamu akan mendapatkan koin berdasarkan waktu yang kamu habiskan untuk menyelesaikan putaran."
+			"Game balap ini adalah game berpacu waktu. Setelah melewati satu putaran, kamu akan mendapatkan koin berdasarkan waktu yang kamu habiskan untuk menyelesaikan putaran."
 		],
 		"arcade_1_2": [
-			"Masuk ke kendaraan dengan menekan tombol B. Saat di udara, usahakan untuk tetap seimbang menggunakan kontrol udara."
+			"Masuk ke dalam kendaraan dengan menekan tombol B. Saat di udara, usahakan untuk tetap seimbang menggunakan kontrol udara."
 		],
 		"arcade_2_1": [
-			"Platform Parkour adalah parkour tanpa batas terbuat dari berbagai macam platform. Semakin jauh kamu di parkour, semakin banyak koin yang kamu akan dapatkan, namun juga akan semakin sulit loncatannya."
+			"Platform Parkour adalah parkour tanpa batas yang terbuat dari berbagai macam platform. Semakin jauh kamu melangkah di parkour, semakin banyak koin yang akan kamu dapatkan, tetapi lompatannya akan semakin sulit."
 		],
 		"arcade_2_2": [
-			"Setiap kali kamu terjatuh ke void, platform parkour akan dibuat secara acak lagi."
+			"Setiap kali kamu terjatuh, platform parkour akan dibuat secara acak lagi."
 		],
 		"arcade_2_3": [
-			"Setiap 15 platform, parkour akan berubah tipe. Tipe yang ada sekarang: normal, dinding, air dan es batu."
+			"Setiap 15 platform, jenis parkour akan berubah. Jenis-jenis yang ada sekarang: normal, dinding, air, es batu dan ritme."
 		],
 		"arcade_3_1": [
-			"Batang Berputar adalah menghindari duri-duri sambil batang berputar. Hindari terbuang keluar dari platform!"
+			"Game Batang Berputar adalah tentang menghindari duri-duri selagi batang berputar. Hindari terlempar dari platform!"
 		],
 		"arcade_3_2": [
-			"Koin akan muncul di platform ini seiring dengan waktu. Semakin lama kamu selamat, semakin banyak koin yang akan kamu dapatkan."
+			"Koin akan muncul di platform ini seiring dengan waktu. Semakin lama kamu bertahan, semakin banyak koin yang akan kamu dapatkan."
 		],
 		"arcade_intro_1": [
 			"Selamat datang di Dunia Arkade! Kamu bisa bermain mini-game untuk mengumpulkan koin. Setelah puas dengan koin yang kamu dapatkan, kamu bisa pergi ke mesin arkade untuk kembali ke hub."
 		],
 		"arcade_intro_2": [
-			"Jika kamu ingin mempelajari peraturan permainan, jalan ke tombol ini."
+			"Jika kamu ingin mempelajari aturan mainnya, jalan ke tombol ini."
 		],
 		"arcade_race_1": [
 			"Klasik"
@@ -9473,13 +9586,13 @@
 			"Perulangan"
 		],
 		"arcade_race_3": [
-			"Gurun pasir"
+			"Gurun"
 		],
 		"arcade_race_4": [
 			"Tabung"
 		],
 		"arcade_timer": [
-			"Saat ini://Baik:"
+			"Saat ini://Terbaik:"
 		],
 		"binding_alt_1": [
 			"Tombol alternatif 1"
@@ -9509,7 +9622,7 @@
 			"Tes Subjek No. 1706"
 		],
 		"boss_turtle_golem": [
-			"Sang Golem Penyu"
+			"Golem Kura-kura"
 		],
 		"boss_yeti": [
 			"Sang Yeti"
@@ -9564,13 +9677,13 @@
 		],
 		"char_maybee": [],
 		"char_mouse": [
-			"Tikus"
+			"Curut"
 		],
 		"char_penguin": [
-			"Pinguin"
+			"Penguin"
 		],
 		"char_queen": [
-			"Kraliçe Beeatrice"
+			"Ratu Beeatrice"
 		],
 		"char_reindeer": [
 			"Rusa kutub"
@@ -9584,7 +9697,7 @@
 		],
 		"char_tristopio": [],
 		"char_turtle": [
-			"Penyu"
+			"Kura-kura"
 		],
 		"char_violette": [],
 		"cosmetic_001": [
@@ -9642,7 +9755,7 @@
 			"Beruang emas"
 		],
 		"cosmetic_019": [
-			"Shicka Emas"
+			"Shicka emas"
 		],
 		"cosmetic_020": [
 			"Shicka merah"
@@ -9651,7 +9764,7 @@
 			"Shicka hijau"
 		],
 		"cosmetic_022": [
-			"Beruang merah muda"
+			"Beruang pink"
 		],
 		"cosmetic_023": [
 			"Kacamata"
@@ -9687,7 +9800,7 @@
 			"Setelan bisnis"
 		],
 		"cosmetic_034": [
-			"Kemeja (merah)"
+			"Kaos (merah)"
 		],
 		"cosmetic_035": [
 			"Beruang retro"
@@ -9744,7 +9857,7 @@
 			"Tubuh kerangka"
 		],
 		"cosmetic_053": [
-			"Baju (seram)"
+			"Kaos (seram)"
 		],
 		"cosmetic_054": [
 			"Kepala kapak"
@@ -9771,7 +9884,7 @@
 			"Telur Paskah"
 		],
 		"cosmetic_062": [
-			"Telur goreng"
+			"Telur ceplok"
 		],
 		"cosmetic_063": [
 			"Kepala kelinci"
@@ -9786,10 +9899,10 @@
 			"Popok"
 		],
 		"cosmetic_067": [
-			"Jas lab"
+			"Jas laboratorium"
 		],
 		"cosmetic_068": [
-			"Shicka yang tak terlihat"
+			"Shicka tak terlihat"
 		],
 		"cosmetic_069": [
 			"Shicka 8-bit"
@@ -9807,7 +9920,7 @@
 			"Beruang hitam"
 		],
 		"cosmetic_074": [
-			"Beruang hitam"
+			"Beruang kulit gelap"
 		],
 		"cosmetic_075": [
 			"Jaket (coklat)"
@@ -9819,7 +9932,7 @@
 			"Penguin Shicka"
 		],
 		"cosmetic_078": [
-			"Beruang Shicka"
+			"Shicka Beruang"
 		],
 		"cosmetic_079": [
 			"Beruang Shicka"
@@ -9840,16 +9953,16 @@
 			"Kepala Bobble"
 		],
 		"cosmetic_085": [
-			"Bobble Shicka"
+			"Shicka Bobble"
 		],
 		"cosmetic_086": [
-			"Topi Brittany"
+			"Awan Hujan"
 		],
 		"cosmetic_087": [
-			"Topi (merah)"
+			"Jubah (merah)"
 		],
 		"cosmetic_088": [
-			"Topi (beruang)"
+			"Jubah (beruang)"
 		],
 		"cosmetic_089": [
 			"Mata kartun"
@@ -9864,7 +9977,7 @@
 			"Topi penyihir"
 		],
 		"cosmetic_093": [
-			"Cosmic Shicka"
+			"Shicka Kosmik"
 		],
 		"cosmetic_094": [
 			"IMABEAR"
@@ -9882,7 +9995,7 @@
 			"Cangkang kura-kura"
 		],
 		"cosmetic_099": [
-			"Debu"
+			"Debu pasir"
 		],
 		"cosmetic_100": [
 			"Beruang kecil"
@@ -9893,8 +10006,12 @@
 		"cosmetic_102": [
 			"Jejak hantu"
 		],
-		"cosmetic_103": [],
-		"cosmetic_104": [],
+		"cosmetic_103": [
+			"Kepala Kucing"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Standar"
 		],
@@ -9905,13 +10022,13 @@
 			"Shader mewah membuat material terlihat lebih bagus. Menonaktifkan shader mewah meningkatkan performa."
 		],
 		"help_fast_restart": [
-			"Tingkat me-restart lebih cepat. (Berguna untuk speedruns)"
+			"Level di-restart lebih cepat. (Berguna untuk speedrun)"
 		],
 		"help_fish": [
-			"Menonaktifkan ikan meningkatkan performa."
+			"Menonaktifkan ikan akan meningkatkan performa."
 		],
 		"help_flowers": [
-			"Menonaktifkan bunga dan rumput laut meningkatkan performa."
+			"Menonaktifkan bunga dan rumput laut akan meningkatkan performa."
 		],
 		"help_fps_counter": [
 			"Menampilkan jumlah gambar per detik (FPS)."
@@ -9926,7 +10043,7 @@
 			"Membalikkan kontrol kamera"
 		],
 		"help_key_help": [
-			"Ketika Kamu mendapatkan kunci, akan menampilkan arah menuju kandang yang bersangkutan."
+			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang cocok."
 		],
 		"help_light_probes": [
 			"Probe cahaya akan digunakan untuk menampilkan pencahayaan pada objek bergerak. Opsi ini dapat berguna pada perangkat yang lebih tua dan tidak mempengaruhi performa."
@@ -9938,25 +10055,25 @@
 			"Menunjukkan tips dari Shicka."
 		],
 		"help_speedrun_mode": [
-			"Timer akan selalu berjalan dan hanya akan berhenti saat kamu mengalahkan bos terakhir. Penyimpanan dinonaktifkan."
+			"Timer akan selalu berjalan dan hanya akan berhenti saat kamu mengalahkan bos terakhir. Menyimpan dinonaktifkan."
 		],
 		"help_timer": [
-			"Menampilkan timer (berguna untuk speedruns)"
+			"Menampilkan timer (berguna untuk speedrun)"
 		],
 		"hive_boss_1_1": [
 			"Aku sedang menunggumu... Baaren. Tempat yang indah untuk bertemu lagi."
 		],
 		"hive_boss_1_2": [
-			"Kau membebaskan beruang-beruang itu hanya untuk memusnahkan usahaku. Jika beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa merebut kembali kekuatan yang pernah kita miliki."
+			"Kau membebaskan beruang-beruang itu hanya untuk menghancurkan usahaku. Jika para beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa merebut kembali kekuasaan yang pernah kita miliki."
 		],
 		"hive_boss_1_3": [
-			"Sayangnya, rekan-rekan beruang saya lebih memilih perdamaian dan ingin hidup dengan hewan lain sebagai sederajat. Ini menyedihkan, betapa kurangnya ambisi. Bahkan kamu, saudaraku sendiri, mengkhianatiku."
+			"Sayangnya, teman-teman beruangku lebih memilih perdamaian dan ingin hidup dengan hewan lain sebagai setara. Ini menyedihkan, betapa kurangnya ambisi. Bahkan kau, saudaraku sendiri, mengkhianatiku."
 		],
 		"hive_boss_1_4": [
-			"Kernel cukup luar biasa, bukan? Aku menggunakan kekuatannya untuk mengendalikan Ratu Beeatrice dan mengambil alih lebah."
+			"Kernel ini cukup luar biasa, bukan? Aku menggunakan kekuatannya untuk mengendalikan Ratu Beeatrice dan mengambil alih para lebah."
 		],
 		"hive_boss_1_5": [
-			"Aku melanjutkan eksperimenku dengan artefak ajaib ini dan sekarang memahaminya lebih dari siapa pun. Aku sekarang bisa mengendalikan pikiran beruang! Sekarang kau ada di sini, aku bisa menghancurkan pemberontakanmu..."
+			"Aku melanjutkan eksperimenku dengan artefak ajaib ini dan sekarang memahaminya lebih dari siapa pun. Sekarang aku bisa mengendalikan pikiran beruang! Sekarang kau ada di sini, aku bisa menghancurkan pemberontakanmu..."
 		],
 		"hive_boss_1_6": [
 			"Jangan bergerak, tidak akan sakit. Mungkin."
@@ -9965,49 +10082,49 @@
 			"Wow, hampir saja!"
 		],
 		"hive_boss_1_8": [
-			"Refleks yang bagus, kawan! Sepertinya aku tidak akan menyentuhmu dengan laser itu, tapi mungkin Ratu Beeatrice sendiri bisa menenangkanmu."
+			"Refleks yang bagus, saudaraku! Sepertinya aku tidak akan menyentuhmu dengan laser itu, tapi mungkin Ratu Beeatrice sendiri bisa menenangkanmu."
 		],
 		"hive_boss_2_1": [
 			"Kau tidak bisa melarikan diri lagi!"
 		],
 		"hive_boss_2_2": [
-			"Mantranya tidak dikalibrasi untuk Backpacker! Oh tidak... tidak tidak tidak TIDAK! Ini sangat salah!"
+			"Mantra nya tidak dikalibrasi untuk Backpacker! Oh tidak... tidak, tidak, tidak! Ini sangat salah!"
 		],
 		"hive_boss_3_1": [
-			"Oke Shicka, saatnya untuk melawan saya yang sebenarnya!"
+			"Baiklah, Shicka. Saatnya untuk melawan diriku yang sebenarnya!"
 		],
 		"hive_ending_1": [
 			"Maaf aku melawanmu, beruang sayangku. Aku bukan diriku sendiri di sana, Kernel itu... bertindak di pikiranku."
 		],
 		"hive_ending_2": [
-			"Dari yang terlihatzz, Kernel meledak ketika menabrak Hivvve dalam perjalanannya ke bawah... Kami diteleportasi ke sini entah bagaimana, tapi saudaramu mungkin berakhir di tempat lain."
+			"Dari yang terlihat, Kernel itu meledak saat menabrak sarang lebah sewaktu turun ke bawah... Kami diteleportasi ke sini entah bagaimana, tapi saudaramu mungkin sudah berakhir di tempat lain."
 		],
 		"hive_ending_3": [
-			"Hivvve sudah tidak ada lagi, tapi sekarang aku bebas, aku akan menutup pabrik madu ungu dan mengembalikan kedamaian di kerajaanku."
+			"Sarang lebah sudah tidak ada lagi, tapi sekarang setelah aku bebas, aku akan menutup pabrik madu ungu dan mengembalikan kedamaian di kerajaanku."
 		],
 		"hive_ending_4": [
-			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semua orang. Mari kita berkumpul di desa beruang, bolehkah kita?"
+			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semua orang. Mari berkumpul di desa beruang!"
 		],
 		"hive_maybee": [
-			"Bearszz sangat mengerikan tapi mungkin aku bisa mendapatkan keuntungan darimu. Aku beeszzy melakukan beeszziness."
+			"Beruang sangat mengerikan tapi mungkin aku bisa mendapatkan keuntungan darimu. Aku sibuk melakukan bisnis."
 		],
 		"hive_shop": [
 			"Toko hadiah Maybee"
 		],
 		"hive_shop_equip": [
-			"Lengkapi"
+			"Pakai"
 		],
 		"hive_shop_unequip": [
 			"Kembali ke pakaian sebelumnya"
 		],
 		"hive_sign_1": [
-			"Pintu masuk sarang. Dilarang masuk tanpa izin."
+			"Pintu masuk sarang lebah. Dilarang masuk tanpa izin."
 		],
 		"hive_sign_2": [
-			"Properti lebah. Jangan masuk."
+			"Properti lebah. Dilarang masuk."
 		],
 		"hive_sign_3": [
-			"Peringatan terakhir. Jangan masuk."
+			"Peringatan terakhir. Dilarang masuk."
 		],
 		"hive_task_boss": [
 			"Selamatkan kerajaan"
@@ -10019,43 +10136,43 @@
 			"Selamatkan 8 beruang di {0}"
 		],
 		"hive_task_unlock": [
-			"Buka kunci persyaratan:"
+			"Syarat untuk membuka:"
 		],
 		"hub_bear_01": [
-			"Terima kasih karena telah menyelamatkan aku dari gua golem!"
+			"Terima kasih karena telah menyelamatkanku dari gua golem!"
 		],
 		"hub_bear_02": [
-			"Lihatlah platform batu di belakangku, Kamu dapat pergi ke sana untuk mengubah kostummu."
+			"Lihatlah platform batu di belakangku, kamu dapat pergi ke sana untuk mengubah kostummu."
 		],
 		"hub_bear_03": [
-			"Aku ingin tahu di mana sebenarnya Ratu Lebah ..."
+			"Aku ingin tahu di mana Ratu Lebah yang sebenarnya..."
 		],
 		"hub_bear_04": [
-			"Kamu pasti telah memakan banyak waktu untuk menemukan semua koin di Kampung Penyu!"
+			"Kau pasti telah memakan banyak waktu untuk menemukan semua koin di Desa Kura-kura!"
 		],
 		"hub_bear_05": [
-			"Pengorbanan diri sebuah kebajikan yang mulia."
+			"Pengorbanan diri adalah syarat kebajikan."
 		],
 		"hub_bear_06": [
-			"Kamu berhasil menjaga keseimbangan pada platform berputar itu, Kamu memiliki banyak bakat!"
+			"Kau berhasil menjaga keseimbangan pada platform berputar itu, kau memiliki banyak bakat!"
 		],
 		"hub_bear_07": [
-			"Kamu pahlawanku Baaren, tanpa Kamu aku masih akan berada di kandang ..."
+			"Kau adalah pahlawanku Baaren, tanpamu aku pasti masih akan terkurung di kandang..."
 		],
 		"hub_bear_08": [
-			"Lebah menyembunyikanku di sudut atas sungai, untungnya Kamu melihat aku ..."
+			"Para lebah menyembunyikanku di sudut atas sungai, untung saja kau melihatku..."
 		],
 		"hub_bear_09": [
-			"Hebat sekali, Kamu mengalahkan Yeti, terima kasih!"
+			"Hebat sekali, Kau mengalahkan Yeti itu, terima kasih!"
 		],
 		"hub_bear_10": [
 			"Aku bisa melihat seluruh lembah dari kandangku di puncak gunung."
 		],
 		"hub_bear_11": [
-			"Aku senang akhirnya kembali di sini, lembah itu mengerikan."
+			"Aku senang aku akhirnya bisa kembali ke sini, lembah itu mengerikan."
 		],
 		"hub_bear_12": [
-			"Mungkin kita juga harus membawa penguin ke sini untuk menyelamatkan mereka?"
+			"Mungkin kita juga harus membawa para penguin ke sini untuk menyelamatkan mereka?"
 		],
 		"hub_bear_13": [
 			"Teka teki itu cukup susah ya?"
@@ -10064,49 +10181,49 @@
 			"Vladimir tidak takut monster di bawah salju."
 		],
 		"hub_bear_15": [
-			"Beruang itu pergi skrrrahh, pap, pap, ka-ka-ka. Skidiki-pap-smear, dan pu-pu-pudrrrr-boom!"
+			"Beruang itu berbunyi skrrrahh, pap, pap, ka-ka-ka. Skidiki-pap-smear, dan pu-pu-pudrrrr-boom!"
 		],
 		"hub_bear_16": [
-			"Kamu tidak tahu apa-apa beruang Baaren."
+			"Kau tidak tahu apa-apa beruang Baaren."
 		],
 		"hub_bear_17": [
-			"Sangat menyenangkan akhirnya kembali kesini, sudah terlalu lama aku terkunci di piramid itu."
+			"Aku senang aku akhirnya bisa kembali ke sini, sudah terlalu lama aku terkurung di piramida itu."
 		],
 		"hub_bear_18": [
-			"Binatang Fennecs begitu menggemaskan, aku ingin mengadopsi satu!"
+			"Binatang Fennec begitu menggemaskan, aku mau pelihara satu!"
 		],
 		"hub_bear_19": [
-			"Nenek moyang kita adalah pelindung padang pasir tapi kami kembali ke tempat ini setelah beberapa generasi."
+			"Nenek moyang kita adalah pelindung gurun, tapi kami kembali ke tempat ini setelah beberapa generasi."
 		],
 		"hub_bear_20": [
-			"Kamu harus tahu padang pasir seperti punggung tangan Kamu, karena sekarang Kamu sudah menemukan semua koin!"
+			"Kau pasti sudah mengenal daerah gurun itu seperti punggung tanganmu sekarang, karena kau sudah menemukan semua koin nya!"
 		],
 		"hub_bear_21": [
-			"Ratu Lebah mempersiapkan sesuatu yang mengerikan, dia pergi ke padang pasir untuk mempersiapkan unsur terakhir dari rencananya."
+			"Ratu Lebah sedang mempersiapkan sesuatu yang mengerikan, dia pergi ke gurun untuk mempersiapkan unsur terakhir dari rencananya."
 		],
 		"hub_bear_22": [
-			"Dinding itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
+			"Dinding itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin para lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
 		],
 		"hub_bear_23": [
-			"Sebuah legenda mengatakan piramid ini berisi pusaka yang memberikan kekuatan besar untuk pemiliknya. Aku berharap pusaka itu tidak benar adanya ..."
+			"Sebuah legenda mengatakan bahwa piramida itu berisi peninggalan yang memberikan kekuatan besar untuk pemiliknya. Kuharap peninggalan itu tidak benar keadaanya..."
 		],
 		"hub_bear_24": [
-			"Pembangunan tembok itu mungkin pekerjaan yang luar biasa, lebah harus memiliki alasan penting untuk membangun itu."
+			"Pembangunan tembok itu mungkin pekerjaan yang luar biasa, lebah pasti punya alasan yang penting untuk membangun itu."
 		],
 		"hub_bear_25": [
-			"*suara suara bayi senang*"
+			"*suara bayi senang*"
 		],
 		"hub_bear_26": [
-			"*suara suara bayi lelah*"
+			"*suara bayi lelah*"
 		],
 		"hub_bear_27": [
-			"*suara suara bayi marah*"
+			"*suara bayi marah*"
 		],
 		"hub_bear_28": [
-			"Hukum gerak Newton yang ketiga sepertinya tidak berlaku di dunia ini."
+			"Hukum gerak Newton yang ketiga tampaknya tidak berlaku di dunia ini."
 		],
 		"hub_bear_29": [
-			"*Tatapan kebingungan*"
+			"*menatap dengan bingung*"
 		],
 		"hub_bear_30": [
 			"Abacadaba!"
@@ -10115,82 +10232,82 @@
 			"*kentut*"
 		],
 		"hub_bear_32": [
-			"Saya adalah beruang."
+			"Aku beruang."
 		],
 		"hub_capitalos": [
-			"Halooo! ini aku, Capitalooos, saudaranya Capitalus! Kalo kamu mau mendukung pengembang aplikasi ini, aku akan memberikanmu hadiaaah!"
+			"Halooo! ini aku, Capitalooos, saudaranya Capitalus! Kalau kau ingin mendukung developer game ini, aku akan memberikanmu hadiaaah!"
 		],
 		"hub_capitalus": [
-			"Halooo! Ini aku, Capitaluuus! Kalo kamu mau menonton iklan, aku akan memberikanmu hadiaaah!"
+			"Halooo! Ini aku, Capitaluuus! Kalau kau ingin menonton iklan, aku akan memberikanmu hadiaaah!"
 		],
 		"hub_scientist": [
-			"Jangan khawatir, mesin pengecil kemungkinan besar aman digunakan."
+			"Jangan khawatir, mesin pengecil ini kemungkinan besar aman digunakan."
 		],
 		"hub_sign_1": [
-			"Selamat datang di hub! Pergi ke lingkaran biru untuk memasuki suatu tingkat."
+			"Selamat datang di hub! Pergi ke lingkaran biru untuk memasuki suatu level."
 		],
 		"hub_tristopio": [
-			"Halo yang disana! Apakah Kamu mencari sebuah misi keren? Sepertinya aku memiliki apa yang Kamu cari!"
+			"Halo yang disana! Apa kau sedang mencari sebuah misi keren? Sepertinya aku punya apa yang kau cari!"
 		],
 		"intro_1_1": [
 			"Selama berabad-abad, ada sebuah kerajaan di mana makhluk hidup dalam kedamaian di bawah kekuasaan dinasti Lebah."
 		],
 		"intro_1_2": [
-			"Ratu Beeatrice, sang ratu lebah, adalah penguasa yang dicintai, dia adil dan dihargai oleh semua orang. Keseimbangan antara semua makhluk sangat sempurna."
+			"Ratu Beeatrice, sang ratu lebah, adalah penguasa yang dicintai, dia adil dan dihargai oleh semua orang. Keseimbangan antara semua makhluk itu sangat sempurna."
 		],
 		"intro_1_3": [
 			"Sampai..."
 		],
 		"intro_2_1": [
-			".... lebah mulai memproduksi jenis madu yang berbeda di dalam sarang. Tak lama setelah itu, rasa baru dan warna ungu ini disukai oleh semua orang."
+			"...lebah mulai memproduksi jenis madu yang berbeda di sarang lebah. Tak lama kemudian, rasa baru dan warna ungu ini disukai oleh semua orang."
 		],
 		"intro_2_2": [
-			"Sayangnya, makhluk-makhluk yang mengkonsumsinya segera mulai berubah menjadi gila dan menyerang teman-teman mereka seperti binatang yang tidak punya pikiran."
+			"Sayangnya, makhluk-makhluk yang mengkonsumsinya segera mulai berubah menjadi gila dan menyerang teman-teman mereka seperti binatang yang tidak berakal."
 		],
 		"intro_2_3": [
-			"Tidak ada yang tahu mengapa lebah-lebah itu mulai mendatangkan malapetaka pada kerajaan mereka sendiri, dan penghuninya terlalu lemah untuk melawan."
+			"Tidak ada yang tahu mengapa lebah-lebah itu mulai mendatangkan malapetaka pada kerajaan mereka sendiri, dan penduduknya terlalu lemah untuk melawan."
 		],
 		"intro_3_1": [
-			"Tak lama kemudian, lebah-lebah itu menyadari bahwa beruang secara misterius tidak terpengaruh oleh madu ungu."
+			"Tak lama kemudian, para lebah menyadari bahwa beruang secara misterius tidak terpengaruh oleh madu ungu."
 		],
 		"intro_3_2": [
-			"Perlawanan ini menyebabkan kerugian mereka: lebah menyerbu Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
+			"Perlawanan ini menyebabkan kerugian mereka: para lebah menyerbu Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
 		],
 		"intro_4_1": [
-			"Untungnya, seekor beruang berhasil menghindari serangan itu. Tetapi sekarang, nasib orang-orang berada di pundaknya."
+			"Untungnya, seekor beruang berhasil menghindari serangan itu. Tetapi sekarang, nasib rakyat berada di pundaknya."
 		],
 		"intro_4_2": [
-			"Dunia membutuhkan seorang pahlawan. Seseorang untuk mengembalikan keseimbangan, seseorang untuk mengakhiri malapetaka ungu ini."
+			"Dunia membutuhkan seorang pahlawan. Seseorang untuk memulihkan keseimbangan, seseorang untuk mengakhiri malapetaka ungu ini."
 		],
 		"intro_4_3": [
-			"Maukah kamu menyelamatkan kami, Baaren?"
+			"Maukah kau menyelamatkan kami, Baaren?"
 		],
 		"level1_boss_1_1": [
-			"Baaren! Kau datang untuk menyelamatkanku! Hati-hati, Turtle Golem sangat berbahaya!"
+			"Baaren! Kau datang untuk menyelamatkanku! Hati-hati, Golem Kura-kura sangat berbahaya!"
 		],
 		"level1_boss_1_2": [
-			"Ketika ia menyerang Anda, hindari serangannya dan tunggu sampai ia kelelahan sebelum melawan balik."
+			"Saat dia menyerangmu, hindari serangannya dan tunggu sampai dia kelelahan sebelum melawan balik."
 		],
 		"level1_boss_1_3": [
-			"Juga, perhatikan batu-batu yang jatuh dari langit-langit! Aku percaya padamu, Baaren!"
+			"Juga, perhatikan batu-batu yang jatuh dari atas! Aku percaya padamu, Baaren!"
 		],
 		"level1_boss_1_4": [
-			"Awas, dia menyerangmu!!!!"
+			"Awas, dia menyerangmu!"
 		],
 		"level1_boss_2_1": [
-			"Kamu berhasil, kerja bagus! Kamu bisa mengambil kuncinya dan datang ke sini untuk membebaskanku."
+			"Kau berhasil, kerja bagus! Kau bisa mengambil kuncinya dan datang ke sini untuk membebaskanku."
 		],
 		"level1_boss_2_2": [
 			"Ngomong-ngomong, aku melihat saudaramu di sini sebelumnya hari ini, dia kelihatannya tidak begitu sehat. Aku harap kau akan menemukannya."
 		],
 		"level1_boss_2_3": [
-			"Aku ingin tahu apa yang dilakukan kakakmu di sini. Saya belum melihatnya dalam beberapa saat, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
+			"Aku ingin tahu apa yang dilakukan saudaramu di sini. Aku belum melihatnya untuk beberapa saat, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
 		],
 		"level1_intro_1": [
-			"Turtletown adalah tempat yang indah sebelum kejadian baru-baru ini."
+			"Desa Kura-kura adalah tempat yang indah sebelum kejadian baru-baru ini."
 		],
 		"level1_intro_2": [
-			"Cobalah berbicara dengan para kura-kura untuk mengumpulkan informasi tentang desa."
+			"Cobalah berbicara dengan para kura-kura untuk mengumpulkan informasi tentang desa ini."
 		],
 		"level1_intro_3": [
 			"Beberapa kura-kura telah terinfeksi madu ungu, waspadalah terhadap mereka!"
@@ -10199,7 +10316,7 @@
 			"Suara-suara mencurigakan terdengar di dekat sumur ini, kita harus memeriksanya."
 		],
 		"level1_sign_1": [
-			"Selamat Datang ke Kampung Penyu!"
+			"Selamat Datang di Desa Kura-kura!"
 		],
 		"level1_sign_2": [
 			"Tuas ini menutup jalan."
@@ -10214,46 +10331,46 @@
 			"Gua Golem"
 		],
 		"level1_sign_6": [
-			"Kamu perlu menemukan setidaknya 125 koin dari 150 di tingkat ini untuk membuka kandang ini."
+			"Kamu perlu menemukan setidaknya 125 koin dari 150 di level ini untuk membuka kandang ini."
 		],
 		"level1_stair_cutscene_1": [
-			"Para penyu menutup jalan ke bagian atas kampung ini untuk mengisolasi para penyu yang terkontaminasi."
+			"Para Kura-kura menutup jalan ke bagian atas desa ini untuk mengisolasi para Kura-kura yang terkontaminasi."
 		],
 		"level1_turtle_1": [
-			"Penduduk kampung ketakutan, Kamu harus membantu kami!"
+			"Penduduk desa ketakutan, kau harus membantu kami!"
 		],
 		"level1_turtle_2": [
-			"Ayahku makan madu berwarna ungu yang aneh itu dan sejak itu ia menjadi sangat jahat, Kamu harus menyelamatkannya!"
+			"Ayahku makan madu berwarna ungu yang aneh itu dan sejak saat itu dia menjadi sangat jahat, kau harus menyelamatkannya!"
 		],
 		"level1_turtle_3": [
-			"Aku lebih memilih untuk tinggal di rumah saja, hal-hal aneh terjadi di luar sana ..."
+			"Aku lebih memilih untuk tinggal di rumah saja, hal-hal aneh terjadi di luar sana..."
 		],
 		"level1_turtle_4": [
-			"Untungnya tidak ada madu berwarna ungu di bagian kampung ini."
+			"Untung saja tidak ada madu ungu di bagian desa ini."
 		],
 		"level1_turtle_5": [
-			"Bagian atas dari kampung penuh madu ungu, kami menurunkan tangga untuk mencegah penyu yang terkontaminasi datang ke sini."
+			"Bagian atas desa penuh dengan madu ungu, kami menurunkan tangga untuk mencegah kura-kura yang terkontaminasi datang ke sini."
 		],
 		"level1_turtle_6": [
-			"Para penduduk sangat menyenangkan sebelum para lebah membuat madu ungu itu ..."
+			"Para penduduk bergembira sebelum para lebah membuat madu ungu itu..."
 		],
 		"level1_turtle_7": [
-			"Sang Pertapa biasanya menceritakan kisah tentang suatu gua bawah air di Danau sebelum dia dibawa oleh lebah ..."
+			"Sang Pertapa biasanya menceritakan kisah tentang suatu gua bawah air di Danau sebelum dia dibawa oleh para lebah..."
 		],
 		"level1_tutorial_1": [
-			"Ada kandang beruang yang tersebar di sekitar area tersebut. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci-kunci itu seharusnya berada di suatu tempat di dekat kandang."
+			"Ada kandang beruang yang tersebar di sekitar area ini. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci nya seharusnya berada di dekat kandang."
 		],
 		"level1_tutorial_2": [
 			"Setelah kita membebaskan cukup banyak teman kita, kita akan dapat membuka gerbang ini."
 		],
 		"level1_tutorial_3": [
-			"Juga, perhatikan bahwa koin akan muncul kembali setiap kali kita meninggalkan level."
+			"Perhatikan juga bahwa koin akan muncul kembali setiap kali kita meninggalkan level."
 		],
 		"level2_boss_1": [
-			"Ini adalah Yeti yang terkenal... Mari kita hindari serangannya untuk saat ini. Tunggu sampai dia kelelahan sebelum menyerang."
+			"Ini dia Yeti yang terkenal itu... Mari kita hindari serangannya untuk saat ini. Tunggu sampai dia kelelahan sebelum menyerang."
 		],
 		"level2_boss_2": [
-			"Apakah kamu melihat itu? Ada seseorang di sana! yang berwarna... ungu."
+			"Apa kau melihat itu? Ada seseorang di sana! yang berwarna... ungu."
 		],
 		"level2_boss_3": [
 			"Sepertinya ada yang tidak beres dengan semua ini..."
@@ -10262,49 +10379,49 @@
 			"Bagaimanapun, kita harus menyelamatkan beruang ini dan kemudian menyelidiki Gurun Beemothep."
 		],
 		"level2_boss_5": [
-			"Dinasti lebah dimulai di sana, mungkin kita bisa menemukan jawaban di Piramida Agung Beemothep."
+			"Dinasti lebah dimulai dari sana, mungkin kita bisa menemukan jawaban di Piramida Besar Beemothep."
 		],
 		"level2_intro_1": [
-			"Lembah Salju juga telah diserang oleh lebah."
+			"Lembah Salju juga telah diserang oleh para lebah."
 		],
 		"level2_intro_2": [
 			"Beberapa penguin dan rusa kutub yang tinggal di sini belum terkontaminasi. Bicaralah dengan mereka untuk mengumpulkan informasi tentang lingkungan sekitar."
 		],
 		"level2_intro_3": [
-			"Hati-hati dengan monster yang menggali di bawah salju! Tetaplah berada di platform agar tidak mengganggu mereka!"
+			"Hati-hati dengan monster yang menggali di bawah salju! Tetap di atas platform agar tidak mengganggu mereka!"
 		],
 		"level2_intro_4": [
 			"Dikatakan bahwa teriakan datang dari arah ini di malam hari..."
 		],
 		"level2_penguin_1": [
-			"Para sesepuh kampung ini mengatakan bahwa Yeti tinggal di sekitaran daerah ini..."
+			"Para tetua desa ini mengatakan bahwa Yeti tinggal di sekitaran daerah ini..."
 		],
 		"level2_penguin_2": [
 			"Aku penggemar teka-teki! Jadi aku membangun teka-teki menggunakan kayu di bawah lembah."
 		],
 		"level2_penguin_3": [
-			"Kamu dapat memanjat dinding ini di belakangku, ini adalah jalan pintas ke puncak gunung."
+			"Kau bisa memanjat tebing ini di belakangku, ini adalah jalan pintas ke puncak gunung."
 		],
 		"level2_penguin_4": [
-			"Jika Kamu menemukan Raja Rusa, cobalah untuk mencapai ketinggian untuk melompat ke kepalanya."
+			"Jika kau menemukan Raja Rusa, cobalah untuk mencapai ketinggian untuk melompat di atas kepalanya."
 		],
 		"level2_penguin_5": [
-			"Ada lift di ujung sungai tetapi Kamu harus terlebih dahulu mendaki gunung untuk mengaktifkannya."
+			"Ada lift di ujung sungai, tetapi kau harus mendaki gunung terlebih dahulu untuk mengaktifkannya."
 		],
 		"level2_penguin_6": [
-			"Aku lebih memilih untuk tinggal tersembunyi dalam igloo-ku, ada terlalu banyak hal-hal aneh di luar sana ..."
+			"Aku lebih memilih untuk tetap tersembunyi dalam igloo-ku, ada terlalu banyak hal-hal aneh di luar sana..."
 		],
 		"level2_reindeer_1": [
 			"Mesin penggergajian rusak, tidak mungkin untuk menghentikan gergaji!"
 		],
 		"level2_reindeer_2": [
-			"Teman-temanku di luar sana menjadi gila! Kamu harus membantu kami untuk melawan lebah ..."
+			"Teman-temanku di luar sana menjadi gila! Kau harus membantu kami untuk melawan lebah-lebah itu..."
 		],
 		"level2_reindeer_3": [
-			"Aku berlindung di atap rumahku, terlalu berbahaya di bawah sana dengan semua madu ungu."
+			"Aku berlindung di atap rumahku, terlalu berbahaya di bawah sana dengan semua madu ungu itu."
 		],
 		"level2_sign_1": [
-			"Tempat penggergajian kayu"
+			"Tempat penggergajian"
 		],
 		"level2_sign_2": [
 			"Kuncinya ada di dalam salah satu igloo."
@@ -10319,163 +10436,163 @@
 			"Sarang Yeti"
 		],
 		"level3_boss_1_1": [
-			"Baaren! Anda berhasil sampai di sini! Aku sangat senang melihatmu! Perhatikan jalanmu, makam ini mungkin penuh dengan jebakan berbahaya."
+			"Baaren! Kau berhasil sampai di sini! Aku sangat senang melihatmu! Perhatikan jalanmu, makam ini mungkin penuh dengan jebakan berbahaya."
 		],
 		"level3_boss_1_2": [
-			"Ruangan ini adalah tempat Kernel dikatakan tersembunyi. Ini adalah artefak yang sangat tua dan kuat."
+			"Ruangan ini adalah tempat Kernel disembunyikan. Itu adalah artefak yang sangat tua dan kuat."
 		],
 		"level3_boss_1_3": [
-			"Lebah merencanakan hal-hal aneh dengan Kernel. Kurasa ini berhubungan dengan madu ungu."
+			"Para lebah merencanakan hal-hal aneh dengan Kernel. Kurasa ini berhubungan dengan madu ungu."
 		],
 		"level3_boss_1_4": [
 			"Tolong, temukan cara untuk mengeluarkanku dari sini agar kita bisa pulang!"
 		],
 		"level3_boss_2_1": [
-			"Oof, itu menakutkan. Kernel tidak ada di sini, lebah pasti mencurinya sebelum kita sampai di sini."
+			"Astaga, itu tadi menakutkan. Kernel nya tidak ada di sini, para lebah pasti telah mencurinya sebelum kita sampai di sini."
 		],
 		"level3_boss_2_2": [
 			"Ilmuwan di Desa Beruang mungkin tahu beberapa hal tentang artefak ini."
 		],
 		"level3_crocodile_1": [
-			"Teman-teman kita yang terkontaminasi oleh madu ungu telah kembali ke naluri utama mereka, mereka berburu di dalam air. Hati-hati."
+			"Teman-teman kami yang terkontaminasi oleh madu ungu telah kembali ke naluri utama mereka, mereka berburu di dalam air. Hati-hati."
 		],
 		"level3_crocodile_2": [
-			"Tidak seperti kita, beruang tidak lincah di dalam air. Pancing buaya terkontaminasi ke dekat tepi air untuk dapat melompat ke mereka."
+			"Tidak seperti kami, beruang tidak terlalu lincah di dalam air. Pancing buaya yang terkontaminasi ke tepi air untuk dapat melompat ke mereka."
 		],
 		"level3_crocodile_3": [
-			"Sejak pembangunan dinding itu beberapa tahun yang lalu, sekarang menjadi sulit untuk mencari makanan ..."
+			"Sejak pembangunan tembok itu beberapa tahun yang lalu, sekarang mencari makanan menjadi sangat sulit..."
 		],
 		"level3_crocodile_4": [
-			"Hei, kamu seperti patung yang ada di reruntuhan! Para lebah membuat dinding ini sebelum aku lahir, aku tidak pernah melihat dunia luar selain yang ada di dalam dinding ini."
+			"Hei, kau seperti patung yang ada di reruntuhan itu! Para lebah membuat tembok ini sebelum aku lahir, jadi aku tidak pernah melihat dunia luar selain yang ada di dalam tembok ini."
 		],
 		"level3_fennec_1": [
-			"Sejak kedatangan lebah, beberapa rekan kami telah terkontaminasi. Mereka berkeliaran di luar kampung menyerang segala sesuatu yang mendekati mereka."
+			"Sejak kedatangan para lebah, beberapa teman kami telah terkontaminasi. Mereka berkeliaran di luar desa menyerang apa pun yang mendekati mereka."
 		],
 		"level3_fennec_2": [
-			"Lebah tampaknya tertarik pada piramida, mereka mungkin mencoba untuk memulihkan artefak tua."
+			"Para lebah tampaknya tertarik pada piramida, mereka mungkin mencoba untuk memulihkan sebuah artefak tua."
 		],
 		"level3_fennec_3": [
-			"Lihatlah apa yang para lebah lakukan terhadap wilayah kita yang indah ... Ini adalah bencana. Dinding besar ini mengisolasi kita dari seluruh dunia."
+			"Lihatlah apa yang para lebah telah lakukan terhadap wilayah kami yang indah... Ini bencana. Tembok besar ini mengisolasi kami dari seluruh dunia."
 		],
 		"level3_fennec_4": [
-			"Akses ke sumber air sangat sulit karena buaya telah menetap di oasis. Kami berada di sana pertama!"
+			"Akses ke sumber air sangat sulit karena buaya telah menetap di mata air. Kami berada di sana lebih dulu!"
 		],
 		"level3_fennec_5": [
-			"Ribuan tahun yang lalu, nenek moyangku adalah hamba lebah. Mereka membangun piramida untuk salah satu ratu terbesar."
+			"Ribuan tahun yang lalu, nenek moyangku adalah hamba para lebah. Mereka membangun piramida untuk salah satu ratu terbesar."
 		],
 		"level3_fennec_6": [
 			"Beberapa tahun yang lalu, beberapa lebah mulai membangun dinding raksasa ini tanpa pengetahuan sang ratu. Mereka sudah mulai menyiapkan sesuatu bahkan sebelum penculikan sang ratu!"
 		],
 		"level3_fennec_7": [
-			"Keluargaku ingin kabur dari sini setelah kedatangan Madu Ungu, tapi dinding itu menghalangi kita."
+			"Keluargaku ingin kabur dari daerah ini setelah kedatangan madu ungu itu, tapi tembok itu mencegah kami untuk melakukannya."
 		],
 		"level3_fennec_8": [
-			"Pada zaman kuno, sebelum kedatangan dinasti lebah, beruang membawa perdamaian ke padang pasir ini. Buktinya, ada banyak patung beruang di padang pasir ini."
+			"Pada zaman kuno, sebelum kedatangan dinasti lebah, beruang membawa perdamaian ke gurun ini. Buktinya, ada banyak patung beruang di gurun ini."
 		],
 		"level3_intro_1": [
-			"Padang pasir Beemothep merupakan daerah yang lebih besar dari apa yang kita telah jalajahi sejauh ini."
+			"Gurun Beemothep adalah daerah yang lebih besar dari apa yang kita telah jalajahi sejauh ini."
 		],
 		"level3_intro_2": [
-			"Kita bisa pergi dan menjelajahi oasis, Kampung Buaya, Kampung Fennec, banyak reruntuhan, kuil, dan banyak hal lainnya."
+			"Kita bisa pergi dan menjelajahi mata air, Desa Buaya, Desa Fennec, banyak reruntuhan, kuil, dan banyak hal lainnya!"
 		],
 		"level3_intro_3": [
-			"Para lebah telah membangun dinding di sekitaran kampung-kampung. Mereka tertarik dengan piramid. Tanya para penduduk untuk mendapatkan informasi."
+			"Para lebah tampaknya telah membangun tembok di sekitaran desa. Mereka tertarik dengan piramida. Tanya para penduduk untuk mendapatkan informasi."
 		],
 		"level3_intro_4": [
-			"Untuk menjelajahi padang pasir ini, kita akan menggunakan motor beroda 4. Saat menyetir, gunakan kendali udara untuk menghindari terjungkir balik."
+			"Untuk menjelajahi gurun ini, kita akan menggunakan motor quad ini. Saat menyetir, gunakan kendali udara untuk menghindari terjungkir balik."
 		],
 		"level3_sign_1": [
-			"Penyewaan motor beroda 4 untuk segala kegiatanmu di padang pasir. Berjalan diatas tombol merah untuk mengambil motormu."
+			"Penyewaan motor quad untuk segala kegiatanmu di gurun. Berjalanlah diatas tombol merah untuk mendapatkan kendaraanmu lagi."
 		],
 		"level3_sign_2": [
-			"Kampung Fennec"
+			"Desa Fennec"
 		],
 		"level3_sign_3": [
-			"DILARANG UNTUK UMUM // JANGAN MASUK"
+			"DILARANG UNTUK UMUM//JANGAN MASUK"
 		],
 		"level4_boss_1_1": [
-			"Aku sudah e-e-mengharapkanmu, beruang kecil, aku sudah mengawasimu sejak kau melangkah ke rumah ini..."
+			"Aku sudah me-me-menunggumu beruang kecil, aku sudah mengawasimu sejak kau masuk ke rumah ini..."
 		],
 		"level4_boss_1_2": [
-			"Kau tampak su-su-su-terkejut. Teman ilmuwanmu lupa memberitahumu tentang aku? SETELAH SEMUA YANG DIA LAKUKAN PADAKU?!"
+			"Kau tampak te-te-te-terkejut. apakah teman ilmuwanmu lupa memberitahumu tentang aku? SETELAH SEMUA YANG DIA LA-LA-LAKUKAN PADAKU?!"
 		],
 		"level4_boss_1_3": [
-			"Dia membuatku menjadi raksasa dan pintar selama eksperimennya, tapi dia tidak akan membiarkan aku bebas. Aku adalah favoritnya, pencapaian terbesarnya."
+			"Dia membuatku menjadi raksasa dan pintar selama eksperimennya, tapi dia tidak akan membiarkan aku b-b-be-bebas. Aku adalah favoritnya, pencapaian terbesarnya."
 		],
 		"level4_boss_1_4": [
-			"Kau pikir aku mengunci pintu jebakan ruang bawah tanah untuk hi-hi-hide? Itu adalah jebakan, dan kau jatuh tepat ke dalamnya!"
+			"Kau pikir aku mengunci pintu jebakan ruang bawah tanah untuk be-be-bersembunyi? Itu adalah jebakan, dan kau jatuh tepat ke d-d-dalamnya!"
 		],
 		"level4_boss_1_5": [
-			"Kau sangat kecil, beruang kecil, aku bisa dengan mudah meremukkanmu!"
+			"Kau sangat ke-ke-kecil, beruang kecil, aku bisa dengan mudah me-me-menghancurkanmu!"
 		],
 		"level4_boss_2_1": [
-			"Terima kasih banyak karena telah menghadapinya, dia berbahaya dan tak terduga... hmm... tidak seperti aku, kan?"
+			"Terima kasih banyak karena telah menghadapinya, dia berbahaya dan tak terduga... Hmm... tidak seperti saya, 'kan?"
 		],
 		"level4_boss_2_2": [
-			"Aku harus mengakui sesuatu. Sebelum insiden madu ungu, seseorang masuk ke rumahku pada suatu malam dan mencuri beberapa karyaku mengenai Kernel."
+			"Saya harus mengakui sesuatu. Sebelum insiden madu ungu, seseorang masuk ke rumah saya pada suatu malam dan mencuri beberapa karya saya mengenai Kernel."
 		],
 		"level4_boss_2_3": [
-			"Saya tidak melihat wajahnya tapi dia adalah seekor beruang. Saya tidak yakin lebah berada di balik semua kegilaan ini. Saya pikir seseorang menjebak mereka."
+			"Saya tidak melihat wajahnya tapi dia adalah seekor beruang. Saya tidak yakin para lebah berada di balik semua kegilaan ini. Saya pikir seseorang menjebak mereka."
 		],
 		"level4_boss_2_4": [
-			"Anda harus pergi ke Hive, saya yakin kebenaran menunggu kita di sana."
+			"Anda harus pergi ke sarang lebah, saya yakin kebenaran menunggu kita di sana."
 		],
 		"level4_crogo_1": [
-			"Halo kecil. Namaku Crogo sang buaya. Crogo tidak pernah melihat berubah sekecil kamu. Mungkin kamu bisa menolong Crogo."
+			"Hai kecil. Namaku Crogo sang buaya. Crogo tidak pernah melihat beruang sekecil kamu. Mungkin kamu bisa menolong Crogo."
 		],
 		"level4_crogo_2": [
-			"Crogo pergi meninggalkan oasis melalui terowongan bawah air karena Crogo memerlukan makanan, dan terperangkap disini."
+			"Crogo pergi meninggalkan mata air melalui terowongan bawah air karena Crogo memerlukan makanan, dan terperangkap disini."
 		],
 		"level4_crogo_3": [
-			"Crogo makan beberapa tikus dan salah satu dari mereka membawa barang berbahan beso dan perutku sekarang kesakitan."
+			"Crogo makan beberapa tikus dan salah satu dari mereka membawa barang berbahan besi, dan sekarang perut Crogo kesakitan."
 		],
 		"level4_crogo_4": [
-			"Mungkin kamu bisa masuk kesana untuk memeriksa apa yang membuat sakit dan menghilangkannya."
+			"Mungkin kamu bisa masuk kesana untuk memeriksa apa yang menyebabkan rasa sakit nya dan menghilangkannya."
 		],
 		"level4_hairless_rat": [
-			"Hai beruang kecil. Saya Violette si tikus tak berbulu. Tikus-tikus lain jahat, mereka melarang saya karena saya tidak punya rambut. Aku tidak menggigit, hanya baik. Aku hanya ingin berteman. Apakah kamu temanku?"
+			"Hai beruang kecil. Aku Violette si tikus tak berbulu. Tikus-tikus lain jahat, mereka mengusirku karena aku tidak mempunyai bulu. Aku tidak menggigit, aku baik. Aku hanya ingin berteman. Apa kamu temanku?"
 		],
 		"level4_intro_1": [
-			"Wow menjadi kecil terasa aneh... rumah ini menjadi seperti raksasa!"
+			"Wow, menjadi kecil terasa aneh... rumah ini menjadi seperti raksasa!"
 		],
 		"level4_intro_2": [
-			"Aku harap kita tidak akan berakhir di tempat-tempat aneh ..."
+			"Aku harap kita tidak akan berakhir di tempat-tempat aneh..."
 		],
 		"level4_intro_3": [
-			"Para curut hidup di lantai atas. Mereka spesies yang damai, tapi terkadang mereka bisa egois. Kita perlu ajak bicara mereka untuk mencari tahu apakah mereka punya informasi penting untuk mencari para bayi."
+			"Para curut tinggal di lantai atas. Mereka spesies yang damai, tapi terkadang mereka bisa egois. Kita perlu ajak mereka bicara untuk mencari tahu apakah mereka punya informasi penting untuk mencari para bayi."
 		],
 		"level4_intro_4": [
-			"Disisi lain para tikus itu gila dan akan menyerang begitu mereka melihat kita. Sebagian besar dari mereka ada di Kota Tikus dibawah tangga, sebelahnya pintu masuk basement"
+			"Di sisi lain para tikus itu gila dan akan menyerang begitu mereka melihat kita. Sebagian besar dari mereka ada di Kota Tikus dibawah tangga, di sebelah pintu masuk ruang bawah tanah."
 		],
 		"level4_mouse_1": [
-			"Ada tutup botol berkarat tua di Kota Tikus. Barang itu adalah barang pusakaku, diwarisi dari generasi ke generasi di keluargaku. Kalau kamu bisa bawa barang itu kembali kesini, aku akan berikan kunci ini."
+			"Ada tutup botol berkarat tua di Kota Tikus. Barang itu adalah satu-satunya barang pusakaku, diwarisi dari generasi ke generasi di keluargaku. Kalau kau bisa bawa barang itu kembali kesini, aku akan memberikanmu kunci ini."
 		],
 		"level4_mouse_2": [
 			"Aku tinggal di roda keju, rumahku terbuat dari makanan. Ini adalah surga."
 		],
 		"level4_mouse_3": [
-			"Curut tinggal diatas, tapi kita harus turun untuk mencari makanan. Tikus-tikus ini sangat bodoh, tapi mereka tetap berbahaya."
+			"Para curut tinggal diatas, tapi kami harus turun ke bawah untuk mencari makanan. Tikus-tikus itu sangat bodoh, tapi mereka tetap berbahaya."
 		],
 		"level4_mouse_4": [
-			"Kami sudah membangun benteng ini sebagai rumah, ini nyaman dan berwarna-warni di sini."
+			"Kami membangun kastil ini sebagai rumah, di sini nyaman dan berwarna-warni."
 		],
 		"level4_mouse_5": [
 			"Menginjak balok-balok ini sangat menyakitkan kakiku!"
 		],
 		"level4_mouse_6": [
-			"Tinggal di kastil balok seperti bermain game terkenal itu yang ada balok-baloknya!"
+			"Tinggal di kastil balok ini berasa seperti bermain game terkenal itu yang ada balok-baloknya!"
 		],
 		"level4_mouse_7": [
-			"Aku yang terbaik di permainan petak umpet!"
+			"Aku paling jago dalam permainan petak umpet!"
 		],
 		"level4_mouse_8": [
-			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantulkan diri pada bantal."
+			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantulkan di atas bantal."
 		],
 		"level4_sign_1": [
-			"Kamu perlu menemukan setidaknya 175 koin dari 200 di tingkat ini untuk membuka kandang ini."
+			"Kamu perlu menemukan setidaknya 175 koin dari 200 di level ini untuk membuka kandang ini."
 		],
 		"loading_1": [
-			"Jika permainan berjalan terlalu lambat, coba lihat di menu pengaturan."
+			"Jika game berjalan terlalu lambat, coba lihat menu pengaturan."
 		],
 		"loading_10": [
 			"Jangan ragu untuk mengeksplorasi hub untuk menemukan beberapa hal menarik."
@@ -10490,61 +10607,61 @@
 			"Nyawa muncul kembali setelah 30 detik."
 		],
 		"loading_2": [
-			"Permainan ini masih dalam versi beta jadi jika Kamu menemukan bug, tolong laporkan di server Discord."
+			"Jika kamu menemukan sebuah bug, tolong laporkan di server Discord kami."
 		],
 		"loading_3": [
-			"Kamu perlu untuk membuka pintu koin pada masing-masing tingkat sebelum dapat menyelamatkan beruang."
+			"Ingatlah untuk melakukan penyimpanan cloud secara manual dari waktu ke waktu."
 		],
 		"loading_4": [
 			"Kamu dapat menyerang musuh dengan memukul, berseluncur atau menginjak kepala mereka."
 		],
 		"loading_5": [
-			"Capitalus dapat memberikan bonus jika suatu tingkat terlalu sulit..."
+			"Capitalus dapat memberikan bonus jika suatu level terlalu sulit..."
 		],
 		"loading_6": [
-			"Jika kamu ingin melakukan speedrunning, ada opsi nya di menu pause."
+			"Jika kamu ingin speedrun, ada pengaturan nya di menu pause."
 		],
 		"loading_7": [
-			"Bergabung dengan komunitas di Discord Server! Tautan tersebut ada dalam di menu pause."
+			"Bergabunglah dengan komunitas kami di Discord! Link nya ada di menu pause."
 		],
 		"loading_8": [
-			"Beberapa hal dapat dihancurkan dengan menhentakkan perut."
+			"Beberapa hal dapat dihancurkan dengan menghentakkan perut."
 		],
 		"loading_9": [
-			"Gunakan koin Kamu dalam hub untuk membuka pakaian baru!"
+			"Gunakan koin mu di hub untuk membuka pakaian baru!"
 		],
 		"merch_ad": [
 			"Tersedia sekarang di {0}"
 		],
 		"mission_0_1": [
-			"Selamat datang di misi lantai berlava milikku. Kalo kamu menyentuh lantai, kamu akan kehilangan nyawa dan kembali ke cekpoin sebelumnya."
+			"Selamat datang di misi lantai adalah lava milikku! Kalau kamu menyentuh daratan, kamu akan kehilangan satu nyawa dan kembali ke checkpoint sebelumnya."
 		],
 		"mission_0_2": [
-			"Nyawa tidak akan muncul kembali, jadi gunakan dengan bijak. Beruang biru itu adalah cekpoin yang dapat diaktifkan dengan menyentuhnya."
+			"Nyawa tidak akan muncul kembali, jadi gunakan dengan bijak. Beruang biru itu adalah checkpoint yang dapat diaktifkan dengan menyentuhnya."
 		],
 		"mission_0_3": [
-			"Tujuan kamu adalah untuk mencapai aku tanpa mati. Semoga beruntung!"
+			"Tujuanmu adalah untuk mencapai aku tanpa mati. Semoga beruntung!"
 		],
 		"mission_1_1": [
-			"Selamat Datang di misi reli milikku! Pergi melalui setiap cincin dalam rangka dan mencoba untuk menyelesaikan satu lap sebelum aku. Semoga berhasil!"
+			"Selamat Datang di misi balapan milikku! Lewati setiap lingkaran secara berurutan dan coba selesaikan satu putaran sebelum aku. Semoga beruntung!"
 		],
 		"mission_2_1": [
-			"Selamat Datang di misi penerbangan pesawat kertas milikku! Ambil pesawat kertas dan pergi melalui setiap cincin dalam rangka. Semoga berhasil!"
+			"Selamat Datang di misi penerbangan pesawat kertas milikku! Naik pesawat kertas dan lewati setiap lingkaran secara berurutan. Semoga beruntung!"
 		],
 		"mission_3_1": [
-			"Selamat datang di misi banjir milikku! Air akan meningkat sedikit demi sedikit. Tetaplah berada di daratan agar tidak tenggelam. Tujuan kamu adalah untuk mencapai kotak mengambang kecilku. Semoga beruntung!"
+			"Selamat datang di misi banjir milikku! Air akan mulai naik secara perlahan. Tetaplah berada di dataran agar tidak tenggelam. Tujuanmu adalah untuk mencapai kotak mengambang kecilku. Semoga beruntung!"
 		],
 		"mission_4_1": [
-			"Selamat datang di misi pencarian telur milikku! Disini ada 3 telur yang tersembunyi."
+			"Selamat datang di misi berburu telur milikku! Ada 3 telur yang tersembunyi di level ini."
 		],
 		"mission_4_2": [
-			"Setelah kamu menemukan semuanya, bawa semuanya ke aku. Semoga beruntung!"
+			"Setelah kamu menemukan ketiga telurnya, bawa semuanya kepadaku. Semoga beruntung!"
 		],
 		"mission_5_1": [
-			"Selamat datang di misi masalah listrik milikku! Seperti yang kamu lihat, rumah ini kebanjiran tapi listriknya masih menyala. Disana ada sakelar di dalam ruang dibawah tangga untuk mematikan listrik. Semoga beruntung!"
+			"Selamat datang di misi masalah listrik milikku! Seperti yang kamu lihat, rumah ini kebanjiran tapi listriknya masih menyala. Ada sakelar di ruangan bawah tangga untuk mematikan listrik. Semoga beruntung!"
 		],
 		"mission_6_1": [
-			"Selamat datang di misi parkour milikku! Misi ini cukup simpel, lakukan saja parkour untuk mencapai aku."
+			"Selamat datang di misi parkour milikku! Misi ini cukup sederhana, lakukan saja parkour untuk mencapai aku."
 		],
 		"mission_6_2": [
 			"Aku sarankan kamu menghindari menyentuh air..."
@@ -10571,13 +10688,13 @@
 			"Balapan"
 		],
 		"party_bee_1": [
-			"Aku sangat menyesal telah menyakiti orang, kami hanya mengikuti perintahzz..."
+			"Maafkan aku karena telah menyakiti orang-orang, kami hanya mengikuti perintah..."
 		],
 		"party_bee_2": [
-			"Bagaimana kau menyebut lebah dengan rambut berantakan? //...//A friszzbee."
+			"Ke mana Lebah pergi saat berlibur?//...//Ke tempat Perlembahan!"
 		],
 		"party_bee_3": [
-			"Wow, kau menyelamatkan semua beruangzz! Kerja bagus! Kita pasti buruk dalam menyembunyikan kandangzz."
+			"Wow, kau menyelamatkan semua beruang! Kerja bagus! Kami pasti tidak pandai menyembunyikan kandang..."
 		],
 		"party_capitalos": [
 			"Kau diundang ke pesta secara gratis?!"
@@ -10586,22 +10703,22 @@
 			"Begitu banyak klien baru! STONKS!"
 		],
 		"party_crocodile_1": [
-			"Udara di sini pasti lebih dingin daripada di gurun."
+			"Udara di sini tentu lebih dingin daripada di gurun."
 		],
 		"party_crocodile_2": [
 			"Ini pertama kalinya aku ke sungai, rasanya lucu!"
 		],
 		"party_crocodile_3": [
-			"Air terjun sangat mengesankan! Saya belum pernah melihatnya dalam hidup saya."
+			"Air terjun sangat mengesankan! Aku belum pernah melihatnya dalam hidupku."
 		],
 		"party_crocodile_4": [
-			"Tempat ini indah... Saya terkesan."
+			"Tempat ini indah... Aku terkesan."
 		],
 		"party_fennec_1": [
 			"Toko yang bagus!"
 		],
 		"party_fennec_2": [
-			"Ratu Beeatrice sangat besar... huh, maksud saya mengatakan indah."
+			"Ratu Beeatrice sangat besar... Eh, maksudku cantik."
 		],
 		"party_fennec_3": [
 			"Aku belum pernah melihat rumput sehijau ini."
@@ -10625,7 +10742,7 @@
 			"Hidup Ratu Beeatrice!"
 		],
 		"party_reindeer_2": [
-			"Tempat ini pasti terlalu panas untukku."
+			"Tempat ini terlalu panas untukku."
 		],
 		"party_reindeer_3": [
 			"Aduh! Ada confetti di mataku, sakit!"
@@ -10634,13 +10751,13 @@
 			"Pesta! Pesta! Pesta! Pesta! Pesta!"
 		],
 		"party_turtle_1": [
-			"Kemana kura-kura pergi saat hujan? //...//Ke tempat penembakan!"
+			"Apa nama seorang kura-kura yang tidak bekerja?//...//Seseorang yang berpura-pura!"
 		],
 		"party_turtle_2": [
-			"Apakah kamu melihat telepon tempurungku?"
+			"Aku rasa ponsel ku lebih lambat daripada aku..."
 		],
 		"party_turtle_3": [
-			"Aku senang aku keluar dari tempurung dan datang ke pesta."
+			"Aku senang aku bisa keluar dari tempurung ku dan datang ke pesta."
 		],
 		"party_turtle_4": [
 			"Warna dimana-mana!"
@@ -10649,49 +10766,58 @@
 			"Lebah-lebah itu sangat baik hati mengadakan pesta ini, tapi itu tidak akan mengembalikan rumahku yang mereka hancurkan..."
 		],
 		"party_turtle_6": [
-			"Butuh waktu 6 bulan untuk sampai ke sini."
+			"Aku butuh waktu 6 bulan untuk sampai ke sini."
+		],
+		"rarity_common": [
+			"Biasa"
+		],
+		"rarity_epic": [
+			"Epik"
+		],
+		"rarity_rare": [
+			"Langka"
 		],
 		"save_bear_tip_1": [
-			"Kita berhasil membebaskan satu beruang! Kita sebaiknya melihat sekitaran Kampung Penyu sebelum pergi ke area lain."
+			"Kita berhasil membebaskan satu beruang! Kita sebaiknya melihat sekitaran Desa Kura-kura sebelum pergi ke area lain."
 		],
 		"save_bear_tip_2": [
 			"Kita akan pergi ke Lembah Salju nanti."
 		],
 		"scientist_cutscene_1_1": [
-			"Hai Baaren! Hmm, saya pikir saya mungkin punya petunjuk dari mana madu ungu itu berasal."
+			"Hai Baaren! Hmm, saya rasa saya mungkin punya petunjuk dari mana madu ungu itu berasal."
 		],
 		"scientist_cutscene_1_2": [
-			"8 tahun yang lalu, saya mendengar tentang artefak misterius dan kuat. Saya pergi ke Piramida Besar Beemothep dan \"meminjam\" Kernel untuk penelitian saya."
+			"8 tahun yang lalu, saya mendengar tentang sebuah artefak yang misterius dan kuat. Saya pergi ke Piramida Agung Beemothep dan \"meminjam\" Kernel untuk penelitian saya."
 		],
 		"scientist_cutscene_1_3": [
-			"Saya menemukan bahwa ia memiliki dua sifat utama: pengendalian pikiran dan manipulasi ukuran. Setelah bekerja keras, saya berhasil menciptakan perangkat yang luar biasa ini: MESIN YANG MENGECILKAN UKURAN!"
+			"Saya menemukan bahwa artefak itu memiliki dua sifat utama: pengendalian pikiran dan manipulasi ukuran. Setelah bekerja keras, saya berhasil menciptakan perangkat yang luar biasa ini: MESIN PENGECIL!"
 		],
 		"scientist_cutscene_1_4": [
-			"Saya juga bereksperimen pada bagian pengendalian pikiran dan katakanlah hal-hal... hmm... tidak berjalan sesuai rencana."
+			"Saya juga bereksperimen pada bagian pengendalian pikiran dan katakanlah... hmm... tidak berjalan sesuai rencana."
 		],
 		"scientist_cutscene_1_5": [
 			"Seperti yang Anda lihat, seseorang mengetahui tentang penelitian saya, mencuri Kernel dan menggunakannya untuk membuat madu ungu."
 		],
 		"scientist_cutscene_1_6": [
-			"Saya bisa bercerita lebih banyak tentang Kernel, tapi saya cukup kesulitan sekarang. Lebah-lebah itu tidak tahu apa yang harus dilakukan dengan bayi beruang, jadi mereka mengecilkannya dan menyembunyikannya di rumah saya."
+			"Saya bisa bercerita lebih banyak tentang Kernel, tapi saya cukup kesulitan sekarang. Lebah-lebah itu tidak tahu apa yang harus dilakukan dengan bayi beruang, jadi mereka mengecilkan dan menyembunyikannya di rumah saya."
 		],
 		"scientist_cutscene_1_7": [
 			"Mungkin mereka mengira itu ditinggalkan atau semacamnya? Apakah itu kotor? Bagaimanapun juga..."
 		],
 		"scientist_cutscene_2_1": [
-			"Oke, jadi semua kekacauan ini terkait dengan Kernel. Kita harus mengambilnya kembali dari Ratu Beeatrice dan siapapun beruang ungu itu..."
+			"Oke, jadi semua kekacauan ini terkait dengan Kernel. Kita harus mengambilnya kembali dari Ratu Beeatrice dan siapa pun beruang ungu itu..."
 		],
 		"scientist_cutscene_2_2": [
-			"Tapi pertama-tama, mari kita selamatkan bayi-bayi malang itu!"
+			"Tapi pertama-tama, mari selamatkan bayi-bayi malang itu!"
 		],
 		"scientist_cutscene_3_1": [
-			"Mereka terlalu kecil jadi aku tidak bisa membuka kandangnya sendiri dan rumah ini penuh dengan tikus. Hmm, aku benar-benar tidak ingin masuk ke sana..."
+			"Mereka terlalu kecil jadi saya tidak bisa membuka kandangnya sendiri dan rumah ini penuh dengan tikus. Hmm, saya benar-benar tidak ingin masuk ke sana..."
 		],
 		"scientist_cutscene_3_2": [
-			"Jika Anda cukup berani untuk menyelamatkan mereka, saya bisa mengecilkan Anda dan membiarkan Anda masuk."
+			"Kalau Anda cukup berani untuk menyelamatkan mereka, saya bisa mengecilkan Anda dan membiarkan Anda masuk."
 		],
 		"shicka_0_1": [
-			"Ikuti panah biru untuk sampai ke Kampung Penyu."
+			"Ikuti panah biru untuk sampai ke Desa Kura-kura."
 		],
 		"shicka_0_2": [
 			"Kita tidak bisa menyakitinya, mari kita coba untuk bertahan hidup untuk saat ini!"
@@ -10700,55 +10826,55 @@
 			"Aku pikir aku dapat mendorongnya keluar dari platform ini!"
 		],
 		"shicka_0_4": [
-			"Kita harus menyelamatkan 3 beruang untuk membuka gerbang beruang."
+			"Kita harus menyelamatkan 3 beruang untuk membuka gerbang beruang ini."
 		],
 		"shicka_1_1": [
-			"Kamu harus mencoba melakukan serangan pada tuas ini."
+			"Kau harus mencoba melakukan serangan pada tuas ini."
 		],
 		"shicka_1_2": [
 			"Wow, air nya sangat hangat!"
 		],
 		"shicka_1_3": [
-			"Hal-hal buruk terjadi di sini ..."
+			"Hal-hal buruk terjadi di sini..."
 		],
 		"shicka_1_4": [
-			"Disini ada sumur. Ayoo kita lihat apa didalamnya."
+			"Disini ada sumur. Mari kita lihat ada apa di dalamnya."
 		],
 		"shicka_1_5": [
 			"Kita perlu menemukan sesuatu yang berat untuk menahan jungkat-jungkit ini."
 		],
 		"shicka_1_6": [
-			"Lihat! Backpacker lain sepertiku. Kami adalah spesies langka dan kami bergantung dari pembawa kami."
+			"Lihat! Backpacker lain sepertiku. Kami adalah spesies yang langka dan kami bergantung pada pembawa kami."
 		],
 		"shicka_2_1": [
 			"Hati-hati ada gergaji tajam!"
 		],
 		"shicka_2_2": [
-			"Tetap di platform untuk menjauh dari moster-monster itu!"
+			"Tetaplah berada di atas platform untuk menjauh dari monster-monster itu!"
 		],
 		"shicka_2_3": [
 			"Kita perlu menemukan tuas untuk mengaktifkan lift ini."
 		],
 		"shicka_2_4": [
-			"Dia terlalu besar untuk dipukul! Cari cara untuk menjadi lebih tinggi dan loncat ke kepalanya."
+			"Dia terlalu besar untuk dipukul! Cari cara untuk menjadi lebih tinggi dan loncat di atas kepalanya."
 		],
 		"shicka_2_5": [
-			"Kucinya tidak ada didalam, aku pikir kuncinya ada di dekat pintu masuk."
+			"Kuncinya tidak ada di dalam, kurasa kuncinya ada di dekat pintu masuk."
 		],
 		"shicka_3_1": [
-			"Ini adalah Kampung Fennec. Dulu mereka menyembah beruang sebelum dinasti lebah."
+			"Ini adalah Desa Fennec. Mereka dulunya menyembah beruang sebelum dinasti lebah."
 		],
 		"shicka_3_2": [
 			"Kita harus menemukan peta sebelum memasuki piramida."
 		],
 		"shicka_3_3": [
-			"Sebuah peta dari dalamnya piramida! Kamu harus menyalinnya di selembar kertas."
+			"Ada peta dari bagian dalam piramida! Kamu harus menyalinnya di selembar kertas."
 		],
 		"shicka_3_4": [
-			"Igloo? Di padang pasir? Itu...aneh."
+			"Igloo? Di gurun? Itu... aneh."
 		],
 		"shicka_3_5": [
-			"Harus ada semacam mekanisme yang diaktifkan untuk naik ke sana..."
+			"Pasti ada semacam mekanisme yang dapat diaktifkan untuk naik ke sana..."
 		],
 		"shicka_3_6": [
 			"Pemandangan yang bagus!"
@@ -10757,28 +10883,28 @@
 			"Aku senang akhirnya kita keluar."
 		],
 		"shicka_4_1": [
-			"Aku pikir kamu dapat melakukan hentakan perut untuk menghancurkan penutup drainase itu... (tahan B)"
+			"Kurasa kau bisa melakukan hentakan perut untuk menghancurkan penutup drainase itu... (tahan B)"
 		],
 		"shicka_4_2": [
-			"Oven ini sangat panas! Berdirilah pada piring kalau kamu tidak mau terbakar."
+			"Oven ini sangat panas! Berdirilah di atas piring kalau kau tidak ingin terbakar."
 		],
 		"shicka_4_3": [
-			"Kita bisa menggunakan meriam ini untuk mencapai lantai atas lebih cepat."
+			"Kita bisa menggunakan meriam ini untuk pergi ke lantai atas lebih cepat!"
 		],
 		"shicka_4_4": [
-			"Kuncinya terjebak di dalam es batu ini. Mari kita termukan sesuatu yang panas untuk melelehkan ini."
+			"Kuncinya terjebak di dalam es batu ini. Ayo cari sesuatu yang panas untuk melelehkannya."
 		],
 		"shicka_4_5": [
-			"Kamu dapat melakukan menghentakkan perut untuk melambung lebih tinggi."
+			"Kau bisa melakukan hentakan perut untuk melambung lebih tinggi."
 		],
 		"shicka_hive_1": [
-			"Ulat raksasa! Anda bisa memanjat ke suatu tempat untuk mendapatkan tempat yang tinggi dan melompat di punggungnya."
+			"Ulat raksasa! Kau bisa memanjat ke suatu tempat untuk mendapatkan tempat yang tinggi dan melompat di punggungnya."
 		],
 		"shicka_hive_2": [
-			"Ulat itu sudah berakhir, kita punya tempat tinggi!"
+			"Ini sudah berakhir ulat, kami punya dataran tinggi!"
 		],
 		"shicka_hive_3": [
-			"Jika kita memukul bola-bola ungu ini, kita bisa mengirimnya kembali kepadanya!"
+			"Jika kita memukul bola-bola ungu ini, kita bisa mengirimkannya kembali kepadanya!"
 		],
 		"sticker_found": [
 			"Stiker tersembunyi ditemukan!"
@@ -10790,19 +10916,19 @@
 			"Di toko ini, kamu bisa membeli barang baru dengan menukarkan koin. Barang baru akan diperbarui setiap 6 jam sekali. Kamu juga bisa membuka kotak jarahan untuk mendapatkan barang acak yang mungkin tidak ada di toko!"
 		],
 		"studio_help_3": [
-			"Ada 5 kategori barang: umum (putih), jarang (biru), epik (magenta), Tristopio (pink) dan donor (hijau). Barang donor dapat diperoleh di toko saudaraku."
+			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan donator (hijau). Barang donator dapat diperoleh di toko saudaraku."
 		],
 		"studio_help_4": [
-			"Tristopio adalah kelinci berwarna pink yang berada di seberang sungai. Barang-barangnya sangat spesial...Ngomong-ngomong, semua yang sudah kamu buka dapat kamu gunakan disini secara gratis."
+			"Tristopio adalah kelinci berwarna pink yang berada di seberang sungai. Barang-barangnya sangat spesial... Ngomong-ngomong, semua yang sudah kamu buka dapat kamu gunakan disini secara gratis."
 		],
 		"studio_help_5": [
-			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku...Baiklaaaah, aku harap semuanya sudah saaangat jelas!"
+			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku... Baiklaaaah, aku harap semuanya sudah saaangat jelas!"
 		],
 		"time_format": [
-			"{0} jam {1} menit {2} detik"
+			"{0}j{1}m{2}d"
 		],
 		"title_gameplay": [
-			"Permainan"
+			"Gameplay"
 		],
 		"title_graphics1": [
 			"Grafik"
@@ -10817,43 +10943,46 @@
 			"Dapatkan 5 headset"
 		],
 		"tristopio_no_life": [
-			"Kamu telah kehabisan headset! Kamu dapat menonton iklan untuk mendapatkan nya lagi."
+			"Kamu kehabisan headset! Kamu bisa menonton iklan untuk mendapatkan headset lagi."
 		],
 		"tristopio_practice": [
-			"Mode Belajar"
+			"Mode Latihan"
 		],
 		"tristopio_practice_info": [
-			"Kamu telah menyelesaikan misi ini! Sekarang Kamu dapat bermain misi ini lagi tanpa kehilangan headset."
+			"Kamu telah menyelesaikan misi ini! Sekarang kamu dapat bermain misi ini lagi tanpa kehilangan headset."
 		],
 		"tristopio_start": [
 			"Mulai misi"
 		],
+		"tristopio_today": [
+			"Misi hari ini"
+		],
 		"tutorial_shicka_1": [
-			"Hai Baaren, disitu kau rupanya! Aku berhasil bersembunyi disaat lebah-lebah itu datang kesini. Kamu satu-satunya beruang yang tidak ditangkap..."
+			"Hai Baaren, disitu kau rupanya! Para lebah menyerang desa dan menangkap semuanya! Aku berhasil bersembunyi ketika mereka tiba."
 		],
 		"tutorial_shicka_2": [
-			"Aku pikir kita perlu menyelamatkan teman-teman kita! Aku bisa memberikan kamu informasi tentang lingkunganmu."
+			"Apa kau baru saja... tidur? Menghindari penyerangan dengan tidur siang jauh dari desa, itulah Baaren yang ku kenal."
 		],
 		"tutorial_shicka_3": [
-			"Aku liat lebah-lebah itu membawa beruang ke Kampung Penyu..."
+			"Bagaimanapun, kita harus bekerja sama untuk menyelamatkan teman-teman kita! Aku bisa memberikanmu informasi tentang lingkungan sekitar. Backpacker seperti aku tahu banyak tentang kerajaan."
 		],
 		"tutorial_shicka_4": [
-			"Untungnya platform yang menuju  ke Kampung Penyu masih bekerja! Ayo kita selamatkan mereka!"
+			"Aku lihat para lebah membawa beruang ke Desa Kura-kura, kita harus pergi ke sana. Untungnya, platform yang menuju ke Desa Kura-kura masih bekerja. Ayo kita pergi!"
 		],
 		"tutorial_shicka_5": [
-			"Setelah itu baru kita bisa ke Lembah Salju."
+			"Lalu kita bisa pergi ke Lembah Salju..."
 		],
 		"tutorial_shicka_6": [
-			"Kita bisa juga menjelajahi padang pasir Beemothep..."
+			"...dan kemudian menjelajahi Gurun Beemothep."
 		],
 		"tutorial_sign_01": [
-			"Selamat datang di Petualangan Beruang Super! Gunakan joystick di sebelah kiri untuk berjalan."
+			"Selamat datang di Super Bear Adventure! Gunakan joystick di sebelah kiri untuk berjalan."
 		],
 		"tutorial_sign_02": [
 			"Tekan A untuk melompat."
 		],
 		"tutorial_sign_03": [
-			"Tekan B untuk menyerang ketika kamu berada di tanah. Cobalah boneka latihan ini."
+			"Tekan B untuk menyerang ketika kamu sedang di tanah. Coba lakukan kepada boneka latihan ini."
 		],
 		"tutorial_sign_04": [
 			"Tekan A saat melompat untuk melompat dua kali."
@@ -10865,19 +10994,19 @@
 			"Kamu bisa memanjat tanaman merambat dengan berjalan ke arah tanaman itu."
 		],
 		"tutorial_sign_07": [
-			"Kamu dapat memutar kamera dengan menggeser jari Kamu di sepanjang bagian atas layar."
+			"Kamu dapat memutar kamera dengan menggeser jarimu di sepanjang bagian atas layar."
 		],
 		"tutorial_sign_08": [
-			"Di permukaan, tekan B untuk menyelam. Di bawah air, tekan A untuk naik."
+			"Di permukaan air, tekan B untuk menyelam. Di bawah air, tekan A untuk naik."
 		],
 		"tutorial_sign_09": [
-			"Kamu dapat menekan B untuk mengambil objek tertentu. Tekan B untuk melepas objek tersebut."
+			"Kamu dapat menekan B untuk mengambil benda tertentu. Tekan B lagi untuk melepas benda tersebut."
 		],
 		"tutorial_sign_10": [
-			"Tahan B saat loncat untuk melakukan hentakan perut."
+			"Tahan B saat melompat untuk melakukan hentakan perut."
 		],
 		"tutorial_sign_11": [
-			"Kamu dapat loncat dua kali saat berseluncur lalu berseluncur lagi untuk mencapai lebih jauh!"
+			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk mencapai lebih jauh!"
 		],
 		"tutorial_sign_12": [
 			"Jika kamu melepas B tepat setelah kamu menghentakkan perut ke tanah, kamu akan mendapatkan dorongan hentakan."
@@ -10889,13 +11018,13 @@
 			"Dapatkan 100 koin secara instan untuk membeli kostum."
 		],
 		"ui_2x_coins": [
-			"2x koin"
+			"Koin ×2"
 		],
 		"ui_6hp": [
-			"6 poin nyawa"
+			"6 buah nyawa"
 		],
 		"ui_6hp_desc": [
-			"Nyawa maksimum Kamu menjadi 6 poin.//Efek ini berakhir ketika Kamu mati atau keluar dari permainan."
+			"Nyawa maksimum kamu menjadi 6 poin.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
 		],
 		"ui_aboutbutton": [
 			"Tentang"
@@ -10907,13 +11036,13 @@
 			"Kamu akan menonton iklan. Setelah menonton iklan, kamu akan diberikan hadiah."
 		],
 		"ui_arcade_enter": [
-			"Masuk ke Dunia Arkade untuk mendapatkan koin dengan bermain mini-games!"
+			"Masuk ke Dunia Arkade untuk mendapatkan koin dengan bermain mini-game!"
 		],
 		"ui_arcade_exit": [
 			"Keluar dari Dunia Arkade"
 		],
 		"ui_arcade_stay": [
-			"Tetap disini"
+			"Tetap di sini"
 		],
 		"ui_arcade_world": [
 			"Dunia Arkade"
@@ -10931,7 +11060,7 @@
 			"Koin tertinggi:"
 		],
 		"ui_binding": [
-			"Pengaturan kontroller/keyboard"
+			"Pengaturan controller/keyboard"
 		],
 		"ui_birds": [
 			"Burung-burung"
@@ -10946,13 +11075,13 @@
 			"Batal"
 		],
 		"ui_capitalus_hint": [
-			"Apakah tingkat ini terlalu susah? Coba untuk mendapatkan nyawa tambahan dari Capitalus di hub atau tonton iklan untuk hidup kembali!"
+			"Apakah level ini terlalu susah? Cobalah untuk mendapatkan nyawa tambahan dari Capitalus di hub atau tonton iklan untuk hidup kembali!"
 		],
 		"ui_cloud": [
-			"Penyimpanan di cloud"
+			"Penyimpanan cloud"
 		],
 		"ui_cloud_load": [
-			"Tampilkan penyimpanan di cloud"
+			"Tampilkan penyimpanan cloud"
 		],
 		"ui_cloud_save": [
 			"Simpan ke cloud"
@@ -10964,10 +11093,10 @@
 			"Pendeteksi koin"
 		],
 		"ui_coin_detector_confirm": [
-			"Penedeteksi koin sekarang aktif."
+			"Pendeteksi koin sekarang aktif."
 		],
 		"ui_coin_detector_desc": [
-			"Sebuah garis akan menunjukkan Kamu ke arah koin.//Efek ini berakhir ketika Kamu keluar dari permainan."
+			"Sebuah panah akan menunjuk ke arah koin terdekat.//Efek ini berakhir ketika kamu keluar dari permainan."
 		],
 		"ui_coins": [
 			"koin"
@@ -10976,46 +11105,55 @@
 			"Koin yang ditemukan"
 		],
 		"ui_connected": [
-			"terhubung"
+			"Terhubung"
 		],
 		"ui_cosm_buy": [
-			"Apakah Kamu ingin membeli // {0} // untuk {1} {2}?"
+			"Apa kamu ingin membeli//{0}//seharga {1} {2}?"
 		],
 		"ui_cosm_new": [
 			"Kamu membuka barang baru:"
 		],
 		"ui_cosm_owned": [
-			"Kamu sudah memiliki barang // {0}! // Sebagai gantinya, Kamu mendapatkan koin sebanyak {1} !"
+			"Kamu sudah memiliki//{0}!///Sebagai gantinya, kamu mendapatkan koin sebanyak {1}!"
 		],
 		"ui_cosm_shop": [
 			"Toko"
 		],
 		"ui_credits": [
-			"Saksikan kredit"
+			"Lihat credits"
+		],
+		"ui_day_0": [
+			"Hari ini"
+		],
+		"ui_day_1": [
+			"Besok"
+		],
+		"ui_day_2": [
+			"Lusa"
 		],
 		"ui_delete": [
 			"Hapus"
 		],
 		"ui_deleteconfirm": [
-			"Apakah Kamu yakin ingin menghapus penyimpanan ini?"
+			"Apa kamu yakin ingin menghapus slot ini?"
 		],
 		"ui_disconnected": [
-			"terputus"
+			"Terputus"
 		],
 		"ui_discord": [
-			"Discord Resmi // Gabung untuk mendapatkan berita pengembangan aplikasi"
+			"Official Discord//Gabung untuk mendapatkan berita pengembangan game ini."
 		],
 		"ui_donator_1": [
-			"Kamu sudah menjadi seorang donor."
+			"Kamu sudah menjadi seorang donator."
 		],
 		"ui_donator_2": [
-			"Pembelian berhasil! Sekarang kamu adalah seorang donor! Terima kasih!"
+			"Pembelian berhasil! Sekarang kamu adalah seorang donator! Terima kasih!"
 		],
 		"ui_donator_info": [
-			"Membeli status donor memberikan Kamu akses:! // - mendukung pengembang aplikasi // - menghilangkan iklan yang tidak berhadiah // - kostum eksklusif // - 2x koin tanpa iklan // - nyawa maksimal menjadi 6 // - menghidupkan kembali gratis untuk yang pertama kali"
+			"Membeli status donator memberikan Kamu akses://- Mendukung developer game ini//- Menghilangkan iklan yang tak berhadiah//- Kostum eksklusif//- Koin ×2 tanpa iklan//- Nyawa maksimal menjadi 6//- Menghidupkan kembali pertama secara gratis!"
 		],
 		"ui_donator_title": [
-			"Beli status seorang donor."
+			"Beli status donator"
 		],
 		"ui_empty": [
 			"Kosong"
@@ -11024,7 +11162,7 @@
 			"Keluar"
 		],
 		"ui_exitgame": [
-			"Keluar permainan"
+			"Keluar game"
 		],
 		"ui_fancy_shaders": [
 			"Shader mewah"
@@ -11039,7 +11177,7 @@
 			"Bunga-bunga"
 		],
 		"ui_fps_counter": [
-			"Konter FPS"
+			"Penghitung FPS"
 		],
 		"ui_framerate": [
 			"framerate"
@@ -11048,14 +11186,14 @@
 			"Kamu membebaskan"
 		],
 		"ui_game_creator": [
-			"Game yang dibuat oleh {0}"
+			"Game buatan {0}"
 		],
 		"ui_game_over": [],
 		"ui_go": [
 			"Mulai!"
 		],
 		"ui_gold_time": [
-			"Waktu terbaik"
+			"Waktu emas"
 		],
 		"ui_gyroscope": [
 			"Giroskop"
@@ -11064,19 +11202,19 @@
 			"Sembunyikan input"
 		],
 		"ui_hive": [
-			"Sarang lebah"
+			"Sarang Lebah"
 		],
 		"ui_hubconfirm": [
-			"Apakah Kamu yakin ingin kembali ke hub?"
+			"Apa kamu yakin ingin kembali ke hub?"
 		],
 		"ui_in": [
 			"di"
 		],
 		"ui_introconfirm": [
-			"Apakah Kamu yakin ingin memutar ulang intro dan tutorial?"
+			"Apa kamu yakin ingin memutar ulang intro dan tutorial?"
 		],
 		"ui_invert_camera": [
-			"putar balik kamera"
+			"Balik kontrol kamera"
 		],
 		"ui_item_time": [
 			"Barang baru dalam"
@@ -11088,16 +11226,16 @@
 			"Bahasa"
 		],
 		"ui_leaderboard_help": [
-			"Sentuh salah satu baris untuk melihat papan peringkat"
+			"Tekan sebuah baris untuk melihat papan peringkat"
 		],
 		"ui_level1": [
-			"Kampung Penyu"
+			"Desa Kura-kura"
 		],
 		"ui_level2": [
 			"Lembah Salju"
 		],
 		"ui_level3": [
-			"Padang Pasir Beemothep"
+			"Gurun Beemothep"
 		],
 		"ui_level4": [
 			"Rumah Raksasa"
@@ -11111,22 +11249,22 @@
 			"Mulai"
 		],
 		"ui_load_ad": [
-			"Memuat iklan ..."
+			"Memuat iklan..."
 		],
 		"ui_loading": [
-			"Memuat tingkat ..."
+			"Memuat level..."
 		],
 		"ui_loading_google": [
-			"Menghubungkan ke Google Play ..."
+			"Menghubungkan ke Google Play..."
 		],
 		"ui_lootbox": [
 			"Beli kotak jarahan"
 		],
 		"ui_main_menu_1": [
-			"Tekan dimana saja untuk memulai"
+			"Tekan dimana saja untuk mulai"
 		],
 		"ui_main_menu_2": [
-			"Pilih penyimpanan untuk memulai permainan"
+			"Pilih slot untuk mulai bermain"
 		],
 		"ui_mission_fail": [
 			"Misi gagal!"
@@ -11138,7 +11276,7 @@
 			"Volume musik"
 		],
 		"ui_new_best": [
-			"(Terbaik terbaru!)"
+			"(waktu terbaik baru!)"
 		],
 		"ui_next_mission": [
 			"Misi berikutnya dalam"
@@ -11147,7 +11285,7 @@
 			"Keluar tanpa tambahan koin"
 		],
 		"ui_open_shop": [
-			"Buka Toko"
+			"Buka toko"
 		],
 		"ui_options": [
 			"Pengaturan"
@@ -11174,19 +11312,19 @@
 			"Tinggi"
 		],
 		"ui_quitconfirm": [
-			"Apakah Kamu yakin ingin keluar?"
+			"Apa kamu yakin ingin keluar?"
 		],
 		"ui_rate_game": [
 			"Nilai game ini!"
 		],
 		"ui_respawn": [
-			"Respawn di pos pemeriksaan terakhir"
+			"Respawn di checkpoint terakhir"
 		],
 		"ui_restart": [
-			"Mulai ulang tingkat"
+			"Mulai ulang level"
 		],
 		"ui_restartconfirm": [
-			"Apakah Kamu yakin ingin me-restart tingkat?"
+			"Apa kamu yakin ingin mengulang level ini?"
 		],
 		"ui_resume": [
 			"Lanjut"
@@ -11201,10 +11339,10 @@
 			"terbalik"
 		],
 		"ui_revive": [
-			"Menghidupkan kembali"
+			"Hidup kembali"
 		],
 		"ui_save": [
-			"Penyimpanan"
+			"Slot"
 		],
 		"ui_select_quality": [
 			"Pilih kualitas grafik:"
@@ -11213,7 +11351,7 @@
 			"Volume efek suara"
 		],
 		"ui_shadows": [
-			"bayangan"
+			"Bayangan"
 		],
 		"ui_shicka_tips": [
 			"Tips dari Shicka"
@@ -11225,10 +11363,10 @@
 			"Akan ada lebih banyak di pembaruan yang akan datang..."
 		],
 		"ui_shopinfo": [
-			"Capitalus akan memberikan bonus jika Kamu menonton iklan. Pilih salah satu bonus berikut untuk menonton iklan dan terima hadiah Kamu."
+			"Lihat sebuah iklan dan Capitalus//akan memberikanmu bonus!"
 		],
 		"ui_skip": [
-			"Loncat"
+			"Lewati"
 		],
 		"ui_speedrun_mode": [
 			"Mode Speedrun"
@@ -11246,13 +11384,13 @@
 			"Timer"
 		],
 		"ui_titleconfirm": [
-			"Apakah Kamu yakin ingin kembali ke layar judul?"
+			"Apa kamu yakin ingin kembali ke layar judul?"
 		],
 		"ui_tokens": [
 			"Token Tristopio"
 		],
 		"ui_tristopio_info": [
-			"Datang ke sini untuk misi baru setiap hari jam 10! \\\\ Setiap misi sukses Kamu akan mendapatkan satu Token Tristopio. Kamu dapat menghabiskan token Kamu untuk membuka pakaian yang unik. Setiap kali Kamu kali misi Kamu gagal, Kamu akan kehilangan satu headset."
+			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap kali misi berhasil, kamu akan mendapatkan satu Token Tristopio. Kamu dapat menghabiskan token mu untuk membuka pakaian yang unik. Setiap kali kamu gagal, kamu akan kehilangan satu headset."
 		],
 		"ui_tristopio_title": [
 			"Toko Tristopio"
@@ -11261,22 +11399,22 @@
 			"Kamu membuka"
 		],
 		"ui_vehicle_controls": [
-			"kontrol kendaraan"
+			"Kontrol kendaraan"
 		],
 		"ui_version": [
-			"Versi"
+			"Versi {0}"
 		],
 		"ui_watch": [
 			"Lihat"
 		],
 		"ui_watch_trailer": [
-			"Tonton trailer di YouTube"
+			"Tonton trailer nya di YouTube"
 		],
 		"ui_website": [
 			"Kunjungi situs web/toko"
 		],
 		"ui_yes": [
-			"Iya"
+			"Ya"
 		]
 	},
 	"it": {
@@ -11757,8 +11895,12 @@
 		"cosmetic_102": [
 			"Sentiero fantasma"
 		],
-		"cosmetic_103": [],
-		"cosmetic_104": [],
+		"cosmetic_103": [
+			"Testa di gatto"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Difetto"
 		],
@@ -12513,6 +12655,15 @@
 		"party_turtle_6": [
 			"Mi ci sono voluti 6 mesi per arrivare fin qui."
 		],
+		"rarity_common": [
+			"Comune"
+		],
+		"rarity_epic": [
+			"Epico"
+		],
+		"rarity_rare": [
+			"Raro"
+		],
 		"save_bear_tip_1": [
 			"Abbiamo liberato un orso! Dovremmo continuare a cercare nel Villaggio delle Tartarughe prima di andare altrove."
 		],
@@ -12688,6 +12839,9 @@
 		"tristopio_start": [
 			"Inizio sfida"
 		],
+		"tristopio_today": [
+			"Missione di oggi"
+		],
 		"tutorial_shicka_1": [
 			"Ah Baaren, eccoti qui! Sono riuscita a nascondermi quando sono arrivate le api. Sei l'unico orso che non hanno catturato..."
 		],
@@ -12749,7 +12903,7 @@
 			"Ricevi immediatamente 100 monete per comprare cosmetici."
 		],
 		"ui_2x_coins": [
-			"Monete x2"
+			"Monete × 2"
 		],
 		"ui_6hp": [
 			"6 punti di vita"
@@ -12853,6 +13007,15 @@
 		"ui_credits": [
 			"Vedi i crediti"
 		],
+		"ui_day_0": [
+			"Oggi"
+		],
+		"ui_day_1": [
+			"Domani"
+		],
+		"ui_day_2": [
+			"Dopodomani"
+		],
 		"ui_delete": [
 			"Cancella"
 		],
@@ -12872,7 +13035,7 @@
 			"Acquisto riuscito. Ora sei un donatore! Grazie mille! Sei fantastico!"
 		],
 		"ui_donator_info": [
-			"Acquistando lo status di donatore si ha accesso a://- supportare lo sviluppatore del gioco! //- rimozione pubblicità senza ricompense//- cosmetici esclusivi//- monete x2 senza annunci//- vita massima a 6//- prima resurrezione gratuita"
+			"Acquistando lo status di donatore si ha accesso a://- supportare lo sviluppatore del gioco! //- rimozione pubblicità senza ricompense//- cosmetici esclusivi//- monete × 2 senza annunci//- vita massima a 6//- prima resurrezione gratuita"
 		],
 		"ui_donator_title": [
 			"Acquista lo stato di donatore"
@@ -13083,7 +13246,7 @@
 			"Altri cosmetici verranno aggiunti in futuro..."
 		],
 		"ui_shopinfo": [
-			"Capitalus vi darà un bonus se guardate una pubblicità. Scegli uno dei bonus qui sotto per lanciare il video e raccogliere la tua ricompensa."
+			"Guardate una pubblicità e Capitalus//vi darà un bonus!"
 		],
 		"ui_skip": [
 			"Saltare"
@@ -13915,6 +14078,15 @@
 		"party_turtle_4": [],
 		"party_turtle_5": [],
 		"party_turtle_6": [],
+		"rarity_common": [
+			"コモン"
+		],
+		"rarity_epic": [
+			"エピック"
+		],
+		"rarity_rare": [
+			"レア"
+		],
 		"save_bear_tip_1": [
 			"1匹のクマを解放したぞ 他のエリアに行く前に、亀の村を見て回るべきだね。"
 		],
@@ -14062,6 +14234,7 @@
 		"tristopio_start": [
 			"ミッションを開始する"
 		],
+		"tristopio_today": [],
 		"tutorial_shicka_1": [
 			"バーレン！？そこにいたのか！？ボクはハチがここに来た時になんとかここに隠れる事が出来たんだ...ハチに捕まらなかったクマはお前だけだ..."
 		],
@@ -14123,7 +14296,7 @@
 			"帽子を購入するために100枚のコインを瞬時に受け取る"
 		],
 		"ui_2x_coins": [
-			"2xコイン"
+			"コイン×2"
 		],
 		"ui_6hp": [
 			"6つのライフポイント"
@@ -14221,6 +14394,9 @@
 			"ショップ"
 		],
 		"ui_credits": [],
+		"ui_day_0": [],
+		"ui_day_1": [],
+		"ui_day_2": [],
 		"ui_delete": [
 			"削除"
 		],
@@ -15228,7 +15404,7 @@
 			"Totdat..."
 		],
 		"intro_2_1": [
-			"… de bijen begonnen met het produceren van een ander soort honing in de korf. Kort daarna was deze nieuwe smaak en deze paarse kleur geliefd door iedereen."
+			"... de bijen begonnen met het produceren van een ander soort honing in de korf. Kort daarna was deze nieuwe smaak en deze paarse kleur geliefd door iedereen."
 		],
 		"intro_2_2": [
 			"Helaas begonnen wezens die het consumeerden al snel gek te worden en hun vrienden aan te vallen als hersenloze dieren."
@@ -15720,7 +15896,7 @@
 			"Feest! Feest! Feest! Feest! Feest!"
 		],
 		"party_turtle_1": [
-			"Waar loopt een schildpad het liefst op?//…//een schildPAD!"
+			"Waar loopt een schildpad het liefst op?//...//een schildPAD!"
 		],
 		"party_turtle_2": [
 			"Mijn telefoon is nog slomer dan mij."
@@ -15736,6 +15912,15 @@
 		],
 		"party_turtle_6": [
 			"Het heeft me zes maanden gekost om hier boven te komen."
+		],
+		"rarity_common": [
+			"Normaal"
+		],
+		"rarity_epic": [
+			"Episch"
+		],
+		"rarity_rare": [
+			"Zeldzaam"
 		],
 		"save_bear_tip_1": [
 			"We hebben een beer bevrijd! We moeten nog blijven kijken in Turtletown voordat we naar andere gebieden gaan."
@@ -15914,6 +16099,9 @@
 		"tristopio_start": [
 			"Start missie"
 		],
+		"tristopio_today": [
+			"Missie van vandaag"
+		],
 		"tutorial_shicka_1": [
 			"Hey Baaren, daar ben je! De bijen vielen het dorp aan en namen iedereen gevangen! Ik heb me kunnen verstoppen toen ze aankwamen."
 		],
@@ -15975,7 +16163,7 @@
 			"Krijg 100 munten om costuums te kopen."
 		],
 		"ui_2x_coins": [
-			"2x munten"
+			"Munten × 2"
 		],
 		"ui_6hp": [
 			"6 levenspunten"
@@ -16035,7 +16223,7 @@
 			"Is dit level te moeilijk? Krijg een beest can Capitalus in de hub of kijk een advertentie voor om door te gaan!"
 		],
 		"ui_cloud": [
-			"Oplag in Cloud"
+			"Opslag in Cloud"
 		],
 		"ui_cloud_load": [
 			"Toon cloud opslag"
@@ -16079,6 +16267,15 @@
 		"ui_credits": [
 			"Bekijk aftiteling"
 		],
+		"ui_day_0": [
+			"Vandaag"
+		],
+		"ui_day_1": [
+			"Morgen"
+		],
+		"ui_day_2": [
+			"Overmorgen"
+		],
 		"ui_delete": [
 			"Verwijder"
 		],
@@ -16098,7 +16295,7 @@
 			"Betaling voltooid! Je bent nu een donor! Bedankt!"
 		],
 		"ui_donator_info": [
-			"Het kopen van donorstatus geeft je toegang tot://- Steunen van de ontwikkelaar van de game!;//- Verwijderen van advertenties die geen beloningen geven;//- Exclusieve costuums;//- 2x munten zonder advertenties;//- Maximale leven wordt 6;//- Eerste herleving gratis"
+			"Het kopen van donorstatus geeft je toegang tot://- Steunen van de ontwikkelaar van de game!;//- Verwijderen van advertenties die geen beloningen geven;//- Exclusieve costuums;//- Munten × 2 zonder advertenties;//- Maximale leven wordt 6;//- Eerste herleving gratis"
 		],
 		"ui_donator_title": [
 			"Koop donorstatus"
@@ -16313,7 +16510,7 @@
 			"Er zal nog meer komen in toekomstige updates"
 		],
 		"ui_shopinfo": [
-			"Capitalus zal je een booster geven als je een advertentie kijkt. Kies een van deze boosters om een advertentie te kijken voor een beloning."
+			"Kijk een advertentie en Capitalus//zal je een bonus geven!"
 		],
 		"ui_skip": [
 			"Overslaan"
@@ -16438,7 +16635,7 @@
 			"Alt, przycisk 2"
 		],
 		"binding_axis": [
-			"oś"
+			"Oś"
 		],
 		"binding_button": [
 			"Guzik"
@@ -16857,10 +17054,14 @@
 		"cosmetic_102": [
 			"Szlak dusz"
 		],
-		"cosmetic_103": [],
-		"cosmetic_104": [],
+		"cosmetic_103": [
+			"Głowa kota"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
-			"domyślny"
+			"Domyślny"
 		],
 		"help_birds": [
 			"Wyłączenie ptaków poprawia wydajność"
@@ -16920,7 +17121,7 @@
 			"Jądro jest nawet piękne, czyż nie? Użyłem go żeby kontrolować umysł Królowej Beeatrycji i pszczół."
 		],
 		"hive_boss_1_5": [
-			"Kontynuowałem swoje eksperymenty z magicznym artefaktem i teraz rozumiem to bardziej niż ktokolwiek. Teraz mogę kontrolować umysły niedźwiedzi! Teraz jak tu jesteś, to mogę zmiażdżyć twój bunt…"
+			"Kontynuowałem swoje eksperymenty z magicznym artefaktem i teraz rozumiem to bardziej niż ktokolwiek. Teraz mogę kontrolować umysły niedźwiedzi! Teraz jak tu jesteś, to mogę zmiażdżyć twój bunt..."
 		],
 		"hive_boss_1_6": [
 			"Nie ruszaj się, nie będzie bolało. Prawdopodobnie."
@@ -16941,7 +17142,7 @@
 			"Okej Shicka, nadszedł czas żeby zawalczyć z prawdziwym mną!"
 		],
 		"hive_ending_1": [
-			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro… działo na mój umysł."
+			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro... działo na mój umysł."
 		],
 		"hive_ending_2": [
 			"Z wyglądu rzeczy, Jądro eksplodowało, uderzając w Ul w drodze w dół... W jakiś sposób zostaliśmy tu przetelepotowani, lecz twój brat pewnie skończył gdzieś indziej."
@@ -17106,7 +17307,7 @@
 			"Do czasu..."
 		],
 		"intro_2_1": [
-			"… pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
+			"... pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
 		],
 		"intro_2_2": [
 			"Niestety istoty, które go pochłonęły, wkrótce zaczęły szaleć i atakować swoich przyjaciół jak dzikie zwierzęta."
@@ -17217,7 +17418,7 @@
 			"Oto słynny Yeti... Na razie unikajmy jego ataków. Poczekaj, aż się wyczerpie, zanim zaatakujemy."
 		],
 		"level2_boss_2": [
-			"Widziałeś to? Ktoś tam był! kto był… fioletowy. Widziałeś to? Ktoś tam był! który był… fioletowy…"
+			"Widziałeś to? Ktoś tam był! kto był... fioletowy. Widziałeś to? Ktoś tam był! który był... fioletowy..."
 		],
 		"level2_boss_3": [
 			"Coś w tym wszystkim wydaje się nie w porządku..."
@@ -17373,7 +17574,7 @@
 			"Jesteś taki m-m-mały, mały niedźwiedziu, mogę cię łatwo z-z-zmiażdżyć!"
 		],
 		"level4_boss_2_1": [
-			"Bardzo ci dziękuję za to że się nim zająłeś, był niebezpieczny i nieobliczalny… hmm... w przeciwieństwie do mnie, racja?"
+			"Bardzo ci dziękuję za to że się nim zająłeś, był niebezpieczny i nieobliczalny... hmm... w przeciwieństwie do mnie, racja?"
 		],
 		"level4_boss_2_2": [
 			"Muszę coś przyznać. Przed incydentem z fioletowym miodem, pewnej nocy ktoś włamał się do mojego domu i ukradł kawałek mojej pracy dotyczącej jądra."
@@ -17535,7 +17736,7 @@
 			"Wyścig"
 		],
 		"party_bee_1": [
-			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy…"
+			"Bardzo przepraszam za ranienie was, wykonywaliśmy rozkazy..."
 		],
 		"party_bee_2": [
 			"Jak nazywasz pszczołę z rozczochranymi włosami?//...// Frisbee."
@@ -17559,13 +17760,13 @@
 			"Wodospady są niesamowite! Nigdy nie widziałem jednego w swoim życiu."
 		],
 		"party_crocodile_4": [
-			"To miejsce jest piękne… Jestem pod wrażeniem."
+			"To miejsce jest piękne... Jestem pod wrażeniem."
 		],
 		"party_fennec_1": [
 			"Jaki ładny sklep!"
 		],
 		"party_fennec_2": [
-			"Królowa Beetrycja jest ogromna… huh, chciałem powiedzieć piękna."
+			"Królowa Beetrycja jest ogromna... huh, chciałem powiedzieć piękna."
 		],
 		"party_fennec_3": [
 			"Nigdy nie widziałem aż tak zielonej trawy."
@@ -17577,7 +17778,7 @@
 			"Nie ufam temu naukowcowi."
 		],
 		"party_penguin_1": [
-			"To miejsce ma śnieg jak i za równo lód… a woda jest… płynna…"
+			"To miejsce ma śnieg jak i za równo lód... a woda jest... płynna..."
 		],
 		"party_penguin_2": [
 			"Jaki wspaniały widok!"
@@ -17598,7 +17799,7 @@
 			"Impreza! Impreza! Impreza! Impreza! Impreza!"
 		],
 		"party_turtle_1": [
-			"Gdzie idzie żółw kiedy pada?//…//Do shelltera!"
+			"Gdzie idzie żółw kiedy pada?//...//Do shelltera!"
 		],
 		"party_turtle_2": [
 			"Czy masz mój shellefon?"
@@ -17610,10 +17811,19 @@
 			"Kolory są wszędzie!"
 		],
 		"party_turtle_5": [
-			"To bardzo miłe ze strony pszczół żeby zrobić to przyjęcie, ale nie zwróci mi to mojego domu które zniszczyły…"
+			"To bardzo miłe ze strony pszczół żeby zrobić to przyjęcie, ale nie zwróci mi to mojego domu które zniszczyły..."
 		],
 		"party_turtle_6": [
 			"Zajęło mi to 6 miesięcy żeby się tu dostać."
+		],
+		"rarity_common": [
+			"Zwykły"
+		],
+		"rarity_epic": [
+			"Epicki"
+		],
+		"rarity_rare": [
+			"Rzadki"
 		],
 		"save_bear_tip_1": [
 			"Uwolniliśmy jednego niedźwiedzia! Powinniśmy rozglądać się w Żółwiej Wiosce przed udaniem się do innych obszarów."
@@ -17631,7 +17841,7 @@
 			"Dowiedziałem się, że ma dwie główne właściwości: kontrolowanie umysłu i manipulacja rozmiarem . Po tonie pracy, udało mi się stworzyć to wspaniałe urządzenie: MASZYNĘ ZMNIEJSZAJĄCA!"
 		],
 		"scientist_cutscene_1_4": [
-			"Również eksperymentowałem nad kontroli umysłu i powiedzmy coś... hmm… nie poszedł zgodnie z planem."
+			"Również eksperymentowałem nad kontroli umysłu i powiedzmy coś... hmm... nie poszedł zgodnie z planem."
 		],
 		"scientist_cutscene_1_5": [
 			"Jak widzisz, ktoś dowiedział się o moich nadaniach, ukradł Jądro i użył go do stworzenia fioletowego miodu."
@@ -17643,13 +17853,13 @@
 			"Może myślały że jest opuszczony lub coś w tym stylu? Czy jest to tak brudne? W każdym razie.."
 		],
 		"scientist_cutscene_2_1": [
-			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest…"
+			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest..."
 		],
 		"scientist_cutscene_2_2": [
 			"Lecz najpierw, uratujmy te bobasy!"
 		],
 		"scientist_cutscene_3_1": [
-			"Są za małe więc nie mogę otworzyć klatek i dom jest pełen szczurów. Hmm, Naprawdę nie chcę tam wchodzić…"
+			"Są za małe więc nie mogę otworzyć klatek i dom jest pełen szczurów. Hmm, Naprawdę nie chcę tam wchodzić..."
 		],
 		"scientist_cutscene_3_2": [
 			"Jeżeli jesteś wystarczająco odważny żeby je ocalić, mogę cię więc pomniejszyć i cię wpuścić."
@@ -17792,11 +18002,14 @@
 		"tristopio_start": [
 			"Zacznij Misję"
 		],
+		"tristopio_today": [
+			"Dzisiejsza misja"
+		],
 		"tutorial_shicka_1": [
 			"Hej Baaren, tu jesteś! Pszczoły zaatakowały wioskę i schwytały wszystkich! Udało mi się ukryć, kiedy przybyli."
 		],
 		"tutorial_shicka_2": [
-			"Czy po prostu… spałeś? Unikanie nalotu poprzez drzemkę z dala od wioski, to bardzo ty."
+			"Czy po prostu... spałeś? Unikanie nalotu poprzez drzemkę z dala od wioski, to bardzo ty."
 		],
 		"tutorial_shicka_3": [
 			"W każdym razie powinniśmy połączyć siły, aby uwolnić naszych przyjaciół! Mogę dać ci kilka rad na temat otoczenia. Turyści z plecakami tacy jak ja dużo wiedzą o królestwie."
@@ -17853,7 +18066,7 @@
 			"Odbierz 100 monet natychmiast, aby kupić czapki"
 		],
 		"ui_2x_coins": [
-			"2x monety"
+			"Monety × 2"
 		],
 		"ui_6hp": [
 			"6 punktów życia"
@@ -17957,6 +18170,15 @@
 		"ui_credits": [
 			"Obejrzyj napisy"
 		],
+		"ui_day_0": [
+			"Dzisiaj"
+		],
+		"ui_day_1": [
+			"Jutro"
+		],
+		"ui_day_2": [
+			"Pojutrze"
+		],
 		"ui_delete": [
 			"Kasuj"
 		],
@@ -17976,7 +18198,7 @@
 			"Zakupy zakończone. Jesteś teraz dawcą! Dziękuje!"
 		],
 		"ui_donator_info": [
-			"Wykupienie statusu dawcy daje dostęp do: // - wspierania twórcy gry! // - usunięcia reklam // - ekskluzywnych kosmetyków // - 2x monet bez reklam // - maksymalną ilość zdrowia do 6 // - pierwszego odrodzenia za darmo"
+			"Wykupienie statusu dawcy daje dostęp do: // - wspierania twórcy gry! // - usunięcia reklam // - ekskluzywnych kosmetyków // - Monety × 2 bez reklam // - maksymalną ilość zdrowia do 6 // - pierwszego odrodzenia za darmo"
 		],
 		"ui_donator_title": [
 			"Kup status dawcy"
@@ -18195,7 +18417,7 @@
 			"Więcej nowości nadejdzie w przyszłych akutalizacjiach"
 		],
 		"ui_shopinfo": [
-			"Capitalus da ci ulepszenie, jeśli obejrzysz reklamę. Wybierz jedno z następujących ulepszenie, aby uruchomić film i otrzymać nagrodę."
+			"Obejrzyj reklamę, a Capitalus//da Ci bonus!"
 		],
 		"ui_skip": [
 			"Pomiń"
@@ -18778,7 +19000,7 @@
 			"O Kernel é um tanto maravilhoso, não é? Usei seu poder para controlar a Rainha Beeatrice e pegar as abelhas."
 		],
 		"hive_boss_1_5": [
-			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião…"
+			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião..."
 		],
 		"hive_boss_1_6": [
 			"Não se mova, não vai doer. Provavelmente."
@@ -18799,7 +19021,7 @@
 			"Ok Shicka, está na hora de lutar com o verdadeiro eu!"
 		],
 		"hive_ending_1": [
-			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva… agindo sobre minha cabeça."
+			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva... agindo sobre minha cabeça."
 		],
 		"hive_ending_2": [
 			"Do jeito que as coiszzas estão, o Kernel explodiu quando atingiu a Colmeia sendo destruída... Fomoszz teleportados para cá de alguma forma, maszz seu irmão provvvavvvelmente foi parar em outro local."
@@ -19387,7 +19609,7 @@
 			"Rali"
 		],
 		"party_bee_1": [
-			"Sinto muito por machucar pessoaszz, só estavvvamoszz seguindo ordenszz…"
+			"Sinto muito por machucar pessoaszz, só estavvvamoszz seguindo ordenszz..."
 		],
 		"party_bee_2": [
 			"O que a abelha egoísta disse pro urso?//...//\"Não vvvou dividir, isso é mel!\""
@@ -19396,7 +19618,7 @@
 			"Uou, vvvocê salvvvou todos os ursoszz! Bom trabalho! Nós devvvemos ser péssimaszz em esconder jaulaszz."
 		],
 		"party_capitalos": [
-			"Você foi convidado para a festa de graça?!"
+			"Você foi convidado pra festa de graça?!"
 		],
 		"party_capitalus": [
 			"Tantos clientes novos! STONKS!"
@@ -19417,7 +19639,7 @@
 			"Que loja bacana!"
 		],
 		"party_fennec_2": [
-			"Rainha Beeatrice é enorme… huh, eu quis dizer bonita."
+			"Rainha Beeatrice é enorme... huh, eu quis dizer bonita."
 		],
 		"party_fennec_3": [
 			"Eu nunca vi grama tão verde assim."
@@ -19450,7 +19672,7 @@
 			"Festa! Festa! Festa! Festa! Festa!"
 		],
 		"party_turtle_1": [
-			"O que é uma tartaruga que saiu de sua casa?//…//Um des-casca-do!"
+			"O que é uma tartaruga que saiu de sua casa?//...//Um des-casca-do!"
 		],
 		"party_turtle_2": [
 			"Acho que meu celular é mais lento que eu."
@@ -19466,6 +19688,15 @@
 		],
 		"party_turtle_6": [
 			"Demorei 6 meses pra chegar aqui."
+		],
+		"rarity_common": [
+			"Comum"
+		],
+		"rarity_epic": [
+			"Épico"
+		],
+		"rarity_rare": [
+			"Raro"
 		],
 		"save_bear_tip_1": [
 			"Libertamos um urso! Devemos continuar olhando ao redor na Aldeia antes de irmos pra outras áreas."
@@ -19642,6 +19873,9 @@
 		"tristopio_start": [
 			"Começar Missão"
 		],
+		"tristopio_today": [
+			"Missão de hoje"
+		],
 		"tutorial_shicka_1": [
 			"Ei Baaren, aí está você! As abelhas atacaram a vila e capturaram todos! Eu consegui me esconder quando elas chegaram."
 		],
@@ -19703,7 +19937,7 @@
 			"Receba 100 moedas instantaneamente para comprar roupas."
 		],
 		"ui_2x_coins": [
-			"2x moedas"
+			"Moedas × 2"
 		],
 		"ui_6hp": [
 			"6 pontos de vida"
@@ -19807,6 +20041,15 @@
 		"ui_credits": [
 			"Ver créditos"
 		],
+		"ui_day_0": [
+			"Hoje"
+		],
+		"ui_day_1": [
+			"Amanhã"
+		],
+		"ui_day_2": [
+			"Depois"
+		],
 		"ui_delete": [
 			"Excluir"
 		],
@@ -19826,7 +20069,7 @@
 			"Compra completa! Você é agora um doador! Obrigado!"
 		],
 		"ui_donator_info": [
-			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2x mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
+			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2 vezes mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
 		],
 		"ui_donator_title": [
 			"Comprar status de Doador"
@@ -20034,10 +20277,10 @@
 			"Loja do Capitalus"
 		],
 		"ui_shop_future": [
-			"Mais coisas virão em futuras atualizações..."
+			"Mais virão em futuras atualizações..."
 		],
 		"ui_shopinfo": [
-			"Capitalus te dará um bônus se você assistir a um anúncio. Escolha um dos seguintes bônus para começar o vídeo e receber sua recompensa."
+			"Prêmios você quer ganhar?//Assista um anúncio e Capitalus te dará!"
 		],
 		"ui_skip": [
 			"Pular"
@@ -20480,7 +20723,7 @@
 			"Без головы"
 		],
 		"cosmetic_047": [
-			"Майка (донор)"
+			"Майка (донатер)"
 		],
 		"cosmetic_048": [
 			"Панда"
@@ -20513,7 +20756,7 @@
 			"Череп"
 		],
 		"cosmetic_058": [
-			"Корона донора"
+			"Корона донатера"
 		],
 		"cosmetic_059": [
 			"Голова яйцо"
@@ -20900,7 +21143,7 @@
 			"До тех пор пока..."
 		],
 		"intro_2_1": [
-			"… Пчелы не стали производить другой вид мёда в Улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
+			"... Пчелы не стали производить другой вид мёда в Улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
 		],
 		"intro_2_2": [
 			"К сожалению, существа, которые употребили его, вскоре начали сходить с ума и атаковать своих друзей как неразумные животные."
@@ -21011,7 +21254,7 @@
 			"Вот это знаменитый Йети. Избегай его атак. Не нападай, пока он не устанет."
 		],
 		"level2_boss_2": [
-			"Ты видел это? Там кто-то был! И он был… фиолетовый."
+			"Ты видел это? Там кто-то был! И он был... фиолетовый."
 		],
 		"level2_boss_3": [
 			"Что-то здесь не так..."
@@ -21392,7 +21635,7 @@
 			"Вечеринка! Вечеринка! Вечеринка! Вечеринка! Вечеринка!"
 		],
 		"party_turtle_1": [
-			"У кого скелет прочнее панциря?//…//У ЧЕРЕПахи!"
+			"У кого скелет прочнее панциря?//...//У ЧЕРЕПахи!"
 		],
 		"party_turtle_2": [
 			"Мой сотовый медленней, чем я!"
@@ -21408,6 +21651,15 @@
 		],
 		"party_turtle_6": [
 			"Мне понадобилось 6 месяцев, чтобы подняться сюда."
+		],
+		"rarity_common": [
+			"Обычный"
+		],
+		"rarity_epic": [
+			"Эпический"
+		],
+		"rarity_rare": [
+			"Редкий"
 		],
 		"save_bear_tip_1": [
 			"Мы освободили первого медведя! Мы должны осмотреться в Черепашьем городе, прежде чем пойти в другие места."
@@ -21548,7 +21800,7 @@
 			"В этом магазине вы сможете обменять свои монеты на новые предметы! Новые предметы будут появляться каждые 6 часов! Так же, вы можете открывать Ящики с одеждой для получения предметов которых нет в магазине!"
 		],
 		"studio_help_3": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донорская (зелёная). Донорские предметы можно преобрести в магазине моего брата."
+			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донатерская (зелёная). Донатерские предметы можно преобрести в магазине моего брата."
 		],
 		"studio_help_4": [
 			"Тристопио это кролик на другой стороне реки, его предметы очень редкие ! Так же, всё что вы приобретёте вы сможете надеть здесь, бесплатно."
@@ -21585,6 +21837,9 @@
 		],
 		"tristopio_start": [
 			"Начать миссию"
+		],
+		"tristopio_today": [
+			"Сегодняшняя миссия"
 		],
 		"tutorial_shicka_1": [
 			"Эй, Баарен, вот ты где! Пчёлы атаковали деревню и всех схватили. Мне удалось спрятаться, когда они прибыли."
@@ -21635,7 +21890,7 @@
 			"Удерживайте В в воздухе, чтобы сделать удар животом."
 		],
 		"tutorial_sign_11": [
-			"Вы можете дважды прыгнуть, когда находитесь в воде, и потом нырнуть снова, чтобы преодолеть большие расстояния."
+			"Вы можете сделать двойной прыжок во время нырка и затем сделать нырок снова чтобы преодолеть дальние расстояния!"
 		],
 		"tutorial_sign_12": [
 			"Если Вы отпустите В, как только ударитесь о землю, то сможете прыгнуть выше."
@@ -21751,6 +22006,15 @@
 		"ui_credits": [
 			"Смотреть титры"
 		],
+		"ui_day_0": [
+			"Сегодня"
+		],
+		"ui_day_1": [
+			"Завтра"
+		],
+		"ui_day_2": [
+			"Послезавтра"
+		],
 		"ui_delete": [
 			"Удалить"
 		],
@@ -21764,16 +22028,16 @@
 			"Официальный Discord сервер \\ Подключайтесь, чтобы узнавать новости об игре."
 		],
 		"ui_donator_1": [
-			"Вы уже являетесь донором."
+			"Вы уже являетесь донатером."
 		],
 		"ui_donator_2": [
-			"Покупка завершена. Вы теперь донор! Спасибо!"
+			"Покупка завершена. Вы теперь донатер! Спасибо!"
 		],
 		"ui_donator_info": [
-			"Приобретение статуса донора даёт Вам доступ к://- Поддержка разработчика игры!//- Удаление обычной рекламы//- Эксклюзивная косметика//- Двойные монеты без рекламы//- Здоровье будет увеличено до 6//- Бесплатное возрождение"
+			"Приобретение статуса донатера даёт Вам доступ к://- Поддержка разработчика игры!//- Удаление обычной рекламы//- Эксклюзивная косметика//- Двойные монеты без рекламы//- Здоровье будет увеличено до 6//- Бесплатное возрождение"
 		],
 		"ui_donator_title": [
-			"Купить статус донора"
+			"Купить статус донатера"
 		],
 		"ui_empty": [
 			"Пусто"
@@ -21989,7 +22253,7 @@
 			"В будущем будут появляться новые версии..."
 		],
 		"ui_shopinfo": [
-			"Капиталус поможет Вам, если Вы посмотрите рекламу. Выберите один из вариантов, чтобы запустить видео и получить награду."
+			"Посмотрите рекламу и Капиталус//даст Вам бонус!"
 		],
 		"ui_skip": [
 			"Пропустить"
@@ -22541,6 +22805,9 @@
 		"party_turtle_4": [],
 		"party_turtle_5": [],
 		"party_turtle_6": [],
+		"rarity_common": [],
+		"rarity_epic": [],
+		"rarity_rare": [],
 		"save_bear_tip_1": [],
 		"save_bear_tip_2": [],
 		"scientist_cutscene_1_1": [],
@@ -22600,6 +22867,7 @@
 		"tristopio_practice": [],
 		"tristopio_practice_info": [],
 		"tristopio_start": [],
+		"tristopio_today": [],
 		"tutorial_shicka_1": [],
 		"tutorial_shicka_2": [],
 		"tutorial_shicka_3": [],
@@ -22665,6 +22933,9 @@
 		"ui_cosm_owned": [],
 		"ui_cosm_shop": [],
 		"ui_credits": [],
+		"ui_day_0": [],
+		"ui_day_1": [],
+		"ui_day_2": [],
 		"ui_delete": [],
 		"ui_deleteconfirm": [],
 		"ui_disconnected": [],
@@ -22676,7 +22947,7 @@
 			"Köp slutfört. Du är nu en donator! Tack så mycket!"
 		],
 		"ui_donator_info": [
-			"Att köpa donator status ger dig tillgång till: Du supportar spelutvecklaren! Tar bort reklamer utan belöningar! Exklusiva kosmetiska föremål! 2X mynt utan reklamer! Max hälsa blir 6! Första återupplivningen är gratis!"
+			"Att köpa donator status ger dig tillgång till: Du supportar spelutvecklaren! Tar bort reklamer utan belöningar! Exklusiva kosmetiska föremål! Mynt × 2 utan reklamer! Max hälsa blir 6! Första återupplivningen är gratis!"
 		],
 		"ui_donator_title": [
 			"Köp donator status"
@@ -23247,8 +23518,12 @@
 		"cosmetic_102": [
 			"Hayalet izi"
 		],
-		"cosmetic_103": [],
-		"cosmetic_104": [],
+		"cosmetic_103": [
+			"Kedi kafası"
+		],
+		"cosmetic_104": [
+			"Deal with it"
+		],
 		"cosmetic_default": [
 			"Varsayılan"
 		],
@@ -23397,7 +23672,7 @@
 			"Sen benim kahramanımsın Baaren, sen olmasaydın ben hâlâ kafesin içinde tıkılmış olurdum."
 		],
 		"hub_bear_08": [
-			"Arılar beni nehrin üstündeki bu köşeye sakladılar, neyse ki beni fark ettin…"
+			"Arılar beni nehrin üstündeki bu köşeye sakladılar, neyse ki beni fark ettin..."
 		],
 		"hub_bear_09": [
 			"Aferin, iri Kocaayak'ı yendin, tebrikler!"
@@ -23442,7 +23717,7 @@
 			"Duvar, krallığın geri kalanında kullanılmadan önce mor balı denemek için yapılmış olabilir. Ya da arılar kendilerini bir şeyden saklıyorlardı? Kim bilir?"
 		],
 		"hub_bear_23": [
-			"Bir efsane, piramidi elinde bulunduran kimseye muazzam güçler vereceğini yazar. Umarım böyle bir kalıntı gerçekte yoktur …"
+			"Bir efsane, piramidi elinde bulunduran kimseye muazzam güçler vereceğini yazar. Umarım böyle bir kalıntı gerçekte yoktur ..."
 		],
 		"hub_bear_24": [
 			"Duvarın yapılışı olasılıkla muazzam bir işti. Arılar bu duvarı kurmak için gerçekten önemli bir nedene sahip olmalılar."
@@ -23580,7 +23855,7 @@
 			"Babam şu garip balı yedi ve o günden beri çok tehlikeli biri oldu, onu kurtarmalısın!"
 		],
 		"level1_turtle_3": [
-			"Burada evde kalmayı tercih ederim, dışarıda bilinmeyen şeyler oluyor …"
+			"Burada evde kalmayı tercih ederim, dışarıda bilinmeyen şeyler oluyor ..."
 		],
 		"level1_turtle_4": [
 			"Neyse ki köyün bu bölümünde o baldan yok."
@@ -23589,7 +23864,7 @@
 			"Köyün üst kısmı mor balla dolu, zehirli kaplumbağaların buraya gelmesini önlemek için merdivenleri indirdik."
 		],
 		"level1_turtle_6": [
-			"Arılar mor balı yapmaya başlamadan önce yerliler sevinç doluydu …"
+			"Arılar mor balı yapmaya başlamadan önce yerliler sevinç doluydu ..."
 		],
 		"level1_turtle_7": [
 			"Bilgin, arılar onu kaçırmadan önce gölün bir yerinde su altı mağarası olduğu hakkında öyküler anlatırdı ..."
@@ -24005,6 +24280,15 @@
 		"party_turtle_6": [
 			"Buraya gelmem 6 ayımı aldı."
 		],
+		"rarity_common": [
+			"Yaygın (beyaz)"
+		],
+		"rarity_epic": [
+			"Efsanevi"
+		],
+		"rarity_rare": [
+			"Ender"
+		],
 		"save_bear_tip_1": [
 			"Bir ayıyı kurtardık! Önce Kaplumbağa Köyü'ne bakmayı sürdürmeliyiz"
 		],
@@ -24182,8 +24466,11 @@
 		"tristopio_start": [
 			"Görevi başlat"
 		],
+		"tristopio_today": [
+			"Bugünün görevi"
+		],
 		"tutorial_shicka_1": [
-			"Hey Baaren, işte buradasın! Ayılar buraya gelmeden önce saklanmayı başardım. Sen arıların tutsak etmediği tek ayısın…"
+			"Hey Baaren, işte buradasın! Ayılar buraya gelmeden önce saklanmayı başardım. Sen arıların tutsak etmediği tek ayısın..."
 		],
 		"tutorial_shicka_2": [
 			"Bence dostlarımızı özgürlüklerine kavuşturmak için bir takım olmalıyız. Sana ortamla ilgili bazı öneriler verebilirim."
@@ -24243,7 +24530,7 @@
 			"Hemen 100 akçe kazanarak bir şapka satın alın."
 		],
 		"ui_2x_coins": [
-			"×2 akçe"
+			"Akçe × 2"
 		],
 		"ui_6hp": [
 			"6 can"
@@ -24346,6 +24633,15 @@
 		],
 		"ui_credits": [
 			"Kredileri izleyin"
+		],
+		"ui_day_0": [
+			"Bugün"
+		],
+		"ui_day_1": [
+			"Yarın"
+		],
+		"ui_day_2": [
+			"Daha sonra"
 		],
 		"ui_delete": [
 			"Silme"
@@ -24471,7 +24767,7 @@
 			"Seviye yükleniyor."
 		],
 		"ui_loading_google": [
-			"Google Play'e bağlanılıyor…"
+			"Google Play'e bağlanılıyor..."
 		],
 		"ui_lootbox": [
 			"Kasa aç"
@@ -24576,10 +24872,10 @@
 			"Capitalus'un İş Yeri"
 		],
 		"ui_shop_future": [
-			"Daha fazlası gelecek güncellemelerde…"
+			"Daha fazlası gelecek güncellemelerde..."
 		],
 		"ui_shopinfo": [
-			"Bir reklam izlersen Capitalus sana sağlık arttırıcı verecek. Aşağıdaki arttırıcılardan birini seçerek videoyu başlatın ve ödülü kazanın."
+			"Bir reklam izleyin//ve Capitalus size bir bonus versin!"
 		],
 		"ui_skip": [
 			"Atla"

@@ -1,7 +1,8 @@
-Translation coverage: 605 / 608 required (99.51%), 0 / 42 optional (0.00%)
-The following keys have missing translations:
-- cosmetic_103
+Translation coverage: 612 / 613 required (99.84%), 2 / 44 optional (4.55%)
+The following keys have extra, but optional, translations:
+- cosmetic_094
 - cosmetic_104
+The following keys have missing translations:
 - ui_game_over
 The following keys have missing, but optional, translations:
 - char_baaren
@@ -49,15 +50,16 @@ The following keys have missing, but optional, translations:
 The following keys have transparent translations:
 - binding_axis
 - char_fennec
+- char_penguin
 - cosmetic_004
 - cosmetic_006
 - cosmetic_048
 - cosmetic_056
 - cosmetic_077
-- cosmetic_085
-- cosmetic_093
 - cosmetic_094
+- cosmetic_104
 - hub_bear_30
 - mission_parkour
+- title_gameplay
 - ui_quality1
 - ui_timer
