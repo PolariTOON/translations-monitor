@@ -131,12 +131,12 @@ function computeLevels() {
 }
 function computeOutfits() {
 	const outfits = [];
-	for (let k = 0; k < 4; ++k) {
+	for (let k = 0; k < 5; ++k) {
 		outfits.push({
 			name: keys["cosmetic_default"],
 		});
 	}
-	for (let k = 0; k < 104; ++k) {
+	for (let k = 0; k < 108; ++k) {
 		outfits.push({
 			name: keys[`cosmetic_${`${k + 1}`.padStart(3, "0")}`],
 		});
@@ -154,7 +154,9 @@ function computeParts() {
 		return partOutfits.map((index) => {
 			return keys[`cosmetic_${`${index}`.padStart(3, "0")}`];
 		})
-	});
+	}).concat([
+		[keys["filter_00"], keys["photo_contribution"]],
+	]);
 	for (const partOutfits of outfitsByPart) {
 		const partCounts = Object.create(null);
 		for (const locales of partOutfits) {

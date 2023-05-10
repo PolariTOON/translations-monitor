@@ -3,6 +3,5 @@ The following locales have missing translations:
 - ja
 - sv
 The following locales have transparent translations:
-- el
 - nl
 - tr

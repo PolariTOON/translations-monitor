@@ -1,13 +1,46 @@
-Translation coverage: 608 / 613 required (99.18%), 3 / 44 optional (6.82%)
+Translation coverage: 642 / 643 required (99.84%), 40 / 81 optional (49.38%)
 The following keys have extra, but optional, translations:
 - char_maybee
 - cosmetic_094
 - cosmetic_104
+- filter_01
+- filter_02
+- filter_03
+- filter_04
+- filter_05
+- filter_06
+- filter_07
+- filter_08
+- filter_09
+- filter_10
+- filter_11
+- filter_12
+- filter_13
+- filter_14
+- filter_15
+- filter_16
+- filter_17
+- filter_18
+- filter_19
+- filter_20
+- filter_21
+- filter_22
+- filter_23
+- filter_24
+- filter_25
+- filter_26
+- filter_27
+- filter_28
+- filter_29
+- filter_30
+- filter_31
+- filter_32
+- filter_33
+- filter_34
+- filter_35
+- filter_36
+- iap_premium_title
 The following keys have missing translations:
-- merch_ad
-- time_format
-- ui_framerate
-- ui_game_over
 - ui_version
 The following keys have missing, but optional, translations:
 - char_baaren
@@ -59,6 +92,12 @@ The following keys have transparent translations:
 - cosmetic_048
 - cosmetic_094
 - cosmetic_104
+- filter_05
+- filter_15
+- filter_27
 - hub_bear_30
+- iap_premium_title
 - mission_parkour
 - mission_race
+- time_format
+- ui_game_over

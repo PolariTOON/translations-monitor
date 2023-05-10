@@ -1,9 +1,50 @@
-Translation coverage: 612 / 613 required (99.84%), 2 / 44 optional (4.55%)
+Translation coverage: 631 / 643 required (98.13%), 32 / 81 optional (39.51%)
 The following keys have extra, but optional, translations:
-- cosmetic_094
-- cosmetic_104
+- filter_01
+- filter_02
+- filter_03
+- filter_04
+- filter_05
+- filter_06
+- filter_07
+- filter_08
+- filter_09
+- filter_10
+- filter_11
+- filter_12
+- filter_13
+- filter_14
+- filter_16
+- filter_17
+- filter_18
+- filter_19
+- filter_21
+- filter_22
+- filter_23
+- filter_25
+- filter_26
+- filter_28
+- filter_29
+- filter_30
+- filter_31
+- filter_32
+- filter_33
+- filter_34
+- filter_35
+- filter_36
 The following keys have missing translations:
+- binding_axis
+- char_fennec
+- char_penguin
+- cosmetic_004
+- cosmetic_006
+- cosmetic_048
+- cosmetic_056
+- mission_parkour
+- title_gameplay
+- ui_framerate
 - ui_game_over
+- ui_timer
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -45,21 +86,12 @@ The following keys have missing, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
-- ui_light_probes
-- ui_lightmaps
-The following keys have transparent translations:
-- binding_axis
-- char_fennec
-- char_penguin
-- cosmetic_004
-- cosmetic_006
-- cosmetic_048
-- cosmetic_056
-- cosmetic_077
 - cosmetic_094
 - cosmetic_104
-- hub_bear_30
-- mission_parkour
-- title_gameplay
-- ui_quality1
-- ui_timer
+- filter_15
+- filter_20
+- filter_24
+- filter_27
+- iap_premium_title
+- ui_light_probes
+- ui_lightmaps

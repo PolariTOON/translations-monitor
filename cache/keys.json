@@ -50,7 +50,7 @@
 			"Brake (vehicle)"
 		],
 		"es": [
-			"Romper (vehiculo)"
+			"Frenar (vehículo)"
 		],
 		"fr": [
 			"Freiner (véhicule)"
@@ -130,7 +130,7 @@
 			"Gas (vehicle)"
 		],
 		"es": [
-			"Gasolia (vehiculo)"
+			"Gas (vehículo)"
 		],
 		"fr": [
 			"Accélérer (véhicule)"
@@ -170,7 +170,7 @@
 			"Jump"
 		],
 		"es": [
-			"Saltae"
+			"Saltar"
 		],
 		"fr": [
 			"Sauter"
@@ -464,7 +464,7 @@
 			"Toutes les 15 plateformes, le type de parcours change. Les types actuels sont : normal, mur, eau, glace et rythme."
 		],
 		"id": [
-			"Setiap 15 platform, jenis parkour akan berubah. Jenis-jenis yang ada sekarang: normal, dinding, air, es batu dan ritme."
+			"Setiap 15 platform, jenis parkour akan berubah. Jenis-jenis yang ada sekarang: normal, dinding, air, es batu dan irama."
 		],
 		"it": [
 			"Ogni 15 piattaforme, il tipo di percorso cambia. Tra questi vi sono: normali, a parete, acqua e ghiaccio."
@@ -951,9 +951,7 @@
 		"fr": [
 			"Axe"
 		],
-		"id": [
-			"Axis"
-		],
+		"id": [],
 		"it": [
 			"Asse"
 		],
@@ -986,7 +984,7 @@
 			"Button"
 		],
 		"es": [
-			"Boton"
+			"Botón"
 		],
 		"fr": [
 			"Bouton"
@@ -1026,7 +1024,7 @@
 			"Negative button"
 		],
 		"es": [
-			"Boton negativo"
+			"Botón negativo"
 		],
 		"fr": [
 			"Bouton négatif"
@@ -1066,7 +1064,7 @@
 			"Positive button"
 		],
 		"es": [
-			"Boton positivo"
+			"Botón positivo"
 		],
 		"fr": [
 			"Bouton positif"
@@ -1106,7 +1104,7 @@
 			"The Guardian"
 		],
 		"es": [
-			"El Guardian"
+			"El Guardián"
 		],
 		"fr": [
 			"Le Gardien"
@@ -1282,7 +1280,7 @@
 			"Le Yéti"
 		],
 		"id": [
-			"Sang Yeti"
+			"Yeti"
 		],
 		"it": [
 			"Yeti"
@@ -2181,9 +2179,7 @@
 		"fr": [
 			"Fennec"
 		],
-		"id": [
-			"Fennec"
-		],
+		"id": [],
 		"it": [
 			"Fennec"
 		],
@@ -2295,9 +2291,7 @@
 		"fr": [
 			"Manchot"
 		],
-		"id": [
-			"Penguin"
-		],
+		"id": [],
 		"it": [
 			"Pinguino"
 		],
@@ -2319,7 +2313,9 @@
 		"sv": [
 			"Pingvin"
 		],
-		"tr": []
+		"tr": [
+			"Penguen"
+		]
 	},
 	"char_queen": {
 		"de": [
@@ -2349,13 +2345,15 @@
 			"Królowa Beetrycja"
 		],
 		"pt": [
-			"Rainha Beeatrice"
+			"Rainha Belhatriz"
 		],
 		"ru": [
 			"Королева Беатриса"
 		],
 		"sv": [],
-		"tr": []
+		"tr": [
+			"Kraliçe"
+		]
 	},
 	"char_reindeer": {
 		"de": [
@@ -2412,7 +2410,7 @@
 			"Scientist"
 		],
 		"es": [
-			"Cientifico"
+			"Científico"
 		],
 		"fr": [
 			"Scientifique"
@@ -2646,7 +2644,7 @@
 			"Cap (red)"
 		],
 		"es": [
-			"Gorro (rojo)"
+			"Gorra (roja)"
 		],
 		"fr": [
 			"Casquette (rouge)"
@@ -2686,7 +2684,7 @@
 			"Cap (blue)"
 		],
 		"es": [
-			"Gorra (azul)"
+			"Gorra (azúl)"
 		],
 		"fr": [
 			"Casquette (bleue)"
@@ -2731,9 +2729,7 @@
 		"fr": [
 			"Licorne"
 		],
-		"id": [
-			"Unicorn"
-		],
+		"id": [],
 		"it": [
 			"Unicorno"
 		],
@@ -2811,9 +2807,7 @@
 		"fr": [
 			"Fez"
 		],
-		"id": [
-			"Fez"
-		],
+		"id": [],
 		"it": [
 			"Fez"
 		],
@@ -3204,7 +3198,7 @@
 			"Muscular body"
 		],
 		"es": [
-			"Cuerpo muscular"
+			"Cuerpo musculoso"
 		],
 		"fr": [
 			"Corps musclé"
@@ -3318,7 +3312,7 @@
 			"Goldene Shicka"
 		],
 		"el": [
-			"Χρυσή Σίκα"
+			"Χρυσή Shicka"
 		],
 		"en": [
 			"Golden Shicka"
@@ -3364,7 +3358,7 @@
 			"Red Shicka"
 		],
 		"es": [
-			"Red Shicka"
+			"Shicka roja"
 		],
 		"fr": [
 			"Shicka rouge"
@@ -3958,7 +3952,7 @@
 			"Retro Bär"
 		],
 		"el": [
-			"Αρκούδα ρετρό"
+			"Ρετρό αρκούδα"
 		],
 		"en": [
 			"Retro bear"
@@ -3998,7 +3992,7 @@
 			"Retro shicka"
 		],
 		"el": [
-			"Ρετρό σίκαλη"
+			"Ρετρό Shicka"
 		],
 		"en": [
 			"Retro Shicka"
@@ -4284,7 +4278,7 @@
 			"Rainbow bear"
 		],
 		"es": [
-			"El oso arco iris"
+			"Oso arcoíris"
 		],
 		"fr": [
 			"Ours arc-en-ciel"
@@ -4438,39 +4432,39 @@
 			"Hemd (König)"
 		],
 		"el": [
-			"Πουκάμισο (δωρητής)"
+			"Πουκάμισο SBA"
 		],
 		"en": [
-			"Shirt (donator)"
+			"SBA shirt"
 		],
 		"es": [
-			"Camiseta (donante)"
+			"Camiseta SBA"
 		],
 		"fr": [
-			"T-shirt (donateur)"
+			"T-shirt SBA"
 		],
 		"id": [
-			"Kemeja (donator)"
+			"Kaos SBA"
 		],
 		"it": [
-			"Maglietta (donatore)"
+			"Maglietta SBA"
 		],
 		"ja": [],
 		"nl": [
-			"Shirt (koning)"
+			"SBA shirt"
 		],
 		"pl": [
-			"Koszulka (król)"
+			"Koszula SBA"
 		],
 		"pt": [
-			"Camisa (doador)"
+			"Camisa SBA"
 		],
 		"ru": [
-			"Майка (донатер)"
+			"Майка SBA"
 		],
 		"sv": [],
 		"tr": [
-			"Gömlek (bağışçı)"
+			"SBA gömleği"
 		]
 	},
 	"cosmetic_048": {
@@ -4489,9 +4483,7 @@
 		"fr": [
 			"Panda"
 		],
-		"id": [
-			"Panda"
-		],
+		"id": [],
 		"it": [
 			"Panda"
 		],
@@ -4531,7 +4523,7 @@
 			"Kepala Capitalus"
 		],
 		"it": [
-			"Testa del capitello"
+			"Testa del Capitalus"
 		],
 		"ja": [],
 		"nl": [
@@ -4562,7 +4554,7 @@
 			"Rainbow trails"
 		],
 		"es": [
-			"Vetas del arco iris"
+			"Rastro de arcoíris"
 		],
 		"fr": [
 			"Traînées arc-en-ciel"
@@ -4602,7 +4594,7 @@
 			"Outline"
 		],
 		"es": [
-			"Esquema"
+			"Contorno"
 		],
 		"fr": [
 			"Contour"
@@ -4807,9 +4799,7 @@
 		"fr": [
 			"Citrouille d'Halloween"
 		],
-		"id": [
-			"Jack O'Lantern"
-		],
+		"id": [],
 		"it": [
 			"Zucca di Halloween"
 		],
@@ -4876,39 +4866,39 @@
 			"Spenderkrone"
 		],
 		"el": [
-			"Στέμμα δωρητή"
+			"Βασιλικό στέμμα"
 		],
 		"en": [
-			"Donator crown"
+			"Royal crown"
 		],
 		"es": [
-			"Corona del dador"
+			"Corona real"
 		],
 		"fr": [
-			"Couronne de donateur"
+			"Couronne royale"
 		],
 		"id": [
-			"Mahkota donator"
+			"Mahkota kerajaan"
 		],
 		"it": [
-			"Corona del donatore"
+			"Corona reale"
 		],
 		"ja": [],
 		"nl": [
 			"Donateur kroon"
 		],
 		"pl": [
-			"Korona dawcy"
+			"Korona królewska"
 		],
 		"pt": [
-			"Coroa de doador"
+			"Coroa Real"
 		],
 		"ru": [
-			"Корона донатера"
+			"Царская корона"
 		],
 		"sv": [],
 		"tr": [
-			"Bağışçı tacı"
+			"Kraliyet tacı"
 		]
 	},
 	"cosmetic_059": {
@@ -5042,7 +5032,7 @@
 			"Fried egg"
 		],
 		"es": [
-			"Huevo en el plato"
+			"Huevo roto"
 		],
 		"fr": [
 			"Œuf sur le plat"
@@ -5162,7 +5152,7 @@
 			"Pacifier"
 		],
 		"es": [
-			"Dummy"
+			"Chupón"
 		],
 		"fr": [
 			"Tétine"
@@ -5276,7 +5266,7 @@
 			"Unsichtbare Shicka"
 		],
 		"el": [
-			"Αόρατη Σίκα"
+			"Shicka aόρατη"
 		],
 		"en": [
 			"Invisible Shicka"
@@ -5316,7 +5306,7 @@
 			"8-Bit Shicka"
 		],
 		"el": [
-			"8-bit Shicka"
+			"Shicka 8-bit"
 		],
 		"en": [
 			"8-bit Shicka"
@@ -5402,7 +5392,7 @@
 			"Sackbear"
 		],
 		"es": [
-			"Oso de arpillera"
+			"Oso de tela"
 		],
 		"fr": [
 			"Ours en toile de jute"
@@ -5600,7 +5590,7 @@
 			"Jacket (denim)"
 		],
 		"es": [
-			"Chaqueta (denim)"
+			"Chaqueta (azúl)"
 		],
 		"fr": [
 			"Veste (denim)"
@@ -5640,13 +5630,13 @@
 			"Penguin Shicka"
 		],
 		"es": [
-			"Pingüino Shicka"
+			"Shicka pingüino"
 		],
 		"fr": [
 			"Shicka manchot"
 		],
 		"id": [
-			"Penguin Shicka"
+			"Shicka Penguin"
 		],
 		"it": [
 			"Pinguino Shicka"
@@ -5680,7 +5670,7 @@
 			"Bear Shicka"
 		],
 		"es": [
-			"Oso Shicka"
+			"Shicka oso"
 		],
 		"fr": [
 			"Shicka ours"
@@ -5720,7 +5710,7 @@
 			"Shicka bear"
 		],
 		"es": [
-			"Oso Shicka"
+			"Shicka oso"
 		],
 		"fr": [
 			"Ours Shicka"
@@ -5760,7 +5750,7 @@
 			"Rainbow Shicka"
 		],
 		"es": [
-			"Arco iris de Shicka"
+			"Shicka arcoíris"
 		],
 		"fr": [
 			"Shicka arc-en-ciel"
@@ -5952,13 +5942,13 @@
 			"Bommel Schicka"
 		],
 		"el": [
-			"Bobble Shicka"
+			"Μπομπλ Shicka"
 		],
 		"en": [
 			"Bobble Shicka"
 		],
 		"es": [
-			"Primavera Shicka"
+			"Shicka resorte"
 		],
 		"fr": [
 			"Shicka à ressort"
@@ -5992,39 +5982,39 @@
 			"Bretagne Hut"
 		],
 		"el": [
-			"Καπέλο της Βρετάνης"
+			"Σύννεφο της Βρετάνης"
 		],
 		"en": [
-			"Brittany hat"
+			"Brittany cloud"
 		],
 		"es": [
-			"Sombrero bretón"
+			"Nube"
 		],
 		"fr": [
-			"Chapeau breton"
+			"Nuage breton"
 		],
 		"id": [
 			"Awan Hujan"
 		],
 		"it": [
-			"Cappello bretone"
+			"Nuvola bretone"
 		],
 		"ja": [],
 		"nl": [
 			"Wolk hoed"
 		],
 		"pl": [
-			"Brytyjski kapelusz"
+			"Chmura Bretanii"
 		],
 		"pt": [
-			"Chapéu britânico"
+			"Chapéu Bretânhico"
 		],
 		"ru": [
-			"Бретонская шляпа"
+			"Бретонское облако"
 		],
 		"sv": [],
 		"tr": [
-			"Brittany şapkası"
+			"Brittany bulutu"
 		]
 	},
 	"cosmetic_087": {
@@ -6198,7 +6188,7 @@
 			"Dice"
 		],
 		"es": [
-			"Die"
+			"Dado"
 		],
 		"fr": [
 			"Dé"
@@ -6272,7 +6262,7 @@
 			"Kosmische Shicka"
 		],
 		"el": [
-			"Κοσμική Σίκα"
+			"Κοσμική Shicka"
 		],
 		"en": [
 			"Cosmic Shicka"
@@ -6323,9 +6313,7 @@
 		"fr": [
 			"IMABEAR"
 		],
-		"id": [
-			"IMABEAR"
-		],
+		"id": [],
 		"it": [
 			"IMABEAR"
 		],
@@ -6396,7 +6384,7 @@
 			"Scarf (blue)"
 		],
 		"es": [
-			"Bufanda (azul)"
+			"Bufanda (azúl)"
 		],
 		"fr": [
 			"Écharpe (bleue)"
@@ -6565,7 +6553,7 @@
 			"Beruang kecil"
 		],
 		"it": [
-			"Orso (piccolo)"
+			"Orso piccolo"
 		],
 		"ja": [],
 		"nl": [
@@ -6719,9 +6707,7 @@
 		"fr": [
 			"Deal with it"
 		],
-		"id": [
-			"Deal with it"
-		],
+		"id": [],
 		"it": [
 			"Deal with it"
 		],
@@ -6741,6 +6727,156 @@
 			"Deal with it"
 		]
 	},
+	"cosmetic_105": {
+		"de": [
+			"Noire Vision"
+		],
+		"el": [
+			"Όραμα Noire"
+		],
+		"en": [
+			"Noire vision"
+		],
+		"es": [
+			"Visión obscura"
+		],
+		"fr": [
+			"Vision noire"
+		],
+		"id": [
+			"Penglihatan Noire"
+		],
+		"it": [
+			"Visione nera"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Wizja Noire"
+		],
+		"pt": [
+			"Visão Nóir"
+		],
+		"ru": [
+			"Тёмное зрение"
+		],
+		"sv": [],
+		"tr": [
+			"Siyah görüş"
+		]
+	},
+	"cosmetic_106": {
+		"de": [
+			"Hausvogel"
+		],
+		"el": [
+			"Πουλί κατοικίδιο ζώο"
+		],
+		"en": [
+			"Pet bird"
+		],
+		"es": [
+			"Pájaro mascota"
+		],
+		"fr": [
+			"Oiseau apprivoisé"
+		],
+		"id": [
+			"Burung peliharaan"
+		],
+		"it": [
+			"Uccello addomesticato"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Pet bird"
+		],
+		"pt": [
+			"Passarinho pet"
+		],
+		"ru": [
+			"Питомец птица"
+		],
+		"sv": [],
+		"tr": [
+			"Evcil Hayvan Kuş"
+		]
+	},
+	"cosmetic_107": {
+		"de": [
+			"Haustier Violett"
+		],
+		"el": [
+			"Violette κατοικίδιο ζώο"
+		],
+		"en": [
+			"Pet Violette"
+		],
+		"es": [
+			"Violette mascota"
+		],
+		"fr": [
+			"Violette apprivoisée"
+		],
+		"id": [
+			"Violette"
+		],
+		"it": [
+			"Violette domata"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Pet Violette"
+		],
+		"pt": [
+			"Violette pet"
+		],
+		"ru": [
+			"Питомец Виолетта"
+		],
+		"sv": [],
+		"tr": []
+	},
+	"cosmetic_108": {
+		"de": [
+			"Magische Fußspuren"
+		],
+		"el": [
+			"Μαγικά βήματα"
+		],
+		"en": [
+			"Magical footsteps"
+		],
+		"es": [
+			"Huellas mágicas"
+		],
+		"fr": [
+			"Empreintes magiques"
+		],
+		"id": [
+			"Jejak ajaib"
+		],
+		"it": [
+			"Impronte magiche"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Magiczne ślady"
+		],
+		"pt": [
+			"Pegadas mágicas"
+		],
+		"ru": [
+			"Волшебные шаги"
+		],
+		"sv": [],
+		"tr": [
+			"Büyülü ayak izleri"
+		]
+	},
 	"cosmetic_default": {
 		"de": [
 			"Standard"
@@ -6758,7 +6894,7 @@
 			"Défaut"
 		],
 		"id": [
-			"Standar"
+			"Bawaan"
 		],
 		"it": [
 			"Difetto"
@@ -6779,6 +6915,1408 @@
 		"sv": [],
 		"tr": [
 			"Varsayılan"
+		]
+	},
+	"filter_00": {
+		"de": [
+			"Kein Filter"
+		],
+		"el": [
+			"Χωρίς φίλτρο"
+		],
+		"en": [
+			"No filter"
+		],
+		"es": [
+			"Sin filtro"
+		],
+		"fr": [
+			"Pas de filtre"
+		],
+		"id": [
+			"Tanpa Filter"
+		],
+		"it": [
+			"Nessun filtro"
+		],
+		"ja": [],
+		"nl": [
+			"Geen filter"
+		],
+		"pl": [
+			"Bez filtra"
+		],
+		"pt": [
+			"Sem filtro"
+		],
+		"ru": [
+			"Без фильтра"
+		],
+		"sv": [],
+		"tr": [
+			"Filtre yok"
+		]
+	},
+	"filter_01": {
+		"de": [
+			"Kinofilm"
+		],
+		"el": [
+			"Κινηματογραφικό"
+		],
+		"en": [
+			"Cinematic"
+		],
+		"es": [
+			"Cinemática"
+		],
+		"fr": [
+			"Cinématique"
+		],
+		"id": [
+			"Sinematik"
+		],
+		"it": [
+			"Cinematico"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Filmowy"
+		],
+		"pt": [
+			"Cinemático"
+		],
+		"ru": [
+			"Кинематографический"
+		],
+		"sv": [],
+		"tr": [
+			"Sinematik"
+		]
+	},
+	"filter_02": {
+		"de": [
+			"Unheimlich"
+		],
+		"el": [
+			"Ανατριχιαστικό"
+		],
+		"en": [
+			"Creepy"
+		],
+		"es": [
+			"Espeluznante"
+		],
+		"fr": [
+			"Effrayant"
+		],
+		"id": [
+			"Menakutkan"
+		],
+		"it": [
+			"Spaventoso"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Przerażający"
+		],
+		"pt": [
+			"Assustador"
+		],
+		"ru": [
+			"Жуткий"
+		],
+		"sv": [],
+		"tr": [
+			"Ürpertici"
+		]
+	},
+	"filter_03": {
+		"de": [
+			"Intensiv"
+		],
+		"el": [
+			"Έντονο"
+		],
+		"en": [
+			"Intense"
+		],
+		"es": [
+			"Intenso"
+		],
+		"fr": [
+			"Intense"
+		],
+		"id": [
+			"Intens"
+		],
+		"it": [
+			"Intenso"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Intensywny"
+		],
+		"pt": [
+			"Intenso"
+		],
+		"ru": [
+			"Интенсивный"
+		],
+		"sv": [],
+		"tr": [
+			"Intense"
+		]
+	},
+	"filter_04": {
+		"de": [
+			"Dramatisch"
+		],
+		"el": [
+			"Δραματικό"
+		],
+		"en": [
+			"Dramatic"
+		],
+		"es": [
+			"Dramatico"
+		],
+		"fr": [
+			"Dramatique"
+		],
+		"id": [
+			"Dramatis"
+		],
+		"it": [
+			"Drammatico"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Dramatyczny"
+		],
+		"pt": [
+			"Dramático"
+		],
+		"ru": [
+			"Драматичный"
+		],
+		"sv": [],
+		"tr": [
+			"Dramatik"
+		]
+	},
+	"filter_05": {
+		"de": [
+			"Rückblende"
+		],
+		"el": [
+			"Αναδρομή στο παρελθόν"
+		],
+		"en": [
+			"Flashback"
+		],
+		"es": [
+			"Flashback"
+		],
+		"fr": [
+			"Flashback"
+		],
+		"id": [
+			"Kilas Balik"
+		],
+		"it": [
+			"Flashback"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Flashback"
+		],
+		"pt": [],
+		"ru": [
+			"Воспоминание"
+		],
+		"sv": [],
+		"tr": [
+			"Flashback"
+		]
+	},
+	"filter_06": {
+		"de": [
+			"Farbenfroh"
+		],
+		"el": [
+			"Πολύχρωμο"
+		],
+		"en": [
+			"Colorful"
+		],
+		"es": [
+			"Colorido"
+		],
+		"fr": [
+			"Coloré"
+		],
+		"id": [
+			"Penuh Warna"
+		],
+		"it": [
+			"Colorato"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Kolorowy"
+		],
+		"pt": [
+			"Colorido"
+		],
+		"ru": [
+			"Красочный"
+		],
+		"sv": [],
+		"tr": [
+			"Renkli"
+		]
+	},
+	"filter_07": {
+		"de": [
+			"Sommer"
+		],
+		"el": [
+			"Καλοκαίρι"
+		],
+		"en": [
+			"Summer"
+		],
+		"es": [
+			"Verano"
+		],
+		"fr": [
+			"Été"
+		],
+		"id": [
+			"Musim Panas"
+		],
+		"it": [
+			"Estate"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Lato"
+		],
+		"pt": [
+			"Verão"
+		],
+		"ru": [
+			"Летний"
+		],
+		"sv": [],
+		"tr": [
+			"Yaz"
+		]
+	},
+	"filter_08": {
+		"de": [
+			"Sonnenbrand"
+		],
+		"el": [
+			"Ηλιακό έγκαυμα"
+		],
+		"en": [
+			"Sunburn"
+		],
+		"es": [
+			"Bronceado"
+		],
+		"fr": [
+			"Coup de soleil"
+		],
+		"id": [
+			"Sengatan Matahari"
+		],
+		"it": [
+			"Scottato dal sole"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Sunburn"
+		],
+		"pt": [
+			"Tostado"
+		],
+		"ru": [
+			"Солнечный Ожог"
+		],
+		"sv": [],
+		"tr": [
+			"Güneş yanığı"
+		]
+	},
+	"filter_09": {
+		"de": [
+			"Gemütlich"
+		],
+		"el": [
+			"Cozy"
+		],
+		"en": [
+			"Cozy"
+		],
+		"es": [
+			"Acogedor"
+		],
+		"fr": [
+			"Confortable"
+		],
+		"id": [
+			"Nyaman"
+		],
+		"it": [
+			"Confortevole"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Przytulny"
+		],
+		"pt": [
+			"Aconchegante"
+		],
+		"ru": [
+			"Уютный"
+		],
+		"sv": [],
+		"tr": [
+			"Samimi"
+		]
+	},
+	"filter_10": {
+		"de": [
+			"Frisch"
+		],
+		"el": [
+			"Φρέσκο"
+		],
+		"en": [
+			"Fresh"
+		],
+		"es": [
+			"Fresco"
+		],
+		"fr": [
+			"Frais"
+		],
+		"id": [
+			"Segar"
+		],
+		"it": [
+			"Fresco"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Świeży"
+		],
+		"pt": [
+			"Fresco"
+		],
+		"ru": [
+			"Свежий"
+		],
+		"sv": [],
+		"tr": [
+			"Fresh"
+		]
+	},
+	"filter_11": {
+		"de": [
+			"Gletscher"
+		],
+		"el": [
+			"Παγετώνας"
+		],
+		"en": [
+			"Glacier"
+		],
+		"es": [
+			"Glaciar"
+		],
+		"fr": [
+			"Glacier"
+		],
+		"id": [
+			"Gletser"
+		],
+		"it": [
+			"Ghiacciaio"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Lodowiec"
+		],
+		"pt": [
+			"Geladinho"
+		],
+		"ru": [
+			"Ледник"
+		],
+		"sv": [],
+		"tr": [
+			"Buzlu"
+		]
+	},
+	"filter_12": {
+		"de": [
+			"Gealtert"
+		],
+		"el": [
+			"Παλαιωμένο"
+		],
+		"en": [
+			"Aged"
+		],
+		"es": [
+			"Envejecido"
+		],
+		"fr": [
+			"Âgé"
+		],
+		"id": [
+			"Tua"
+		],
+		"it": [
+			"Più vecchio"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Starzejący się"
+		],
+		"pt": [
+			"Antigo"
+		],
+		"ru": [
+			"Постаревший"
+		],
+		"sv": [],
+		"tr": [
+			"Yaşlı"
+		]
+	},
+	"filter_13": {
+		"de": [
+			"Flach"
+		],
+		"el": [
+			"Flat"
+		],
+		"en": [
+			"Flat"
+		],
+		"es": [
+			"Plano"
+		],
+		"fr": [
+			"Aplat"
+		],
+		"id": [
+			"Datar"
+		],
+		"it": [
+			"Piatto"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Płaski"
+		],
+		"pt": [
+			"Plano"
+		],
+		"ru": [
+			"Плоский"
+		],
+		"sv": [],
+		"tr": [
+			"Düz"
+		]
+	},
+	"filter_14": {
+		"de": [
+			"Nächtlich"
+		],
+		"el": [
+			"Νυχτερινό"
+		],
+		"en": [
+			"Nightly"
+		],
+		"es": [
+			"Nocturno"
+		],
+		"fr": [
+			"Nocturne"
+		],
+		"id": [
+			"Malam"
+		],
+		"it": [
+			"Notturno"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Nightly"
+		],
+		"pt": [
+			"Noturno"
+		],
+		"ru": [
+			"Ночной"
+		],
+		"sv": [],
+		"tr": [
+			"Gece"
+		]
+	},
+	"filter_15": {
+		"de": [
+			"Hacker"
+		],
+		"el": [
+			"Hacker"
+		],
+		"en": [
+			"Hacker"
+		],
+		"es": [
+			"Hacker"
+		],
+		"fr": [
+			"Hacker"
+		],
+		"id": [],
+		"it": [
+			"Hacker"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Haker"
+		],
+		"pt": [],
+		"ru": [
+			"Хакер"
+		],
+		"sv": [],
+		"tr": [
+			"Hacker"
+		]
+	},
+	"filter_16": {
+		"de": [
+			"Plakatieren"
+		],
+		"el": [
+			"Posterize"
+		],
+		"en": [
+			"Posterize"
+		],
+		"es": [
+			"Posterizar"
+		],
+		"fr": [
+			"Postérisation"
+		],
+		"id": [
+			"Posterisasi"
+		],
+		"it": [
+			"Posterizzazione"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Posterize"
+		],
+		"pt": [
+			"Posterizar"
+		],
+		"ru": [
+			"Постеризованный"
+		],
+		"sv": [],
+		"tr": [
+			"Posterize"
+		]
+	},
+	"filter_17": {
+		"de": [
+			"Süßigkeitenland"
+		],
+		"el": [
+			"Candyland"
+		],
+		"en": [
+			"Candyland"
+		],
+		"es": [
+			"Dulcelandia"
+		],
+		"fr": [
+			"Parc à thèmes"
+		],
+		"id": [
+			"Negeri Permen"
+		],
+		"it": [
+			"Parco a tema"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Candyland"
+		],
+		"pt": [
+			"Terra dos Doces"
+		],
+		"ru": [
+			"Конфетный Мир"
+		],
+		"sv": [],
+		"tr": [
+			"Şeker diyarı"
+		]
+	},
+	"filter_18": {
+		"de": [
+			"Graustufen"
+		],
+		"el": [
+			"Κλίμακα του γκρι"
+		],
+		"en": [
+			"Grayscale"
+		],
+		"es": [
+			"Escala de grises"
+		],
+		"fr": [
+			"Niveau de gris"
+		],
+		"id": [
+			"Abu-abu"
+		],
+		"it": [
+			"Scala di grigi"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Grayscale"
+		],
+		"pt": [
+			"Escala de cinzas"
+		],
+		"ru": [
+			"Оттенки Серого"
+		],
+		"sv": [],
+		"tr": [
+			"Gri ton"
+		]
+	},
+	"filter_19": {
+		"de": [
+			"Alter Film"
+		],
+		"el": [
+			"Παλιά ταινία"
+		],
+		"en": [
+			"Old film"
+		],
+		"es": [
+			"Película vieja"
+		],
+		"fr": [
+			"Vieux film"
+		],
+		"id": [
+			"Film Lama"
+		],
+		"it": [
+			"Vecchia pellicola"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Stary film"
+		],
+		"pt": [
+			"Filme velho"
+		],
+		"ru": [
+			"Старый Фильм"
+		],
+		"sv": [],
+		"tr": [
+			"Eski film"
+		]
+	},
+	"filter_20": {
+		"de": [
+			"Schwarz"
+		],
+		"el": [
+			"Noire"
+		],
+		"en": [
+			"Noire"
+		],
+		"es": [
+			"Negro"
+		],
+		"fr": [
+			"Film noir"
+		],
+		"id": [],
+		"it": [
+			"Pellicola nera"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Noire"
+		],
+		"pt": [
+			"Noir"
+		],
+		"ru": [
+			"Noire"
+		],
+		"sv": [],
+		"tr": [
+			"Kara"
+		]
+	},
+	"filter_21": {
+		"de": [
+			"Nur Rot"
+		],
+		"el": [
+			"Μόνο κόκκινο"
+		],
+		"en": [
+			"Only red"
+		],
+		"es": [
+			"Sólo rojo"
+		],
+		"fr": [
+			"Rouge seulement"
+		],
+		"id": [
+			"Hanya Merah"
+		],
+		"it": [
+			"Solo rosso"
+		],
+		"ja": [],
+		"nl": [
+			"Alleen rood"
+		],
+		"pl": [
+			"Tylko czerwony"
+		],
+		"pt": [
+			"Só Vermelho"
+		],
+		"ru": [
+			"Только Красный"
+		],
+		"sv": [],
+		"tr": [
+			"Sadece Kırmızı"
+		]
+	},
+	"filter_22": {
+		"de": [
+			"Nur Grün"
+		],
+		"el": [
+			"Μόνο πράσινο"
+		],
+		"en": [
+			"Only green"
+		],
+		"es": [
+			"Sólo verde"
+		],
+		"fr": [
+			"Vert seulement"
+		],
+		"id": [
+			"Hanya Hijau"
+		],
+		"it": [
+			"Solo verde"
+		],
+		"ja": [],
+		"nl": [
+			"Alleen groen"
+		],
+		"pl": [
+			"Tylko zielony"
+		],
+		"pt": [
+			"Só Verde"
+		],
+		"ru": [
+			"Только Зелёный"
+		],
+		"sv": [],
+		"tr": [
+			"Sadece Yeşil"
+		]
+	},
+	"filter_23": {
+		"de": [
+			"Nur Blau"
+		],
+		"el": [
+			"Μόνο μπλε"
+		],
+		"en": [
+			"Only blue"
+		],
+		"es": [
+			"Sólo azúl"
+		],
+		"fr": [
+			"Bleu seulement"
+		],
+		"id": [
+			"Hanya Biru"
+		],
+		"it": [
+			"Solo blu"
+		],
+		"ja": [],
+		"nl": [
+			"Alleen blauw"
+		],
+		"pl": [
+			"Tylko niebieski"
+		],
+		"pt": [
+			"Só Azul"
+		],
+		"ru": [
+			"Только Синий"
+		],
+		"sv": [],
+		"tr": [
+			"Sadece Mavi"
+		]
+	},
+	"filter_24": {
+		"de": [
+			"Sepia"
+		],
+		"el": [
+			"Sepia"
+		],
+		"en": [
+			"Sepia"
+		],
+		"es": [
+			"Sepia"
+		],
+		"fr": [
+			"Sépia"
+		],
+		"id": [],
+		"it": [
+			"Seppia"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Sepia"
+		],
+		"pt": [
+			"Sépia"
+		],
+		"ru": [
+			"Сепия"
+		],
+		"sv": [],
+		"tr": [
+			"Sepia"
+		]
+	},
+	"filter_25": {
+		"de": [
+			"Lila"
+		],
+		"el": [
+			"Μωβ"
+		],
+		"en": [
+			"Purple"
+		],
+		"es": [
+			"Morado"
+		],
+		"fr": [
+			"Violet"
+		],
+		"id": [
+			"Ungu"
+		],
+		"it": [
+			"Viola"
+		],
+		"ja": [],
+		"nl": [
+			"Paars"
+		],
+		"pl": [
+			"Fioletowy"
+		],
+		"pt": [
+			"Roxo"
+		],
+		"ru": [
+			"Фиолетовый"
+		],
+		"sv": [],
+		"tr": [
+			"Mor"
+		]
+	},
+	"filter_26": {
+		"de": [
+			"Feuer"
+		],
+		"el": [
+			"Φωτιά"
+		],
+		"en": [
+			"Fire"
+		],
+		"es": [
+			"Fuego"
+		],
+		"fr": [
+			"Feu"
+		],
+		"id": [
+			"Api"
+		],
+		"it": [
+			"Fuoco"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Ogień"
+		],
+		"pt": [
+			"Fogo"
+		],
+		"ru": [
+			"Огненный"
+		],
+		"sv": [],
+		"tr": [
+			"Ateş"
+		]
+	},
+	"filter_27": {
+		"de": [
+			"Gameboy"
+		],
+		"el": [
+			"Gameboy"
+		],
+		"en": [
+			"Gameboy"
+		],
+		"es": [
+			"Gameboy"
+		],
+		"fr": [
+			"Gameboy"
+		],
+		"id": [],
+		"it": [
+			"Gameboy"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Gameboy"
+		],
+		"pt": [],
+		"ru": [
+			"Gameboy"
+		],
+		"sv": [],
+		"tr": [
+			"Gameboy"
+		]
+	},
+	"filter_28": {
+		"de": [
+			"Binär"
+		],
+		"el": [
+			"Δυαδικό"
+		],
+		"en": [
+			"Binary"
+		],
+		"es": [
+			"Binario"
+		],
+		"fr": [
+			"Binaire"
+		],
+		"id": [
+			"Biner"
+		],
+		"it": [
+			"Binario"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Binarny"
+		],
+		"pt": [
+			"Binário"
+		],
+		"ru": [
+			"Gameboy"
+		],
+		"sv": [],
+		"tr": [
+			"İki Renk"
+		]
+	},
+	"filter_29": {
+		"de": [
+			"Seltsam"
+		],
+		"el": [
+			"Παράξενο"
+		],
+		"en": [
+			"Weird"
+		],
+		"es": [
+			"Raro"
+		],
+		"fr": [
+			"Étrange"
+		],
+		"id": [
+			"Aneh"
+		],
+		"it": [
+			"Strano"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Dziwne"
+		],
+		"pt": [
+			"Estranho"
+		],
+		"ru": [
+			"Странный"
+		],
+		"sv": [],
+		"tr": [
+			"Garip"
+		]
+	},
+	"filter_30": {
+		"de": [
+			"Wahnsinn"
+		],
+		"el": [
+			"Τρέλα"
+		],
+		"en": [
+			"Madness"
+		],
+		"es": [
+			"Locura"
+		],
+		"fr": [
+			"Folie"
+		],
+		"id": [
+			"Kegilaan"
+		],
+		"it": [
+			"Follia"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Szaleństwo"
+		],
+		"pt": [
+			"Loucura"
+		],
+		"ru": [
+			"Безумие"
+		],
+		"sv": [],
+		"tr": [
+			"Madness"
+		]
+	},
+	"filter_31": {
+		"de": [
+			"Wärme"
+		],
+		"el": [
+			"Heat"
+		],
+		"en": [
+			"Heat"
+		],
+		"es": [
+			"Calor"
+		],
+		"fr": [
+			"Détection de chaleur"
+		],
+		"id": [
+			"Panas"
+		],
+		"it": [
+			"Rilevamento del calore"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Heat"
+		],
+		"pt": [
+			"Calor"
+		],
+		"ru": [
+			"Теплота"
+		],
+		"sv": [],
+		"tr": [
+			"Sıcak"
+		]
+	},
+	"filter_32": {
+		"de": [
+			"Regenbogen"
+		],
+		"el": [
+			"Rainbow"
+		],
+		"en": [
+			"Rainbow"
+		],
+		"es": [
+			"Arcoíris"
+		],
+		"fr": [
+			"Arc-en-ciel"
+		],
+		"id": [
+			"Pelangi"
+		],
+		"it": [
+			"Arcobaleno"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Rainbow"
+		],
+		"pt": [
+			"Arco-Íris"
+		],
+		"ru": [
+			"Радуга"
+		],
+		"sv": [],
+		"tr": [
+			"Gökkuşağı"
+		]
+	},
+	"filter_33": {
+		"de": [
+			"Roboter Sicht"
+		],
+		"el": [
+			"Όραμα ρομπότ"
+		],
+		"en": [
+			"Robot vision"
+		],
+		"es": [
+			"Visión robot"
+		],
+		"fr": [
+			"Vision de robot"
+		],
+		"id": [
+			"Penglihatan Robot"
+		],
+		"it": [
+			"Visione robotica"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Wizja robota"
+		],
+		"pt": [
+			"Visão Robótica"
+		],
+		"ru": [
+			"Зрение Робота"
+		],
+		"sv": [],
+		"tr": [
+			"Robot Görüşü"
+		]
+	},
+	"filter_34": {
+		"de": [
+			"Negativ 1"
+		],
+		"el": [
+			"Αρνητικό 1"
+		],
+		"en": [
+			"Negative 1"
+		],
+		"es": [
+			"Negativo 1"
+		],
+		"fr": [
+			"Négatif 1"
+		],
+		"id": [
+			"Negatif 1"
+		],
+		"it": [
+			"Negativo 1"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Negatyw 1"
+		],
+		"pt": [
+			"Negativo 1"
+		],
+		"ru": [
+			"Отрицательный 1"
+		],
+		"sv": [],
+		"tr": [
+			"Negative 1"
+		]
+	},
+	"filter_35": {
+		"de": [
+			"Negativ 2"
+		],
+		"el": [
+			"Αρνητικό 2"
+		],
+		"en": [
+			"Negative 2"
+		],
+		"es": [
+			"Negativo 2"
+		],
+		"fr": [
+			"Négatif 2"
+		],
+		"id": [
+			"Negatif 2"
+		],
+		"it": [
+			"Negativo 2"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Negatyw 2"
+		],
+		"pt": [
+			"Negativo 2"
+		],
+		"ru": [
+			"Отрицательный 2"
+		],
+		"sv": [],
+		"tr": [
+			"Negative 2"
+		]
+	},
+	"filter_36": {
+		"de": [
+			"Neon Welt"
+		],
+		"el": [
+			"Κόσμος νέον"
+		],
+		"en": [
+			"Neon world"
+		],
+		"es": [
+			"Mundo neón"
+		],
+		"fr": [
+			"Monde néonisé"
+		],
+		"id": [
+			"Dunia Neon"
+		],
+		"it": [
+			"Mondo Neonizzato"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Neonowy świat"
+		],
+		"pt": [
+			"Mundo Neon"
+		],
+		"ru": [
+			"Неоновый Мир"
+		],
+		"sv": [],
+		"tr": [
+			"Neon Dünya"
 		]
 	},
 	"help_birds": {
@@ -6831,7 +8369,7 @@
 			"Οι φανταχτερές σκιάσεις κάνουν τα υλικά να φαίνονται καλύτερα. Η απενεργοποίησή τους βελτιώνει την απόδοση"
 		],
 		"en": [
-			"Fancy shaders makes materials look better. Disabling them improves performance"
+			"Fancy shaders makes materials look better. Disabling them improves performance."
 		],
 		"es": [
 			"El sombreado fino hace que los materiales se vean mejor. Desactivarlo mejora el rendimiento"
@@ -6904,7 +8442,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Seviyeler daha hızlı başlar. (hızlıkoşular için kullanışllı)"
+			"Seviyeler daha hızlı başlar.(speedrunlar için kullanışllı)"
 		]
 	},
 	"help_fish": {
@@ -7044,7 +8582,7 @@
 			"Changes the vehicle control type (gyroscope = tilting the device)"
 		],
 		"es": [
-			"Cambia em tipo de cotrol del vehiculo (giroscopio = inclinar el dispositivo)"
+			"Cambia el tipo de cotrol del vehiculo (giroscopio = inclinar el dispositivo)"
 		],
 		"fr": [
 			"Change le type de contrôles du véhicule (gyroscope = pencher l'appareil)"
@@ -7086,13 +8624,13 @@
 			"Hides the touchscreen buttons (useful when playing using a controller)"
 		],
 		"es": [
-			"Oculta los botones de la pantalla tactil (util cuando se juego con un control)"
+			"Oculta los botones de la pantalla táctil (útil cuando se juega con un control)"
 		],
 		"fr": [
 			"Cache les boutons à l'écran (utile quand tu utilises une manette)"
 		],
 		"id": [
-			"Menyembunyikan tombol layar sentuh (berguna ketika bermain menggunakan controller)"
+			"Menyembunyikan tombol layar sentuh (berguna saat bermain menggunakan controller)"
 		],
 		"it": [
 			"Nascondi i pulsanti sullo schermo (utile quando si utilizza un controller)"
@@ -7176,7 +8714,7 @@
 			"Quand tu as une clef, la direction de la cage correspondante est affichée"
 		],
 		"id": [
-			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang cocok."
+			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang sesuai."
 		],
 		"it": [
 			"Quando ottieni una chiave, viene mostrata la direzione della gabbia corrispondente."
@@ -7212,7 +8750,7 @@
 			"Light Probes are used to display baked lighting on moving objects. This option can be useful on older devices and doesn't affect performance"
 		],
 		"es": [
-			"Las sondas de luz se usan para mostrar la iluminacion baked en objetos en movimiento. Esta opcion puede ser util en dispositivos viejos y no afecta el rendimiento"
+			"Las sondas de luz se usan para mostrar la iluminación baked en objetos en movimiento. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
 		],
 		"fr": [
 			"Les Light Probes sont utilisées pour afficher la lumière pré-calculée sur les objets dynamiques. Cette option peut être utile sur les vieux appareils mais n'affecte pas les performances"
@@ -7254,7 +8792,7 @@
 			"Lightmaps are used to display baked lighting on static objects. This option can be useful on older devices and doesn't affect performance"
 		],
 		"es": [
-			"Los Lightmaps se usan para mostrar la iluminacion baked en objetos estaticos. This option can be useful on older devices and doesn't affect performance"
+			"Los Lightmaps se usan para mostrar la iluminacion baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
 		],
 		"fr": [
 			"Les Lightmaps sont utilisées pour afficher la lumière pré-calculée sur les objets statiques. Cette option peut être utile sur les vieux appareils mais n'affecte pas les performances"
@@ -7283,6 +8821,44 @@
 		"sv": [],
 		"tr": [
 			"Işıklandırma haritaları durgun nesnelerde ısıtılmış aydınlatmayı görüntülemek için kullanılır. Bu seçenek eski aygıtlarda yararlı olabilir ve oyun verimini etkilemez"
+		]
+	},
+	"help_motion_blur": {
+		"de": [
+			"Sollen sich schnell bewegende Objekte unscharf sein? Die Deaktivierung dieser Funktion verbessert die Leistung."
+		],
+		"el": [
+			"Πρέπει να είναι θολά τα αντικείμενα που κινούνται γρήγορα; Η απενεργοποίηση αυτής της λειτουργίας βελτιώνει την απόδοση."
+		],
+		"en": [
+			"Should fast moving objects be blurry? Disabling this improves performance."
+		],
+		"es": [
+			"¿Debería un objeto rápido en movimiento ser borroso? Deshabilitar esto mejora el rendimiento."
+		],
+		"fr": [
+			"Les objets qui se déplacent rapidement doivent-ils être flous ? Désactiver ceci améliore les performances"
+		],
+		"id": [
+			"Haruskah objek yang bergerak cepat menjadi kabur? Menonaktifkan ini meningkatkan performa."
+		],
+		"it": [
+			"Gli oggetti in rapido movimento devono essere sfocati? Disattivando questa funzione si migliorano le prestazioni"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Czy szybko poruszające się obiekty powinny być rozmyte? Wyłączenie tego poprawia wydajność."
+		],
+		"pt": [
+			"Coisas rápidas devem ficar borradas? Desativar melhora o desempenho."
+		],
+		"ru": [
+			"Следует ли быстро двигающемуся объекту быть размытым? Отключение этого улучшает производительность."
+		],
+		"sv": [],
+		"tr": [
+			"Hızlı hareket eden nesne bulanık olmalı mı? Bunu devre dışı bırakmak performansı artırır."
 		]
 	},
 	"help_shicka_tips": {
@@ -7338,7 +8914,7 @@
 			"Timer is always running and stops only when you beat the final boss. Saving is disabled."
 		],
 		"es": [
-			"El cronometro esta siempre en marcha y solo se detiene cuando derrotas al jefe final. El guardado se desactiva."
+			"El cronómetro esta siempre en marcha y solo se detiene cuando derrotas al jefe final. El guardado se desactiva."
 		],
 		"fr": [
 			"Le chronomètre tourne tout le temps et s'arrête seulement quand tu bats le boss final. La sauvegarde est désactivée."
@@ -7380,7 +8956,7 @@
 			"Displays a timer (useful for speedruns)"
 		],
 		"es": [
-			"Muestra un cronometro (util para speedruns)"
+			"Muestra un cronómetro (util para speedruns)"
 		],
 		"fr": [
 			"Affiche un chronomètre (utile pour les speedruns)"
@@ -7408,7 +8984,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Geçen süreyi gösterir (hızlıkoşular için kullanışlı)"
+			"Geçen süreyi gösterir (speedrunlar için kullanışlı)"
 		]
 	},
 	"hive_boss_1_1": {
@@ -7468,7 +9044,7 @@
 			"Tu as libéré ces ours pour anéantir mes efforts. Si les ours avaient pris contrôle du royaume, nous aurions tout ce que nous désirons. Nous aurions pu reprendre le pouvoir que nous avions eu jadis."
 		],
 		"id": [
-			"Kau membebaskan beruang-beruang itu hanya untuk menghancurkan usahaku. Jika para beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa merebut kembali kekuasaan yang pernah kita miliki."
+			"Kau membebaskan beruang-beruang itu hanya untuk menghancurkan usahaku. Jika para beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa mendapatkan kembali kekuasaan yang pernah kita miliki."
 		],
 		"it": [
 			"Avete liberato quegli orsi per distruggere i miei sforzi. Se gli orsi avessero preso il controllo del regno, avremmo avuto tutto ciò che volevamo. Avremmo potuto riacquistare il potere che avevamo un tempo."
@@ -7561,7 +9137,7 @@
 			"Jądro jest nawet piękne, czyż nie? Użyłem go żeby kontrolować umysł Królowej Beeatrycji i pszczół."
 		],
 		"pt": [
-			"O Kernel é um tanto maravilhoso, não é? Usei seu poder para controlar a Rainha Beeatrice e pegar as abelhas."
+			"O Kernel é um tanto maravilhoso, não é? Usei seu poder para controlar a Rainha Belhatriz e pegar as abelhas."
 		],
 		"ru": [
 			"Кернел довольно чудесный, не так ли? Я использовал его силы, чтобы управлять королевой Беатрисой и захватить пчёл."
@@ -7782,7 +9358,7 @@
 			"The spell wasn't calibrated for a Backpacker! Oh no... no no NO! It went so wrong!"
 		],
 		"es": [
-			"¡El hechizo no estaba calibrado para un mochilero! ¡Oh no... no no NO! ¡Hizo cualquier cosa!"
+			"¡El hechizo no estaba calibrado para un mochilero! ¡Oh no... no no NO! ¡Salió muy mal!"
 		],
 		"fr": [
 			"Le sort n'était pas calibré pour un Backpacker ! Oh non... non non NON ! Ça a fait n'importe quoi !"
@@ -7816,7 +9392,7 @@
 			"Okay, Shicka, es ist Zeit, gegen mein wahres Ich zu kämpfen!"
 		],
 		"el": [
-			"Εντάξει Σίκα, ήρθε η ώρα να πολεμήσεις τον πραγματικό μου εαυτό!"
+			"Εντάξει Shicka, ήρθε η ώρα να πολεμήσεις τον πραγματικό μου εαυτό!"
 		],
 		"en": [
 			"Okay Shicka, it's time to fight the real me!"
@@ -7862,13 +9438,13 @@
 			"I'm sorry I fought you, my dear bear. I waszzn't myself back there, the Kernel waszz... acting on my mind."
 		],
 		"es": [
-			"Sentimos haber luchado contra ti, mi querida bearz. No estábamos allí nosotros, el Kernel... ajzzisz en nuestro raizzzon."
+			"Siento haber luchado contra ti, mi querido oszzo. No quería hacerlo, el Kernel... me obligó."
 		],
 		"fr": [
 			"Nous szommes dézzzolée d'avoir guerroyé contre toi, mon cher oursz. Nous n'étions pas nous-même là-bas, le Kernel... ajzziszait sur notre raizzzon."
 		],
 		"id": [
-			"Maaf aku melawanmu, beruang sayangku. Aku bukan diriku sendiri di sana, Kernel itu... bertindak di pikiranku."
+			"Maafkan aku karena telah melawanmu, beruangku sayang. Aku bukan diriku sendiri di sana, Kernel itu... bertindak di pikiranku."
 		],
 		"it": [
 			"Ci dispiace di averti combattuto, mio caro bearz. Non c'eravamo neanche noi, il Kernel... ajzzisz sul nostro raizzzon."
@@ -7902,7 +9478,7 @@
 			"From the looks of thingszz, the Kernel exploded when hitting the Hivvve on its way down... We got teleported here somehow, but your brother probably ended up somewhere else."
 		],
 		"es": [
-			"Forsze es consztater, que el Kernel ha ekzplozzzé por golpear el Ruchze mientras caía... Wezzz fueron teletransportados aquí para algunos raizzzon, alasz su hermano probablemente ha fallado en otro lugar."
+			"Parece que el Kernel explotó mientraszz se golpeaba contra la colmena en su caída... Noszz teletransportamoszz aquí por alguna razón, pero tú hermano probablemente terminó en otro lugar."
 		],
 		"fr": [
 			"Forsze est de consztater, que le Kernel a ekzplozzzé en heurtant la Ruchze en chzutant... Nouzzz avons été téléportézzz ici pour quelque raizzzon, hélasz votre frère a problablement échzoué ailleurs."
@@ -7942,7 +9518,7 @@
 			"The Hivvve is no more, but now that I'm free, I'm going to shut down the purple honey factory and restore peace upon my kingdom."
 		],
 		"es": [
-			"El Ruchze ya no existe, pero como ahora somos libres, cerraremos esta uzzzina de miel púrpura y restableceremos la paz en todo nuestro reino."
+			"La colmena ya no existe, pero ahora que soy libre, voy a cerrar la fábrica de miel púrpura y restaurar la paz en mi reino."
 		],
 		"fr": [
 			"La Ruchze n'est plus, mais puiszque dorénavant nous szommes libre, nouzzz allons clore szette uzzzine de miel violet et resztaurer la paizzz à travers notre royaume."
@@ -7982,13 +9558,13 @@
 			"Thank you for savvving me Baaren. Thank you for savvving evvveryone. Let's gather at the Bear Vvvillage, shall we?"
 		],
 		"es": [
-			"Merszi a ti por habernos salvado Baaren. Merszi por salvar a todos. Reunámonos en el Villajzze Oursz, ¿de acuerdo?"
+			"Graciaszz por salvarme Baaren. Graciaszz por salvar a todoszz. Reunámonoszz en la aldea de loszz ososzz ¿de acuerdo?"
 		],
 		"fr": [
 			"Merszi à vous de nouzzz avoir szauvée Baaren. Merszi d'avoir szauvé tout le monde. Raszemblons-nous au Villajzze Oursz, voulez-vous ?"
 		],
 		"id": [
-			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semua orang. Mari berkumpul di desa beruang!"
+			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semuanya. Mari berkumpul di desa beruang!"
 		],
 		"it": [
 			"Merszi a te per averci salvato Baaren. Merszi per aver salvato tutti. Ci ritroviamo a Villajzze Oursz, che ne dite?"
@@ -8022,7 +9598,7 @@
 			"Bearszz are awful but maybee I can beenefit off of you. I'm beeszzy doing beeszziness."
 		],
 		"es": [
-			"Los osos como tú me asustan, pero son potentes. Ofreciendo montzzz y maravillas, jzze puede hacer mi miel. No soy rival para ti cuando se trata de hacerme sentir bien."
+			"Los ososzz como tú me asustan, pero tal vez me pueda beneficiar de tí."
 		],
 		"fr": [
 			"Lezzz oursz comme toi m'effrayent, maizzz ont du potensziel. Offrant montzzz et merveilles, jzze peux m'en faire mon miel. Jzze n'ai pas mon pareil pour me faire de l'ozzzeille."
@@ -8128,7 +9704,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Ekipman"
+			"Kuşan"
 		]
 	},
 	"hive_shop_unequip": {
@@ -8142,7 +9718,7 @@
 			"Return to previous outfit"
 		],
 		"es": [
-			"Ponte el traje anterior"
+			"Ponerse el traje anterior"
 		],
 		"fr": [
 			"Remettre la tenue précédente"
@@ -8182,7 +9758,7 @@
 			"Hive entrance. No trespassing."
 		],
 		"es": [
-			"Entrada a la Colmena. Prohibido el paso."
+			"Entrada a la colmena. Prohibido el paso."
 		],
 		"fr": [
 			"Entrée de la Ruche. Intrusion interdite."
@@ -8506,13 +10082,13 @@
 			"Take a look at the stone platform behind me, you can go there to change your costume."
 		],
 		"es": [
-			"Echa un vistazo a la plataforma de piedra detras de mi, puedes ir alli a cambiar tu ropa."
+			"Echa un vistazo a la plataforma de piedra detrás de mí, puedes ir allí a cambiar tu ropa."
 		],
 		"fr": [
 			"Jette un œil à la plateforme en pierre derrière moi, tu peux y aller pour changer de costume."
 		],
 		"id": [
-			"Lihatlah platform batu di belakangku, kamu dapat pergi ke sana untuk mengubah kostummu."
+			"Lihatlah platform batu di belakangku, kamu bisa pergi ke sana untuk mengganti kostummu."
 		],
 		"it": [
 			"Dai un'occhiata alla piattaforma di pietra dietro di me, puoi salirci per cambiare i cosmetici."
@@ -8550,7 +10126,7 @@
 			"I wonder where the real Bee Queen is..."
 		],
 		"es": [
-			"Me pregunto donde estara la verdadera abeja reina..."
+			"Me pregunto en dónde estará la verdadera abeja reina..."
 		],
 		"fr": [
 			"Je me demande où se trouve la vraie Reine des abeilles..."
@@ -8594,13 +10170,13 @@
 			"You must have taken a lot of time to find all the coins in Turtletown!"
 		],
 		"es": [
-			"¡Debio haberte tomado mucho tiempo encontrar todas las monedas en el Pueblo Tortuga!"
+			"¡Debió haberte tomado mucho tiempo encontrar todas las monedas en el Pueblo Tortuga!"
 		],
 		"fr": [
 			"Tu as dû en mettre du temps pour trouver toutes les pièces de Tortibourg !"
 		],
 		"id": [
-			"Kau pasti telah memakan banyak waktu untuk menemukan semua koin di Desa Kura-kura!"
+			"Kau pasti telah menghabiskan banyak waktu untuk menemukan semua koin di Desa Kura-kura!"
 		],
 		"it": [
 			"Ci deve essere voluto molto tempo per trovare tutte le parti del Villaggio delle Tartarughe!"
@@ -8722,7 +10298,7 @@
 			"You are my hero Baaren, without you I would still be in a cage..."
 		],
 		"es": [
-			"Eres mi heroe Baaren, sin ti aun estaria en una jaula..."
+			"Eres mi heroe Baaren, sin tí aun estaría en una jaula..."
 		],
 		"fr": [
 			"Tu es mon héros Baaren, sans toi je serais encore en cage à l'heure qu'il est..."
@@ -8766,7 +10342,7 @@
 			"The bees hid me in this corner on the top of the river, luckily you saw me..."
 		],
 		"es": [
-			"Las abejas me escondieron en ese rincon junto al rio, suerte que me viste..."
+			"Las abejas me escondieron en ese rincón junto al río, afortunadamente me viste..."
 		],
 		"fr": [
 			"Les abeilles m'avaient cachée dans ce coin en haut de la rivière, heureusement que tu m'as vue..."
@@ -8808,7 +10384,7 @@
 			"Well done, you defeated the massive Yeti! Thank you!"
 		],
 		"es": [
-			"¡Bien hecho, derrotaste al enorme Yeti! ¡Gracias!"
+			"¡Bien hecho, derrotaste al enorme yeti! ¡Gracias!"
 		],
 		"fr": [
 			"Bien joué, tu as vaincu cet énorme Yéti, merci !"
@@ -8852,7 +10428,7 @@
 			"I could see the whole valley from my cage at the top of the mountain."
 		],
 		"es": [
-			"Podia ver todo el valle desde mi jaula en la punta de la montaña."
+			"Podía ver todo el valle desde mi jaula en la punta de la montaña."
 		],
 		"fr": [
 			"Je pouvais voir toute la vallée depuis ma cage tout en haut de la montagne."
@@ -8936,7 +10512,7 @@
 			"Maybe we should have brought the penguins here to save them?"
 		],
 		"es": [
-			"¿Talvez deberiamos de haber traido a los pingüinos aqui para salvarlos?"
+			"¿Deberíamos haber traído a los pingüinos aquí para salvarlos?"
 		],
 		"fr": [
 			"On aurait peut-être dû ramener les manchots ici pour les sauver, non ?"
@@ -8984,7 +10560,7 @@
 			"Ce puzzle était vraiment compliqué, tu ne trouves pas ?"
 		],
 		"id": [
-			"Teka teki itu cukup susah ya?"
+			"Teka teki itu sangat susah, ya?"
 		],
 		"it": [
 			"Quel puzzle era davvero complicato, non credi?"
@@ -9188,13 +10764,13 @@
 			"The fennecs are so adorable, I would love to adopt one!"
 		],
 		"es": [
-			"¡Los fénec son tan adorables, me encantaria adoptar uno!"
+			"¡Los fénec son tan adorables, me encantaría adoptar uno!"
 		],
 		"fr": [
 			"Les fennecs sont tellement adorables, j'aimerais en adopter un !"
 		],
 		"id": [
-			"Binatang Fennec begitu menggemaskan, aku mau pelihara satu!"
+			"Binatang Fennec sangat menggemaskan, aku mau pelihara satu!"
 		],
 		"it": [
 			"I Fennecs sono così adorabili. Quanto vorrei poterne adottare uno!"
@@ -9236,7 +10812,7 @@
 			"Nos ancêtres lointains étaient les protecteurs du désert mais nous sommes revenus ici depuis plusieurs générations."
 		],
 		"id": [
-			"Nenek moyang kita adalah pelindung gurun, tapi kami kembali ke tempat ini setelah beberapa generasi."
+			"Nenek moyang kami adalah pelindung gurun, tapi kami kembali ke tempat ini setelah beberapa generasi."
 		],
 		"it": [
 			"I nostri lontani antenati erano i protettori del deserto, ma siamo tornati in questo luogo per molte generazioni."
@@ -9356,13 +10932,13 @@
 			"The wall may have been built to test the Purple Honey before it was used in the rest of the kingdom. Or maybe the bees were trying to protect themselves from something? Who knows?"
 		],
 		"es": [
-			"La muralla pudo haber sido construida para probar la miel morada antes de ser usada en el resto del reino. ¿O tal vez las abejas se protejan a si mismas de algo? ¿Quién sabe?"
+			"La muralla pudo haber sido construida para probar la miel morada antes de ser usada en el resto del reino. ¿O tal vez las abejas se protegían a sí mismas de algo? ¿Quién sabe?"
 		],
 		"fr": [
 			"Le mur a peut-être été construit pour tester le miel violet avant son utilisation dans le reste du royaume. Ou peut-être que les abeilles essayaient de se protéger de quelque chose ? Qui sait ?"
 		],
 		"id": [
-			"Dinding itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin para lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
+			"Tembok itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin para lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
 		],
 		"it": [
 			"Il muro potrebbe essere stato costruito per testare il Miele Viola prima che fosse usato nel resto del regno. O forse le api cercavano di proteggersi da qualcosa? Chi lo sa?"
@@ -9398,13 +10974,13 @@
 			"A legend tells the pyramid contains a relic granting immense powers to its bearer. I hope this relic does not really exist..."
 		],
 		"es": [
-			"Una legenda dice que la piramide contiene una reliquia que da un inmenso poder a su portador. Espero que esta reliquia no exista en realidad..."
+			"Una leyenda dice que la pirámide contiene una reliquia que da un inmenso poder a su portador. Espero que esta reliquia no exista en realidad..."
 		],
 		"fr": [
 			"Une légende raconte que la pyramide renferme une relique octroyant des pouvoirs immenses à son porteur. J'espère que cette relique n'existe pas réellement..."
 		],
 		"id": [
-			"Sebuah legenda mengatakan bahwa piramida itu berisi peninggalan yang memberikan kekuatan besar untuk pemiliknya. Kuharap peninggalan itu tidak benar keadaanya..."
+			"Sebuah legenda mengatakan bahwa piramida itu berisi peninggalan yang memberikan kekuatan besar untuk pemiliknya. Kuharap peninggalan itu tidak benar-benar ada..."
 		],
 		"it": [
 			"La leggenda vuole che la piramide contenga una reliquia che conferisce poteri immensi al suo portatore. Spero che quella reliquia non esista davvero..."
@@ -9440,13 +11016,13 @@
 			"The construction of the wall was probably a tremendous job, the bees must have an important reason for building it."
 		],
 		"es": [
-			"Construir esa muralla fue seguro un trabajo tremendo, seguro que las abejas tubieron una rason importante para constuirla."
+			"Construir esa muralla fue seguro un trabajo tremendo, seguro que las abejas tubieron una razón importante para constuirla."
 		],
 		"fr": [
 			"La construction du mur a probablement été un travail titanesque, les abeilles doivent avoir une raison importante pour l'avoir construit."
 		],
 		"id": [
-			"Pembangunan tembok itu mungkin pekerjaan yang luar biasa, lebah pasti punya alasan yang penting untuk membangun itu."
+			"Pembangunan tembok itu mungkin adalah pekerjaan yang luar biasa, para lebah pasti punya alasan yang penting untuk membangunnya."
 		],
 		"it": [
 			"La costruzione del muro è stata un'impresa titanica, le api devono aver avuto un motivo importante per costruirlo."
@@ -9482,7 +11058,7 @@
 			"*happy baby noises*"
 		],
 		"es": [
-			"*sonidos de bebe felíz*"
+			"*sonidos de bebé felíz*"
 		],
 		"fr": [
 			"*bruits de bébé heureux*"
@@ -9522,7 +11098,7 @@
 			"*tired baby noises*"
 		],
 		"es": [
-			"*sonidos de bebe cansado*"
+			"*sonidos de bebé cansado*"
 		],
 		"fr": [
 			"*bruits de bébé fatigué*"
@@ -9562,7 +11138,7 @@
 			"*angry baby noises*"
 		],
 		"es": [
-			"*sonidos de bebe enojado*"
+			"*sonidos de bebé enojado*"
 		],
 		"fr": [
 			"*bruits de bébé en colère*"
@@ -9602,7 +11178,7 @@
 			"Newton's third law of motion doesn't seem to apply in this realm."
 		],
 		"es": [
-			"La tercera ley de Newton no parece aplicar para este reino."
+			"La tercera ley de Newton no parece aplicar en este reino."
 		],
 		"fr": [
 			"La troisième loi de Newton ne semble pas s'appliquer dans ce royaume."
@@ -9688,7 +11264,7 @@
 			"Abacadaba !"
 		],
 		"id": [
-			"Abacadaba!"
+			"Abakadaba!"
 		],
 		"it": [
 			"Abacadaba!"
@@ -9800,7 +11376,7 @@
 			"Hellooo! It's me, Capitalooos, Capitalus' brother! If you support the developer of this gaaame, you will get very special giiifts!"
 		],
 		"es": [
-			"¡Holaaa! ¡Soy yo, Capitalooos, hermano de Capitaluuus! ¡Si tu apoyas al desarrollador de este juuuego, obtendras muy especiales regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitalooos, hermano de Capitaluuus! ¡Si apoyas al desarrollador de este juuuego, obtendrás regalos muy especialeees!"
 		],
 		"fr": [
 			"Saluuut ! C'est moi, Capitalooos, le frère de Capitalus ! Si tu soutiens le développeur du jeeeu, tu obtiendras des cadeaux très spéciauuux !"
@@ -9828,7 +11404,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Merhabaaa! Ben, Capitaluuus! Eğer bir reklam izlemeyi kabul edersen, sana hediyeler vereceğiiim!"
+			"Merhabaaa! Ben Capitalooos, Capitulus'un erkek kardeşi! Eğer bu oyunun geliştiricisini desteklerseeen, çok özel ödüller kazanacaksııın!"
 		]
 	},
 	"hub_capitalus": {
@@ -9842,7 +11418,7 @@
 			"Hellooo! It's me, Capitaluuus! If you accept to watch an advertisemeeent, I will give you giiifts!"
 		],
 		"es": [
-			"¡Hellooo! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te dare regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te dare regaaalos!"
 		],
 		"fr": [
 			"Saluuut ! C'est moi, Capitaluuus ! Si tu acceptes de regarder une publicitééé, je t'offrirais des cadeauuux !"
@@ -9870,7 +11446,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Merhabaaa! Ben Capitalooos, Capitulus'un erkek kardeşi! Eğer bu oyunun geliştiricisini desteklerseeen, çok özel ödüller kazanacaksııın!"
+			"Merhabaaa! Ben, Capitaluuus! Eğer bir reklam izlemeyi kabul edersen, sana hediyeler vereceğiiim!"
 		]
 	},
 	"hub_scientist": {
@@ -9884,7 +11460,7 @@
 			"Don't worry, the shrinking machine is very likely to be safe."
 		],
 		"es": [
-			"No te preocupes, la maquina encogedora parece mucho ser segura."
+			"No te preocupes, la maquina encogedora parece ser muy segura."
 		],
 		"fr": [
 			"Ne t'inquiète pas, la machine rétrécissante est très probablement sûre."
@@ -9970,7 +11546,7 @@
 			"Hello there! Are you looking for a cool mission? I think I've got what you need!"
 		],
 		"es": [
-			"¡Hola tu! ¿Buscas una mision genial? ¡Creo que tengo lo que necesitas!"
+			"¡Hola tú! ¿Buscas una mision genial? ¡Creo que tengo lo que necesitas!"
 		],
 		"fr": [
 			"Bonjour à toi ! Tu es à la recherche d'une mission sympa ? Je crois que j'ai ce qu'il te faut !"
@@ -10001,6 +11577,574 @@
 			"Selam! Harika bir görev mi arıyorsunuz? Sanırım gereken şeyin bende!"
 		]
 	},
+	"iap_noads_desc_1": {
+		"de": [
+			"<h>Keine unerwünschte Werbung mehr</h> zwischen den Levels!"
+		],
+		"el": [
+			"<h>Δεν υπάρχουν πλέον ανεπιθύμητες διαφημίσεις</h> μεταξύ των επιπέδων!"
+		],
+		"en": [
+			"<h>No more unwanted ads</h> between levels!"
+		],
+		"es": [
+			"<h>¡No más anuncios no deseados</h> entre niveles!"
+		],
+		"fr": [
+			"<h>Plus aucune publicité</h> entre les niveaux !"
+		],
+		"id": [
+			"<h>Tidak ada lagi iklan yang tidak diinginkan</h> antar level!"
+		],
+		"it": [
+			"<h>Niente più annunci</h> tra i livelli!"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"<h>Koniec z niechcianymi reklamami</h> pomiędzy poziomami!"
+		],
+		"pt": [
+			"<h>Sem mais anúncios indesejados</h> entre as fases!"
+		],
+		"ru": [
+			"<h>Больше никакой нежеланной рекламы</h> между уровнями!"
+		],
+		"sv": [],
+		"tr": [
+			"Seviyeler arasında <h>artık istenmeyen reklam yok</h>!"
+		]
+	},
+	"iap_noads_desc_2": {
+		"de": [
+			"Belohnte Werbuing werden weiterhin verfügbar sein."
+		],
+		"el": [
+			"Οι διαφημίσεις που ανταμείβονται θα εξακολουθούν να είναι διαθέσιμες."
+		],
+		"en": [
+			"Rewarded ads will still be available."
+		],
+		"es": [
+			"Los anuncios con recompensa seguirán disponibles."
+		],
+		"fr": [
+			"Les publicités récompensées seront toujours disponibles."
+		],
+		"id": [
+			"Iklan berhadiah akan masih ada."
+		],
+		"it": [
+			"Gli annunci premiati saranno comunque disponibili."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Nagrodzone reklamy nadal będą dostępne."
+		],
+		"pt": [
+			"Anúncios recompensáveis ainda vão estar disponíveis."
+		],
+		"ru": [
+			"Награды за рекламу всё ещё будут доступны."
+		],
+		"sv": [],
+		"tr": [
+			"Ödüllü reklamlar yine kullanılabilir olacak."
+		]
+	},
+	"iap_noads_status_1": {
+		"de": [
+			"Du hast bereits Werbung entfernt!"
+		],
+		"el": [
+			"Έχετε ήδη αφαιρέσει τις διαφημίσεις!"
+		],
+		"en": [
+			"You already removed ads!"
+		],
+		"es": [
+			"¡Ya removiste los anuncios!"
+		],
+		"fr": [
+			"Tu as déjà retiré les publicités !"
+		],
+		"id": [
+			"Kamu sudah menghapus iklan!"
+		],
+		"it": [
+			"Hai già rimosso gli annunci!"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Usunąłeś już reklamy!"
+		],
+		"pt": [
+			"Você já removeu os anúncios!"
+		],
+		"ru": [
+			"Вы уже убрали рекламу!"
+		],
+		"sv": [],
+		"tr": [
+			"Reklamları zaten kaldırdın!"
+		]
+	},
+	"iap_noads_status_2": {
+		"de": [
+			"Kauf abgeschlossen! Die Werbung ist jetzt entfernt! Wir Danke Dir!"
+		],
+		"el": [
+			"Η αγορά ολοκληρώθηκε! Οι διαφημίσεις έχουν αφαιρεθεί! Σας ευχαριστούμε!"
+		],
+		"en": [
+			"Purchase complete! Ads are now removed! Thank you!"
+		],
+		"es": [
+			"¡Compra completada! ¡Los anuncios fueron removidos! ¡Gracias!"
+		],
+		"fr": [
+			"Achat réussi ! Les publicités ont été retirées ! Merci !"
+		],
+		"id": [
+			"Pembelian berhasil! Sekarang iklan telah dihapus! Terima kasih!"
+		],
+		"it": [
+			"Acquisto riuscito! Gli annunci sono stati rimossi! Grazie!"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Zakup zakończony! Reklamy są teraz usunięte! Dziękujemy!"
+		],
+		"pt": [
+			"Compra concluída! Anúncios removidos! Obrigado!"
+		],
+		"ru": [
+			"Покупка завершена! Реклама теперь убрана! Спасибо!"
+		],
+		"sv": [],
+		"tr": [
+			"Satın Alma İşlemi Tamamlandı! Reklamlar artık kaldırıldı! Teşekkürler"
+		]
+	},
+	"iap_noads_title": {
+		"de": [
+			"Werbung entfernen"
+		],
+		"el": [
+			"Αφαίρεση διαφημίσεων"
+		],
+		"en": [
+			"Remove ads"
+		],
+		"es": [
+			"Remover anuncios"
+		],
+		"fr": [
+			"Retirer les publicités"
+		],
+		"id": [
+			"Hapus iklan"
+		],
+		"it": [
+			"Rimuovi gli annunci"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Usuń reklamy"
+		],
+		"pt": [
+			"Remover anúncios"
+		],
+		"ru": [
+			"Убрать рекламу"
+		],
+		"sv": [],
+		"tr": [
+			"Reklamları kaldır"
+		]
+	},
+	"iap_premium_desc_1": {
+		"de": [
+			"Enthalten in SBA Gold:"
+		],
+		"el": [
+			"Περιλαμβάνεται στο SBA Gold:"
+		],
+		"en": [
+			"Included in SBA Gold:"
+		],
+		"es": [
+			"Incluído en SBA Gold:"
+		],
+		"fr": [
+			"Inclus dans SBA Gold :"
+		],
+		"id": [
+			"Dalam SBA Gold:"
+		],
+		"it": [
+			"Incluso in SBA Gold:"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Zawarte w SBA Gold:"
+		],
+		"pt": [
+			"Incluso no SBA Gold:"
+		],
+		"ru": [
+			"Включено в SBA Gold:"
+		],
+		"sv": [],
+		"tr": [
+			"SBA Goldda bulunanlar:"
+		]
+	},
+	"iap_premium_desc_2": {
+		"de": [
+			"<h>Entfernt</h> unerwünschte <h>Werbung</h>"
+		],
+		"el": [
+			"<h>Απομακρύνει</h> τις ανεπιθύμητες <h>διαφημίσεις</h>"
+		],
+		"en": [
+			"<h>Removes</h> unwanted <h>ads</h>"
+		],
+		"es": [
+			"<h>Remueve</h> anuncios <h>no deseados</h>"
+		],
+		"fr": [
+			"<h>Retire les pubs</h> non désirées"
+		],
+		"id": [
+			"<h>Menghapus</h> iklan<h>yang tidak diinginkan</h>"
+		],
+		"it": [
+			"<h>Rimuove gli annunci indesiderati</h>."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"<h>Usuwa</h> niechciane <h>reklamy</h>"
+		],
+		"pt": [
+			"<h>Remove anúncios</h> indesejados"
+		],
+		"ru": [
+			"<h>Убирает</h> нежеланную <h>рекламу</h>"
+		],
+		"sv": [],
+		"tr": [
+			"İstenmeyen <h>reklamları</h> <h>kaldırır</h>"
+		]
+	},
+	"iap_premium_desc_3": {
+		"de": [
+			"Schaltet exklusive <h>Kosmetik</h> frei"
+		],
+		"el": [
+			"Ξεκλειδώνει αποκλειστικά <h>κοσμητικά</h>"
+		],
+		"en": [
+			"Unlocks exclusive <h>items</h>"
+		],
+		"es": [
+			"Desbloquea <h>cosméticos exclusivos</h>"
+		],
+		"fr": [
+			"Débloque des <h>articles exclusifs</h>"
+		],
+		"id": [
+			"Membuka barang-barang <h>eksklusif</h>"
+		],
+		"it": [
+			"Sblocca <h>articoli esclusivi</h>."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Odblokowuje ekskluzywne <h>kosmetyki</h>."
+		],
+		"pt": [
+			"Desbloqueia <h>itens</h> exclusivos"
+		],
+		"ru": [
+			"Открывает эксклюзивную <h>косметику</h>"
+		],
+		"sv": [],
+		"tr": [
+			"Özel </h>kozmetiğin</h> kilidini açar"
+		]
+	},
+	"iap_premium_desc_4": {
+		"de": [
+			"Schaltet <h>Fotomodus Filter</h> frei"
+		],
+		"el": [
+			"Ξεκλειδώνει <h>Φίλτρα λειτουργίας φωτογραφίας</h>"
+		],
+		"en": [
+			"Unlocks <h>Photo Mode filters</h>"
+		],
+		"es": [
+			"Desbloquea <h>filtros del modo foto</h>"
+		],
+		"fr": [
+			"Débloque des <h>filtres pour le Mode Photo</h>"
+		],
+		"id": [
+			"Membuka <h>Filter dalam Mode Foto</h>"
+		],
+		"it": [
+			"Sblocca <h>filtri per la modalità Foto</h>."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Odblokowuje <h>Filtry Photo Mode</h>."
+		],
+		"pt": [
+			"Desbloqueia <h>Filtros do Modo Foto</h>"
+		],
+		"ru": [
+			"Открывает <h>Фильтры в Фото-Режиме</h>"
+		],
+		"sv": [],
+		"tr": [
+			"<h>Fotoğraf Filtrelerini</h> açar"
+		]
+	},
+	"iap_premium_desc_5": {
+		"de": [
+			"<h>2x Münzen</h> ohne Werbung"
+		],
+		"el": [
+			"<h>Κέρματα × 2</h> χωρίς διαφημίσεις"
+		],
+		"en": [
+			"<h>Coins × 2</h> without ads"
+		],
+		"es": [
+			"<h>2x monedas</h> sin anuncios"
+		],
+		"fr": [
+			"<h>Pièces × 2</h> sans pub"
+		],
+		"id": [
+			"<h>koin 2×</h> tanpa iklan"
+		],
+		"it": [
+			"<h>Monete × 2</h> senza pubblicità"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"<h>Monety × 2</h> bez reklam"
+		],
+		"pt": [
+			"<h>2x mais moedas</h> sem anúncios"
+		],
+		"ru": [
+			"<h>2x монеты</h> без рекламы"
+		],
+		"sv": [],
+		"tr": [
+			"Reklam izlemeden <h>2 kat para</h>"
+		]
+	},
+	"iap_premium_desc_6": {
+		"de": [
+			"<h>Doppelt</h> maximale <h>Gesundheit</h>"
+		],
+		"el": [
+			"<h>διπλασιάζει</h> τη μέγιστη <h>υγεία</h>"
+		],
+		"en": [
+			"<h>Doubles</h> maximum <h>health</h>"
+		],
+		"es": [
+			"<h>Dobla</h> la salud <h>máxima</h>"
+		],
+		"fr": [
+			"<h>Double</h> la <h>santé</h> maximale"
+		],
+		"id": [
+			"<h>Menggandakan</h> nyawa <h>maksimum</h>"
+		],
+		"it": [
+			"<h>Doppia</h> il massimo della <h>salute</h>."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"<h>Podwaja</h> maksymalne <h>zdrowie</h>."
+		],
+		"pt": [
+			"<h>Dobra a vida</h> máxima"
+		],
+		"ru": [
+			"<h>Удваивает</h> максимальное <h>здоровье</h>"
+		],
+		"sv": [],
+		"tr": [
+			"Maksimum <h>canı</h> <h>ikiye katla</h>"
+		]
+	},
+	"iap_premium_desc_7": {
+		"de": [
+			"Gibt die erste <h>Wiederbelebung kostenlos</h>"
+		],
+		"el": [
+			"Δίνει δωρεάν την πρώτη <h>αναβίωση</h>"
+		],
+		"en": [
+			"Gives first <h>revive for free</h>"
+		],
+		"es": [
+			"La primera <h>resurección es grátis</h>"
+		],
+		"fr": [
+			"Première <h>résurrection gratuite</h>"
+		],
+		"id": [
+			"Menghidupkan kembali pertama <h>secara gratis</h>"
+		],
+		"it": [
+			"Prima <h>resurrezione gratuita</h>"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Daje pierwsze <h>odzyskanie życia za darmo</h>"
+		],
+		"pt": [
+			"Ganha o <h>primeiro renascimento de graça</h>"
+		],
+		"ru": [
+			"Даёт первое <h>возрождение бесплатно</h>"
+		],
+		"sv": [],
+		"tr": [
+			"İlk <h>canlanma ücretsiz</h>"
+		]
+	},
+	"iap_premium_status_1": {
+		"de": [
+			"Du hast bereits SBA Gold!"
+		],
+		"el": [
+			"Έχετε ήδη SBA Gold!"
+		],
+		"en": [
+			"You already have SBA Gold!"
+		],
+		"es": [
+			"¡Ya tienes SBA Gold!"
+		],
+		"fr": [
+			"Tu as déjà SBA Gold !"
+		],
+		"id": [
+			"Kamu sudah membeli SBA Gold!"
+		],
+		"it": [
+			"Hai già SBA Gold!"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Masz już SBA Gold!"
+		],
+		"pt": [
+			"Você já tem SBA Gold!"
+		],
+		"ru": [
+			"У Вас уже есть SBA Gold!"
+		],
+		"sv": [],
+		"tr": [
+			"SBA Golda zaten sahipsin!"
+		]
+	},
+	"iap_premium_status_2": {
+		"de": [
+			"Kauf abgeschlossen! Du hast jetzt SBA Gold! Wir danken Dir!"
+		],
+		"el": [
+			"Η αγορά ολοκληρώθηκε! Έχετε τώρα το SBA Gold! Σας ευχαριστούμε!"
+		],
+		"en": [
+			"Purchase complete! You now have SBA Gold! Thank you!"
+		],
+		"es": [
+			"¡Compra completada! ¡Ahora tienes SBA Gold! ¡Gracias!"
+		],
+		"fr": [
+			"Achat réussi ! Tu as maintenant SBA Gold ! Merci !"
+		],
+		"id": [
+			"Pembelian berhasil! Sekarang kamu punya SBA Gold! Terima kasih!"
+		],
+		"it": [
+			"Acquisto riuscito! Ora hai SBA Gold! Grazie!"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Zakup zakończony! Masz już SBA Gold! Dziękujemy!"
+		],
+		"pt": [
+			"Compra concluída! Agora você tem SBA Gold! Obrigado!"
+		],
+		"ru": [
+			"Покупка завершена! Теперь у Вас есть SBA Gold! Спасибо!"
+		],
+		"sv": [],
+		"tr": [
+			"Satın alım başarılı! Artık SBA Golda sahipsin! Teşekkürler!"
+		]
+	},
+	"iap_premium_title": {
+		"de": [
+			"SBA Gold"
+		],
+		"el": [
+			"SBA Gold"
+		],
+		"en": [
+			"SBA Gold"
+		],
+		"es": [
+			"SBA Gold"
+		],
+		"fr": [
+			"SBA Gold"
+		],
+		"id": [],
+		"it": [
+			"SBA Gold"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"SBA Gold"
+		],
+		"pt": [
+			"SBA Gold"
+		],
+		"ru": [
+			"SBA Gold"
+		],
+		"sv": [],
+		"tr": [
+			"SBA Gold"
+		]
+	},
 	"intro_1_1": {
 		"de": [
 			"Jahrhundertelang gab es ein Königreich, in dem die Lebewesen unter der Herrschaft der Bienen-Dynastie in Frieden lebten."
@@ -10009,13 +12153,13 @@
 			"Για αιώνες, υπήρχε ένα βασίλειο όπου τα πλάσματα ζούσαν ειρηνικά υπό την κυριαρχία της δυναστείας των Μελισσών."
 		],
 		"en": [
-			"For centuries, there existed a kingdom where creatures lived in peace under the ruling of the Bee dynasty."
+			"For centuries, there existed a kingdom where creatures lived in peace under the ruling of the bee dynasty."
 		],
 		"es": [
-			"Por siglos, existio un reino donde las criaturas vivian en paz bajo el mandato de la dinastia de las abejas."
+			"Por siglos, existió un reino donde las criaturas vivían en paz bajo el mandato de la dinastía de las abejas."
 		],
 		"fr": [
-			"Pendant des siècles, il était un royaume dans lequel des créatures vivaient en paix sous le règne de la dynastie des Abeilles."
+			"Pendant des siècles, il était un royaume dans lequel des créatures vivaient en paix sous le règne de la dynastie des abeilles."
 		],
 		"id": [
 			"Selama berabad-abad, ada sebuah kerajaan di mana makhluk hidup dalam kedamaian di bawah kekuasaan dinasti Lebah."
@@ -10052,7 +12196,7 @@
 			"Queen Beeatrice, the bee queen, was a beloved ruler, she was fair and appreciated by all. The balance between all creatures was perfect."
 		],
 		"es": [
-			"La Reina Beeatrice, la reina abeja, fue amada, ella era justa y apreciada por todos. El balance entre todas la criaturas era perfecto."
+			"Mirabeja, la reina abeja, fue amada, ella era justa y apreciada por todos. El balance entre todas la criaturas era perfecto."
 		],
 		"fr": [
 			"Reine Mirabeille, la reine des abeilles, était une dirigeante adorée, elle était juste et appréciée de tous. L'équilibre entre toutes les créatures était parfait."
@@ -10071,7 +12215,7 @@
 			"Królowa Beetrycja, królowa pszczół, była ukochaną władczynią, była sprawiedliwa i ceniona przez wszystkich. Równowaga między wszystkimi stworzeniami była idealna."
 		],
 		"pt": [
-			"A Rainha Beeatrice, rainha das abelhas, era uma governante amada, justa e apreciada por todos. A harmonia entre todas as criaturas era perfeita."
+			"A Rainha Belhatriz, rainha das abelhas, era uma governante amada, justa e apreciada por todos. A harmonia entre todas as criaturas era perfeita."
 		],
 		"ru": [
 			"Королева Беатриса, пчелиная королева, была любимой правительницей, она была справедливой и всеми ценимой. Баланс между всеми существами был идеальный."
@@ -10132,7 +12276,7 @@
 			"... the bees started producing a different kind of honey in the Hive. Shortly after, this new flavor and this purple color were beloved by everybody."
 		],
 		"es": [
-			"...las abejas empezaron a producir un tipo de miel diferente en la Colmena. Poco despues, este nuevo sabor y su color morado fue amado por todos."
+			"...las abejas empezaron a producir un tipo de miel diferente en la colmena. Poco despues, este nuevo sabor y su color morado fue amado por todos."
 		],
 		"fr": [
 			"... les abeilles commencent à produire un nouveau genre de miel dans la Ruche. Peu de temps après, ce nouveau goût et cette couleur violette étaient adorés de tous."
@@ -10151,7 +12295,7 @@
 			"... pszczoły zaczęły produkować w Ulu inny rodzaj miodu. Wkrótce ten nowy smak i ten fioletowy kolor pokochali wszyscy."
 		],
 		"pt": [
-			"...as abelhas começaram a produzir um tipo diferente de mel na Colmeia. Momentos depois, esse novo sabor e coloração roxa foram amados por todos."
+			"...as abelhas começaram a produzir um tipo diferente de mel na Colmeia. Pouco depois, esse novo sabor e coloração roxa foi amados por todos."
 		],
 		"ru": [
 			"... Пчелы не стали производить другой вид мёда в Улье. Вскоре после чего, этот новый вкус и фиолетовый цвет полюбились всем."
@@ -10191,7 +12335,7 @@
 			"Niestety istoty, które go pochłonęły, wkrótce zaczęły szaleć i atakować swoich przyjaciół jak dzikie zwierzęta."
 		],
 		"pt": [
-			"Infelizmente, criaturas que o consumiam logo começaram a ficar loucas e atacar seus amigos como animais desnorteados."
+			"Infelizmente, criaturas que o consumiam logo começaram a ficar loucas e atacar seus amigos como animais desordenados."
 		],
 		"ru": [
 			"К сожалению, существа, которые употребили его, вскоре начали сходить с ума и атаковать своих друзей как неразумные животные."
@@ -10231,7 +12375,7 @@
 			"Nikt nie wie, dlaczego pszczoły zaczęły siać spustoszenie we własnym królestwie, a jego mieszkańcy byli zbyt słabi, by walczyć."
 		],
 		"pt": [
-			"Ninguém sabe porque as abelhas começaram a fazer um estrago sobre o próprio reino, e seus habitantes estavam fracos demais para se defender."
+			"Ninguém sabe porque as abelhas começaram a fazer um estrago sobre o próprio reino, e seus habitantes estavam fracos demais pra se defender."
 		],
 		"ru": [
 			"Никто не знает почему пчелы начали сеять хаос в своём собственном королевстве, и его жители были слишком слабы чтобы дать отпор."
@@ -10271,7 +12415,7 @@
 			"Wkrótce pszczoły zdały sobie sprawę, że fioletowy miód w tajemniczy sposób nie wpłynął na niedźwiedzie."
 		],
 		"pt": [
-			"Não muito tarde, as abelhas perceberam os ursos misteriosamente não são afetados pelo mel roxo."
+			"Não muito tarde, as abelhas perceberam que os ursos misteriosamente não eram afetados pelo mel roxo."
 		],
 		"ru": [
 			"Вскоре, пчёлы поняли, что медведи мистическим образом были невосприимчивы к фиолетовому мёду."
@@ -10292,13 +12436,13 @@
 			"This resistance caused their loss: the bees raided the Bear Village and imprisoned them to prevent any revolt."
 		],
 		"es": [
-			"Esta resistencia causo su perdida: las abejas atacaron la aldea de los Osos y los encarcelaron para impedir cualquier problema."
+			"Esta resistencia causo su perdida: las abejas atacaron la aldea de los osos y los encarcelaron para impedir cualquier problema."
 		],
 		"fr": [
 			"Cette résistance causa leur perte : les abeilles menèrent une offensive contre le Village Ours et les emprisonnèrent pour empêcher toute révolte."
 		],
 		"id": [
-			"Perlawanan ini menyebabkan kerugian mereka: para lebah menyerbu Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
+			"Perlawanan ini menyebabkan kekalahan mereka: para lebah menyerang Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
 		],
 		"it": [
 			"Questa resistenza fu la loro rovina: le api condussero un'offensiva contro il Villaggio degli Orsi e li imprigionarono per impedire qualsiasi rivolta."
@@ -10311,7 +12455,7 @@
 			"Ten opór spowodował ich utratę: pszczoły najechały na Wioskę Niedźwiedzi i uwięziły je, aby zapobiec powstaniu."
 		],
 		"pt": [
-			"Essa resistência causou sua ruína: as abelhas invadiram a Vila dos Ursos e os aprisionaram para prevenir qualquer revolta."
+			"Essa resistência lhes causou a ruína: as abelhas invadiram a Vila dos Ursos e os aprisionaram para evitar qualquer revolta."
 		],
 		"ru": [
 			"Это сопротивление вызвало их потери: пчёлы совершили набег на Медвежью деревню и заключили их в тюрьму чтобы предотвратить любое восстание."
@@ -10351,7 +12495,7 @@
 			"Na szczęście jednemu niedźwiedziowi udało się uniknąć ataku. Ale teraz los ludzi leży na jego barkach."
 		],
 		"pt": [
-			"Por sorte, um urso conseguiu evitar o ataque. Mas agora, o destino das pessoas estão em suas patas."
+			"Por sorte, um urso conseguiu se afastar do ataque. Mas agora, o destino das pessoas estão em suas patas."
 		],
 		"ru": [
 			"К счастью, одному медведю удалось избежать нападения. Но теперь, судьба народа на его плечах."
@@ -10372,7 +12516,7 @@
 			"The world needs a hero. Someone to restore the balance, someone to end this purple doom."
 		],
 		"es": [
-			"El mundo necesita un heroe. Alguien que restablesca el balance, alguien que termine con esta perdicion morada."
+			"El mundo necesita un héroe. Alguien que restablesca el balance, alguien que termine con esta perdición morada."
 		],
 		"fr": [
 			"Le monde a besoin d'un héros. Quelqu'un pour rétablir l'équilibre, quelqu'un pour mettre un terme à ce cauchemar violet."
@@ -10532,7 +12676,7 @@
 			"Also, pay attention to rocks falling from the ceiling! I believe in you, Baaren!"
 		],
 		"es": [
-			"Además, ¡cuidado con las piedras que caen del techo! ¡Creo en ti, Baaren!"
+			"Además, ¡cuidado con las piedras que caen del techo! ¡Creo en tí, Baaren!"
 		],
 		"fr": [
 			"Aussi, fais attention aux rochers qui tombent du plafond ! Je crois en toi, Baaren !"
@@ -10618,7 +12762,7 @@
 			"Tu l'as fait ! Tu peux prendre la clef et venir ici pour me libérer."
 		],
 		"id": [
-			"Kau berhasil, kerja bagus! Kau bisa mengambil kuncinya dan datang ke sini untuk membebaskanku."
+			"Kau berhasil, kerja bagus! Kau dapat mengambil kuncinya dan datang ke sini untuk membebaskanku."
 		],
 		"it": [
 			"Ce l'hai fatta! Puoi prendere la chiave e venire qui a liberarmi."
@@ -10692,13 +12836,13 @@
 			"I wonder what your brother was doing here. I haven't seen him in a while, maybe he was hibernating. We should look for him in the Snow Valley, it's the next destination from here."
 		],
 		"es": [
-			"Me pregunto qué hacía tu hermano aquí. Hacía tiempo que no lo veía, quizás estaba hibernando. Deberíamos buscarlo en el Valle de las Nieves, que es el siguiente destino desde aquí."
+			"Me pregunto que hacía tu hermano aquí. Hacía tiempo que no lo veía, quizás estaba hibernando. Deberíamos buscarlo en el Valle de las Nieves, que es el siguiente destino desde aquí."
 		],
 		"fr": [
 			"Je me demande ce que ton frère faisait ici. Je ne l'avais pas vu depuis un certain temps, peut-être qu'il hibernait. Nous devrions le chercher à la Vallée des Neiges, c'est la prochaine destination à partir d'ici."
 		],
 		"id": [
-			"Aku ingin tahu apa yang dilakukan saudaramu di sini. Aku belum melihatnya untuk beberapa saat, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
+			"Aku ingin tahu apa yang dilakukan saudaramu di sini. Aku sudah lama tidak melihatnya, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
 		],
 		"it": [
 			"Mi chiedo cosa ci facesse tuo fratello qui. Non lo vedevo da un po', forse era in letargo. Dovremmo cercarlo nella Valle della Neve, la prossima destinazione da qui."
@@ -10852,7 +12996,7 @@
 			"Suspicious noises were heard near this well, we should check it out."
 		],
 		"es": [
-			"Se han oído ruidos sospechosos cerca de este pozo, deberíamos comprobarlo."
+			"Se han oído ruidos sospechosos cerca de este pozo, deberíamos investigarlo."
 		],
 		"fr": [
 			"Des bruits suspects ont été entendus près de ce puits, nous devrions aller voir."
@@ -11108,7 +13252,7 @@
 			"Il faut récupérer au moins 125 pièces sur 150 dans ce niveau pour ouvrir cette cage."
 		],
 		"id": [
-			"Kamu perlu menemukan setidaknya 125 koin dari 150 di level ini untuk membuka kandang ini."
+			"Kamu perlu menemukan setidaknya 125 dari 150 koin di level ini untuk membuka kandang ini."
 		],
 		"it": [
 			"Almeno 125 delle 150 monete di questo livello devono essere recuperate per aprire questa gabbia."
@@ -11186,7 +13330,7 @@
 			"The inhabitants of the village are afraid, you must help us!"
 		],
 		"es": [
-			"Los habitantes del pueblo estan asustados, ¡debes ayudarnos!"
+			"Los habitantes del pueblo están asustados, ¡debes ayudarnos!"
 		],
 		"fr": [
 			"Les habitants du village ont peur, vous devez nous aider !"
@@ -11228,13 +13372,13 @@
 			"Since my dad ate this strange purple honey, he became very mean... You have to save him!"
 		],
 		"es": [
-			"Desde que mi papa comio esta extraña miel morada, se volvio muy malo... ¡Tienes que salvarlo!"
+			"Desde que mi papá comio esta extraña miel morada, se volvio muy malo... ¡Tienes que salvarlo!"
 		],
 		"fr": [
 			"Mon papa a mangé ce miel violet bizarre et depuis il est devenu très méchant, tu dois le sauver !"
 		],
 		"id": [
-			"Ayahku makan madu berwarna ungu yang aneh itu dan sejak saat itu dia menjadi sangat jahat, kau harus menyelamatkannya!"
+			"Sejak ayahku memakan madu ungu yang aneh ini, dia menjadi sangat jahat... kau harus menyelamatkannya!"
 		],
 		"it": [
 			"Mio padre ha mangiato questo strano Miele Viola e da allora è diventato molto molto cattivo, dovete salvarlo!"
@@ -11270,7 +13414,7 @@
 			"I prefer to stay here at home, strange things happen outside..."
 		],
 		"es": [
-			"Prefiero quedarme aqui en casa, cosas raras pasan afuera..."
+			"Prefiero quedarme aquí en casa, cosas raras pasan afuera..."
 		],
 		"fr": [
 			"Je préfère rester ici à l'abri, il se passe des choses étranges dehors..."
@@ -11486,7 +13630,7 @@
 			"Il y a des cages à ours dispersées dans la zone. Chaque cage a sa propre clé donc nous devons la trouver d'abord. Elles devraient être quelque part près des cages."
 		],
 		"id": [
-			"Ada kandang beruang yang tersebar di sekitar area ini. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci nya seharusnya berada di dekat kandang."
+			"Ada kandang beruang yang tersebar di sekitar area ini. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci nya seharusnya berada di sekitar kandang."
 		],
 		"it": [
 			"Ci sono gabbie per orsi sparse per l'area. Ogni gabbia ha la sua chiave, quindi dobbiamo prima trovarla. Dovrebbero essere da qualche parte vicino alle gabbie."
@@ -11648,7 +13792,7 @@
 			"Did you see that? There was someone over there! who was... purple."
 		],
 		"es": [
-			"¿Has visto eso? ¡Había alguien ahí arriba! Que era... púrpura."
+			"¿Has visto eso? ¡Había alguien ahí arriba! Alguien... púrpura."
 		],
 		"fr": [
 			"As-tu vu ça ? Il y avait quelqu'un là-haut ! qui était... violet."
@@ -11768,10 +13912,10 @@
 			"The bee dynasty started there, maybe we can find answers in the Great Pyramid of Beemothep."
 		],
 		"es": [
-			"La Dinastía de las Abejas comenzó allí, tal vez podamos encontrar respuestas en la Gran Pirámide de Beemothep."
+			"La dinastía de las Abejas comenzó allí, tal vez podamos encontrar respuestas en la Gran Pirámide de Beemothep."
 		],
 		"fr": [
-			"La dynastie des Abeilles a commencé là, peut-être que nous pourrions trouver des réponses dans la Grande Pyramide de Beemothep."
+			"La dynastie des abeilles a commencé là, peut-être que nous pourrions trouver des réponses dans la Grande Pyramide de Beemothep."
 		],
 		"id": [
 			"Dinasti lebah dimulai dari sana, mungkin kita bisa menemukan jawaban di Piramida Besar Beemothep."
@@ -12102,7 +14246,7 @@
 			"If you encounter the Reindeer King, try to gain some height in order to jump on his head."
 		],
 		"es": [
-			"Si te encuentras con el Rey Reno, intenta levantarte y saltar sobre su cabeza."
+			"Si te encuentras con el Rey Reno, intenta elevarte y saltar sobre su cabeza."
 		],
 		"fr": [
 			"Si tu croises le Roi des rennes, essaye de prendre de la hauteur pour sauter sur sa tête."
@@ -12764,7 +14908,7 @@
 			"The scientist at the Bear Village probably knows some stuff about this artifact."
 		],
 		"es": [
-			"El científico de la Aldea del Oso probablemente sepa algo sobre este artefacto."
+			"El científico de la aldea de los osos probablemente sepa algo sobre este artefacto."
 		],
 		"fr": [
 			"Le scientifique au Village Ours sait probablement quelque chose sur cet artefact."
@@ -12804,7 +14948,7 @@
 			"Our friends contaminated by purple honey have returned to their primary instincts, they hunt in the water. Be careful."
 		],
 		"es": [
-			"Nuestros amigos infectados con miel púrpura han vuelto a sus instintos primarios, cazando en el agua. Ten cuidado."
+			"Nuestros amigos infectados con miel púrpura han vuelto a sus instintos primitivos, cazando en el agua. Ten cuidado."
 		],
 		"fr": [
 			"Nos amis contaminés par le miel violet sont revenus à leur instinct primaire, ils chassent dans l'eau. Fais attention."
@@ -12846,7 +14990,7 @@
 			"Unlike us, bears are not very agile in the water. Attract contaminated crocodiles near the edge of the water in order to jump on them."
 		],
 		"es": [
-			"A diferencia de nosotros, los osos no son muy ágiles en el agua. Atrae a los cocodrilos infectados cerca de la orilla del agua para que salten sobre ellos."
+			"A diferencia de nosotros, los osos no son muy ágiles en el agua. Atrae a los cocodrilos infectados cerca de la orilla del agua para que saltes sobre ellos."
 		],
 		"fr": [
 			"Contrairement à nous, les ours ne sont pas très agiles dans l'eau. Attire les crocodiles contaminés près du bord de l'eau pour leur sauter dessus."
@@ -13098,7 +15242,7 @@
 			"Access to the water point is very difficult since the crocodiles have settled at the oasis. We were there first!"
 		],
 		"es": [
-			"El acceso al abrevadero es muy difícil desde que los cocodrilos se instalaron en el oasis. ¡Nosotros llegamos primero!"
+			"Acceder al abrevadero es muy difícil desde que los cocodrilos se instalaron en el oasis. ¡Nosotros llegamos primero!"
 		],
 		"fr": [
 			"L'accès au point d'eau est très difficile depuis que les crocodiles se sont installés à l'oasis. Nous étions là d'abord !"
@@ -13140,7 +15284,7 @@
 			"Thousands of years ago, my ancestors were the servants of the bees. They built the pyramid for one of the greatest queens."
 		],
 		"es": [
-			"Hace miles de años, mis antepasados eran siervos de las abejas. Construyeron la pirámide para una de las reinas más grandes."
+			"Hace miles de años, mis antepasados eran sirvientes de las abejas. Construyeron la pirámide para una de las reinas más grandes."
 		],
 		"fr": [
 			"Il y a des milliers d'années, mes ancêtres étaient les serviteurs des abeilles. Ils ont construit la pyramide pour une des plus grandes reines."
@@ -13188,7 +15332,7 @@
 			"Il y a quelques années, certaines abeilles ont commencé a construire ce gigantesque mur sans que la reine ne le sache. Elles préparaient déjà quelque chose avant son kidnapping !"
 		],
 		"id": [
-			"Beberapa tahun yang lalu, beberapa lebah mulai membangun dinding raksasa ini tanpa pengetahuan sang ratu. Mereka sudah mulai menyiapkan sesuatu bahkan sebelum penculikan sang ratu!"
+			"Beberapa tahun yang lalu, beberapa lebah mulai membangun tembok raksasa ini tanpa pengetahuan sang ratu. Mereka sudah mulai menyiapkan sesuatu bahkan sebelum penculikan sang ratu!"
 		],
 		"it": [
 			"Qualche anno fa, alcune api hanno iniziato a costruire questo gigantesco muro a insaputa della Regina. Stavano già pianificando qualcosa prima che la Regina venisse rapita!"
@@ -13230,7 +15374,7 @@
 			"Ma famille voulait fuir la région après l'arrivée du miel violet mais le mur nous en a empêché."
 		],
 		"id": [
-			"Keluargaku ingin kabur dari daerah ini setelah kedatangan madu ungu itu, tapi tembok itu mencegah kami untuk melakukannya."
+			"Keluargaku ingin kabur dari daerah ini setelah kedatangan madu ungu itu, tapi tembok ini mencegah kami untuk melakukannya."
 		],
 		"it": [
 			"La mia famiglia voleva fuggire dopo l'arrivo del Miele Viola, ma il muro ci ha bloccato."
@@ -13398,7 +15542,7 @@
 			"Les abeilles semblent avoir construit un mur autour des villages. Elles s'intéressent à la pyramide. Demandons des informations aux habitants."
 		],
 		"id": [
-			"Para lebah tampaknya telah membangun tembok di sekitaran desa. Mereka tertarik dengan piramida. Tanya para penduduk untuk mendapatkan informasi."
+			"Para lebah tampaknya telah membangun tembok di sekitaran desa-desa. Mereka tertarik dengan piramida. Tanya para penduduk untuk mendapatkan informasi."
 		],
 		"it": [
 			"Le api sembrano aver costruito un muro intorno ai villaggi. Sono interessati alla piramide. Chiediamo informazioni agli abitanti."
@@ -13434,7 +15578,7 @@
 			"To travel in this desert, we will use this quad bike. While driving, use the air controls to avoid flipping upside down."
 		],
 		"es": [
-			"Para desplazarnos por este desierto, utilizaremos este quad. Mientras conduces, utiliza el control de aire para no dar la vuelta."
+			"Para desplazarnos por este desierto, utilizaremos esta cuatrimoto. Mientras conduces, utiliza el control de aire para no dar la vuelta."
 		],
 		"fr": [
 			"Pour se déplacer dans ce désert, nous allons utiliser ce quad. En conduisant, utilise le contrôle aérien pour ne pas te retourner."
@@ -13476,7 +15620,7 @@
 			"Quad bike rental for your activities in the desert. Walk on the red buttons to get your vehicle back."
 		],
 		"es": [
-			"Alquile un quad para sus actividades en el desierto. Pise los botones rojos para obtener su vehículo."
+			"Alquile una cuatrimoto para sus actividades en el desierto. Pise los botones rojos para obtener su vehículo."
 		],
 		"fr": [
 			"Location de quad pour vos activités dans le désert. Marchez sur les boutons rouges pour récupérer votre véhicule."
@@ -13642,7 +15786,7 @@
 			"You look su-su-surprised. Your scientist friend forgot to tell you about me? AFTER EVERYTHING HE DI-DI-DID TO ME?!"
 		],
 		"es": [
-			"Te ves su-superado. ¿Tu amigo el científico se olvidó de hablarte de mí? ¡¿DESPUÉS DE TODO LO QUE ME HIZO?!"
+			"Te ves so-sorprendido. ¿Tu amigo el científico se olvidó de hablarte de mí? ¡¿DESPUÉS DE TODO LO QUE ME HIZO?!"
 		],
 		"fr": [
 			"Tu as l'air su-su-surpris. Ton ami le scientifique a oublié de te parler de moi ? APRÈS TOUT CE QU'IL M'A F-F-FAIT ?!"
@@ -13682,7 +15826,7 @@
 			"He made me giant and smart during his experiments, but he wouldn't let m-m-me free. I was his favorite one, his greatest achievement."
 		],
 		"es": [
-			"Me hizo gigante e inteligente en sus experimentos, pero no me dejó m-m-mover. Yo era su favorito, su mayor logro."
+			"Me hizo gigante e inteligente en sus experimentos, pero no me dejó m-m-moverme. Yo era su favorito, su mayor logro."
 		],
 		"fr": [
 			"Il m'a rendu géant et intelligent durant ses expériences, mais il ne voulait pas m-m-me libérer. J'étais son préféré, sa plus grande réussite."
@@ -13762,7 +15906,7 @@
 			"You are so ti-ti-tiny, little bear, I can easily cr-cr-crush you!"
 		],
 		"es": [
-			"Eres tan pequeño, pequeño oso, ¡puedo aplastarte tan fácilmente!"
+			"Eres tan pequeño, oso, ¡puedo aplastarte tan fácilmente!"
 		],
 		"fr": [
 			"Tu es si mi-mi-minuscule, petit ours, je peux fa-fa-facilement t'écraser !"
@@ -13802,7 +15946,7 @@
 			"Thank you so much for dealing with him, he was dangerous and unpredictable... hmm... unlike me, right?"
 		],
 		"es": [
-			"Muchas gracias por cuidar de él, era peligroso e imprevisible... um... a diferencia de mí, ¿no?"
+			"Muchas gracias por cuidar de él, era peligroso e impredecible... um... a diferencia de mí, ¿no?"
 		],
 		"fr": [
 			"Merci beaucoup de t'être occupé de lui, il était dangereux et imprévisible... hum... contrairement à moi, pas vrai ?"
@@ -14046,7 +16190,7 @@
 			"Crogo ate some rats and one of them was carrying a metal thing, and now his tummy hurts a lot."
 		],
 		"es": [
-			"Crogo se comió unas ratas pero una de ellas tenía una cosa de metal y ahora le duele mucho la lata."
+			"Crogo se comió unas ratas pero una de ellas tenía una cosa de metal y ahora le duele mucho."
 		],
 		"fr": [
 			"Crogo a mangé quelques rats mais l'un d'eux portait un truc en métal et maintenant son bidon fait très mal."
@@ -14088,7 +16232,7 @@
 			"Maybe you could go in there to check what is causing the pain and remove it."
 		],
 		"es": [
-			"Tal vez podrías entrar ahí y ver lo que te duele y quitarlo."
+			"Tal vez podrías entrar ahí, ver lo que le duele y quitarlo."
 		],
 		"fr": [
 			"Peut-être que tu pourrais aller là-dedans pour voir ce qui fait mal et le retirer."
@@ -14130,7 +16274,7 @@
 			"Hi smol bear. Am Violette the hairless rat. The other rats are mean, they banned me because I have no hair. I no bite, only nice. I just want to make friend. Are you my friend?"
 		],
 		"es": [
-			"Hola, pequeño oso. Soy Violeta la rata calva. Las otras ratas son malas, me han desterrado porque no tengo pelo. No muerdo, sólo soy amable. Sólo quiero hacer amigos. ¿Eres mi amigo?"
+			"Hola, pequeño oso. Soy Violeta la rata calva. Las otras ratas son malas, me han desterrado porque no tengo pelo. No muerdo, soy amable. Sólo quiero hacer amigos. ¿Quieres ser mi amigo?"
 		],
 		"fr": [
 			"Coucou p'tit ours. Suis Violette le rat chauve. Les autres rats sont méchants, ils m'ont bannie parce que je n'ai pas de poils. Moi pas mordre, seulement gentille. Je veux juste me faire ami. Tu es mon ami ?"
@@ -14638,7 +16782,7 @@
 			"J'ai vu une clef là-haut sur les étagères. Je pense que tu peux y monter en rebondissant sur les oreillers."
 		],
 		"id": [
-			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantulkan di atas bantal."
+			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantul di atas bantal."
 		],
 		"it": [
 			"Ho visto una chiave lassù sugli scaffali. Penso tu possa raggiungerla rimbalzando sui cuscini."
@@ -14760,13 +16904,13 @@
 			"Feel free to explore the hub to find some interesting stuff!"
 		],
 		"es": [
-			"No dude en explorar el centro para encontrar cosas interesantes."
+			"No dudes en explorar el centro para encontrar cosas interesantes."
 		],
 		"fr": [
 			"N'hésite pas à explorer le hub pour trouver des choses intéressantes."
 		],
 		"id": [
-			"Jangan ragu untuk mengeksplorasi hub untuk menemukan beberapa hal menarik."
+			"Jangan ragu untuk menjelajahi hub untuk menemukan beberapa hal menarik!"
 		],
 		"it": [
 			"Sentiti libero di esplorare l'hub alla ricerca di cose interessanti."
@@ -14808,7 +16952,7 @@
 			"Tu peux obtenir beaucoup de pièces en jouant dans le Monde Arcade."
 		],
 		"id": [
-			"Kamu bisa mendapatkan banyak koin dengan bermain di Dunia Arcade."
+			"Kamu bisa mendapatkan banyak koin dengan bermain di Dunia Arkade."
 		],
 		"it": [
 			"Si possono ottenere molte monete giocando nel Mondo Arcade."
@@ -15072,7 +17216,7 @@
 			"Capitalus peut te donner des bonus si un niveau est trop difficile..."
 		],
 		"id": [
-			"Capitalus dapat memberikan bonus jika suatu level terlalu sulit..."
+			"Capitalus dapat memberikanmu bonus jika sebuah level terlalu sulit..."
 		],
 		"it": [
 			"Capitalus può darvi dei bonus se un livello è troppo difficile."
@@ -15140,7 +17284,7 @@
 			"Om du vill speedrunna så finns det alternativ för det i pause menyn."
 		],
 		"tr": [
-			"Hızlıkoşu yapmak istiyorsan, duraklama menüsünde ilgili seçenekleri bulabilirsin."
+			"Speedrun yapmak istiyorsan, duraklama menüsünde ilgili seçenekleri bulabilirsin."
 		]
 	},
 	"loading_7": {
@@ -15154,7 +17298,7 @@
 			"Join the community on the Discord server! The link is in the pause menu."
 		],
 		"es": [
-			"¡Únase a la comunidad en el servidor Discord! El enlace está en el menú de pausa."
+			"¡Únete a la comunidad en el servidor Discord! El enlace está en el menú de pausa."
 		],
 		"fr": [
 			"Rejoins la communauté sur le serveur Discord ! Le lien est dans le menu pause."
@@ -15204,7 +17348,7 @@
 			"Certaines choses peuvent être détruites avec une charge au sol."
 		],
 		"id": [
-			"Beberapa hal dapat dihancurkan dengan menghentakkan perut."
+			"Beberapa hal bisa dihancurkan dengan menghentakkan perut."
 		],
 		"it": [
 			"Alcune cose possono essere distrutte con una carica a terra."
@@ -15294,7 +17438,9 @@
 		"id": [
 			"Tersedia sekarang di {0}"
 		],
-		"it": [],
+		"it": [
+			"Disponibile per l'acquisto su {0}"
+		],
 		"ja": [],
 		"nl": [
 			"Nu beschikbaar op {0}"
@@ -15330,7 +17476,7 @@
 			"Bienvenue dans la mission : le sol est en lave ! Si tu touches le sol, tu perdras de la vie et retourneras au point de contrôle précédent."
 		],
 		"id": [
-			"Selamat datang di misi lantai adalah lava milikku! Kalau kamu menyentuh daratan, kamu akan kehilangan satu nyawa dan kembali ke checkpoint sebelumnya."
+			"Selamat datang di misi lantai lava milikku! Kalau kamu menyentuh tanah, kamu akan kehilangan satu nyawa dan kembali ke checkpoint sebelumnya."
 		],
 		"it": [
 			"Benvenuto alla mia sfida del pavimento di lava! Se tocchi il suolo, perderai la salute e tornerai al checkpoint precedente."
@@ -15450,7 +17596,7 @@
 			"Welcome to my rally mission! Go through each ring in order and try to complete one lap before me. Good luck!"
 		],
 		"es": [
-			"Bienvenidos a mi misión: ¡reunión! Pasa por cada anillo en orden y trata de terminar la ronda antes que yo. Buena suerte."
+			"Bienvenido a mi misión: ¡carrera! Pasa por cada anillo en orden y trata de terminar la ronda antes que yo. Buena suerte."
 		],
 		"fr": [
 			"Bienvenue dans ma mission : rallye ! Traverse chaque anneau dans l'ordre et essaye de terminer le tour avant moi. Bonne chance !"
@@ -15492,7 +17638,7 @@
 			"Welcome to my paper plane flight mission! Grab a paper airplane and go through each ring in order. Good luck!"
 		],
 		"es": [
-			"Bienvenido a mi misión: ¡las acrobacias aéreas! Sube a un avión de papel y vuela a través de cada anillo en orden. Buena suerte."
+			"Bienvenido a mi misión: ¡vuelo en avión de papel! Sube a un avión de papel y vuela a través de cada anillo en orden. Buena suerte."
 		],
 		"fr": [
 			"Bienvenue dans ma mission : voltige ! Embarque à bord d'un avion en papier et traverse chaque anneau dans l'ordre. Bonne chance !"
@@ -15576,13 +17722,13 @@
 			"Welcome to my egg hunt mission! There are 3 eggs hidden in this level."
 		],
 		"es": [
-			"Bienvenidos a mi misión: ¡la búsqueda de huevos! Hay 3 huevos escondidos en este nivel."
+			"Bienvenido a mi misión: ¡búsqueda de huevos! Hay 3 huevos escondidos en este nivel."
 		],
 		"fr": [
 			"Bienvenue dans ma mission : chasse aux œufs ! Il y a 3 œufs cachés dans ce niveau."
 		],
 		"id": [
-			"Selamat datang di misi berburu telur milikku! Ada 3 telur yang tersembunyi di level ini."
+			"Selamat datang di misi berburu telur milikku! Ada 3 telur tersembunyi di level ini."
 		],
 		"it": [
 			"Benvenuto alla mia sfida di caccia alle uova! Ci sono 3 uova nascoste in questo livello."
@@ -15660,7 +17806,7 @@
 			"Welcome to my electricity issue mission! As you see the house has been flooded but the power is still on. There is a switch in the room under the stairs to turn off the power. Good luck!"
 		],
 		"es": [
-			"Bienvenido a mi misión: ¡problema eléctrico! Como pueden ver, la casa se ha inundado pero no se ha cortado la electricidad. Hay un interruptor en el armario bajo la escalera para cortar la corriente. Buena suerte."
+			"Bienvenido a mi misión: ¡problema eléctrico! Como puedes ver, la casa se ha inundado pero no se ha cortado la electricidad. Hay un interruptor en el armario bajo la escalera para cortar la corriente. Buena suerte."
 		],
 		"fr": [
 			"Bienvenue dans ma mission : problème électrique ! Comme tu le vois la maison a été inondée mais l'électricité n'a pas été coupée. Il y a un interrupteur dans le placard sous l'escalier pour couper le courant. Bonne chance !"
@@ -15702,13 +17848,13 @@
 			"Welcome to my parkour mission! This mission is pretty simple, just follow the parkour to reach me."
 		],
 		"es": [
-			"Bienvenido a mi misión: ¡el parkour! Esta misión es bastante sencilla, sólo tienes que seguir el camino para llegar a mí."
+			"Bienvenido a mi misión: ¡parkour! Esta misión es bastante sencilla, sólo tienes que seguir el camino para llegar a mí."
 		],
 		"fr": [
 			"Bienvenue dans ma mission : parkour ! Cette mission est plutôt simple, suis juste le parcours pour me rejoindre."
 		],
 		"id": [
-			"Selamat datang di misi parkour milikku! Misi ini cukup sederhana, lakukan saja parkour untuk mencapai aku."
+			"Selamat datang di misi parkour milikku! Misi ini cukup sederhana, cukup lakukan parkour untuk mencapai aku."
 		],
 		"it": [
 			"Benvenuto alla mia sfida di parkour! Questa sfida è abbastanza semplice, basta seguire il percorso per raggiungermi."
@@ -15786,7 +17932,7 @@
 			"Paper plane flight"
 		],
 		"es": [
-			"Vuelo en avion de papel"
+			"Vuelo en avión de papel"
 		],
 		"fr": [
 			"Voltige"
@@ -15828,7 +17974,7 @@
 			"Egg hunt"
 		],
 		"es": [
-			"Busqueda de huevos"
+			"Búsqueda de huevos"
 		],
 		"fr": [
 			"Chasse aux œufs"
@@ -15870,7 +18016,7 @@
 			"Electricity issue"
 		],
 		"es": [
-			"Problema electrico"
+			"Problema eléctrico"
 		],
 		"fr": [
 			"Problème électrique"
@@ -15912,7 +18058,7 @@
 			"Flooding"
 		],
 		"es": [
-			"Inundacion"
+			"Inundación"
 		],
 		"fr": [
 			"Inondation"
@@ -16001,9 +18147,7 @@
 		"fr": [
 			"Parkour"
 		],
-		"id": [
-			"Parkour"
-		],
+		"id": [],
 		"it": [
 			"Parkour"
 		],
@@ -16022,7 +18166,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"İzkoşu"
+			"Parkur"
 		]
 	},
 	"mission_race": {
@@ -16036,7 +18180,7 @@
 			"Rally"
 		],
 		"es": [
-			"Rally"
+			"Carrera"
 		],
 		"fr": [
 			"Rallye"
@@ -16064,7 +18208,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Ralli"
+			"Yarış"
 		]
 	},
 	"party_bee_1": {
@@ -16078,7 +18222,7 @@
 			"I'm so sorry for hurting people, we were just following orderszz..."
 		],
 		"es": [
-			"Siento haber herido a algunas personas, sólo seguíamos órdenes..."
+			"Siento haber herido a algunaszz personaszz, sólo seguíamoszz órdeneszz..."
 		],
 		"fr": [
 			"Je szuis dézzzolée d'avoir bleszé des jzzens, nous ne faiszions que szuivre dezzz ordres..."
@@ -16118,7 +18262,7 @@
 			"How do you call a bee with messy hair?//...//A friszzbee."
 		],
 		"es": [
-			"¿Cómo se llama a la Reina Mirabeja cuando el Rey Reno llega tarde a su cita?"
+			"¿Sabeszz qué hace una abeja en el gimnaszzio? ¡Zumba!"
 		],
 		"fr": [
 			"Comment appelles-tu Reine Mirabeille quand le Roi des rennes est en retard à son rendez-vous ?//...//L'abeille aux bois dormant."
@@ -16158,7 +18302,7 @@
 			"Wow, you saved all the bearszz! Good job! We must bee bad at hiding cageszz."
 		],
 		"es": [
-			"¡Vaya, has salvado a todos los osos! ¡Bien hecho! Debemos ser terribles para esconder los cajzzes."
+			"¡Vaya, haszz salvado a todos los ososzz! ¡Bien hecho! Somoszz terribleszz escondiendo cajaszzz."
 		],
 		"fr": [
 			"Ouah, tu as szauvé tous les oursz ! Bien jzzoué ! Nous devonzzz être nulles pour cachzer les cajzzes."
@@ -16198,7 +18342,7 @@
 			"You got invited to the party for free?!"
 		],
 		"es": [
-			"¿Te han invitado a la fiesta gratis?"
+			"¿Te han invitado gratis a esta fiesta?"
 		],
 		"fr": [
 			"Tu as été invité à la fête gratuitement ?!"
@@ -16238,7 +18382,7 @@
 			"So many new clients! STONKS!"
 		],
 		"es": [
-			"Muchos clientes nuevos. ¡PIEDRAS!"
+			"Muchos clientes nuevos. ¡STONKS!"
 		],
 		"fr": [
 			"Tant de nouveaux clients ! STONKS !"
@@ -16358,7 +18502,7 @@
 			"Waterfalls are impressive! I have never seen one in my life."
 		],
 		"es": [
-			"Las cascadas son impresionantes. Nunca había visto uno en mi vida."
+			"Las cascadas son impresionantes. Nunca había visto una en mi vida."
 		],
 		"fr": [
 			"Les chutes d'eau sont impressionnantes ! Je n'en avais jamais vu de ma vie."
@@ -16478,7 +18622,7 @@
 			"Queen Beeatrice is ginormous... huh, I meant to say beautiful."
 		],
 		"es": [
-			"Reine Mirabeja es elefantiásica... er, quise decir hermosa."
+			"La Reina Mirabeja es elefantástica... er, quise decir hermosa."
 		],
 		"fr": [
 			"Reine Mirabeille est éléphantesque... euh, je voulais dire magnifique."
@@ -16497,7 +18641,7 @@
 			"Królowa Beetrycja jest ogromna... huh, chciałem powiedzieć piękna."
 		],
 		"pt": [
-			"Rainha Beeatrice é enorme... huh, eu quis dizer bonita."
+			"Rainha Belhatriz é enorme... huh, eu quis dizer bonita."
 		],
 		"ru": [
 			"Королева Беатриса огромная... хах, я хотел сказать красивая."
@@ -16518,7 +18662,7 @@
 			"I have never seen grass this green."
 		],
 		"es": [
-			"Nunca he visto la hierba tan verde."
+			"Nunca he visto hierba así de verde."
 		],
 		"fr": [
 			"Je n'avais jamais vu d'herbe aussi verte."
@@ -16718,13 +18862,13 @@
 			"Thanks for savvving the kingdom! I organizzzed a cool party for you, havvve fun!"
 		],
 		"es": [
-			"¡Merszzi por salvar el reino! ¡Hemos ordenado fesztivitézzz a su intensidad, divertirse !"
+			"¡Graciaszz por salvar el reino! ¡Hicimos un feszztín para tí, diviértete!"
 		],
 		"fr": [
 			"Merszi d'avoir szauvé le royaume ! Nouzzz avonzzz ordonnnanszé des fesztivitézzz à votre intenszion, divertiszer vous !"
 		],
 		"id": [
-			"Terima kasih telah menyelamatkan kerajaan! Aku mengadakan pesta keren untukmu, selamat bersenang-senang!"
+			"Terima kasih karena telah menyelamatkan kerajaan! Aku mengadakan pesta keren untukmu, selamat bersenang-senang!"
 		],
 		"it": [
 			"Merszzi per aver salvato il regno! Abbiamo ordinato fesztivitézzz alla vostra intensità, divertitevi!"
@@ -16777,7 +18921,7 @@
 			"Niech żyje królowa Beetrycja!"
 		],
 		"pt": [
-			"Vida longa à Rainha Beeatrice!"
+			"Vida longa à Rainha Belhatriz!"
 		],
 		"ru": [
 			"Да здравствует королева Беатриса!"
@@ -16918,7 +19062,7 @@
 			"Where does a turtle go when it's raining?//...//To a shellter!"
 		],
 		"es": [
-			"¿Qué dice una tortuga cuando se le enfrían los pies?"
+			"¿Por qué a las tortugas no les gusta la comida rápida? ¡Porque no pueden atraparla!"
 		],
 		"fr": [
 			"Que dit une tortue lorsqu'elle a froid aux pattes ?//...//On se l'écaille !"
@@ -17078,7 +19222,7 @@
 			"That's very kind of the bees to put together this party, but it won't bring back my house that they destroyed..."
 		],
 		"es": [
-			"Es muy bonito que las abejas hagan esta fiesta, pero no me devolverán la casa que destruyeron..."
+			"Es muy bonito que las abejas hagan esta fiesta, pero no me devolvieron la casa que destruyeron..."
 		],
 		"fr": [
 			"C'est vraiment gentil de la part des abeilles d'organiser cette fête, mais ça ne me rendra pas ma maison qu'elles ont détruite..."
@@ -17145,6 +19289,314 @@
 		"sv": [],
 		"tr": [
 			"Buraya gelmem 6 ayımı aldı."
+		]
+	},
+	"photo_contribution": {
+		"de": [
+			"Beitrag filtern"
+		],
+		"el": [
+			"Συμβολή φίλτρου"
+		],
+		"en": [
+			"Filter contribution"
+		],
+		"es": [
+			"Contribución de filtro"
+		],
+		"fr": [
+			"Contribution du filtre"
+		],
+		"id": [
+			"Kontribusi filter"
+		],
+		"it": [
+			"Contributo dei filtri"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Wkład filtrów"
+		],
+		"pt": [
+			"Força do filtro"
+		],
+		"ru": [
+			"Вклад фильтра"
+		],
+		"sv": [],
+		"tr": [
+			"Filtre Katkısı"
+		]
+	},
+	"photo_dof": {
+		"de": [
+			"Tiefenschärfe"
+		],
+		"el": [
+			"Βάθος πεδίου"
+		],
+		"en": [
+			"Depth of field"
+		],
+		"es": [
+			"Profundidad de campo"
+		],
+		"fr": [
+			"Profondeur de champ"
+		],
+		"id": [
+			"Ruang tajam"
+		],
+		"it": [
+			"Profondità di campo"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Głębokość pola"
+		],
+		"pt": [
+			"Desfoque"
+		],
+		"ru": [
+			"Глубина резкости"
+		],
+		"sv": [],
+		"tr": [
+			"Derinlik"
+		]
+	},
+	"photo_guidelines": {
+		"de": [
+			"Richtlinien"
+		],
+		"el": [
+			"Οδηγίες"
+		],
+		"en": [
+			"Guidelines"
+		],
+		"es": [
+			"Pautas"
+		],
+		"fr": [
+			"Guides"
+		],
+		"id": [
+			"Garis bantu"
+		],
+		"it": [
+			"Guide"
+		],
+		"ja": [],
+		"nl": [
+			"Richtlijnen"
+		],
+		"pl": [
+			"Wskazówki"
+		],
+		"pt": [
+			"Linhas de Grade"
+		],
+		"ru": [
+			"Руководство"
+		],
+		"sv": [],
+		"tr": [
+			"Yönergeler"
+		]
+	},
+	"photo_iap_blocker": {
+		"de": [
+			"Um Filter im Fotomodus verwenden zu können, muss du SBA Gold kaufen."
+		],
+		"el": [
+			"Πρέπει να αγοράσετε το SBA Gold για να χρησιμοποιήσετε φίλτρα στη λειτουργία φωτογραφίας"
+		],
+		"en": [
+			"You need to buy SBA Gold to use filters in Photo Mode"
+		],
+		"es": [
+			"Necesitas comprar SBA Gold para usar filtros en el modo foto"
+		],
+		"fr": [
+			"Tu dois acheter SBA Gold pour utiliser les filtres dans le Mode Photo."
+		],
+		"id": [
+			"Kamu perlu membeli SBA Gold untuk menggunakan filter dalam Mode Foto"
+		],
+		"it": [
+			"È necessario acquistare SBA Gold per utilizzare i filtri in Modalità Foto."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Musisz kupić SBA Gold, aby używać filtrów w Photo Mode."
+		],
+		"pt": [
+			"Você precisa comprar SBA Gold pra usar os filtros no Modo Foto"
+		],
+		"ru": [
+			"Вам нужно купить SBA Gold, чтобы использовать фильтры в Фото-Режиме."
+		],
+		"sv": [],
+		"tr": [
+			"Fotoğraf Modunda filtreleri kullanmak için SBA Gold satın almanız gerekir."
+		]
+	},
+	"photo_save": {
+		"de": [
+			"Speichern"
+		],
+		"el": [
+			"Αποθήκευση"
+		],
+		"en": [
+			"Save"
+		],
+		"es": [
+			"Salvar"
+		],
+		"fr": [
+			"Sauvegarder"
+		],
+		"id": [
+			"Simpan"
+		],
+		"it": [
+			"Salva"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Zapisz"
+		],
+		"pt": [
+			"Guardar"
+		],
+		"ru": [
+			"Сохранить"
+		],
+		"sv": [],
+		"tr": [
+			"Kaydet"
+		]
+	},
+	"photo_saved": {
+		"de": [
+			"Eine Kopie dieses Fotos wurde gespeichert unter"
+		],
+		"el": [
+			"Ένα αντίγραφο αυτής της φωτογραφίας έχει αποθηκευτεί στο"
+		],
+		"en": [
+			"A copy of this photo has been saved to"
+		],
+		"es": [
+			"Una copia de esta foto ha sido salvada a"
+		],
+		"fr": [
+			"Une copie de cette photo a été sauvgardée dans"
+		],
+		"id": [
+			"Salinan foto ini telah disimpan ke"
+		],
+		"it": [
+			"Una copia di questa foto è stata salvata in"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Kopia tego zdjęcia została zapisana do"
+		],
+		"pt": [
+			"Uma cópia dessa foto foi salva em"
+		],
+		"ru": [
+			"Копия этого фото была сохранена в"
+		],
+		"sv": [],
+		"tr": [
+			"Fotoğraf kaydedildi"
+		]
+	},
+	"photo_take": {
+		"de": [
+			"Foto machen"
+		],
+		"el": [
+			"Λήψη φωτογραφίας"
+		],
+		"en": [
+			"Take photo"
+		],
+		"es": [
+			"Tomar foto"
+		],
+		"fr": [
+			"Prendre une photo"
+		],
+		"id": [
+			"Ambil foto"
+		],
+		"it": [
+			"Scatta una foto"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Zrób zdjęcie"
+		],
+		"pt": [
+			"Tirar foto"
+		],
+		"ru": [
+			"Сделать Снимок"
+		],
+		"sv": [],
+		"tr": [
+			"Fotoğraf çek"
+		]
+	},
+	"photo_title": {
+		"de": [
+			"Fotomodus"
+		],
+		"el": [
+			"Λειτουργία φωτογραφίας"
+		],
+		"en": [
+			"Photo Mode"
+		],
+		"es": [
+			"Modo foto"
+		],
+		"fr": [
+			"Mode Photo"
+		],
+		"id": [
+			"Mode foto"
+		],
+		"it": [
+			"Modalità Foto"
+		],
+		"ja": [],
+		"nl": [
+			"Foto modus"
+		],
+		"pl": [
+			"Photo Mode"
+		],
+		"pt": [
+			"Modo Foto"
+		],
+		"ru": [
+			"Фото-Режим"
+		],
+		"sv": [],
+		"tr": [
+			"Fotoğraf modu"
 		]
 	},
 	"rarity_common": {
@@ -17608,7 +20060,7 @@
 			"Maybe they thought it was abandoned or something? Is it that dirty? Anyway..."
 		],
 		"es": [
-			"¿Quizás pensaron que estaba abandonado o algo así? ¿Es tan sucio? En fin..."
+			"¿Quizás pensaron que estaba abandonada o algo así? ¿Está tan sucia? En fin..."
 		],
 		"fr": [
 			"Peut-être qu'elles pensaient qu'elle était abandonnée ou quelque chose comme ça ? C'est si sale que ça ? Peu importe..."
@@ -17648,7 +20100,7 @@
 			"Okay so this whole mess is linked to the Kernel. We need to take it back from Queen Beeatrice and whoever that purple bear is..."
 		],
 		"es": [
-			"Vale, todo este lío es por el Kernel. Tenemos que recuperarlo de la Reina Beeatrice y de quien sea ese oso púrpura..."
+			"Vale, todo este lío es por el Kernel. Tenemos que recuperarlo de la Reina Mirabeja y de quien sea ese oso púrpura..."
 		],
 		"fr": [
 			"Ok, donc tout ce bazar est lié au Kernel. Nous devons le reprendre à Reine Mirabeille et qui que soit cet ours violet..."
@@ -17667,7 +20119,7 @@
 			"Okej, więc ten cały bałagan jest połączony z Jądrem. Musimy je odebrać Królowej Beetrycji i od fioletowego niedźwiedzia kimkolwiek jest..."
 		],
 		"pt": [
-			"Beleza, então esta bagunça toda está ligada com o Kernel. Precisamos tomá-lo da Rainha Beeatrice e daquele urso roxo seja lá quem for..."
+			"Beleza, então esta bagunça toda está ligada com o Kernel. Precisamos tomá-lo da Rainha Belhatriz e daquele urso roxo seja lá quem for..."
 		],
 		"ru": [
 			"Хорошо, значит весь этот беспорядок связан с Кернелом. Нам нужно забрать его назад у королевы Беатрисы, и кем бы ни был тот фиолетовый медведь..."
@@ -17728,7 +20180,7 @@
 			"They're too tiny so I can't open the cages myself and the house is infested with rats. Hmm, I really don't want to go in there..."
 		],
 		"es": [
-			"Son demasiado pequeños para poder abrir las jaulas yo mismo y la casa está infestada de ratas. Um, realmente no quiero entrar ahí..."
+			"Son demasiado pequeños como para poder abrir las jaulas y la casa está infestada de ratas. Yo... um... realmente no quiero entrar ahí..."
 		],
 		"fr": [
 			"Ils sont trop minuscules donc je ne peux pas ouvrir les cages moi-même et la maison est infestée de rats. Hum, je ne veux vraiment pas aller là-dedans..."
@@ -17768,7 +20220,7 @@
 			"If you are brave enough to save them, I can shrink you down and let you in."
 		],
 		"es": [
-			"Si eres lo suficientemente valiente como para salvarlos, puedo reducirte y dejarte entrar."
+			"Si eres lo suficientemente valiente como para salvarlos, puedo encogerte y dejarte entrar."
 		],
 		"fr": [
 			"Si tu es assez courageux pour les sauver, je peux te rétrécir et te laisser entrer."
@@ -18402,7 +20854,7 @@
 			"La clef n'est pas à l'intérieur, je pense qu'elle doit être proche de l'entrée."
 		],
 		"id": [
-			"Kuncinya tidak ada di dalam, kurasa kuncinya ada di dekat pintu masuk."
+			"Kuncinya tidak ada di dalam, sepertinya kuncinya ada di dekat pintu masuk."
 		],
 		"it": [
 			"La chiave non è all'interno, penso che probabilmente sia vicino all'ingresso."
@@ -18486,7 +20938,7 @@
 			"Nous devrions trouver une carte avant d'entrer dans la pyramide."
 		],
 		"id": [
-			"Kita harus menemukan peta sebelum memasuki piramida."
+			"Kita harus menemukan sebuah peta sebelum memasuki piramida."
 		],
 		"it": [
 			"Dovremmo trovare una mappa prima di entrare nella piramide."
@@ -18528,7 +20980,7 @@
 			"Une carte de l'intérieur de la pyramide ! Tu devrais la recopier sur un bout de papier."
 		],
 		"id": [
-			"Ada peta dari bagian dalam piramida! Kamu harus menyalinnya di selembar kertas."
+			"Peta dari bagian dalam piramida! Kamu harus menyalinnya di selembar kertas."
 		],
 		"it": [
 			"Una mappa dell'interno della piramide! Dovresti segnartelo su un pezzo di carta."
@@ -18858,7 +21310,7 @@
 			"The key is stuck inside this ice cube. Let's find something hot to melt it."
 		],
 		"es": [
-			"La llave está atascada en este cubo de hielo. Busquemos algo caliente para fundirlo."
+			"La llave está atascada en este cubo de hielo. Busquemos algo caliente para derretirlo."
 		],
 		"fr": [
 			"La clef est coincée dans ce cube de glace. Trouvons quelque chose de chaud pour le faire fondre."
@@ -18879,7 +21331,7 @@
 			"Klucz utknął w tej kostce lodu. Znajdźmy coś gorącego, aby ją stopić."
 		],
 		"pt": [
-			"A chave está presa dentro desse cubo de gelo; vamos achar algo quente pra derretê-lo!"
+			"A chave está presa dentro do cubo de gelo. Vamos achar algo quente pra derretê-lo."
 		],
 		"ru": [
 			"Ключ застрял внутри этого кубика льда. Давай найдём что-нибудь горячее, чтобы растопить его."
@@ -18982,7 +21434,7 @@
 			"It's over caterpillar, we have the high ground!"
 		],
 		"es": [
-			"Se acabó la oruga, ¡tenemos la sartén por el mango!"
+			"¡Se acabó oruga, tomamos al toro por los cuernos!"
 		],
 		"fr": [
 			"C'est fini la chenille, nous avons le dessus !"
@@ -19062,7 +21514,7 @@
 			"Hidden sticker found!"
 		],
 		"es": [
-			"¡Pegatina al descubierto!"
+			"¡Pegatina encontrada!"
 		],
 		"fr": [
 			"Autocollant découvert !"
@@ -19179,25 +21631,25 @@
 	},
 	"studio_help_3": {
 		"de": [
-			"Es gibt 5 Seltenheitsstufen: gewöhnlich (weiß), selten (blau), episch (magenta), Tristopio (rosa) und Spender (grün). Spendergegenstände können im Laden meines Bruders gekauft werden."
+			"Es gibt 5 Seltenheitsstufen: gewöhnlich (weiß), selten (blau), episch (magenta), Tristopio (rosa) und legendär (golden). Legendäre Gegenstände können im Laden meines Bruders erworben werden."
 		],
 		"el": [
-			"Υπάρχουν 5 κατηγορίες σπανιότητας: κοινή (λευκό), σπάνια (μπλε), επική (ματζέντα), τριστόπιο (ροζ) και δωρητής (πράσινο). Τα αντικείμενα δωρητή μπορούν να αποκτηθούν από το κατάστημα του αδελφού μου."
+			"Υπάρχουν 5 κατηγορίες σπανιότητας: κοινή (λευκό), σπάνια (μπλε), επική (ματζέντα), Tristopio (ροζ) και θρυλικά (χρυσό). Τα θρυλικά αντικείμενα μπορούν να αποκτηθούν στο κατάστημα του αδελφού μου."
 		],
 		"en": [
-			"There are 5 rarity categories: common (white), rare (blue), epic (magenta), Tristopio (pink) and donor (green). Donor items can be obtained at my brother's shop."
+			"There are 5 rarity categories: common (white), rare (blue), epic (magenta), Tristopio (pink) and legendary (golden). Legendary items can be obtained at my brother's shop."
 		],
 		"es": [
 			"Hay 5 niveles de rareza: común (blanco), raro (azul), épico (magenta), tristopio (rosa) y donante (verde). Los artículos de los donantes pueden obtenerse en la tienda de mi hermano."
 		],
 		"fr": [
-			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et donateur (vert). Les articles de donateurs peuvent être obtenus à la boutique de mon frère."
+			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et légendaire (doré). Les articles légendaires peuvent être obtenus à la boutique de mon frère."
 		],
 		"id": [
-			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan donator (hijau). Barang donator dapat diperoleh di toko saudaraku."
+			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan legendaris (Emas). Barang legendaris bisa didapatkan di toko saudaraku."
 		],
 		"it": [
-			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa), donatore (verde). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
+			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa) e leggendario (oro). Gli articoli leggendari possono essere acquistati presso il negozio di mio fratello."
 		],
 		"ja": [
 			"レアリティには、コモン（白）、レア（青）、エピック（マゼンタ）、トリストピオ（ピンク）、ドナー（緑）の5種類があります。ドナーのアイテムは、兄のショップで手に入れることができます。"
@@ -19206,13 +21658,13 @@
 			"Er zijn 5 categorieën van zeldzaamheid: gewoon (wit), zeldzaam (blauw), episch (magenta), Tristopio (roze) and donor (groenn). Donor voorwerpen kunnen worden gekocht in de winkel van mijn broer."
 		],
 		"pl": [
-			"Istnieje 5 kategorii rzadkości: zwykły (biały), rzadki (niebieski), epicki (magenta), Tristopio (różowy) i dawcy (zielony). Przedmioty dawcy można otrzymać w sklepie mojego brata."
+			"Istnieje 5 kategorii rzadkości: zwykły (biały), rzadki (niebieski), epicki (magenta), Tristopio (różowy) i legendarny (złoty). Przedmioty legendarne można otrzymać w sklepie mojego brata."
 		],
 		"pt": [
-			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e doador (verde). Itens de doador podem ser pegos na loja do meu irmão."
+			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e lendário (dourado). Itens lendários podem ser pegos na loja do meu irmão."
 		],
 		"ru": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донатерская (зелёная). Донатерские предметы можно преобрести в магазине моего брата."
+			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая) и легендарная (золотая). Легендарные предметы можно преобрести в магазине моего брата."
 		],
 		"sv": [],
 		"tr": [
@@ -19278,7 +21730,7 @@
 			"Bien, j'espère que tout est clair. Euh, enfin je veux dire... Bieeen, j'espèèère que tout est claaair !"
 		],
 		"id": [
-			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku... Baiklaaaah, aku harap semuanya sudah saaangat jelas!"
+			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku... Baiklaaah, aku harap semuanya sudah saaangat jelas!"
 		],
 		"it": [
 			"Bene, spero che sia tutto chiaro. Uh, voglio dire... Beeeene, spero che sia tutto chiaaaaro!"
@@ -19322,7 +21774,9 @@
 		"id": [
 			"{0}j{1}m{2}d"
 		],
-		"it": [],
+		"it": [
+			"{0}h{1}min{2}s"
+		],
 		"ja": [],
 		"nl": [
 			"{0}u{1}min{2}s"
@@ -19355,9 +21809,7 @@
 		"fr": [
 			"Jouabilité"
 		],
-		"id": [
-			"Gameplay"
-		],
+		"id": [],
 		"it": [
 			"Gioco"
 		],
@@ -19518,7 +21970,7 @@
 			"Get 5 headsets"
 		],
 		"es": [
-			"Consigue 5 auriculares"
+			"Consigue 5 cascos"
 		],
 		"fr": [
 			"Obtenir 5 casques"
@@ -19560,7 +22012,7 @@
 			"You lost all of your headsets! You can watch an ad to get more."
 		],
 		"es": [
-			"¡Has perdido todos tus cascos! Puedes ver un anuncio para saber más."
+			"¡Has perdido todos tus cascos! Puedes ver un anuncio para obtener más."
 		],
 		"fr": [
 			"Tu as perdu tous tes casques ! Tu peux regarder une publicité pour en avoir plus."
@@ -19644,13 +22096,13 @@
 			"You finished this mission! You can play it again without losing any headsets."
 		],
 		"es": [
-			"¡Has terminado esta misión! Puedes volver a jugar sin perder el casco."
+			"¡Has terminado esta misión! Puedes volver a jugar sin perder tus cascos."
 		],
 		"fr": [
 			"Tu as fini cette mission ! Tu peux y rejouer sans perdre de casque."
 		],
 		"id": [
-			"Kamu telah menyelesaikan misi ini! Sekarang kamu dapat bermain misi ini lagi tanpa kehilangan headset."
+			"Kamu telah menyelesaikan misi ini! Kamu dapat bermain misi ini lagi tanpa kehilangan headset."
 		],
 		"it": [
 			"Hai portato a termine questa sfida! Puoi riprodurla senza perdere i visori."
@@ -19686,7 +22138,7 @@
 			"Start mission"
 		],
 		"es": [
-			"Lanzar la misión"
+			"Empezar la misión"
 		],
 		"fr": [
 			"Lancer la mission"
@@ -20450,7 +22902,7 @@
 			"Tu peux faire un double saut pendant un plongeon et plonger à nouveau pour couvrir de grande distances."
 		],
 		"id": [
-			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk mencapai lebih jauh!"
+			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk menempuh lebih jauh!"
 		],
 		"it": [
 			"È possibile fare un doppio salto dopo un'immersione e tuffarsi di nuovo per coprire lunghe distanze."
@@ -20702,7 +23154,7 @@
 			"Ta santé maximale monte à 6 points de vie.//L'effet s'arrête quand tu meurs ou quittes le jeu."
 		],
 		"id": [
-			"Nyawa maksimum kamu menjadi 6 poin.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
+			"Nyawa maksimum kamu menjadi 6 buah.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
 		],
 		"it": [
 			"La tua salute massima sale a 6 punti salute.//L'effetto si interrompe quando muori o lasci il gioco."
@@ -20948,7 +23400,7 @@
 			"Stay here"
 		],
 		"es": [
-			"Quédate aquí"
+			"Quedarse aquí"
 		],
 		"fr": [
 			"Rester ici"
@@ -21118,7 +23570,7 @@
 			"Best time"
 		],
 		"es": [
-			"El mejor momento"
+			"Mejor tiempo"
 		],
 		"fr": [
 			"Meilleur temps"
@@ -21160,7 +23612,7 @@
 			"Coin record:"
 		],
 		"es": [
-			"Disco de monedas :"
+			"Mayor cantidad de monedas recibidas :"
 		],
 		"fr": [
 			"Record de pièces :"
@@ -21412,7 +23864,7 @@
 			"Is this level too hard? Try to get a health boost from Capitalus in the hub or watch an ad to revive!"
 		],
 		"es": [
-			"¿Es este nivel demasiado difícil? Intenta conseguir una bonificación de vida de Capitalus en el centro o mira un anuncio para revivir."
+			"¿Es este nivel muy difícil? Intenta conseguir una bonificación de vida de Capitalus en el centro o mira un anuncio para revivir."
 		],
 		"fr": [
 			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub ou regarde une publicité pour revivre !"
@@ -21454,7 +23906,7 @@
 			"Cloud saves"
 		],
 		"es": [
-			"Ahorro en la nube"
+			"Guardado en la nube"
 		],
 		"fr": [
 			"Sauvegardes cloud"
@@ -21664,7 +24116,7 @@
 			"The coin detector is now active."
 		],
 		"es": [
-			"El detector de monedas está ahora activo."
+			"Ahora el detector de monedas está activo."
 		],
 		"fr": [
 			"Le détecteur de pièces est maintenant actif."
@@ -21748,7 +24200,7 @@
 			"coins"
 		],
 		"es": [
-			"monedas"
+			"Monedas"
 		],
 		"fr": [
 			"pièces"
@@ -21863,6 +24315,44 @@
 			"Bağlı"
 		]
 	},
+	"ui_continue": {
+		"de": [
+			"Fortsetzen"
+		],
+		"el": [
+			"Συνέχεια"
+		],
+		"en": [
+			"Continue"
+		],
+		"es": [
+			"Continuar"
+		],
+		"fr": [
+			"Continuer"
+		],
+		"id": [
+			"Lanjutkan"
+		],
+		"it": [
+			"Continua"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Kontynuuj"
+		],
+		"pt": [
+			"Continuar"
+		],
+		"ru": [
+			"Продолжить"
+		],
+		"sv": [],
+		"tr": [
+			"Devam et"
+		]
+	},
 	"ui_cosm_buy": {
 		"de": [
 			"Willst du//{0}//für {1} {2} kaufen?"
@@ -21958,7 +24448,7 @@
 			"You already own a//{0}!//You won {1} coins instead!"
 		],
 		"es": [
-			"¡Ya tienes {1}{0}! ¡Has ganado {1} monedas en su lugar!"
+			"¡Ya tienes {0}! ¡Has ganado {1} monedas en su lugar!"
 		],
 		"fr": [
 			"Tu possèdes déjà//{0} !//Tu as gagné {1} pièces à la place !"
@@ -22328,7 +24818,7 @@
 			"Official Discord//Join for developpement news!"
 		],
 		"es": [
-			"Discord oficial//Reunirse para recibir noticias sobre el desarrollo"
+			"Discord oficial//Unirse para recibir noticias sobre el desarrollo"
 		],
 		"fr": [
 			"Discord officiel//Rejoins pour des nouvelles du développement"
@@ -22355,182 +24845,6 @@
 		"sv": [],
 		"tr": [
 			"Resmi Discord//Geliştirme haberleri için katılın!"
-		]
-	},
-	"ui_donator_1": {
-		"de": [
-			"Du bist bereits ein Spender!"
-		],
-		"el": [
-			"Είστε ήδη δωρητής!"
-		],
-		"en": [
-			"You are already a donor!"
-		],
-		"es": [
-			"Usted ya es donante."
-		],
-		"fr": [
-			"Tu es déjà donateur."
-		],
-		"id": [
-			"Kamu sudah menjadi seorang donator."
-		],
-		"it": [
-			"Sei già un donatore."
-		],
-		"ja": [
-			"すでに寄付者になっています。"
-		],
-		"nl": [
-			"Je bent al een donor!"
-		],
-		"pl": [
-			"Jesteś już dawcą"
-		],
-		"pt": [
-			"Você já é um doador!"
-		],
-		"ru": [
-			"Вы уже являетесь донатером."
-		],
-		"sv": [
-			"Du är redan en donator."
-		],
-		"tr": [
-			"Sen zaten bir bağışçısın!"
-		]
-	},
-	"ui_donator_2": {
-		"de": [
-			"Kauf abgeschlossen! Nun bist du ein Spender! Danke schön!"
-		],
-		"el": [
-			"Η αγορά ολοκληρώθηκε! Είστε τώρα δωρητής! Σας ευχαριστούμε!"
-		],
-		"en": [
-			"Purchase complete! You are now a donor! Thank you!"
-		],
-		"es": [
-			"Compra con éxito. ¡Ahora eres un donante! Gracias."
-		],
-		"fr": [
-			"Achat réussi. Tu es maintenant un donateur ! Merci !"
-		],
-		"id": [
-			"Pembelian berhasil! Sekarang kamu adalah seorang donator! Terima kasih!"
-		],
-		"it": [
-			"Acquisto riuscito. Ora sei un donatore! Grazie mille! Sei fantastico!"
-		],
-		"ja": [
-			"購入完了です。 これであなたは寄付者になりました ありがとうございます！"
-		],
-		"nl": [
-			"Betaling voltooid! Je bent nu een donor! Bedankt!"
-		],
-		"pl": [
-			"Zakupy zakończone. Jesteś teraz dawcą! Dziękuje!"
-		],
-		"pt": [
-			"Compra completa! Você é agora um doador! Obrigado!"
-		],
-		"ru": [
-			"Покупка завершена. Вы теперь донатер! Спасибо!"
-		],
-		"sv": [
-			"Köp slutfört. Du är nu en donator! Tack så mycket!"
-		],
-		"tr": [
-			"Satın alma tamamlandı! Artık bir bağışçısınız! Teşekkürler!"
-		]
-	},
-	"ui_donator_info": {
-		"de": [
-			"Mit dem Kauf des Spenderstatus erhältst du Zugang zu://- Unterstützung des Entwicklers des Spiels;//- Entfernung von Werbung;//- Exklusive Kostüme;//- Münzen × 2 ohne Werbung;//- Maximale Gesundheit auf 6;//- Erste Wiederbelebung kostenlos"
-		],
-		"el": [
-			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- Κέρματα × 2 χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
-		],
-		"en": [
-			"Buying the donor status gives you access to://- Supporting the developer of the game!//- Unrewarded ads removal//- Exclusive costumes//- Coins × 2 without ads//- Maximum health to 6//- First revive for free"
-		],
-		"es": [
-			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas × 2 sin publicidad// vida máxima a 6// primera resurrección gratis"
-		],
-		"fr": [
-			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces × 2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
-		],
-		"id": [
-			"Membeli status donator memberikan Kamu akses://- Mendukung developer game ini//- Menghilangkan iklan yang tak berhadiah//- Kostum eksklusif//- Koin ×2 tanpa iklan//- Nyawa maksimal menjadi 6//- Menghidupkan kembali pertama secara gratis!"
-		],
-		"it": [
-			"Acquistando lo status di donatore si ha accesso a://- supportare lo sviluppatore del gioco! //- rimozione pubblicità senza ricompense//- cosmetici esclusivi//- monete × 2 senza annunci//- vita massima a 6//- prima resurrezione gratuita"
-		],
-		"ja": [
-			"ドナーステータスを購入すると、 ://-ゲームの開発者をサポートすることができます！ //-報われない広告を削除する//-排他的な化粧品//-広告なしで2倍のコイン//-最大ヘルスを6にする//-最初のリバイバルを無料で行うことができます。"
-		],
-		"nl": [
-			"Het kopen van donorstatus geeft je toegang tot://- Steunen van de ontwikkelaar van de game!;//- Verwijderen van advertenties die geen beloningen geven;//- Exclusieve costuums;//- Munten × 2 zonder advertenties;//- Maximale leven wordt 6;//- Eerste herleving gratis"
-		],
-		"pl": [
-			"Wykupienie statusu dawcy daje dostęp do: // - wspierania twórcy gry! // - usunięcia reklam // - ekskluzywnych kosmetyków // - Monety × 2 bez reklam // - maksymalną ilość zdrowia do 6 // - pierwszego odrodzenia za darmo"
-		],
-		"pt": [
-			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2 vezes mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
-		],
-		"ru": [
-			"Приобретение статуса донатера даёт Вам доступ к://- Поддержка разработчика игры!//- Удаление обычной рекламы//- Эксклюзивная косметика//- Двойные монеты без рекламы//- Здоровье будет увеличено до 6//- Бесплатное возрождение"
-		],
-		"sv": [
-			"Att köpa donator status ger dig tillgång till: Du supportar spelutvecklaren! Tar bort reklamer utan belöningar! Exklusiva kosmetiska föremål! Mynt × 2 utan reklamer! Max hälsa blir 6! Första återupplivningen är gratis!"
-		],
-		"tr": [
-			"Bağışçı statüsünü satın almak size şunlara erişim sağlar://- Oyunun geliştiricisini desteklemek;//- Ödülsüz reklamların kaldırılması;//- Özel kostümler;//- Reklamsız 2 kat para;//- Maksimum sağlık 6'ya;//- Ücretsiz ilk canlanma"
-		]
-	},
-	"ui_donator_title": {
-		"de": [
-			"Kaufe Spenderrang"
-		],
-		"el": [
-			"Αγοράστε την ιδιότητα του δωρητή"
-		],
-		"en": [
-			"Buy donor status"
-		],
-		"es": [
-			"Comprar la condición de donante"
-		],
-		"fr": [
-			"Acheter le statut donateur"
-		],
-		"id": [
-			"Beli status donator"
-		],
-		"it": [
-			"Acquista lo stato di donatore"
-		],
-		"ja": [
-			"ドナーのステータスを購入"
-		],
-		"nl": [
-			"Koop donorstatus"
-		],
-		"pl": [
-			"Kup status dawcy"
-		],
-		"pt": [
-			"Comprar status de Doador"
-		],
-		"ru": [
-			"Купить статус донатера"
-		],
-		"sv": [
-			"Köp donator status"
-		],
-		"tr": [
-			"Bağışçı statüsü satın alın"
 		]
 	},
 	"ui_empty": {
@@ -22672,7 +24986,7 @@
 			"Fancy shaders"
 		],
 		"es": [
-			"Sombreadores avanzados"
+			"Shaders avanzados"
 		],
 		"fr": [
 			"Shaders avancés"
@@ -22882,15 +25196,15 @@
 			"Framerate"
 		],
 		"es": [
-			"Velocidad de refresco"
+			"Velocidad de fotogramas"
 		],
 		"fr": [
 			"Taux de rafraîchissement"
 		],
-		"id": [
-			"framerate"
+		"id": [],
+		"it": [
+			"Frequenza dei fotogrammi"
 		],
-		"it": [],
 		"ja": [
 			"フレームレート"
 		],
@@ -23003,12 +25317,16 @@
 		"en": [
 			"Game over"
 		],
-		"es": [],
+		"es": [
+			"Fin del juego"
+		],
 		"fr": [
 			"Game over"
 		],
 		"id": [],
-		"it": [],
+		"it": [
+			"Game over"
+		],
 		"ja": [],
 		"nl": [
 			"Game over"
@@ -23021,7 +25339,9 @@
 			"Конец игры"
 		],
 		"sv": [],
-		"tr": []
+		"tr": [
+			"Oyun bitti"
+		]
 	},
 	"ui_go": {
 		"de": [
@@ -23188,7 +25508,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Düğmeleri gizle"
+			"Jiroskop"
 		]
 	},
 	"ui_hive": {
@@ -23842,7 +26162,7 @@
 			"Load"
 		],
 		"es": [
-			"Carga"
+			"Cargando"
 		],
 		"fr": [
 			"Charger"
@@ -24115,7 +26435,7 @@
 			"Wybierz zapis żeby zacząć"
 		],
 		"pt": [
-			"Selecione um save para começar a jogar"
+			"Escolha um save pra começar a jogar"
 		],
 		"ru": [
 			"Выберите сохранение для начала игры"
@@ -24209,6 +26529,44 @@
 			"Görev tamamlandı!"
 		]
 	},
+	"ui_motion_blur": {
+		"de": [
+			"Bewegungsunschärfe"
+		],
+		"el": [
+			"Θόλωση κίνησης"
+		],
+		"en": [
+			"Motion blur"
+		],
+		"es": [
+			"Desenfoque de movimiento"
+		],
+		"fr": [
+			"Flou cinétique"
+		],
+		"id": [
+			"Gerakan kabur"
+		],
+		"it": [
+			"Sfocatura cinetica"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Rozmycie ruchu"
+		],
+		"pt": [
+			"Borrão de movimento"
+		],
+		"ru": [
+			"Размытость во время движения"
+		],
+		"sv": [],
+		"tr": [
+			"Motion blur"
+		]
+	},
 	"ui_music": {
 		"de": [
 			"Musik Lautstärke"
@@ -24262,7 +26620,7 @@
 			"(new best!)"
 		],
 		"es": [
-			"(¡nuevo récord!)"
+			"(¡Nuevo récord!)"
 		],
 		"fr": [
 			"(nouveau record !)"
@@ -24346,7 +26704,7 @@
 			"Exit with no coin boost"
 		],
 		"es": [
-			"Salir sin el impulso de la moneda"
+			"Salir sin el bonus de la moneda"
 		],
 		"fr": [
 			"Quitter sans boost de pièces"
@@ -24375,6 +26733,44 @@
 		"sv": [],
 		"tr": [
 			"Akçe arttırıcı yok"
+		]
+	},
+	"ui_none": {
+		"de": [
+			"Keine"
+		],
+		"el": [
+			"Καμία"
+		],
+		"en": [
+			"None"
+		],
+		"es": [
+			"Ningúno"
+		],
+		"fr": [
+			"Aucun"
+		],
+		"id": [
+			"Tidak ada"
+		],
+		"it": [
+			"No"
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Brak"
+		],
+		"pt": [
+			"Nenhum"
+		],
+		"ru": [
+			"Ничего"
+		],
+		"sv": [],
+		"tr": [
+			"Hiçbiri"
 		]
 	},
 	"ui_open_shop": {
@@ -24534,13 +26930,129 @@
 		"pl": [
 			"Wydajność"
 		],
-		"pt": [],
+		"pt": [
+			"Desempenho"
+		],
 		"ru": [
 			"Быстро"
 		],
 		"sv": [],
 		"tr": [
 			"Verim"
+		]
+	},
+	"ui_photo_error_1": {
+		"de": [
+			"Du musst jeden Bären in diesem Level retten, um den Fotomodus nutzen zu können."
+		],
+		"el": [
+			"Πρέπει να αποθηκεύσετε κάθε αρκούδα σε αυτό το επίπεδο για να χρησιμοποιήσετε τη λειτουργία Photo Mode."
+		],
+		"en": [
+			"You need to save every bear in this level to use Photo Mode."
+		],
+		"es": [
+			"Necesitas salvar a todos los osos en este nivel para usar el modo foto."
+		],
+		"fr": [
+			"Tu dois sauver chaque ours de ce niveau pour utiliser le Mode Photo."
+		],
+		"id": [
+			"Kamu perlu menyelamatkan setiap beruang di level ini untuk menggunakan mode foto."
+		],
+		"it": [
+			"Per utilizzare la Modalità Foto è necessario salvare ogni orso di questo livello."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Musisz zapisać każdego niedźwiedzia w tym poziomie, aby użyć Photo Mode."
+		],
+		"pt": [
+			"Você precisa salvar todos os ursos nesta fase pra usar o Modo Foto."
+		],
+		"ru": [
+			"Вам нужно спасти каждого медведя в этом уровне, чтобы использовать фото-режим."
+		],
+		"sv": [],
+		"tr": [
+			"Fotoğraf modunu kullanmak için bu seviyedeki her ayıyı kurtarmanız gerekiyor."
+		]
+	},
+	"ui_photo_error_2": {
+		"de": [
+			"Während einer Mission kannst du den Fotomodus nur im Übungsmodus verwenden."
+		],
+		"el": [
+			"Κατά τη διάρκεια μιας αποστολής, μπορείτε να χρησιμοποιήσετε τη λειτουργία φωτογραφίας μόνο στη λειτουργία εξάσκησης."
+		],
+		"en": [
+			"During a mission, you can only use Photo Mode in practice mode."
+		],
+		"es": [
+			"Durante una misión, sólo puedes usar el modo foto en el modo práctica."
+		],
+		"fr": [
+			"Pendant une mission, tu ne peux utiliser le Mode Photo que en mode entraînement."
+		],
+		"id": [
+			"Kamu tidak bisa menggunakan mode foto dalam misi, kecuali dalam mode latihan."
+		],
+		"it": [
+			"Durante una missione, è possibile utilizzare la Modalità Foto solo in modalità allenamento."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Podczas misji możesz używać Photo Mode tylko w trybie treningowym."
+		],
+		"pt": [
+			"Durante uma Missão, você só pode usar o modo foto no Modo Treinamento."
+		],
+		"ru": [
+			"Во время миссии, Вы только можете использовать фото-режим в режиме практики."
+		],
+		"sv": [],
+		"tr": [
+			"Bir görev sırasında fotoğraf modunu sadece pratik modunda kullanabilirsiniz."
+		]
+	},
+	"ui_photo_error_3": {
+		"de": [
+			"Um den Fotomodus im Bienenstock zu verwenden, musst du das Königreich zuerst retten."
+		],
+		"el": [
+			"Πρέπει να σώσετε πρώτα το βασίλειο για να χρησιμοποιήσετε τη λειτουργία φωτογραφίας στην κυψέλη."
+		],
+		"en": [
+			"You need to save the kingdom first to use Photo Mode in the Hive."
+		],
+		"es": [
+			"Primero necesitas salvar al reino para poder usar el modo foto en la colmena."
+		],
+		"fr": [
+			"Tu dois sauver le royaume d'abord pour utiliser le Mode Photo dans la Ruche."
+		],
+		"id": [
+			"Kamu harus menyelamatkan kerajaan terlebih dulu untuk menggunakan Mode Foto di Sarang Lebah."
+		],
+		"it": [
+			"Per utilizzare la Modalità Foto nell'alveare, è necessario salvare prima il regno."
+		],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Musisz najpierw uratować królestwo, aby użyć Photo Mode w Ulu."
+		],
+		"pt": [
+			"Você precisa salvar o reino primeiro pra usar o Modo Foto na Colmeia."
+		],
+		"ru": [
+			"Сначала Вам нужно спасти королевство, чтобы использовать Фото-Режим в Улье."
+		],
+		"sv": [],
+		"tr": [
+			"Kovan'da Fotoğraf Modunu kullanmak için önce krallığı kurtarmanız gerek."
 		]
 	},
 	"ui_progression": {
@@ -24560,7 +27072,7 @@
 			"Progression : {0}%"
 		],
 		"id": [
-			"Kemajuan"
+			"Kemajuan: {0}%"
 		],
 		"it": [
 			"Progressione : {0}%"
@@ -24636,7 +27148,7 @@
 			"Low"
 		],
 		"es": [
-			"Bajo"
+			"Baja"
 		],
 		"fr": [
 			"Faible"
@@ -24684,7 +27196,7 @@
 			"Normal"
 		],
 		"id": [
-			"Normal"
+			"Sedang"
 		],
 		"it": [
 			"Normale"
@@ -25102,7 +27614,7 @@
 			"Inversé"
 		],
 		"id": [
-			"terbalik"
+			"Terbalik"
 		],
 		"it": [
 			"Invertito"
@@ -25138,7 +27650,7 @@
 			"Revive"
 		],
 		"es": [
-			"Resucitar"
+			"Revivir"
 		],
 		"fr": [
 			"Ressusciter"
@@ -25476,7 +27988,7 @@
 			"Watch an ad and Capitalus//will give you a bonus!"
 		],
 		"es": [
-			"Premios que quieres ganar?//¡Ve un anuncio y Capitalus te lo dará!"
+			"¿Quieres ganar premios?//¡Mira un anuncio y Capitalus te los dará!"
 		],
 		"fr": [
 			"Regarde une publicité et Capitalus//te donnera un bonus !"
@@ -25586,7 +28098,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Hızlıkoşu kipi"
+			"Speedrun modu"
 		]
 	},
 	"ui_start": {
@@ -25600,7 +28112,7 @@
 			"Start"
 		],
 		"es": [
-			"Inicie"
+			"Empezar"
 		],
 		"fr": [
 			"Démarrer"
@@ -25731,9 +28243,7 @@
 		"fr": [
 			"Chronomètre"
 		],
-		"id": [
-			"Timer"
-		],
+		"id": [],
 		"it": [
 			"Cronometro"
 		],
@@ -25858,7 +28368,7 @@
 			"Viens ici chaque jour à 10h00 pour une nouvelle mission !//Chaque mission réussie te rapporte un jeton Tristopio. Tu peux dépenser ces jetons pour débloquer des vêtements uniques. À chaque fois que tu échoues à une mission, tu perds un casque."
 		],
 		"id": [
-			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap kali misi berhasil, kamu akan mendapatkan satu Token Tristopio. Kamu dapat menghabiskan token mu untuk membuka pakaian yang unik. Setiap kali kamu gagal, kamu akan kehilangan satu headset."
+			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap misi berhasil akan memberikan kamu satu token Tristopio. Kamu dapat menggunakan token mu untuk membuka pakaian yang unik! Setiap kali kamu gagal, kamu akan kehilangan satu headset."
 		],
 		"it": [
 			"Vieni qui per una nuova sfida ogni giorno alle 10 del mattino, ogni sfida completata con successo vi darà un gettone Tristopio. Puoi spendere i tuoi gettoni per sbloccare cosmetici unici. Ogni volta che fallisci una missione perderai un visore."
@@ -26043,7 +28553,9 @@
 			"Версия {0}"
 		],
 		"sv": [],
-		"tr": []
+		"tr": [
+			"Sürüm {0}"
+		]
 	},
 	"ui_watch": {
 		"de": [
@@ -26056,7 +28568,7 @@
 			"Watch"
 		],
 		"es": [
-			"Ver"
+			"Mirar"
 		],
 		"fr": [
 			"Regarder"
@@ -26098,7 +28610,7 @@
 			"Watch the trailer on YouTube"
 		],
 		"es": [
-			"Vea el tráiler en YouTube"
+			"Mira el tráiler en YouTube"
 		],
 		"fr": [
 			"Regarder la bande-annonce sur YouTube"

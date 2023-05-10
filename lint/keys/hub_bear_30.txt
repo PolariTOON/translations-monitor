@@ -6,5 +6,4 @@ The following locales have missing translations:
 The following locales have transparent translations:
 - el
 - es
-- id
 - it

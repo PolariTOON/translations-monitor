@@ -481,8 +481,131 @@
 			"Katzenkopf"
 		],
 		"cosmetic_104": [],
+		"cosmetic_105": [
+			"Noire Vision"
+		],
+		"cosmetic_106": [
+			"Hausvogel"
+		],
+		"cosmetic_107": [
+			"Haustier Violett"
+		],
+		"cosmetic_108": [
+			"Magische Fußspuren"
+		],
 		"cosmetic_default": [
 			"Standard"
+		],
+		"filter_00": [
+			"Kein Filter"
+		],
+		"filter_01": [
+			"Kinofilm"
+		],
+		"filter_02": [
+			"Unheimlich"
+		],
+		"filter_03": [
+			"Intensiv"
+		],
+		"filter_04": [
+			"Dramatisch"
+		],
+		"filter_05": [
+			"Rückblende"
+		],
+		"filter_06": [
+			"Farbenfroh"
+		],
+		"filter_07": [
+			"Sommer"
+		],
+		"filter_08": [
+			"Sonnenbrand"
+		],
+		"filter_09": [
+			"Gemütlich"
+		],
+		"filter_10": [
+			"Frisch"
+		],
+		"filter_11": [
+			"Gletscher"
+		],
+		"filter_12": [
+			"Gealtert"
+		],
+		"filter_13": [
+			"Flach"
+		],
+		"filter_14": [
+			"Nächtlich"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Plakatieren"
+		],
+		"filter_17": [
+			"Süßigkeitenland"
+		],
+		"filter_18": [
+			"Graustufen"
+		],
+		"filter_19": [
+			"Alter Film"
+		],
+		"filter_20": [
+			"Schwarz"
+		],
+		"filter_21": [
+			"Nur Rot"
+		],
+		"filter_22": [
+			"Nur Grün"
+		],
+		"filter_23": [
+			"Nur Blau"
+		],
+		"filter_24": [
+			"Sepia"
+		],
+		"filter_25": [
+			"Lila"
+		],
+		"filter_26": [
+			"Feuer"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Binär"
+		],
+		"filter_29": [
+			"Seltsam"
+		],
+		"filter_30": [
+			"Wahnsinn"
+		],
+		"filter_31": [
+			"Wärme"
+		],
+		"filter_32": [
+			"Regenbogen"
+		],
+		"filter_33": [
+			"Roboter Sicht"
+		],
+		"filter_34": [
+			"Negativ 1"
+		],
+		"filter_35": [
+			"Negativ 2"
+		],
+		"filter_36": [
+			"Neon Welt"
 		],
 		"help_birds": [
 			"Das Deaktivieren von Vögeln verbessert die Leistung."
@@ -519,6 +642,9 @@
 		],
 		"help_lightmaps": [
 			"Lightmaps werden verwendet, um gebackene Beleuchtung auf statischen Objekten anzuzeigen. Diese Option kann auf älteren Geräten nützlich sein und hat keinen Einfluss auf die Leistung."
+		],
+		"help_motion_blur": [
+			"Sollen sich schnell bewegende Objekte unscharf sein? Die Deaktivierung dieser Funktion verbessert die Leistung."
 		],
 		"help_shicka_tips": [
 			"Zeigt Shickas Tipps."
@@ -717,6 +843,51 @@
 		],
 		"hub_tristopio": [
 			"Hey du! Bist du auf der Suche nach einer coolen Mission? Ich glaube, ich habe, was du brauchst!"
+		],
+		"iap_noads_desc_1": [
+			"<h>Keine unerwünschte Werbung mehr</h> zwischen den Levels!"
+		],
+		"iap_noads_desc_2": [
+			"Belohnte Werbuing werden weiterhin verfügbar sein."
+		],
+		"iap_noads_status_1": [
+			"Du hast bereits Werbung entfernt!"
+		],
+		"iap_noads_status_2": [
+			"Kauf abgeschlossen! Die Werbung ist jetzt entfernt! Wir Danke Dir!"
+		],
+		"iap_noads_title": [
+			"Werbung entfernen"
+		],
+		"iap_premium_desc_1": [
+			"Enthalten in SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Entfernt</h> unerwünschte <h>Werbung</h>"
+		],
+		"iap_premium_desc_3": [
+			"Schaltet exklusive <h>Kosmetik</h> frei"
+		],
+		"iap_premium_desc_4": [
+			"Schaltet <h>Fotomodus Filter</h> frei"
+		],
+		"iap_premium_desc_5": [
+			"<h>2x Münzen</h> ohne Werbung"
+		],
+		"iap_premium_desc_6": [
+			"<h>Doppelt</h> maximale <h>Gesundheit</h>"
+		],
+		"iap_premium_desc_7": [
+			"Gibt die erste <h>Wiederbelebung kostenlos</h>"
+		],
+		"iap_premium_status_1": [
+			"Du hast bereits SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Kauf abgeschlossen! Du hast jetzt SBA Gold! Wir danken Dir!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
 			"Jahrhundertelang gab es ein Königreich, in dem die Lebewesen unter der Herrschaft der Bienen-Dynastie in Frieden lebten."
@@ -1237,6 +1408,30 @@
 		"party_turtle_6": [
 			"Ich habe 6 Monate gebraucht, um hierher zu kommen."
 		],
+		"photo_contribution": [
+			"Beitrag filtern"
+		],
+		"photo_dof": [
+			"Tiefenschärfe"
+		],
+		"photo_guidelines": [
+			"Richtlinien"
+		],
+		"photo_iap_blocker": [
+			"Um Filter im Fotomodus verwenden zu können, muss du SBA Gold kaufen."
+		],
+		"photo_save": [
+			"Speichern"
+		],
+		"photo_saved": [
+			"Eine Kopie dieses Fotos wurde gespeichert unter"
+		],
+		"photo_take": [
+			"Foto machen"
+		],
+		"photo_title": [
+			"Fotomodus"
+		],
 		"rarity_common": [
 			"Gewöhnlich"
 		],
@@ -1385,7 +1580,7 @@
 			"Im Shop kannst du neue Gegenstände im Tausch gegen Münzen kaufen. Neue Gegenstände sind alle 6 Stunden verfügbar. Du kannst auch eine Beutekiste öffnen, um einen zufälligen Gegenstand zu erhalten, der vielleicht nicht im Shop ist!"
 		],
 		"studio_help_3": [
-			"Es gibt 5 Seltenheitsstufen: gewöhnlich (weiß), selten (blau), episch (magenta), Tristopio (rosa) und Spender (grün). Spendergegenstände können im Laden meines Bruders gekauft werden."
+			"Es gibt 5 Seltenheitsstufen: gewöhnlich (weiß), selten (blau), episch (magenta), Tristopio (rosa) und legendär (golden). Legendäre Gegenstände können im Laden meines Bruders erworben werden."
 		],
 		"studio_help_4": [
 			"Tristopio ist das rosa Häschen auf der anderen Seite des Flusses. Seine Gegenstände sind etwas ganz Besonderes... Übrigens, alles, was du freischaltest, kannst du hier kostenlos ausrüsten."
@@ -1576,6 +1771,9 @@
 		"ui_connected": [
 			"Verbunden"
 		],
+		"ui_continue": [
+			"Fortsetzen"
+		],
 		"ui_cosm_buy": [
 			"Willst du//{0}//für {1} {2} kaufen?"
 		],
@@ -1611,18 +1809,6 @@
 		],
 		"ui_discord": [
 			"Offizieller Discord//Trete für Neuigkeiten aus der Entwicklung bei!"
-		],
-		"ui_donator_1": [
-			"Du bist bereits ein Spender!"
-		],
-		"ui_donator_2": [
-			"Kauf abgeschlossen! Nun bist du ein Spender! Danke schön!"
-		],
-		"ui_donator_info": [
-			"Mit dem Kauf des Spenderstatus erhältst du Zugang zu://- Unterstützung des Entwicklers des Spiels;//- Entfernung von Werbung;//- Exklusive Kostüme;//- Münzen × 2 ohne Werbung;//- Maximale Gesundheit auf 6;//- Erste Wiederbelebung kostenlos"
-		],
-		"ui_donator_title": [
-			"Kaufe Spenderrang"
 		],
 		"ui_empty": [
 			"Leer"
@@ -1743,6 +1929,9 @@
 		"ui_mission_win": [
 			"Mission bestanden!"
 		],
+		"ui_motion_blur": [
+			"Bewegungsunschärfe"
+		],
 		"ui_music": [
 			"Musik Lautstärke"
 		],
@@ -1755,6 +1944,9 @@
 		"ui_no_boost": [
 			"Verlassen ohne Münzschub"
 		],
+		"ui_none": [
+			"Keine"
+		],
 		"ui_open_shop": [
 			"Laden öffnen"
 		],
@@ -1766,6 +1958,15 @@
 		],
 		"ui_performance": [
 			"Leistung"
+		],
+		"ui_photo_error_1": [
+			"Du musst jeden Bären in diesem Level retten, um den Fotomodus nutzen zu können."
+		],
+		"ui_photo_error_2": [
+			"Während einer Mission kannst du den Fotomodus nur im Übungsmodus verwenden."
+		],
+		"ui_photo_error_3": [
+			"Um den Fotomodus im Bienenstock zu verwenden, musst du das Königreich zuerst retten."
 		],
 		"ui_progression": [
 			"Fortschritt: {0}%"
@@ -2109,7 +2310,7 @@
 			"Χρυσή αρκούδα"
 		],
 		"cosmetic_019": [
-			"Χρυσή Σίκα"
+			"Χρυσή Shicka"
 		],
 		"cosmetic_020": [
 			"Κόκκινη Shicka"
@@ -2157,10 +2358,10 @@
 			"Πουκάμισο (κόκκινο)"
 		],
 		"cosmetic_035": [
-			"Αρκούδα ρετρό"
+			"Ρετρό αρκούδα"
 		],
 		"cosmetic_036": [
-			"Ρετρό σίκαλη"
+			"Ρετρό Shicka"
 		],
 		"cosmetic_037": [
 			"Καπέλο μπανάνα"
@@ -2193,7 +2394,7 @@
 			"Ακέφαλο"
 		],
 		"cosmetic_047": [
-			"Πουκάμισο (δωρητής)"
+			"Πουκάμισο SBA"
 		],
 		"cosmetic_048": [
 			"Πάντα"
@@ -2226,7 +2427,7 @@
 			"Κρανίο"
 		],
 		"cosmetic_058": [
-			"Στέμμα δωρητή"
+			"Βασιλικό στέμμα"
 		],
 		"cosmetic_059": [
 			"Κεφάλι αυγού"
@@ -2256,10 +2457,10 @@
 			"Παλτό εργαστηρίου"
 		],
 		"cosmetic_068": [
-			"Αόρατη Σίκα"
+			"Shicka aόρατη"
 		],
 		"cosmetic_069": [
-			"8-bit Shicka"
+			"Shicka 8-bit"
 		],
 		"cosmetic_070": [
 			"Αρκούδα 8-bit"
@@ -2307,10 +2508,10 @@
 			"Μπόμπλε κεφάλι"
 		],
 		"cosmetic_085": [
-			"Bobble Shicka"
+			"Μπομπλ Shicka"
 		],
 		"cosmetic_086": [
-			"Καπέλο της Βρετάνης"
+			"Σύννεφο της Βρετάνης"
 		],
 		"cosmetic_087": [
 			"Κάπα (κόκκινη)"
@@ -2331,7 +2532,7 @@
 			"Καπέλο μάγισσας"
 		],
 		"cosmetic_093": [
-			"Κοσμική Σίκα"
+			"Κοσμική Shicka"
 		],
 		"cosmetic_094": [
 			"IMABEAR"
@@ -2366,8 +2567,131 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Όραμα Noire"
+		],
+		"cosmetic_106": [
+			"Πουλί κατοικίδιο ζώο"
+		],
+		"cosmetic_107": [
+			"Violette κατοικίδιο ζώο"
+		],
+		"cosmetic_108": [
+			"Μαγικά βήματα"
+		],
 		"cosmetic_default": [
 			"Προεπιλεγμένο"
+		],
+		"filter_00": [
+			"Χωρίς φίλτρο"
+		],
+		"filter_01": [
+			"Κινηματογραφικό"
+		],
+		"filter_02": [
+			"Ανατριχιαστικό"
+		],
+		"filter_03": [
+			"Έντονο"
+		],
+		"filter_04": [
+			"Δραματικό"
+		],
+		"filter_05": [
+			"Αναδρομή στο παρελθόν"
+		],
+		"filter_06": [
+			"Πολύχρωμο"
+		],
+		"filter_07": [
+			"Καλοκαίρι"
+		],
+		"filter_08": [
+			"Ηλιακό έγκαυμα"
+		],
+		"filter_09": [
+			"Cozy"
+		],
+		"filter_10": [
+			"Φρέσκο"
+		],
+		"filter_11": [
+			"Παγετώνας"
+		],
+		"filter_12": [
+			"Παλαιωμένο"
+		],
+		"filter_13": [
+			"Flat"
+		],
+		"filter_14": [
+			"Νυχτερινό"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Posterize"
+		],
+		"filter_17": [
+			"Candyland"
+		],
+		"filter_18": [
+			"Κλίμακα του γκρι"
+		],
+		"filter_19": [
+			"Παλιά ταινία"
+		],
+		"filter_20": [
+			"Noire"
+		],
+		"filter_21": [
+			"Μόνο κόκκινο"
+		],
+		"filter_22": [
+			"Μόνο πράσινο"
+		],
+		"filter_23": [
+			"Μόνο μπλε"
+		],
+		"filter_24": [
+			"Sepia"
+		],
+		"filter_25": [
+			"Μωβ"
+		],
+		"filter_26": [
+			"Φωτιά"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Δυαδικό"
+		],
+		"filter_29": [
+			"Παράξενο"
+		],
+		"filter_30": [
+			"Τρέλα"
+		],
+		"filter_31": [
+			"Heat"
+		],
+		"filter_32": [
+			"Rainbow"
+		],
+		"filter_33": [
+			"Όραμα ρομπότ"
+		],
+		"filter_34": [
+			"Αρνητικό 1"
+		],
+		"filter_35": [
+			"Αρνητικό 2"
+		],
+		"filter_36": [
+			"Κόσμος νέον"
 		],
 		"help_birds": [
 			"Η απενεργοποίηση των πτηνών βελτιώνει την απόδοση"
@@ -2404,6 +2728,9 @@
 		],
 		"help_lightmaps": [
 			"Τα Lightmaps χρησιμοποιούνται για την εμφάνιση ψημένου φωτισμού σε στατικά αντικείμενα. Αυτή η επιλογή μπορεί να είναι χρήσιμη σε παλαιότερες συσκευές και δεν επηρεάζει την απόδοση"
+		],
+		"help_motion_blur": [
+			"Πρέπει να είναι θολά τα αντικείμενα που κινούνται γρήγορα; Η απενεργοποίηση αυτής της λειτουργίας βελτιώνει την απόδοση."
 		],
 		"help_shicka_tips": [
 			"Εμφανίζει τις συμβουλές της Shicka"
@@ -2445,7 +2772,7 @@
 			"Το ξόρκι δεν ήταν βαθμονομημένο για έναν Backpacker! Ωχ όχι... όχι όχι όχι ΟΧΙ! Πήγε πολύ στραβά!"
 		],
 		"hive_boss_3_1": [
-			"Εντάξει Σίκα, ήρθε η ώρα να πολεμήσεις τον πραγματικό μου εαυτό!"
+			"Εντάξει Shicka, ήρθε η ώρα να πολεμήσεις τον πραγματικό μου εαυτό!"
 		],
 		"hive_ending_1": [
 			"Λυπάμαι που σε πολέμησα, αγαπητή μου αρκούδα. Δεν ήμουν ο εαυτός μου εκεί πίσω, ο πυρήνας... δρούσε στο μυαλό μου."
@@ -2602,6 +2929,51 @@
 		],
 		"hub_tristopio": [
 			"Γεια σας! Ψάχνετε για μια ωραία αποστολή; Νομίζω ότι έχω αυτό που χρειάζεσαι!"
+		],
+		"iap_noads_desc_1": [
+			"<h>Δεν υπάρχουν πλέον ανεπιθύμητες διαφημίσεις</h> μεταξύ των επιπέδων!"
+		],
+		"iap_noads_desc_2": [
+			"Οι διαφημίσεις που ανταμείβονται θα εξακολουθούν να είναι διαθέσιμες."
+		],
+		"iap_noads_status_1": [
+			"Έχετε ήδη αφαιρέσει τις διαφημίσεις!"
+		],
+		"iap_noads_status_2": [
+			"Η αγορά ολοκληρώθηκε! Οι διαφημίσεις έχουν αφαιρεθεί! Σας ευχαριστούμε!"
+		],
+		"iap_noads_title": [
+			"Αφαίρεση διαφημίσεων"
+		],
+		"iap_premium_desc_1": [
+			"Περιλαμβάνεται στο SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Απομακρύνει</h> τις ανεπιθύμητες <h>διαφημίσεις</h>"
+		],
+		"iap_premium_desc_3": [
+			"Ξεκλειδώνει αποκλειστικά <h>κοσμητικά</h>"
+		],
+		"iap_premium_desc_4": [
+			"Ξεκλειδώνει <h>Φίλτρα λειτουργίας φωτογραφίας</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>Κέρματα × 2</h> χωρίς διαφημίσεις"
+		],
+		"iap_premium_desc_6": [
+			"<h>διπλασιάζει</h> τη μέγιστη <h>υγεία</h>"
+		],
+		"iap_premium_desc_7": [
+			"Δίνει δωρεάν την πρώτη <h>αναβίωση</h>"
+		],
+		"iap_premium_status_1": [
+			"Έχετε ήδη SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Η αγορά ολοκληρώθηκε! Έχετε τώρα το SBA Gold! Σας ευχαριστούμε!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
 			"Για αιώνες, υπήρχε ένα βασίλειο όπου τα πλάσματα ζούσαν ειρηνικά υπό την κυριαρχία της δυναστείας των Μελισσών."
@@ -3122,6 +3494,30 @@
 		"party_turtle_6": [
 			"Μου πήρε 6 μήνες να έρθω εδώ πάνω."
 		],
+		"photo_contribution": [
+			"Συμβολή φίλτρου"
+		],
+		"photo_dof": [
+			"Βάθος πεδίου"
+		],
+		"photo_guidelines": [
+			"Οδηγίες"
+		],
+		"photo_iap_blocker": [
+			"Πρέπει να αγοράσετε το SBA Gold για να χρησιμοποιήσετε φίλτρα στη λειτουργία φωτογραφίας"
+		],
+		"photo_save": [
+			"Αποθήκευση"
+		],
+		"photo_saved": [
+			"Ένα αντίγραφο αυτής της φωτογραφίας έχει αποθηκευτεί στο"
+		],
+		"photo_take": [
+			"Λήψη φωτογραφίας"
+		],
+		"photo_title": [
+			"Λειτουργία φωτογραφίας"
+		],
 		"rarity_common": [
 			"Κοινή"
 		],
@@ -3270,7 +3666,7 @@
 			"Στο κατάστημα, μπορείτε να αγοράσετε νέα αντικείμενα με αντάλλαγμα νομίσματα. Νέα αντικείμενα είναι διαθέσιμα κάθε 6 ώρες. Μπορείτε επίσης να ανοίξετε ένα loot box για να πάρετε ένα τυχαίο αντικείμενο που μπορεί να μην υπάρχει στο κατάστημα!"
 		],
 		"studio_help_3": [
-			"Υπάρχουν 5 κατηγορίες σπανιότητας: κοινή (λευκό), σπάνια (μπλε), επική (ματζέντα), τριστόπιο (ροζ) και δωρητής (πράσινο). Τα αντικείμενα δωρητή μπορούν να αποκτηθούν από το κατάστημα του αδελφού μου."
+			"Υπάρχουν 5 κατηγορίες σπανιότητας: κοινή (λευκό), σπάνια (μπλε), επική (ματζέντα), Tristopio (ροζ) και θρυλικά (χρυσό). Τα θρυλικά αντικείμενα μπορούν να αποκτηθούν στο κατάστημα του αδελφού μου."
 		],
 		"studio_help_4": [
 			"Ο Tristopio είναι το ροζ κουνέλι στην άλλη πλευρά του ποταμού. Τα αντικείμενά του είναι πολύ ιδιαίτερα... Παρεμπιπτόντως, όλα όσα ξεκλειδώνετε μπορούν να εξοπλιστούν εδώ, δωρεάν."
@@ -3461,6 +3857,9 @@
 		"ui_connected": [
 			"Συνδεδεμένο"
 		],
+		"ui_continue": [
+			"Συνέχεια"
+		],
 		"ui_cosm_buy": [
 			"Θέλετε να αγοράσετε//{0}//για {1} {2}?"
 		],
@@ -3496,18 +3895,6 @@
 		],
 		"ui_discord": [
 			"Επίσημο Discord//Join για τα νέα της εξέλιξης!"
-		],
-		"ui_donator_1": [
-			"Είστε ήδη δωρητής!"
-		],
-		"ui_donator_2": [
-			"Η αγορά ολοκληρώθηκε! Είστε τώρα δωρητής! Σας ευχαριστούμε!"
-		],
-		"ui_donator_info": [
-			"Η αγορά της ιδιότητας του δωρητή σας δίνει πρόσβαση σε://- Υποστήριξη του προγραμματιστή του παιχνιδιού!;//- Αφαίρεση διαφημίσεων χωρίς ανταμοιβή;//- Αποκλειστικές στολές;//- Κέρματα × 2 χωρίς διαφημίσεις;//- Μέγιστη υγεία σε 6;//- Πρώτη αναβίωση δωρεάν"
-		],
-		"ui_donator_title": [
-			"Αγοράστε την ιδιότητα του δωρητή"
 		],
 		"ui_empty": [
 			"Άδειο"
@@ -3632,6 +4019,9 @@
 		"ui_mission_win": [
 			"Αποστολή επιτυχής!"
 		],
+		"ui_motion_blur": [
+			"Θόλωση κίνησης"
+		],
 		"ui_music": [
 			"Ένταση μουσικής"
 		],
@@ -3644,6 +4034,9 @@
 		"ui_no_boost": [
 			"Έξοδος χωρίς κέρματα"
 		],
+		"ui_none": [
+			"Καμία"
+		],
 		"ui_open_shop": [
 			"Άνοιγμα καταστήματος"
 		],
@@ -3655,6 +4048,15 @@
 		],
 		"ui_performance": [
 			"Απόδοση"
+		],
+		"ui_photo_error_1": [
+			"Πρέπει να αποθηκεύσετε κάθε αρκούδα σε αυτό το επίπεδο για να χρησιμοποιήσετε τη λειτουργία Photo Mode."
+		],
+		"ui_photo_error_2": [
+			"Κατά τη διάρκεια μιας αποστολής, μπορείτε να χρησιμοποιήσετε τη λειτουργία φωτογραφίας μόνο στη λειτουργία εξάσκησης."
+		],
+		"ui_photo_error_3": [
+			"Πρέπει να σώσετε πρώτα το βασίλειο για να χρησιμοποιήσετε τη λειτουργία φωτογραφίας στην κυψέλη."
 		],
 		"ui_progression": [
 			"Πρόοδος: {0}%"
@@ -4166,7 +4568,7 @@
 			"Headless"
 		],
 		"cosmetic_047": [
-			"Shirt (donator)"
+			"SBA shirt"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -4199,7 +4601,7 @@
 			"Skull"
 		],
 		"cosmetic_058": [
-			"Donator crown"
+			"Royal crown"
 		],
 		"cosmetic_059": [
 			"Egg head"
@@ -4283,7 +4685,7 @@
 			"Bobble Shicka"
 		],
 		"cosmetic_086": [
-			"Brittany hat"
+			"Brittany cloud"
 		],
 		"cosmetic_087": [
 			"Cape (red)"
@@ -4339,14 +4741,137 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Noire vision"
+		],
+		"cosmetic_106": [
+			"Pet bird"
+		],
+		"cosmetic_107": [
+			"Pet Violette"
+		],
+		"cosmetic_108": [
+			"Magical footsteps"
+		],
 		"cosmetic_default": [
 			"Default"
+		],
+		"filter_00": [
+			"No filter"
+		],
+		"filter_01": [
+			"Cinematic"
+		],
+		"filter_02": [
+			"Creepy"
+		],
+		"filter_03": [
+			"Intense"
+		],
+		"filter_04": [
+			"Dramatic"
+		],
+		"filter_05": [
+			"Flashback"
+		],
+		"filter_06": [
+			"Colorful"
+		],
+		"filter_07": [
+			"Summer"
+		],
+		"filter_08": [
+			"Sunburn"
+		],
+		"filter_09": [
+			"Cozy"
+		],
+		"filter_10": [
+			"Fresh"
+		],
+		"filter_11": [
+			"Glacier"
+		],
+		"filter_12": [
+			"Aged"
+		],
+		"filter_13": [
+			"Flat"
+		],
+		"filter_14": [
+			"Nightly"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Posterize"
+		],
+		"filter_17": [
+			"Candyland"
+		],
+		"filter_18": [
+			"Grayscale"
+		],
+		"filter_19": [
+			"Old film"
+		],
+		"filter_20": [
+			"Noire"
+		],
+		"filter_21": [
+			"Only red"
+		],
+		"filter_22": [
+			"Only green"
+		],
+		"filter_23": [
+			"Only blue"
+		],
+		"filter_24": [
+			"Sepia"
+		],
+		"filter_25": [
+			"Purple"
+		],
+		"filter_26": [
+			"Fire"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Binary"
+		],
+		"filter_29": [
+			"Weird"
+		],
+		"filter_30": [
+			"Madness"
+		],
+		"filter_31": [
+			"Heat"
+		],
+		"filter_32": [
+			"Rainbow"
+		],
+		"filter_33": [
+			"Robot vision"
+		],
+		"filter_34": [
+			"Negative 1"
+		],
+		"filter_35": [
+			"Negative 2"
+		],
+		"filter_36": [
+			"Neon world"
 		],
 		"help_birds": [
 			"Disabling birds improves performance"
 		],
 		"help_fancy_shaders": [
-			"Fancy shaders makes materials look better. Disabling them improves performance"
+			"Fancy shaders makes materials look better. Disabling them improves performance."
 		],
 		"help_fast_restart": [
 			"Levels restart faster (useful for speedruns)"
@@ -4377,6 +4902,9 @@
 		],
 		"help_lightmaps": [
 			"Lightmaps are used to display baked lighting on static objects. This option can be useful on older devices and doesn't affect performance"
+		],
+		"help_motion_blur": [
+			"Should fast moving objects be blurry? Disabling this improves performance."
 		],
 		"help_shicka_tips": [
 			"Shows Shicka's tips"
@@ -4576,8 +5104,53 @@
 		"hub_tristopio": [
 			"Hello there! Are you looking for a cool mission? I think I've got what you need!"
 		],
+		"iap_noads_desc_1": [
+			"<h>No more unwanted ads</h> between levels!"
+		],
+		"iap_noads_desc_2": [
+			"Rewarded ads will still be available."
+		],
+		"iap_noads_status_1": [
+			"You already removed ads!"
+		],
+		"iap_noads_status_2": [
+			"Purchase complete! Ads are now removed! Thank you!"
+		],
+		"iap_noads_title": [
+			"Remove ads"
+		],
+		"iap_premium_desc_1": [
+			"Included in SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Removes</h> unwanted <h>ads</h>"
+		],
+		"iap_premium_desc_3": [
+			"Unlocks exclusive <h>items</h>"
+		],
+		"iap_premium_desc_4": [
+			"Unlocks <h>Photo Mode filters</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>Coins × 2</h> without ads"
+		],
+		"iap_premium_desc_6": [
+			"<h>Doubles</h> maximum <h>health</h>"
+		],
+		"iap_premium_desc_7": [
+			"Gives first <h>revive for free</h>"
+		],
+		"iap_premium_status_1": [
+			"You already have SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Purchase complete! You now have SBA Gold! Thank you!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
+		],
 		"intro_1_1": [
-			"For centuries, there existed a kingdom where creatures lived in peace under the ruling of the Bee dynasty."
+			"For centuries, there existed a kingdom where creatures lived in peace under the ruling of the bee dynasty."
 		],
 		"intro_1_2": [
 			"Queen Beeatrice, the bee queen, was a beloved ruler, she was fair and appreciated by all. The balance between all creatures was perfect."
@@ -5095,6 +5668,30 @@
 		"party_turtle_6": [
 			"It took me 6 months to get up here."
 		],
+		"photo_contribution": [
+			"Filter contribution"
+		],
+		"photo_dof": [
+			"Depth of field"
+		],
+		"photo_guidelines": [
+			"Guidelines"
+		],
+		"photo_iap_blocker": [
+			"You need to buy SBA Gold to use filters in Photo Mode"
+		],
+		"photo_save": [
+			"Save"
+		],
+		"photo_saved": [
+			"A copy of this photo has been saved to"
+		],
+		"photo_take": [
+			"Take photo"
+		],
+		"photo_title": [
+			"Photo Mode"
+		],
 		"rarity_common": [
 			"Common"
 		],
@@ -5243,7 +5840,7 @@
 			"In the shop, you can buy new items in exchange for coins. New items are available every 6 hours. You can also open a loot box to get a random item that might not be in the shop!"
 		],
 		"studio_help_3": [
-			"There are 5 rarity categories: common (white), rare (blue), epic (magenta), Tristopio (pink) and donor (green). Donor items can be obtained at my brother's shop."
+			"There are 5 rarity categories: common (white), rare (blue), epic (magenta), Tristopio (pink) and legendary (golden). Legendary items can be obtained at my brother's shop."
 		],
 		"studio_help_4": [
 			"Tristopio is the pink rabbit on the other side of the river. His items are quite special... By the way, everything you unlock can be equipped here, free of charge."
@@ -5434,6 +6031,9 @@
 		"ui_connected": [
 			"Connected"
 		],
+		"ui_continue": [
+			"Continue"
+		],
 		"ui_cosm_buy": [
 			"Do you want to buy//{0}//for {1} {2}?"
 		],
@@ -5469,18 +6069,6 @@
 		],
 		"ui_discord": [
 			"Official Discord//Join for developpement news!"
-		],
-		"ui_donator_1": [
-			"You are already a donor!"
-		],
-		"ui_donator_2": [
-			"Purchase complete! You are now a donor! Thank you!"
-		],
-		"ui_donator_info": [
-			"Buying the donor status gives you access to://- Supporting the developer of the game!//- Unrewarded ads removal//- Exclusive costumes//- Coins × 2 without ads//- Maximum health to 6//- First revive for free"
-		],
-		"ui_donator_title": [
-			"Buy donor status"
 		],
 		"ui_empty": [
 			"Empty"
@@ -5605,6 +6193,9 @@
 		"ui_mission_win": [
 			"Mission passed!"
 		],
+		"ui_motion_blur": [
+			"Motion blur"
+		],
 		"ui_music": [
 			"Music volume"
 		],
@@ -5617,6 +6208,9 @@
 		"ui_no_boost": [
 			"Exit with no coin boost"
 		],
+		"ui_none": [
+			"None"
+		],
 		"ui_open_shop": [
 			"Open shop"
 		],
@@ -5628,6 +6222,15 @@
 		],
 		"ui_performance": [
 			"Performance"
+		],
+		"ui_photo_error_1": [
+			"You need to save every bear in this level to use Photo Mode."
+		],
+		"ui_photo_error_2": [
+			"During a mission, you can only use Photo Mode in practice mode."
+		],
+		"ui_photo_error_3": [
+			"You need to save the kingdom first to use Photo Mode in the Hive."
 		],
 		"ui_progression": [
 			"Progression: {0}%"
@@ -5755,16 +6358,16 @@
 			"Atacar"
 		],
 		"action_brake": [
-			"Romper (vehiculo)"
+			"Frenar (vehículo)"
 		],
 		"action_center_camera": [
 			"Centrar camara"
 		],
 		"action_gas": [
-			"Gasolia (vehiculo)"
+			"Gas (vehículo)"
 		],
 		"action_jump": [
-			"Saltae"
+			"Saltar"
 		],
 		"action_move_x": [
 			"Mover horizontal"
@@ -5824,16 +6427,16 @@
 			"Axis"
 		],
 		"binding_button": [
-			"Boton"
+			"Botón"
 		],
 		"binding_negative": [
-			"Boton negativo"
+			"Botón negativo"
 		],
 		"binding_positive": [
-			"Boton positivo"
+			"Botón positivo"
 		],
 		"boss_guardian": [
-			"El Guardian"
+			"El Guardián"
 		],
 		"boss_queen": [
 			"Abeja Reina"
@@ -5911,7 +6514,7 @@
 			"Reno"
 		],
 		"char_scientist": [
-			"Cientifico"
+			"Científico"
 		],
 		"char_shicka": [],
 		"char_sign": [
@@ -5926,10 +6529,10 @@
 			"Máscara de bandido"
 		],
 		"cosmetic_002": [
-			"Gorro (rojo)"
+			"Gorra (roja)"
 		],
 		"cosmetic_003": [
-			"Gorra (azul)"
+			"Gorra (azúl)"
 		],
 		"cosmetic_004": [
 			"Unicornio"
@@ -5968,7 +6571,7 @@
 			"Barriga grande"
 		],
 		"cosmetic_016": [
-			"Cuerpo muscular"
+			"Cuerpo musculoso"
 		],
 		"cosmetic_017": [
 			"Pajarita"
@@ -5980,7 +6583,7 @@
 			"Shicka de oro"
 		],
 		"cosmetic_020": [
-			"Red Shicka"
+			"Shicka roja"
 		],
 		"cosmetic_021": [
 			"Shicka verde"
@@ -6049,7 +6652,7 @@
 			"Shicka fantasma"
 		],
 		"cosmetic_043": [
-			"El oso arco iris"
+			"Oso arcoíris"
 		],
 		"cosmetic_044": [
 			"Máscara de oso"
@@ -6061,7 +6664,7 @@
 			"Sin cabeza"
 		],
 		"cosmetic_047": [
-			"Camiseta (donante)"
+			"Camiseta SBA"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -6070,10 +6673,10 @@
 			"Cabeza de capitalus"
 		],
 		"cosmetic_050": [
-			"Vetas del arco iris"
+			"Rastro de arcoíris"
 		],
 		"cosmetic_051": [
-			"Esquema"
+			"Contorno"
 		],
 		"cosmetic_052": [
 			"Cuerpo del esqueleto"
@@ -6094,7 +6697,7 @@
 			"Cráneo"
 		],
 		"cosmetic_058": [
-			"Corona del dador"
+			"Corona real"
 		],
 		"cosmetic_059": [
 			"Cabeza de huevo"
@@ -6106,7 +6709,7 @@
 			"Huevo de Pascua"
 		],
 		"cosmetic_062": [
-			"Huevo en el plato"
+			"Huevo roto"
 		],
 		"cosmetic_063": [
 			"Cabeza de conejo"
@@ -6115,7 +6718,7 @@
 			"Cuerpo de chocolate"
 		],
 		"cosmetic_065": [
-			"Dummy"
+			"Chupón"
 		],
 		"cosmetic_066": [
 			"Pañales"
@@ -6133,7 +6736,7 @@
 			"Oso de 8 bits"
 		],
 		"cosmetic_071": [
-			"Oso de arpillera"
+			"Oso de tela"
 		],
 		"cosmetic_072": [
 			"Torre de Hanoi"
@@ -6148,19 +6751,19 @@
 			"Chaqueta (marrón)"
 		],
 		"cosmetic_076": [
-			"Chaqueta (denim)"
+			"Chaqueta (azúl)"
 		],
 		"cosmetic_077": [
-			"Pingüino Shicka"
+			"Shicka pingüino"
 		],
 		"cosmetic_078": [
-			"Oso Shicka"
+			"Shicka oso"
 		],
 		"cosmetic_079": [
-			"Oso Shicka"
+			"Shicka oso"
 		],
 		"cosmetic_080": [
-			"Arco iris de Shicka"
+			"Shicka arcoíris"
 		],
 		"cosmetic_081": [
 			"Casco de RV"
@@ -6175,10 +6778,10 @@
 			"Cabeza de resorte"
 		],
 		"cosmetic_085": [
-			"Primavera Shicka"
+			"Shicka resorte"
 		],
 		"cosmetic_086": [
-			"Sombrero bretón"
+			"Nube"
 		],
 		"cosmetic_087": [
 			"Capa (roja)"
@@ -6193,7 +6796,7 @@
 			"Cabeza de vampiro"
 		],
 		"cosmetic_091": [
-			"Die"
+			"Dado"
 		],
 		"cosmetic_092": [
 			"Sombrero de bruja"
@@ -6208,7 +6811,7 @@
 			"Bufanda (roja)"
 		],
 		"cosmetic_096": [
-			"Bufanda (azul)"
+			"Bufanda (azúl)"
 		],
 		"cosmetic_097": [
 			"Máscara Yeti"
@@ -6234,8 +6837,131 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Visión obscura"
+		],
+		"cosmetic_106": [
+			"Pájaro mascota"
+		],
+		"cosmetic_107": [
+			"Violette mascota"
+		],
+		"cosmetic_108": [
+			"Huellas mágicas"
+		],
 		"cosmetic_default": [
 			"Defecto"
+		],
+		"filter_00": [
+			"Sin filtro"
+		],
+		"filter_01": [
+			"Cinemática"
+		],
+		"filter_02": [
+			"Espeluznante"
+		],
+		"filter_03": [
+			"Intenso"
+		],
+		"filter_04": [
+			"Dramatico"
+		],
+		"filter_05": [
+			"Flashback"
+		],
+		"filter_06": [
+			"Colorido"
+		],
+		"filter_07": [
+			"Verano"
+		],
+		"filter_08": [
+			"Bronceado"
+		],
+		"filter_09": [
+			"Acogedor"
+		],
+		"filter_10": [
+			"Fresco"
+		],
+		"filter_11": [
+			"Glaciar"
+		],
+		"filter_12": [
+			"Envejecido"
+		],
+		"filter_13": [
+			"Plano"
+		],
+		"filter_14": [
+			"Nocturno"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Posterizar"
+		],
+		"filter_17": [
+			"Dulcelandia"
+		],
+		"filter_18": [
+			"Escala de grises"
+		],
+		"filter_19": [
+			"Película vieja"
+		],
+		"filter_20": [
+			"Negro"
+		],
+		"filter_21": [
+			"Sólo rojo"
+		],
+		"filter_22": [
+			"Sólo verde"
+		],
+		"filter_23": [
+			"Sólo azúl"
+		],
+		"filter_24": [
+			"Sepia"
+		],
+		"filter_25": [
+			"Morado"
+		],
+		"filter_26": [
+			"Fuego"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Binario"
+		],
+		"filter_29": [
+			"Raro"
+		],
+		"filter_30": [
+			"Locura"
+		],
+		"filter_31": [
+			"Calor"
+		],
+		"filter_32": [
+			"Arcoíris"
+		],
+		"filter_33": [
+			"Visión robot"
+		],
+		"filter_34": [
+			"Negativo 1"
+		],
+		"filter_35": [
+			"Negativo 2"
+		],
+		"filter_36": [
+			"Mundo neón"
 		],
 		"help_birds": [
 			"Desactivar las aves mejora el rendimiento"
@@ -6256,10 +6982,10 @@
 			"Mostrar la cantidad de fotogramas por segundo"
 		],
 		"help_gyro_controls": [
-			"Cambia em tipo de cotrol del vehiculo (giroscopio = inclinar el dispositivo)"
+			"Cambia el tipo de cotrol del vehiculo (giroscopio = inclinar el dispositivo)"
 		],
 		"help_hide_inputs": [
-			"Oculta los botones de la pantalla tactil (util cuando se juego con un control)"
+			"Oculta los botones de la pantalla táctil (útil cuando se juega con un control)"
 		],
 		"help_invert_camera": [
 			"Invierte los controles de la camara"
@@ -6268,19 +6994,22 @@
 			"Cuando consigues una llave, se muestra la direccion de la jaula"
 		],
 		"help_light_probes": [
-			"Las sondas de luz se usan para mostrar la iluminacion baked en objetos en movimiento. Esta opcion puede ser util en dispositivos viejos y no afecta el rendimiento"
+			"Las sondas de luz se usan para mostrar la iluminación baked en objetos en movimiento. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
 		],
 		"help_lightmaps": [
-			"Los Lightmaps se usan para mostrar la iluminacion baked en objetos estaticos. This option can be useful on older devices and doesn't affect performance"
+			"Los Lightmaps se usan para mostrar la iluminacion baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
+		],
+		"help_motion_blur": [
+			"¿Debería un objeto rápido en movimiento ser borroso? Deshabilitar esto mejora el rendimiento."
 		],
 		"help_shicka_tips": [
 			"Muestra los consejos de Shicka"
 		],
 		"help_speedrun_mode": [
-			"El cronometro esta siempre en marcha y solo se detiene cuando derrotas al jefe final. El guardado se desactiva."
+			"El cronómetro esta siempre en marcha y solo se detiene cuando derrotas al jefe final. El guardado se desactiva."
 		],
 		"help_timer": [
-			"Muestra un cronometro (util para speedruns)"
+			"Muestra un cronómetro (util para speedruns)"
 		],
 		"hive_boss_1_1": [
 			"Te estaba esperando... Baaren. Qué hermoso lugar para una reunión."
@@ -6310,25 +7039,25 @@
 			"¡Ya no puedes escapar!"
 		],
 		"hive_boss_2_2": [
-			"¡El hechizo no estaba calibrado para un mochilero! ¡Oh no... no no NO! ¡Hizo cualquier cosa!"
+			"¡El hechizo no estaba calibrado para un mochilero! ¡Oh no... no no NO! ¡Salió muy mal!"
 		],
 		"hive_boss_3_1": [
 			"Bien Shicka, ¡es hora de luchar contra el verdadero yo!"
 		],
 		"hive_ending_1": [
-			"Sentimos haber luchado contra ti, mi querida bearz. No estábamos allí nosotros, el Kernel... ajzzisz en nuestro raizzzon."
+			"Siento haber luchado contra ti, mi querido oszzo. No quería hacerlo, el Kernel... me obligó."
 		],
 		"hive_ending_2": [
-			"Forsze es consztater, que el Kernel ha ekzplozzzé por golpear el Ruchze mientras caía... Wezzz fueron teletransportados aquí para algunos raizzzon, alasz su hermano probablemente ha fallado en otro lugar."
+			"Parece que el Kernel explotó mientraszz se golpeaba contra la colmena en su caída... Noszz teletransportamoszz aquí por alguna razón, pero tú hermano probablemente terminó en otro lugar."
 		],
 		"hive_ending_3": [
-			"El Ruchze ya no existe, pero como ahora somos libres, cerraremos esta uzzzina de miel púrpura y restableceremos la paz en todo nuestro reino."
+			"La colmena ya no existe, pero ahora que soy libre, voy a cerrar la fábrica de miel púrpura y restaurar la paz en mi reino."
 		],
 		"hive_ending_4": [
-			"Merszi a ti por habernos salvado Baaren. Merszi por salvar a todos. Reunámonos en el Villajzze Oursz, ¿de acuerdo?"
+			"Graciaszz por salvarme Baaren. Graciaszz por salvar a todoszz. Reunámonoszz en la aldea de loszz ososzz ¿de acuerdo?"
 		],
 		"hive_maybee": [
-			"Los osos como tú me asustan, pero son potentes. Ofreciendo montzzz y maravillas, jzze puede hacer mi miel. No soy rival para ti cuando se trata de hacerme sentir bien."
+			"Los ososzz como tú me asustan, pero tal vez me pueda beneficiar de tí."
 		],
 		"hive_shop": [
 			"Tienda de recuerdos de Isabeja"
@@ -6337,10 +7066,10 @@
 			"Equipar"
 		],
 		"hive_shop_unequip": [
-			"Ponte el traje anterior"
+			"Ponerse el traje anterior"
 		],
 		"hive_sign_1": [
-			"Entrada a la Colmena. Prohibido el paso."
+			"Entrada a la colmena. Prohibido el paso."
 		],
 		"hive_sign_2": [
 			"Propiedad de las abejas. No entre."
@@ -6364,13 +7093,13 @@
 			"¡Gracias por salvarme de la cueva del golem!"
 		],
 		"hub_bear_02": [
-			"Echa un vistazo a la plataforma de piedra detras de mi, puedes ir alli a cambiar tu ropa."
+			"Echa un vistazo a la plataforma de piedra detrás de mí, puedes ir allí a cambiar tu ropa."
 		],
 		"hub_bear_03": [
-			"Me pregunto donde estara la verdadera abeja reina..."
+			"Me pregunto en dónde estará la verdadera abeja reina..."
 		],
 		"hub_bear_04": [
-			"¡Debio haberte tomado mucho tiempo encontrar todas las monedas en el Pueblo Tortuga!"
+			"¡Debió haberte tomado mucho tiempo encontrar todas las monedas en el Pueblo Tortuga!"
 		],
 		"hub_bear_05": [
 			"El autosacrificio es la condición de la virtud."
@@ -6379,22 +7108,22 @@
 			"Pudiste mantener el equilibrio en estas plataformas rotantes, ¡tienes mucho talento!"
 		],
 		"hub_bear_07": [
-			"Eres mi heroe Baaren, sin ti aun estaria en una jaula..."
+			"Eres mi heroe Baaren, sin tí aun estaría en una jaula..."
 		],
 		"hub_bear_08": [
-			"Las abejas me escondieron en ese rincon junto al rio, suerte que me viste..."
+			"Las abejas me escondieron en ese rincón junto al río, afortunadamente me viste..."
 		],
 		"hub_bear_09": [
-			"¡Bien hecho, derrotaste al enorme Yeti! ¡Gracias!"
+			"¡Bien hecho, derrotaste al enorme yeti! ¡Gracias!"
 		],
 		"hub_bear_10": [
-			"Podia ver todo el valle desde mi jaula en la punta de la montaña."
+			"Podía ver todo el valle desde mi jaula en la punta de la montaña."
 		],
 		"hub_bear_11": [
 			"Me alegra finalmente haber regresado, ese valle era horrible."
 		],
 		"hub_bear_12": [
-			"¿Talvez deberiamos de haber traido a los pingüinos aqui para salvarlos?"
+			"¿Deberíamos haber traído a los pingüinos aquí para salvarlos?"
 		],
 		"hub_bear_13": [
 			"¿Ese rompecabezas era muy complicado, no crees?"
@@ -6412,7 +7141,7 @@
 			"Es bueno haber vuelto, quede encerrado en esa piramide por demasiado tiempo."
 		],
 		"hub_bear_18": [
-			"¡Los fénec son tan adorables, me encantaria adoptar uno!"
+			"¡Los fénec son tan adorables, me encantaría adoptar uno!"
 		],
 		"hub_bear_19": [
 			"Nuestros ancestros lejanos fueron protectores del desierto pero hemos regresado a este lugar por varias generaciones."
@@ -6424,25 +7153,25 @@
 			"La reina abeja esta preparando algo terrible, fue al desierto a preparar el elemento final para su plan maestro."
 		],
 		"hub_bear_22": [
-			"La muralla pudo haber sido construida para probar la miel morada antes de ser usada en el resto del reino. ¿O tal vez las abejas se protejan a si mismas de algo? ¿Quién sabe?"
+			"La muralla pudo haber sido construida para probar la miel morada antes de ser usada en el resto del reino. ¿O tal vez las abejas se protegían a sí mismas de algo? ¿Quién sabe?"
 		],
 		"hub_bear_23": [
-			"Una legenda dice que la piramide contiene una reliquia que da un inmenso poder a su portador. Espero que esta reliquia no exista en realidad..."
+			"Una leyenda dice que la pirámide contiene una reliquia que da un inmenso poder a su portador. Espero que esta reliquia no exista en realidad..."
 		],
 		"hub_bear_24": [
-			"Construir esa muralla fue seguro un trabajo tremendo, seguro que las abejas tubieron una rason importante para constuirla."
+			"Construir esa muralla fue seguro un trabajo tremendo, seguro que las abejas tubieron una razón importante para constuirla."
 		],
 		"hub_bear_25": [
-			"*sonidos de bebe felíz*"
+			"*sonidos de bebé felíz*"
 		],
 		"hub_bear_26": [
-			"*sonidos de bebe cansado*"
+			"*sonidos de bebé cansado*"
 		],
 		"hub_bear_27": [
-			"*sonidos de bebe enojado*"
+			"*sonidos de bebé enojado*"
 		],
 		"hub_bear_28": [
-			"La tercera ley de Newton no parece aplicar para este reino."
+			"La tercera ley de Newton no parece aplicar en este reino."
 		],
 		"hub_bear_29": [
 			"*mirada confundida*"
@@ -6457,31 +7186,76 @@
 			"Yo oso."
 		],
 		"hub_capitalos": [
-			"¡Holaaa! ¡Soy yo, Capitalooos, hermano de Capitaluuus! ¡Si tu apoyas al desarrollador de este juuuego, obtendras muy especiales regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitalooos, hermano de Capitaluuus! ¡Si apoyas al desarrollador de este juuuego, obtendrás regalos muy especialeees!"
 		],
 		"hub_capitalus": [
-			"¡Hellooo! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te dare regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te dare regaaalos!"
 		],
 		"hub_scientist": [
-			"No te preocupes, la maquina encogedora parece mucho ser segura."
+			"No te preocupes, la maquina encogedora parece ser muy segura."
 		],
 		"hub_sign_1": [
 			"¡Bienvenido al hub! Ve a los circulos azules para entra a un nivel."
 		],
 		"hub_tristopio": [
-			"¡Hola tu! ¿Buscas una mision genial? ¡Creo que tengo lo que necesitas!"
+			"¡Hola tú! ¿Buscas una mision genial? ¡Creo que tengo lo que necesitas!"
+		],
+		"iap_noads_desc_1": [
+			"<h>¡No más anuncios no deseados</h> entre niveles!"
+		],
+		"iap_noads_desc_2": [
+			"Los anuncios con recompensa seguirán disponibles."
+		],
+		"iap_noads_status_1": [
+			"¡Ya removiste los anuncios!"
+		],
+		"iap_noads_status_2": [
+			"¡Compra completada! ¡Los anuncios fueron removidos! ¡Gracias!"
+		],
+		"iap_noads_title": [
+			"Remover anuncios"
+		],
+		"iap_premium_desc_1": [
+			"Incluído en SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Remueve</h> anuncios <h>no deseados</h>"
+		],
+		"iap_premium_desc_3": [
+			"Desbloquea <h>cosméticos exclusivos</h>"
+		],
+		"iap_premium_desc_4": [
+			"Desbloquea <h>filtros del modo foto</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>2x monedas</h> sin anuncios"
+		],
+		"iap_premium_desc_6": [
+			"<h>Dobla</h> la salud <h>máxima</h>"
+		],
+		"iap_premium_desc_7": [
+			"La primera <h>resurección es grátis</h>"
+		],
+		"iap_premium_status_1": [
+			"¡Ya tienes SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"¡Compra completada! ¡Ahora tienes SBA Gold! ¡Gracias!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
-			"Por siglos, existio un reino donde las criaturas vivian en paz bajo el mandato de la dinastia de las abejas."
+			"Por siglos, existió un reino donde las criaturas vivían en paz bajo el mandato de la dinastía de las abejas."
 		],
 		"intro_1_2": [
-			"La Reina Beeatrice, la reina abeja, fue amada, ella era justa y apreciada por todos. El balance entre todas la criaturas era perfecto."
+			"Mirabeja, la reina abeja, fue amada, ella era justa y apreciada por todos. El balance entre todas la criaturas era perfecto."
 		],
 		"intro_1_3": [
 			"Hasta que..."
 		],
 		"intro_2_1": [
-			"...las abejas empezaron a producir un tipo de miel diferente en la Colmena. Poco despues, este nuevo sabor y su color morado fue amado por todos."
+			"...las abejas empezaron a producir un tipo de miel diferente en la colmena. Poco despues, este nuevo sabor y su color morado fue amado por todos."
 		],
 		"intro_2_2": [
 			"Desafortunadamente, las criaturas que lo consumian pronto comenzaron a volverse locas y a atacar a sus amigos como animales descerebrados"
@@ -6493,13 +7267,13 @@
 			"Pronto, las abejas se dieron cuenta de que los osos eran misteriosamente no afectados por la miel morada."
 		],
 		"intro_3_2": [
-			"Esta resistencia causo su perdida: las abejas atacaron la aldea de los Osos y los encarcelaron para impedir cualquier problema."
+			"Esta resistencia causo su perdida: las abejas atacaron la aldea de los osos y los encarcelaron para impedir cualquier problema."
 		],
 		"intro_4_1": [
 			"Afortunadamente, un oso logro evitar el ataque. Pero ahora, el destino del pueblo esta en sus hombros."
 		],
 		"intro_4_2": [
-			"El mundo necesita un heroe. Alguien que restablesca el balance, alguien que termine con esta perdicion morada."
+			"El mundo necesita un héroe. Alguien que restablesca el balance, alguien que termine con esta perdición morada."
 		],
 		"intro_4_3": [
 			"¿Vas a salvarnos, Baaren?"
@@ -6511,7 +7285,7 @@
 			"Cuando cargue contra ti, esquiva sus ataques y espera a que se agote antes de contraatacar."
 		],
 		"level1_boss_1_3": [
-			"Además, ¡cuidado con las piedras que caen del techo! ¡Creo en ti, Baaren!"
+			"Además, ¡cuidado con las piedras que caen del techo! ¡Creo en tí, Baaren!"
 		],
 		"level1_boss_1_4": [
 			"¡Cuidado, te está atacando!"
@@ -6523,7 +7297,7 @@
 			"Por cierto, hoy he visto a tu hermano por aquí, no tenía muy buen aspecto. Espero que lo encuentres."
 		],
 		"level1_boss_2_3": [
-			"Me pregunto qué hacía tu hermano aquí. Hacía tiempo que no lo veía, quizás estaba hibernando. Deberíamos buscarlo en el Valle de las Nieves, que es el siguiente destino desde aquí."
+			"Me pregunto que hacía tu hermano aquí. Hacía tiempo que no lo veía, quizás estaba hibernando. Deberíamos buscarlo en el Valle de las Nieves, que es el siguiente destino desde aquí."
 		],
 		"level1_intro_1": [
 			"Tortuciudad era un lugar encantador antes de los recientes acontecimientos."
@@ -6535,7 +7309,7 @@
 			"Algunas tortugas se han contaminado con la miel púrpura, así que ten cuidado con ellas."
 		],
 		"level1_intro_4": [
-			"Se han oído ruidos sospechosos cerca de este pozo, deberíamos comprobarlo."
+			"Se han oído ruidos sospechosos cerca de este pozo, deberíamos investigarlo."
 		],
 		"level1_sign_1": [
 			"¡Bienvendio al Pueblo Tortuga!"
@@ -6559,13 +7333,13 @@
 			"Las tortugas bloquearon el camino a la parte superior de la aldea para aislar a las tortugas contaminadas."
 		],
 		"level1_turtle_1": [
-			"Los habitantes del pueblo estan asustados, ¡debes ayudarnos!"
+			"Los habitantes del pueblo están asustados, ¡debes ayudarnos!"
 		],
 		"level1_turtle_2": [
-			"Desde que mi papa comio esta extraña miel morada, se volvio muy malo... ¡Tienes que salvarlo!"
+			"Desde que mi papá comio esta extraña miel morada, se volvio muy malo... ¡Tienes que salvarlo!"
 		],
 		"level1_turtle_3": [
-			"Prefiero quedarme aqui en casa, cosas raras pasan afuera..."
+			"Prefiero quedarme aquí en casa, cosas raras pasan afuera..."
 		],
 		"level1_turtle_4": [
 			"Afortunadamente no hay miel morada en esta parte del pueblo."
@@ -6592,7 +7366,7 @@
 			"Este es el famoso Yeti. Evitemos sus ataques por ahora. Espera a que se quede sin energía antes de atacar."
 		],
 		"level2_boss_2": [
-			"¿Has visto eso? ¡Había alguien ahí arriba! Que era... púrpura."
+			"¿Has visto eso? ¡Había alguien ahí arriba! Alguien... púrpura."
 		],
 		"level2_boss_3": [
 			"Algo no está bien en esto..."
@@ -6601,7 +7375,7 @@
 			"De todos modos, deberíamos salvar a ese oso y luego investigar el desierto de Beemothep."
 		],
 		"level2_boss_5": [
-			"La Dinastía de las Abejas comenzó allí, tal vez podamos encontrar respuestas en la Gran Pirámide de Beemothep."
+			"La dinastía de las Abejas comenzó allí, tal vez podamos encontrar respuestas en la Gran Pirámide de Beemothep."
 		],
 		"level2_intro_1": [
 			"El Valle de las Nieves también ha sido atacado por las abejas."
@@ -6625,7 +7399,7 @@
 			"Puedes escalar esta pared detrás de mí, es un atajo a la cima de la montaña."
 		],
 		"level2_penguin_4": [
-			"Si te encuentras con el Rey Reno, intenta levantarte y saltar sobre su cabeza."
+			"Si te encuentras con el Rey Reno, intenta elevarte y saltar sobre su cabeza."
 		],
 		"level2_penguin_5": [
 			"Hay un ascensor al final del río, pero hay que subir la montaña primero para activarlo."
@@ -6673,13 +7447,13 @@
 			"Uf, eso fue aterrador. El Kernel no está aquí, las abejas deben haberlo robado antes de que llegáramos."
 		],
 		"level3_boss_2_2": [
-			"El científico de la Aldea del Oso probablemente sepa algo sobre este artefacto."
+			"El científico de la aldea de los osos probablemente sepa algo sobre este artefacto."
 		],
 		"level3_crocodile_1": [
-			"Nuestros amigos infectados con miel púrpura han vuelto a sus instintos primarios, cazando en el agua. Ten cuidado."
+			"Nuestros amigos infectados con miel púrpura han vuelto a sus instintos primitivos, cazando en el agua. Ten cuidado."
 		],
 		"level3_crocodile_2": [
-			"A diferencia de nosotros, los osos no son muy ágiles en el agua. Atrae a los cocodrilos infectados cerca de la orilla del agua para que salten sobre ellos."
+			"A diferencia de nosotros, los osos no son muy ágiles en el agua. Atrae a los cocodrilos infectados cerca de la orilla del agua para que saltes sobre ellos."
 		],
 		"level3_crocodile_3": [
 			"Desde que se construyó el muro, es difícil encontrar comida..."
@@ -6697,10 +7471,10 @@
 			"Mira lo que estas abejas han hecho a nuestra hermosa tierra... Es un desastre. Este enorme muro nos aísla del resto del mundo."
 		],
 		"level3_fennec_4": [
-			"El acceso al abrevadero es muy difícil desde que los cocodrilos se instalaron en el oasis. ¡Nosotros llegamos primero!"
+			"Acceder al abrevadero es muy difícil desde que los cocodrilos se instalaron en el oasis. ¡Nosotros llegamos primero!"
 		],
 		"level3_fennec_5": [
-			"Hace miles de años, mis antepasados eran siervos de las abejas. Construyeron la pirámide para una de las reinas más grandes."
+			"Hace miles de años, mis antepasados eran sirvientes de las abejas. Construyeron la pirámide para una de las reinas más grandes."
 		],
 		"level3_fennec_6": [
 			"Hace algunos años, algunas abejas empezaron a construir este gigantesco muro sin que la reina lo supiera. ¡Ya estaban planeando algo antes de su secuestro!"
@@ -6721,10 +7495,10 @@
 			"Las abejas parecen haber construido un muro alrededor de los pueblos. Les interesa la pirámide. Pidamos información a los habitantes."
 		],
 		"level3_intro_4": [
-			"Para desplazarnos por este desierto, utilizaremos este quad. Mientras conduces, utiliza el control de aire para no dar la vuelta."
+			"Para desplazarnos por este desierto, utilizaremos esta cuatrimoto. Mientras conduces, utiliza el control de aire para no dar la vuelta."
 		],
 		"level3_sign_1": [
-			"Alquile un quad para sus actividades en el desierto. Pise los botones rojos para obtener su vehículo."
+			"Alquile una cuatrimoto para sus actividades en el desierto. Pise los botones rojos para obtener su vehículo."
 		],
 		"level3_sign_2": [
 			"Pueblo Fennec"
@@ -6736,19 +7510,19 @@
 			"Te he estado esperando, osito, te he estado observando desde que pusiste un pie en esta casa..."
 		],
 		"level4_boss_1_2": [
-			"Te ves su-superado. ¿Tu amigo el científico se olvidó de hablarte de mí? ¡¿DESPUÉS DE TODO LO QUE ME HIZO?!"
+			"Te ves so-sorprendido. ¿Tu amigo el científico se olvidó de hablarte de mí? ¡¿DESPUÉS DE TODO LO QUE ME HIZO?!"
 		],
 		"level4_boss_1_3": [
-			"Me hizo gigante e inteligente en sus experimentos, pero no me dejó m-m-mover. Yo era su favorito, su mayor logro."
+			"Me hizo gigante e inteligente en sus experimentos, pero no me dejó m-m-moverme. Yo era su favorito, su mayor logro."
 		],
 		"level4_boss_1_4": [
 			"¿Creías que había cerrado la escotilla del sótano para esconderme? ¡Era una trampa, y tú caíste en ella!"
 		],
 		"level4_boss_1_5": [
-			"Eres tan pequeño, pequeño oso, ¡puedo aplastarte tan fácilmente!"
+			"Eres tan pequeño, oso, ¡puedo aplastarte tan fácilmente!"
 		],
 		"level4_boss_2_1": [
-			"Muchas gracias por cuidar de él, era peligroso e imprevisible... um... a diferencia de mí, ¿no?"
+			"Muchas gracias por cuidar de él, era peligroso e impredecible... um... a diferencia de mí, ¿no?"
 		],
 		"level4_boss_2_2": [
 			"Tengo que admitir algo. Antes del incidente de la miel púrpura, alguien entró en mi casa una noche y robó parte de mi trabajo en el Kernel."
@@ -6766,13 +7540,13 @@
 			"Crogo salió del oasis a través de un túnel submarino porque necesitaba comer, pero acabó aquí."
 		],
 		"level4_crogo_3": [
-			"Crogo se comió unas ratas pero una de ellas tenía una cosa de metal y ahora le duele mucho la lata."
+			"Crogo se comió unas ratas pero una de ellas tenía una cosa de metal y ahora le duele mucho."
 		],
 		"level4_crogo_4": [
-			"Tal vez podrías entrar ahí y ver lo que te duele y quitarlo."
+			"Tal vez podrías entrar ahí, ver lo que le duele y quitarlo."
 		],
 		"level4_hairless_rat": [
-			"Hola, pequeño oso. Soy Violeta la rata calva. Las otras ratas son malas, me han desterrado porque no tengo pelo. No muerdo, sólo soy amable. Sólo quiero hacer amigos. ¿Eres mi amigo?"
+			"Hola, pequeño oso. Soy Violeta la rata calva. Las otras ratas son malas, me han desterrado porque no tengo pelo. No muerdo, soy amable. Sólo quiero hacer amigos. ¿Quieres ser mi amigo?"
 		],
 		"level4_intro_1": [
 			"Vaya, ser pequeño es muy extraño. ¡La casa parece enorme!"
@@ -6817,7 +7591,7 @@
 			"Si el juego va demasiado lento, echa un vistazo al menú de configuración."
 		],
 		"loading_10": [
-			"No dude en explorar el centro para encontrar cosas interesantes."
+			"No dudes en explorar el centro para encontrar cosas interesantes."
 		],
 		"loading_11": [
 			"Puedes conseguir muchas monedas jugando en el Mundo Arcade."
@@ -6844,7 +7618,7 @@
 			"Si quieres hacer speedrun, hay opciones para ello en el menú de pausa."
 		],
 		"loading_7": [
-			"¡Únase a la comunidad en el servidor Discord! El enlace está en el menú de pausa."
+			"¡Únete a la comunidad en el servidor Discord! El enlace está en el menú de pausa."
 		],
 		"loading_8": [
 			"Algunas cosas pueden ser destruidas con una carga de tierra."
@@ -6865,40 +7639,40 @@
 			"Tu objetivo es alcanzarme sin morir. Buena suerte."
 		],
 		"mission_1_1": [
-			"Bienvenidos a mi misión: ¡reunión! Pasa por cada anillo en orden y trata de terminar la ronda antes que yo. Buena suerte."
+			"Bienvenido a mi misión: ¡carrera! Pasa por cada anillo en orden y trata de terminar la ronda antes que yo. Buena suerte."
 		],
 		"mission_2_1": [
-			"Bienvenido a mi misión: ¡las acrobacias aéreas! Sube a un avión de papel y vuela a través de cada anillo en orden. Buena suerte."
+			"Bienvenido a mi misión: ¡vuelo en avión de papel! Sube a un avión de papel y vuela a través de cada anillo en orden. Buena suerte."
 		],
 		"mission_3_1": [
 			"Bienvenido a mi misión: ¡inundación! El agua comenzará a subir lentamente. ¡Quédate en el suelo para no ahogarte! Tu objetivo es llegar a mi pequeña caja flotante. Buena suerte."
 		],
 		"mission_4_1": [
-			"Bienvenidos a mi misión: ¡la búsqueda de huevos! Hay 3 huevos escondidos en este nivel."
+			"Bienvenido a mi misión: ¡búsqueda de huevos! Hay 3 huevos escondidos en este nivel."
 		],
 		"mission_4_2": [
 			"En cuanto los encuentres todos, tráemelos. Buena suerte."
 		],
 		"mission_5_1": [
-			"Bienvenido a mi misión: ¡problema eléctrico! Como pueden ver, la casa se ha inundado pero no se ha cortado la electricidad. Hay un interruptor en el armario bajo la escalera para cortar la corriente. Buena suerte."
+			"Bienvenido a mi misión: ¡problema eléctrico! Como puedes ver, la casa se ha inundado pero no se ha cortado la electricidad. Hay un interruptor en el armario bajo la escalera para cortar la corriente. Buena suerte."
 		],
 		"mission_6_1": [
-			"Bienvenido a mi misión: ¡el parkour! Esta misión es bastante sencilla, sólo tienes que seguir el camino para llegar a mí."
+			"Bienvenido a mi misión: ¡parkour! Esta misión es bastante sencilla, sólo tienes que seguir el camino para llegar a mí."
 		],
 		"mission_6_2": [
 			"Te sugiero que evites tocar el agua. Buena suerte."
 		],
 		"mission_airplane": [
-			"Vuelo en avion de papel"
+			"Vuelo en avión de papel"
 		],
 		"mission_egg": [
-			"Busqueda de huevos"
+			"Búsqueda de huevos"
 		],
 		"mission_electricity": [
-			"Problema electrico"
+			"Problema eléctrico"
 		],
 		"mission_flooding": [
-			"Inundacion"
+			"Inundación"
 		],
 		"mission_lava": [
 			"El suelo es lava"
@@ -6907,22 +7681,22 @@
 			"Parkour"
 		],
 		"mission_race": [
-			"Rally"
+			"Carrera"
 		],
 		"party_bee_1": [
-			"Siento haber herido a algunas personas, sólo seguíamos órdenes..."
+			"Siento haber herido a algunaszz personaszz, sólo seguíamoszz órdeneszz..."
 		],
 		"party_bee_2": [
-			"¿Cómo se llama a la Reina Mirabeja cuando el Rey Reno llega tarde a su cita?"
+			"¿Sabeszz qué hace una abeja en el gimnaszzio? ¡Zumba!"
 		],
 		"party_bee_3": [
-			"¡Vaya, has salvado a todos los osos! ¡Bien hecho! Debemos ser terribles para esconder los cajzzes."
+			"¡Vaya, haszz salvado a todos los ososzz! ¡Bien hecho! Somoszz terribleszz escondiendo cajaszzz."
 		],
 		"party_capitalos": [
-			"¿Te han invitado a la fiesta gratis?"
+			"¿Te han invitado gratis a esta fiesta?"
 		],
 		"party_capitalus": [
-			"Muchos clientes nuevos. ¡PIEDRAS!"
+			"Muchos clientes nuevos. ¡STONKS!"
 		],
 		"party_crocodile_1": [
 			"El aire es claramente más frío aquí que en el desierto."
@@ -6931,7 +7705,7 @@
 			"Es la primera vez que me meto en un río, ¡es curioso!"
 		],
 		"party_crocodile_3": [
-			"Las cascadas son impresionantes. Nunca había visto uno en mi vida."
+			"Las cascadas son impresionantes. Nunca había visto una en mi vida."
 		],
 		"party_crocodile_4": [
 			"Este lugar es hermoso... Estoy impresionado."
@@ -6940,10 +7714,10 @@
 			"¡Qué tienda más bonita!"
 		],
 		"party_fennec_2": [
-			"Reine Mirabeja es elefantiásica... er, quise decir hermosa."
+			"La Reina Mirabeja es elefantástica... er, quise decir hermosa."
 		],
 		"party_fennec_3": [
-			"Nunca he visto la hierba tan verde."
+			"Nunca he visto hierba así de verde."
 		],
 		"party_fennec_4": [
 			"¡Tienes tu propio desierto aquí!"
@@ -6958,7 +7732,7 @@
 			"¡Qué vista tan bonita!"
 		],
 		"party_queen": [
-			"¡Merszzi por salvar el reino! ¡Hemos ordenado fesztivitézzz a su intensidad, divertirse !"
+			"¡Graciaszz por salvar el reino! ¡Hicimos un feszztín para tí, diviértete!"
 		],
 		"party_reindeer_1": [
 			"¡Viva la Reina Mirabeja!"
@@ -6973,7 +7747,7 @@
 			"¡Fiesta! ¡Fiesta! ¡Fiesta! ¡Fiesta! ¡Fiesta!"
 		],
 		"party_turtle_1": [
-			"¿Qué dice una tortuga cuando se le enfrían los pies?"
+			"¿Por qué a las tortugas no les gusta la comida rápida? ¡Porque no pueden atraparla!"
 		],
 		"party_turtle_2": [
 			"¿Has visto mi teléfono tortuga?"
@@ -6985,10 +7759,34 @@
 			"¡Colores por doquier!"
 		],
 		"party_turtle_5": [
-			"Es muy bonito que las abejas hagan esta fiesta, pero no me devolverán la casa que destruyeron..."
+			"Es muy bonito que las abejas hagan esta fiesta, pero no me devolvieron la casa que destruyeron..."
 		],
 		"party_turtle_6": [
 			"He tardado 6 meses en llegar hasta aquí."
+		],
+		"photo_contribution": [
+			"Contribución de filtro"
+		],
+		"photo_dof": [
+			"Profundidad de campo"
+		],
+		"photo_guidelines": [
+			"Pautas"
+		],
+		"photo_iap_blocker": [
+			"Necesitas comprar SBA Gold para usar filtros en el modo foto"
+		],
+		"photo_save": [
+			"Salvar"
+		],
+		"photo_saved": [
+			"Una copia de esta foto ha sido salvada a"
+		],
+		"photo_take": [
+			"Tomar foto"
+		],
+		"photo_title": [
+			"Modo foto"
 		],
 		"rarity_common": [
 			"Común"
@@ -7024,19 +7822,19 @@
 			"Podría contarte más cosas sobre el Kernel, pero estoy un poco liado en este momento. Las abejas no sabían qué hacer con los cachorros, así que los encogieron y los escondieron en mi casa."
 		],
 		"scientist_cutscene_1_7": [
-			"¿Quizás pensaron que estaba abandonado o algo así? ¿Es tan sucio? En fin..."
+			"¿Quizás pensaron que estaba abandonada o algo así? ¿Está tan sucia? En fin..."
 		],
 		"scientist_cutscene_2_1": [
-			"Vale, todo este lío es por el Kernel. Tenemos que recuperarlo de la Reina Beeatrice y de quien sea ese oso púrpura..."
+			"Vale, todo este lío es por el Kernel. Tenemos que recuperarlo de la Reina Mirabeja y de quien sea ese oso púrpura..."
 		],
 		"scientist_cutscene_2_2": [
 			"Pero primero, ¡vamos a salvar a esos pobres bebés!"
 		],
 		"scientist_cutscene_3_1": [
-			"Son demasiado pequeños para poder abrir las jaulas yo mismo y la casa está infestada de ratas. Um, realmente no quiero entrar ahí..."
+			"Son demasiado pequeños como para poder abrir las jaulas y la casa está infestada de ratas. Yo... um... realmente no quiero entrar ahí..."
 		],
 		"scientist_cutscene_3_2": [
-			"Si eres lo suficientemente valiente como para salvarlos, puedo reducirte y dejarte entrar."
+			"Si eres lo suficientemente valiente como para salvarlos, puedo encogerte y dejarte entrar."
 		],
 		"shicka_0_1": [
 			"Siga las flechas azules hasta la entrada de Tortuciudad."
@@ -7114,7 +7912,7 @@
 			"Podríamos usar este cañón para subir las escaleras más rápido."
 		],
 		"shicka_4_4": [
-			"La llave está atascada en este cubo de hielo. Busquemos algo caliente para fundirlo."
+			"La llave está atascada en este cubo de hielo. Busquemos algo caliente para derretirlo."
 		],
 		"shicka_4_5": [
 			"Puedes hacer una carga de tierra para rebotar más alto."
@@ -7123,13 +7921,13 @@
 			"¡Una oruga gigante! Puedes subir a algún lugar para conseguir algo de altura y saltar sobre su espalda."
 		],
 		"shicka_hive_2": [
-			"Se acabó la oruga, ¡tenemos la sartén por el mango!"
+			"¡Se acabó oruga, tomamos al toro por los cuernos!"
 		],
 		"shicka_hive_3": [
 			"¡Si le damos a esas bolas púrpuras, podemos lanzárselas!"
 		],
 		"sticker_found": [
-			"¡Pegatina al descubierto!"
+			"¡Pegatina encontrada!"
 		],
 		"studio_help_1": [
 			"¡Hola y bienvenido a mi servicio de personalización de osos!"
@@ -7162,19 +7960,19 @@
 			"Sonido"
 		],
 		"tristopio_ad": [
-			"Consigue 5 auriculares"
+			"Consigue 5 cascos"
 		],
 		"tristopio_no_life": [
-			"¡Has perdido todos tus cascos! Puedes ver un anuncio para saber más."
+			"¡Has perdido todos tus cascos! Puedes ver un anuncio para obtener más."
 		],
 		"tristopio_practice": [
 			"Modo de pratica"
 		],
 		"tristopio_practice_info": [
-			"¡Has terminado esta misión! Puedes volver a jugar sin perder el casco."
+			"¡Has terminado esta misión! Puedes volver a jugar sin perder tus cascos."
 		],
 		"tristopio_start": [
-			"Lanzar la misión"
+			"Empezar la misión"
 		],
 		"tristopio_today": [
 			"Misión de hoy"
@@ -7264,7 +8062,7 @@
 			"Salir del mundo arcade"
 		],
 		"ui_arcade_stay": [
-			"Quédate aquí"
+			"Quedarse aquí"
 		],
 		"ui_arcade_world": [
 			"Mundo Arcade"
@@ -7276,10 +8074,10 @@
 			"Osos salvados"
 		],
 		"ui_best_time": [
-			"El mejor momento"
+			"Mejor tiempo"
 		],
 		"ui_bestcoins": [
-			"Disco de monedas :"
+			"Mayor cantidad de monedas recibidas :"
 		],
 		"ui_binding": [
 			"Configuracion de control/teclado"
@@ -7297,10 +8095,10 @@
 			"Cancelar"
 		],
 		"ui_capitalus_hint": [
-			"¿Es este nivel demasiado difícil? Intenta conseguir una bonificación de vida de Capitalus en el centro o mira un anuncio para revivir."
+			"¿Es este nivel muy difícil? Intenta conseguir una bonificación de vida de Capitalus en el centro o mira un anuncio para revivir."
 		],
 		"ui_cloud": [
-			"Ahorro en la nube"
+			"Guardado en la nube"
 		],
 		"ui_cloud_load": [
 			"Ver copias de seguridad en la nube"
@@ -7315,19 +8113,22 @@
 			"Detector de monedas"
 		],
 		"ui_coin_detector_confirm": [
-			"El detector de monedas está ahora activo."
+			"Ahora el detector de monedas está activo."
 		],
 		"ui_coin_detector_desc": [
 			"Una línea te muestra la dirección de la moneda más cercana / El efecto se detiene cuando sales del juego."
 		],
 		"ui_coins": [
-			"monedas"
+			"Monedas"
 		],
 		"ui_coins_found": [
 			"Monedas encontradas"
 		],
 		"ui_connected": [
 			"Conectado"
+		],
+		"ui_continue": [
+			"Continuar"
 		],
 		"ui_cosm_buy": [
 			"¿Quiere comprar//{0}//por {1} {2}?"
@@ -7336,7 +8137,7 @@
 			"Has desbloqueado un nuevo objeto:"
 		],
 		"ui_cosm_owned": [
-			"¡Ya tienes {1}{0}! ¡Has ganado {1} monedas en su lugar!"
+			"¡Ya tienes {0}! ¡Has ganado {1} monedas en su lugar!"
 		],
 		"ui_cosm_shop": [
 			"Tienda"
@@ -7363,19 +8164,7 @@
 			"Desconectado"
 		],
 		"ui_discord": [
-			"Discord oficial//Reunirse para recibir noticias sobre el desarrollo"
-		],
-		"ui_donator_1": [
-			"Usted ya es donante."
-		],
-		"ui_donator_2": [
-			"Compra con éxito. ¡Ahora eres un donante! Gracias."
-		],
-		"ui_donator_info": [
-			"Comprar el estado de donante te da acceso a://- apoyar al desarrollador del juego!//- no más publicidad sin recompensa// trajes exclusivos// monedas × 2 sin publicidad// vida máxima a 6// primera resurrección gratis"
-		],
-		"ui_donator_title": [
-			"Comprar la condición de donante"
+			"Discord oficial//Unirse para recibir noticias sobre el desarrollo"
 		],
 		"ui_empty": [
 			"Vacío"
@@ -7387,7 +8176,7 @@
 			"Salir del juego"
 		],
 		"ui_fancy_shaders": [
-			"Sombreadores avanzados"
+			"Shaders avanzados"
 		],
 		"ui_fast_restart": [
 			"Reinicio rápido"
@@ -7402,7 +8191,7 @@
 			"Contador de FPS"
 		],
 		"ui_framerate": [
-			"Velocidad de refresco"
+			"Velocidad de fotogramas"
 		],
 		"ui_freed": [
 			"Has liberado"
@@ -7410,7 +8199,9 @@
 		"ui_game_creator": [
 			"Juego creado por {0}"
 		],
-		"ui_game_over": [],
+		"ui_game_over": [
+			"Fin del juego"
+		],
 		"ui_go": [
 			"¡Ve!"
 		],
@@ -7468,7 +8259,7 @@
 		"ui_light_probes": [],
 		"ui_lightmaps": [],
 		"ui_load": [
-			"Carga"
+			"Cargando"
 		],
 		"ui_load_ad": [
 			"Cargando el anuncio..."
@@ -7494,17 +8285,23 @@
 		"ui_mission_win": [
 			"¡Misión exitosa!"
 		],
+		"ui_motion_blur": [
+			"Desenfoque de movimiento"
+		],
 		"ui_music": [
 			"Volumen de la música"
 		],
 		"ui_new_best": [
-			"(¡nuevo récord!)"
+			"(¡Nuevo récord!)"
 		],
 		"ui_next_mission": [
 			"Próxima misión en"
 		],
 		"ui_no_boost": [
-			"Salir sin el impulso de la moneda"
+			"Salir sin el bonus de la moneda"
+		],
+		"ui_none": [
+			"Ningúno"
 		],
 		"ui_open_shop": [
 			"Abrir la tienda"
@@ -7518,6 +8315,15 @@
 		"ui_performance": [
 			"Rendimiento"
 		],
+		"ui_photo_error_1": [
+			"Necesitas salvar a todos los osos en este nivel para usar el modo foto."
+		],
+		"ui_photo_error_2": [
+			"Durante una misión, sólo puedes usar el modo foto en el modo práctica."
+		],
+		"ui_photo_error_3": [
+			"Primero necesitas salvar al reino para poder usar el modo foto en la colmena."
+		],
 		"ui_progression": [
 			"Progresión: {0}%"
 		],
@@ -7525,7 +8331,7 @@
 			"Calidad"
 		],
 		"ui_quality0": [
-			"Bajo"
+			"Baja"
 		],
 		"ui_quality1": [
 			"Normal"
@@ -7561,7 +8367,7 @@
 			"Invertir"
 		],
 		"ui_revive": [
-			"Resucitar"
+			"Revivir"
 		],
 		"ui_save": [
 			"Guardar como"
@@ -7585,7 +8391,7 @@
 			"Más información en futuras actualizaciones..."
 		],
 		"ui_shopinfo": [
-			"Premios que quieres ganar?//¡Ve un anuncio y Capitalus te lo dará!"
+			"¿Quieres ganar premios?//¡Mira un anuncio y Capitalus te los dará!"
 		],
 		"ui_skip": [
 			"Saltar"
@@ -7594,7 +8400,7 @@
 			"Modo Speedrun"
 		],
 		"ui_start": [
-			"Inicie"
+			"Empezar"
 		],
 		"ui_stickers_found": [
 			"Pegatinas encontradas"
@@ -7627,10 +8433,10 @@
 			"Versión {0}"
 		],
 		"ui_watch": [
-			"Ver"
+			"Mirar"
 		],
 		"ui_watch_trailer": [
-			"Vea el tráiler en YouTube"
+			"Mira el tráiler en YouTube"
 		],
 		"ui_website": [
 			"Visite el sitio web/la tienda"
@@ -7950,7 +8756,7 @@
 			"Sans tête"
 		],
 		"cosmetic_047": [
-			"T-shirt (donateur)"
+			"T-shirt SBA"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -7983,7 +8789,7 @@
 			"Crâne"
 		],
 		"cosmetic_058": [
-			"Couronne de donateur"
+			"Couronne royale"
 		],
 		"cosmetic_059": [
 			"Tête d'œuf"
@@ -8067,7 +8873,7 @@
 			"Shicka à ressort"
 		],
 		"cosmetic_086": [
-			"Chapeau breton"
+			"Nuage breton"
 		],
 		"cosmetic_087": [
 			"Cape (rouge)"
@@ -8123,8 +8929,131 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Vision noire"
+		],
+		"cosmetic_106": [
+			"Oiseau apprivoisé"
+		],
+		"cosmetic_107": [
+			"Violette apprivoisée"
+		],
+		"cosmetic_108": [
+			"Empreintes magiques"
+		],
 		"cosmetic_default": [
 			"Défaut"
+		],
+		"filter_00": [
+			"Pas de filtre"
+		],
+		"filter_01": [
+			"Cinématique"
+		],
+		"filter_02": [
+			"Effrayant"
+		],
+		"filter_03": [
+			"Intense"
+		],
+		"filter_04": [
+			"Dramatique"
+		],
+		"filter_05": [
+			"Flashback"
+		],
+		"filter_06": [
+			"Coloré"
+		],
+		"filter_07": [
+			"Été"
+		],
+		"filter_08": [
+			"Coup de soleil"
+		],
+		"filter_09": [
+			"Confortable"
+		],
+		"filter_10": [
+			"Frais"
+		],
+		"filter_11": [
+			"Glacier"
+		],
+		"filter_12": [
+			"Âgé"
+		],
+		"filter_13": [
+			"Aplat"
+		],
+		"filter_14": [
+			"Nocturne"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Postérisation"
+		],
+		"filter_17": [
+			"Parc à thèmes"
+		],
+		"filter_18": [
+			"Niveau de gris"
+		],
+		"filter_19": [
+			"Vieux film"
+		],
+		"filter_20": [
+			"Film noir"
+		],
+		"filter_21": [
+			"Rouge seulement"
+		],
+		"filter_22": [
+			"Vert seulement"
+		],
+		"filter_23": [
+			"Bleu seulement"
+		],
+		"filter_24": [
+			"Sépia"
+		],
+		"filter_25": [
+			"Violet"
+		],
+		"filter_26": [
+			"Feu"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Binaire"
+		],
+		"filter_29": [
+			"Étrange"
+		],
+		"filter_30": [
+			"Folie"
+		],
+		"filter_31": [
+			"Détection de chaleur"
+		],
+		"filter_32": [
+			"Arc-en-ciel"
+		],
+		"filter_33": [
+			"Vision de robot"
+		],
+		"filter_34": [
+			"Négatif 1"
+		],
+		"filter_35": [
+			"Négatif 2"
+		],
+		"filter_36": [
+			"Monde néonisé"
 		],
 		"help_birds": [
 			"Désactiver les oiseaux améliore les performances"
@@ -8161,6 +9090,9 @@
 		],
 		"help_lightmaps": [
 			"Les Lightmaps sont utilisées pour afficher la lumière pré-calculée sur les objets statiques. Cette option peut être utile sur les vieux appareils mais n'affecte pas les performances"
+		],
+		"help_motion_blur": [
+			"Les objets qui se déplacent rapidement doivent-ils être flous ? Désactiver ceci améliore les performances"
 		],
 		"help_shicka_tips": [
 			"Montre les conseils de Shicka"
@@ -8360,8 +9292,53 @@
 		"hub_tristopio": [
 			"Bonjour à toi ! Tu es à la recherche d'une mission sympa ? Je crois que j'ai ce qu'il te faut !"
 		],
+		"iap_noads_desc_1": [
+			"<h>Plus aucune publicité</h> entre les niveaux !"
+		],
+		"iap_noads_desc_2": [
+			"Les publicités récompensées seront toujours disponibles."
+		],
+		"iap_noads_status_1": [
+			"Tu as déjà retiré les publicités !"
+		],
+		"iap_noads_status_2": [
+			"Achat réussi ! Les publicités ont été retirées ! Merci !"
+		],
+		"iap_noads_title": [
+			"Retirer les publicités"
+		],
+		"iap_premium_desc_1": [
+			"Inclus dans SBA Gold :"
+		],
+		"iap_premium_desc_2": [
+			"<h>Retire les pubs</h> non désirées"
+		],
+		"iap_premium_desc_3": [
+			"Débloque des <h>articles exclusifs</h>"
+		],
+		"iap_premium_desc_4": [
+			"Débloque des <h>filtres pour le Mode Photo</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>Pièces × 2</h> sans pub"
+		],
+		"iap_premium_desc_6": [
+			"<h>Double</h> la <h>santé</h> maximale"
+		],
+		"iap_premium_desc_7": [
+			"Première <h>résurrection gratuite</h>"
+		],
+		"iap_premium_status_1": [
+			"Tu as déjà SBA Gold !"
+		],
+		"iap_premium_status_2": [
+			"Achat réussi ! Tu as maintenant SBA Gold ! Merci !"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
+		],
 		"intro_1_1": [
-			"Pendant des siècles, il était un royaume dans lequel des créatures vivaient en paix sous le règne de la dynastie des Abeilles."
+			"Pendant des siècles, il était un royaume dans lequel des créatures vivaient en paix sous le règne de la dynastie des abeilles."
 		],
 		"intro_1_2": [
 			"Reine Mirabeille, la reine des abeilles, était une dirigeante adorée, elle était juste et appréciée de tous. L'équilibre entre toutes les créatures était parfait."
@@ -8490,7 +9467,7 @@
 			"En tout cas, nous devrions sauver cet ours et ensuite enquêter sur le Désert Beemothep."
 		],
 		"level2_boss_5": [
-			"La dynastie des Abeilles a commencé là, peut-être que nous pourrions trouver des réponses dans la Grande Pyramide de Beemothep."
+			"La dynastie des abeilles a commencé là, peut-être que nous pourrions trouver des réponses dans la Grande Pyramide de Beemothep."
 		],
 		"level2_intro_1": [
 			"La Vallée des Neiges a aussi subi l'attaque des abeilles."
@@ -8879,6 +9856,30 @@
 		"party_turtle_6": [
 			"Il m'a fallu 6 mois pour monter ici."
 		],
+		"photo_contribution": [
+			"Contribution du filtre"
+		],
+		"photo_dof": [
+			"Profondeur de champ"
+		],
+		"photo_guidelines": [
+			"Guides"
+		],
+		"photo_iap_blocker": [
+			"Tu dois acheter SBA Gold pour utiliser les filtres dans le Mode Photo."
+		],
+		"photo_save": [
+			"Sauvegarder"
+		],
+		"photo_saved": [
+			"Une copie de cette photo a été sauvgardée dans"
+		],
+		"photo_take": [
+			"Prendre une photo"
+		],
+		"photo_title": [
+			"Mode Photo"
+		],
 		"rarity_common": [
 			"Commun"
 		],
@@ -9027,7 +10028,7 @@
 			"Dans la boutique, tu peux acheter de nouveaux articles en échanges de pièces. De nouveaux articles sont disponibles toutes les 6 heures. Tu peux aussi ouvrir une lootbox pour obtenir un article aléatoire qui peut ne pas être dans la boutique."
 		],
 		"studio_help_3": [
-			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et donateur (vert). Les articles de donateurs peuvent être obtenus à la boutique de mon frère."
+			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et légendaire (doré). Les articles légendaires peuvent être obtenus à la boutique de mon frère."
 		],
 		"studio_help_4": [
 			"Tristopio, c'est le lapin rose sur l'autre rive, ses articles sont un peu... spéciaux. Au fait, tout ce que tu débloques peut être équipé ici, gratis."
@@ -9218,6 +10219,9 @@
 		"ui_connected": [
 			"Connecté"
 		],
+		"ui_continue": [
+			"Continuer"
+		],
 		"ui_cosm_buy": [
 			"Veux-tu acheter//{0}//pour {1} {2} ?"
 		],
@@ -9253,18 +10257,6 @@
 		],
 		"ui_discord": [
 			"Discord officiel//Rejoins pour des nouvelles du développement"
-		],
-		"ui_donator_1": [
-			"Tu es déjà donateur."
-		],
-		"ui_donator_2": [
-			"Achat réussi. Tu es maintenant un donateur ! Merci !"
-		],
-		"ui_donator_info": [
-			"Acheter le statut donateur te donnes accès à ://- soutenir le développeur du jeu !//- plus de publicité non récompensée//- des costumes exclusifs//- pièces × 2 sans publicité//- une vie maximale à 6//- une première résurrection gratuite"
-		],
-		"ui_donator_title": [
-			"Acheter le statut donateur"
 		],
 		"ui_empty": [
 			"Vide"
@@ -9385,6 +10377,9 @@
 		"ui_mission_win": [
 			"Mission réussie !"
 		],
+		"ui_motion_blur": [
+			"Flou cinétique"
+		],
 		"ui_music": [
 			"Volume de la musique"
 		],
@@ -9397,6 +10392,9 @@
 		"ui_no_boost": [
 			"Quitter sans boost de pièces"
 		],
+		"ui_none": [
+			"Aucun"
+		],
 		"ui_open_shop": [
 			"Ouvrir la boutique"
 		],
@@ -9408,6 +10406,15 @@
 		],
 		"ui_performance": [
 			"Performance"
+		],
+		"ui_photo_error_1": [
+			"Tu dois sauver chaque ours de ce niveau pour utiliser le Mode Photo."
+		],
+		"ui_photo_error_2": [
+			"Pendant une mission, tu ne peux utiliser le Mode Photo que en mode entraînement."
+		],
+		"ui_photo_error_3": [
+			"Tu dois sauver le royaume d'abord pour utiliser le Mode Photo dans la Ruche."
 		],
 		"ui_progression": [
 			"Progression : {0}%"
@@ -9565,7 +10572,7 @@
 			"Setiap kali kamu terjatuh, platform parkour akan dibuat secara acak lagi."
 		],
 		"arcade_2_3": [
-			"Setiap 15 platform, jenis parkour akan berubah. Jenis-jenis yang ada sekarang: normal, dinding, air, es batu dan ritme."
+			"Setiap 15 platform, jenis parkour akan berubah. Jenis-jenis yang ada sekarang: normal, dinding, air, es batu dan irama."
 		],
 		"arcade_3_1": [
 			"Game Batang Berputar adalah tentang menghindari duri-duri selagi batang berputar. Hindari terlempar dari platform!"
@@ -9600,9 +10607,7 @@
 		"binding_alt_2": [
 			"Tombol alternatif 2"
 		],
-		"binding_axis": [
-			"Axis"
-		],
+		"binding_axis": [],
 		"binding_button": [
 			"Tombol"
 		],
@@ -9625,7 +10630,7 @@
 			"Golem Kura-kura"
 		],
 		"boss_yeti": [
-			"Sang Yeti"
+			"Yeti"
 		],
 		"char_baaren": [],
 		"char_bear_01": [],
@@ -9672,16 +10677,12 @@
 			"Buaya"
 		],
 		"char_crogo": [],
-		"char_fennec": [
-			"Fennec"
-		],
+		"char_fennec": [],
 		"char_maybee": [],
 		"char_mouse": [
 			"Curut"
 		],
-		"char_penguin": [
-			"Penguin"
-		],
+		"char_penguin": [],
 		"char_queen": [
 			"Ratu Beeatrice"
 		],
@@ -9709,15 +10710,11 @@
 		"cosmetic_003": [
 			"Topi (biru)"
 		],
-		"cosmetic_004": [
-			"Unicorn"
-		],
+		"cosmetic_004": [],
 		"cosmetic_005": [
 			"Rambut punk"
 		],
-		"cosmetic_006": [
-			"Fez"
-		],
+		"cosmetic_006": [],
 		"cosmetic_007": [
 			"Mahkota"
 		],
@@ -9839,11 +10836,9 @@
 			"Tanpa kepala"
 		],
 		"cosmetic_047": [
-			"Kemeja (donator)"
+			"Kaos SBA"
 		],
-		"cosmetic_048": [
-			"Panda"
-		],
+		"cosmetic_048": [],
 		"cosmetic_049": [
 			"Kepala Capitalus"
 		],
@@ -9865,14 +10860,12 @@
 		"cosmetic_055": [
 			"Labu"
 		],
-		"cosmetic_056": [
-			"Jack O'Lantern"
-		],
+		"cosmetic_056": [],
 		"cosmetic_057": [
 			"Tengkorak"
 		],
 		"cosmetic_058": [
-			"Mahkota donator"
+			"Mahkota kerajaan"
 		],
 		"cosmetic_059": [
 			"Kepala telur"
@@ -9929,7 +10922,7 @@
 			"Jaket (denim)"
 		],
 		"cosmetic_077": [
-			"Penguin Shicka"
+			"Shicka Penguin"
 		],
 		"cosmetic_078": [
 			"Shicka Beruang"
@@ -9979,9 +10972,7 @@
 		"cosmetic_093": [
 			"Shicka Kosmik"
 		],
-		"cosmetic_094": [
-			"IMABEAR"
-		],
+		"cosmetic_094": [],
 		"cosmetic_095": [
 			"Syal (merah)"
 		],
@@ -10009,11 +11000,124 @@
 		"cosmetic_103": [
 			"Kepala Kucing"
 		],
-		"cosmetic_104": [
-			"Deal with it"
+		"cosmetic_104": [],
+		"cosmetic_105": [
+			"Penglihatan Noire"
+		],
+		"cosmetic_106": [
+			"Burung peliharaan"
+		],
+		"cosmetic_107": [
+			"Violette"
+		],
+		"cosmetic_108": [
+			"Jejak ajaib"
 		],
 		"cosmetic_default": [
-			"Standar"
+			"Bawaan"
+		],
+		"filter_00": [
+			"Tanpa Filter"
+		],
+		"filter_01": [
+			"Sinematik"
+		],
+		"filter_02": [
+			"Menakutkan"
+		],
+		"filter_03": [
+			"Intens"
+		],
+		"filter_04": [
+			"Dramatis"
+		],
+		"filter_05": [
+			"Kilas Balik"
+		],
+		"filter_06": [
+			"Penuh Warna"
+		],
+		"filter_07": [
+			"Musim Panas"
+		],
+		"filter_08": [
+			"Sengatan Matahari"
+		],
+		"filter_09": [
+			"Nyaman"
+		],
+		"filter_10": [
+			"Segar"
+		],
+		"filter_11": [
+			"Gletser"
+		],
+		"filter_12": [
+			"Tua"
+		],
+		"filter_13": [
+			"Datar"
+		],
+		"filter_14": [
+			"Malam"
+		],
+		"filter_15": [],
+		"filter_16": [
+			"Posterisasi"
+		],
+		"filter_17": [
+			"Negeri Permen"
+		],
+		"filter_18": [
+			"Abu-abu"
+		],
+		"filter_19": [
+			"Film Lama"
+		],
+		"filter_20": [],
+		"filter_21": [
+			"Hanya Merah"
+		],
+		"filter_22": [
+			"Hanya Hijau"
+		],
+		"filter_23": [
+			"Hanya Biru"
+		],
+		"filter_24": [],
+		"filter_25": [
+			"Ungu"
+		],
+		"filter_26": [
+			"Api"
+		],
+		"filter_27": [],
+		"filter_28": [
+			"Biner"
+		],
+		"filter_29": [
+			"Aneh"
+		],
+		"filter_30": [
+			"Kegilaan"
+		],
+		"filter_31": [
+			"Panas"
+		],
+		"filter_32": [
+			"Pelangi"
+		],
+		"filter_33": [
+			"Penglihatan Robot"
+		],
+		"filter_34": [
+			"Negatif 1"
+		],
+		"filter_35": [
+			"Negatif 2"
+		],
+		"filter_36": [
+			"Dunia Neon"
 		],
 		"help_birds": [
 			"Menonaktifkan burung meningkatkan performa."
@@ -10037,19 +11141,22 @@
 			"Mengubah jenis kontrol kendaraan (giroskop = memiringkan perangkat)"
 		],
 		"help_hide_inputs": [
-			"Menyembunyikan tombol layar sentuh (berguna ketika bermain menggunakan controller)"
+			"Menyembunyikan tombol layar sentuh (berguna saat bermain menggunakan controller)"
 		],
 		"help_invert_camera": [
 			"Membalikkan kontrol kamera"
 		],
 		"help_key_help": [
-			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang cocok."
+			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang sesuai."
 		],
 		"help_light_probes": [
 			"Probe cahaya akan digunakan untuk menampilkan pencahayaan pada objek bergerak. Opsi ini dapat berguna pada perangkat yang lebih tua dan tidak mempengaruhi performa."
 		],
 		"help_lightmaps": [
 			"Lightmaps akan digunakan untuk menampilkan pencahayaan pada objek statis. Opsi ini dapat berguna pada perangkat yang lebih tua dan tidak mempengaruhi performa."
+		],
+		"help_motion_blur": [
+			"Haruskah objek yang bergerak cepat menjadi kabur? Menonaktifkan ini meningkatkan performa."
 		],
 		"help_shicka_tips": [
 			"Menunjukkan tips dari Shicka."
@@ -10064,7 +11171,7 @@
 			"Aku sedang menunggumu... Baaren. Tempat yang indah untuk bertemu lagi."
 		],
 		"hive_boss_1_2": [
-			"Kau membebaskan beruang-beruang itu hanya untuk menghancurkan usahaku. Jika para beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa merebut kembali kekuasaan yang pernah kita miliki."
+			"Kau membebaskan beruang-beruang itu hanya untuk menghancurkan usahaku. Jika para beruang mengendalikan kerajaan, kita akan memiliki semua yang kita inginkan. Kita bisa mendapatkan kembali kekuasaan yang pernah kita miliki."
 		],
 		"hive_boss_1_3": [
 			"Sayangnya, teman-teman beruangku lebih memilih perdamaian dan ingin hidup dengan hewan lain sebagai setara. Ini menyedihkan, betapa kurangnya ambisi. Bahkan kau, saudaraku sendiri, mengkhianatiku."
@@ -10094,7 +11201,7 @@
 			"Baiklah, Shicka. Saatnya untuk melawan diriku yang sebenarnya!"
 		],
 		"hive_ending_1": [
-			"Maaf aku melawanmu, beruang sayangku. Aku bukan diriku sendiri di sana, Kernel itu... bertindak di pikiranku."
+			"Maafkan aku karena telah melawanmu, beruangku sayang. Aku bukan diriku sendiri di sana, Kernel itu... bertindak di pikiranku."
 		],
 		"hive_ending_2": [
 			"Dari yang terlihat, Kernel itu meledak saat menabrak sarang lebah sewaktu turun ke bawah... Kami diteleportasi ke sini entah bagaimana, tapi saudaramu mungkin sudah berakhir di tempat lain."
@@ -10103,7 +11210,7 @@
 			"Sarang lebah sudah tidak ada lagi, tapi sekarang setelah aku bebas, aku akan menutup pabrik madu ungu dan mengembalikan kedamaian di kerajaanku."
 		],
 		"hive_ending_4": [
-			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semua orang. Mari berkumpul di desa beruang!"
+			"Terima kasih telah menyelamatkanku Baaren. Terima kasih telah menyelamatkan semuanya. Mari berkumpul di desa beruang!"
 		],
 		"hive_maybee": [
 			"Beruang sangat mengerikan tapi mungkin aku bisa mendapatkan keuntungan darimu. Aku sibuk melakukan bisnis."
@@ -10142,13 +11249,13 @@
 			"Terima kasih karena telah menyelamatkanku dari gua golem!"
 		],
 		"hub_bear_02": [
-			"Lihatlah platform batu di belakangku, kamu dapat pergi ke sana untuk mengubah kostummu."
+			"Lihatlah platform batu di belakangku, kamu bisa pergi ke sana untuk mengganti kostummu."
 		],
 		"hub_bear_03": [
 			"Aku ingin tahu di mana Ratu Lebah yang sebenarnya..."
 		],
 		"hub_bear_04": [
-			"Kau pasti telah memakan banyak waktu untuk menemukan semua koin di Desa Kura-kura!"
+			"Kau pasti telah menghabiskan banyak waktu untuk menemukan semua koin di Desa Kura-kura!"
 		],
 		"hub_bear_05": [
 			"Pengorbanan diri adalah syarat kebajikan."
@@ -10175,7 +11282,7 @@
 			"Mungkin kita juga harus membawa para penguin ke sini untuk menyelamatkan mereka?"
 		],
 		"hub_bear_13": [
-			"Teka teki itu cukup susah ya?"
+			"Teka teki itu sangat susah, ya?"
 		],
 		"hub_bear_14": [
 			"Vladimir tidak takut monster di bawah salju."
@@ -10190,10 +11297,10 @@
 			"Aku senang aku akhirnya bisa kembali ke sini, sudah terlalu lama aku terkurung di piramida itu."
 		],
 		"hub_bear_18": [
-			"Binatang Fennec begitu menggemaskan, aku mau pelihara satu!"
+			"Binatang Fennec sangat menggemaskan, aku mau pelihara satu!"
 		],
 		"hub_bear_19": [
-			"Nenek moyang kita adalah pelindung gurun, tapi kami kembali ke tempat ini setelah beberapa generasi."
+			"Nenek moyang kami adalah pelindung gurun, tapi kami kembali ke tempat ini setelah beberapa generasi."
 		],
 		"hub_bear_20": [
 			"Kau pasti sudah mengenal daerah gurun itu seperti punggung tanganmu sekarang, karena kau sudah menemukan semua koin nya!"
@@ -10202,13 +11309,13 @@
 			"Ratu Lebah sedang mempersiapkan sesuatu yang mengerikan, dia pergi ke gurun untuk mempersiapkan unsur terakhir dari rencananya."
 		],
 		"hub_bear_22": [
-			"Dinding itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin para lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
+			"Tembok itu mungkin dibangun untuk menguji madu ungu sebelum digunakan di seluruh kerajaan. Atau mungkin para lebah berusaha untuk melindungi diri dari sesuatu? Siapa tahu?"
 		],
 		"hub_bear_23": [
-			"Sebuah legenda mengatakan bahwa piramida itu berisi peninggalan yang memberikan kekuatan besar untuk pemiliknya. Kuharap peninggalan itu tidak benar keadaanya..."
+			"Sebuah legenda mengatakan bahwa piramida itu berisi peninggalan yang memberikan kekuatan besar untuk pemiliknya. Kuharap peninggalan itu tidak benar-benar ada..."
 		],
 		"hub_bear_24": [
-			"Pembangunan tembok itu mungkin pekerjaan yang luar biasa, lebah pasti punya alasan yang penting untuk membangun itu."
+			"Pembangunan tembok itu mungkin adalah pekerjaan yang luar biasa, para lebah pasti punya alasan yang penting untuk membangunnya."
 		],
 		"hub_bear_25": [
 			"*suara bayi senang*"
@@ -10226,7 +11333,7 @@
 			"*menatap dengan bingung*"
 		],
 		"hub_bear_30": [
-			"Abacadaba!"
+			"Abakadaba!"
 		],
 		"hub_bear_31": [
 			"*kentut*"
@@ -10249,6 +11356,49 @@
 		"hub_tristopio": [
 			"Halo yang disana! Apa kau sedang mencari sebuah misi keren? Sepertinya aku punya apa yang kau cari!"
 		],
+		"iap_noads_desc_1": [
+			"<h>Tidak ada lagi iklan yang tidak diinginkan</h> antar level!"
+		],
+		"iap_noads_desc_2": [
+			"Iklan berhadiah akan masih ada."
+		],
+		"iap_noads_status_1": [
+			"Kamu sudah menghapus iklan!"
+		],
+		"iap_noads_status_2": [
+			"Pembelian berhasil! Sekarang iklan telah dihapus! Terima kasih!"
+		],
+		"iap_noads_title": [
+			"Hapus iklan"
+		],
+		"iap_premium_desc_1": [
+			"Dalam SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Menghapus</h> iklan<h>yang tidak diinginkan</h>"
+		],
+		"iap_premium_desc_3": [
+			"Membuka barang-barang <h>eksklusif</h>"
+		],
+		"iap_premium_desc_4": [
+			"Membuka <h>Filter dalam Mode Foto</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>koin 2×</h> tanpa iklan"
+		],
+		"iap_premium_desc_6": [
+			"<h>Menggandakan</h> nyawa <h>maksimum</h>"
+		],
+		"iap_premium_desc_7": [
+			"Menghidupkan kembali pertama <h>secara gratis</h>"
+		],
+		"iap_premium_status_1": [
+			"Kamu sudah membeli SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Pembelian berhasil! Sekarang kamu punya SBA Gold! Terima kasih!"
+		],
+		"iap_premium_title": [],
 		"intro_1_1": [
 			"Selama berabad-abad, ada sebuah kerajaan di mana makhluk hidup dalam kedamaian di bawah kekuasaan dinasti Lebah."
 		],
@@ -10271,7 +11421,7 @@
 			"Tak lama kemudian, para lebah menyadari bahwa beruang secara misterius tidak terpengaruh oleh madu ungu."
 		],
 		"intro_3_2": [
-			"Perlawanan ini menyebabkan kerugian mereka: para lebah menyerbu Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
+			"Perlawanan ini menyebabkan kekalahan mereka: para lebah menyerang Desa Beruang dan memenjarakan mereka untuk mencegah pemberontakan."
 		],
 		"intro_4_1": [
 			"Untungnya, seekor beruang berhasil menghindari serangan itu. Tetapi sekarang, nasib rakyat berada di pundaknya."
@@ -10295,13 +11445,13 @@
 			"Awas, dia menyerangmu!"
 		],
 		"level1_boss_2_1": [
-			"Kau berhasil, kerja bagus! Kau bisa mengambil kuncinya dan datang ke sini untuk membebaskanku."
+			"Kau berhasil, kerja bagus! Kau dapat mengambil kuncinya dan datang ke sini untuk membebaskanku."
 		],
 		"level1_boss_2_2": [
 			"Ngomong-ngomong, aku melihat saudaramu di sini sebelumnya hari ini, dia kelihatannya tidak begitu sehat. Aku harap kau akan menemukannya."
 		],
 		"level1_boss_2_3": [
-			"Aku ingin tahu apa yang dilakukan saudaramu di sini. Aku belum melihatnya untuk beberapa saat, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
+			"Aku ingin tahu apa yang dilakukan saudaramu di sini. Aku sudah lama tidak melihatnya, mungkin dia sedang hibernasi. Kita harus mencarinya di Lembah Salju, itu adalah tujuan berikutnya dari sini."
 		],
 		"level1_intro_1": [
 			"Desa Kura-kura adalah tempat yang indah sebelum kejadian baru-baru ini."
@@ -10331,7 +11481,7 @@
 			"Gua Golem"
 		],
 		"level1_sign_6": [
-			"Kamu perlu menemukan setidaknya 125 koin dari 150 di level ini untuk membuka kandang ini."
+			"Kamu perlu menemukan setidaknya 125 dari 150 koin di level ini untuk membuka kandang ini."
 		],
 		"level1_stair_cutscene_1": [
 			"Para Kura-kura menutup jalan ke bagian atas desa ini untuk mengisolasi para Kura-kura yang terkontaminasi."
@@ -10340,7 +11490,7 @@
 			"Penduduk desa ketakutan, kau harus membantu kami!"
 		],
 		"level1_turtle_2": [
-			"Ayahku makan madu berwarna ungu yang aneh itu dan sejak saat itu dia menjadi sangat jahat, kau harus menyelamatkannya!"
+			"Sejak ayahku memakan madu ungu yang aneh ini, dia menjadi sangat jahat... kau harus menyelamatkannya!"
 		],
 		"level1_turtle_3": [
 			"Aku lebih memilih untuk tinggal di rumah saja, hal-hal aneh terjadi di luar sana..."
@@ -10358,7 +11508,7 @@
 			"Sang Pertapa biasanya menceritakan kisah tentang suatu gua bawah air di Danau sebelum dia dibawa oleh para lebah..."
 		],
 		"level1_tutorial_1": [
-			"Ada kandang beruang yang tersebar di sekitar area ini. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci nya seharusnya berada di dekat kandang."
+			"Ada kandang beruang yang tersebar di sekitar area ini. Setiap kandang memiliki kuncinya sendiri, jadi kita harus menemukannya terlebih dahulu. Kunci nya seharusnya berada di sekitar kandang."
 		],
 		"level1_tutorial_2": [
 			"Setelah kita membebaskan cukup banyak teman kita, kita akan dapat membuka gerbang ini."
@@ -10481,10 +11631,10 @@
 			"Ribuan tahun yang lalu, nenek moyangku adalah hamba para lebah. Mereka membangun piramida untuk salah satu ratu terbesar."
 		],
 		"level3_fennec_6": [
-			"Beberapa tahun yang lalu, beberapa lebah mulai membangun dinding raksasa ini tanpa pengetahuan sang ratu. Mereka sudah mulai menyiapkan sesuatu bahkan sebelum penculikan sang ratu!"
+			"Beberapa tahun yang lalu, beberapa lebah mulai membangun tembok raksasa ini tanpa pengetahuan sang ratu. Mereka sudah mulai menyiapkan sesuatu bahkan sebelum penculikan sang ratu!"
 		],
 		"level3_fennec_7": [
-			"Keluargaku ingin kabur dari daerah ini setelah kedatangan madu ungu itu, tapi tembok itu mencegah kami untuk melakukannya."
+			"Keluargaku ingin kabur dari daerah ini setelah kedatangan madu ungu itu, tapi tembok ini mencegah kami untuk melakukannya."
 		],
 		"level3_fennec_8": [
 			"Pada zaman kuno, sebelum kedatangan dinasti lebah, beruang membawa perdamaian ke gurun ini. Buktinya, ada banyak patung beruang di gurun ini."
@@ -10496,7 +11646,7 @@
 			"Kita bisa pergi dan menjelajahi mata air, Desa Buaya, Desa Fennec, banyak reruntuhan, kuil, dan banyak hal lainnya!"
 		],
 		"level3_intro_3": [
-			"Para lebah tampaknya telah membangun tembok di sekitaran desa. Mereka tertarik dengan piramida. Tanya para penduduk untuk mendapatkan informasi."
+			"Para lebah tampaknya telah membangun tembok di sekitaran desa-desa. Mereka tertarik dengan piramida. Tanya para penduduk untuk mendapatkan informasi."
 		],
 		"level3_intro_4": [
 			"Untuk menjelajahi gurun ini, kita akan menggunakan motor quad ini. Saat menyetir, gunakan kendali udara untuk menghindari terjungkir balik."
@@ -10586,7 +11736,7 @@
 			"Aku paling jago dalam permainan petak umpet!"
 		],
 		"level4_mouse_8": [
-			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantulkan di atas bantal."
+			"Aku melihat kunci di rak-rak itu. Aku pikir kamu bisa mencapainya dengan memantul di atas bantal."
 		],
 		"level4_sign_1": [
 			"Kamu perlu menemukan setidaknya 175 koin dari 200 di level ini untuk membuka kandang ini."
@@ -10595,10 +11745,10 @@
 			"Jika game berjalan terlalu lambat, coba lihat menu pengaturan."
 		],
 		"loading_10": [
-			"Jangan ragu untuk mengeksplorasi hub untuk menemukan beberapa hal menarik."
+			"Jangan ragu untuk menjelajahi hub untuk menemukan beberapa hal menarik!"
 		],
 		"loading_11": [
-			"Kamu bisa mendapatkan banyak koin dengan bermain di Dunia Arcade."
+			"Kamu bisa mendapatkan banyak koin dengan bermain di Dunia Arkade."
 		],
 		"loading_12": [
 			"Perhatikan meteran oksigen ketika di bawah air, beruang juga perlu bernapas!"
@@ -10616,7 +11766,7 @@
 			"Kamu dapat menyerang musuh dengan memukul, berseluncur atau menginjak kepala mereka."
 		],
 		"loading_5": [
-			"Capitalus dapat memberikan bonus jika suatu level terlalu sulit..."
+			"Capitalus dapat memberikanmu bonus jika sebuah level terlalu sulit..."
 		],
 		"loading_6": [
 			"Jika kamu ingin speedrun, ada pengaturan nya di menu pause."
@@ -10625,7 +11775,7 @@
 			"Bergabunglah dengan komunitas kami di Discord! Link nya ada di menu pause."
 		],
 		"loading_8": [
-			"Beberapa hal dapat dihancurkan dengan menghentakkan perut."
+			"Beberapa hal bisa dihancurkan dengan menghentakkan perut."
 		],
 		"loading_9": [
 			"Gunakan koin mu di hub untuk membuka pakaian baru!"
@@ -10634,7 +11784,7 @@
 			"Tersedia sekarang di {0}"
 		],
 		"mission_0_1": [
-			"Selamat datang di misi lantai adalah lava milikku! Kalau kamu menyentuh daratan, kamu akan kehilangan satu nyawa dan kembali ke checkpoint sebelumnya."
+			"Selamat datang di misi lantai lava milikku! Kalau kamu menyentuh tanah, kamu akan kehilangan satu nyawa dan kembali ke checkpoint sebelumnya."
 		],
 		"mission_0_2": [
 			"Nyawa tidak akan muncul kembali, jadi gunakan dengan bijak. Beruang biru itu adalah checkpoint yang dapat diaktifkan dengan menyentuhnya."
@@ -10652,7 +11802,7 @@
 			"Selamat datang di misi banjir milikku! Air akan mulai naik secara perlahan. Tetaplah berada di dataran agar tidak tenggelam. Tujuanmu adalah untuk mencapai kotak mengambang kecilku. Semoga beruntung!"
 		],
 		"mission_4_1": [
-			"Selamat datang di misi berburu telur milikku! Ada 3 telur yang tersembunyi di level ini."
+			"Selamat datang di misi berburu telur milikku! Ada 3 telur tersembunyi di level ini."
 		],
 		"mission_4_2": [
 			"Setelah kamu menemukan ketiga telurnya, bawa semuanya kepadaku. Semoga beruntung!"
@@ -10661,7 +11811,7 @@
 			"Selamat datang di misi masalah listrik milikku! Seperti yang kamu lihat, rumah ini kebanjiran tapi listriknya masih menyala. Ada sakelar di ruangan bawah tangga untuk mematikan listrik. Semoga beruntung!"
 		],
 		"mission_6_1": [
-			"Selamat datang di misi parkour milikku! Misi ini cukup sederhana, lakukan saja parkour untuk mencapai aku."
+			"Selamat datang di misi parkour milikku! Misi ini cukup sederhana, cukup lakukan parkour untuk mencapai aku."
 		],
 		"mission_6_2": [
 			"Aku sarankan kamu menghindari menyentuh air..."
@@ -10681,9 +11831,7 @@
 		"mission_lava": [
 			"Lantai lava"
 		],
-		"mission_parkour": [
-			"Parkour"
-		],
+		"mission_parkour": [],
 		"mission_race": [
 			"Balapan"
 		],
@@ -10736,7 +11884,7 @@
 			"Pemandangan yang luar biasa!"
 		],
 		"party_queen": [
-			"Terima kasih telah menyelamatkan kerajaan! Aku mengadakan pesta keren untukmu, selamat bersenang-senang!"
+			"Terima kasih karena telah menyelamatkan kerajaan! Aku mengadakan pesta keren untukmu, selamat bersenang-senang!"
 		],
 		"party_reindeer_1": [
 			"Hidup Ratu Beeatrice!"
@@ -10767,6 +11915,30 @@
 		],
 		"party_turtle_6": [
 			"Aku butuh waktu 6 bulan untuk sampai ke sini."
+		],
+		"photo_contribution": [
+			"Kontribusi filter"
+		],
+		"photo_dof": [
+			"Ruang tajam"
+		],
+		"photo_guidelines": [
+			"Garis bantu"
+		],
+		"photo_iap_blocker": [
+			"Kamu perlu membeli SBA Gold untuk menggunakan filter dalam Mode Foto"
+		],
+		"photo_save": [
+			"Simpan"
+		],
+		"photo_saved": [
+			"Salinan foto ini telah disimpan ke"
+		],
+		"photo_take": [
+			"Ambil foto"
+		],
+		"photo_title": [
+			"Mode foto"
 		],
 		"rarity_common": [
 			"Biasa"
@@ -10859,16 +12031,16 @@
 			"Dia terlalu besar untuk dipukul! Cari cara untuk menjadi lebih tinggi dan loncat di atas kepalanya."
 		],
 		"shicka_2_5": [
-			"Kuncinya tidak ada di dalam, kurasa kuncinya ada di dekat pintu masuk."
+			"Kuncinya tidak ada di dalam, sepertinya kuncinya ada di dekat pintu masuk."
 		],
 		"shicka_3_1": [
 			"Ini adalah Desa Fennec. Mereka dulunya menyembah beruang sebelum dinasti lebah."
 		],
 		"shicka_3_2": [
-			"Kita harus menemukan peta sebelum memasuki piramida."
+			"Kita harus menemukan sebuah peta sebelum memasuki piramida."
 		],
 		"shicka_3_3": [
-			"Ada peta dari bagian dalam piramida! Kamu harus menyalinnya di selembar kertas."
+			"Peta dari bagian dalam piramida! Kamu harus menyalinnya di selembar kertas."
 		],
 		"shicka_3_4": [
 			"Igloo? Di gurun? Itu... aneh."
@@ -10916,20 +12088,18 @@
 			"Di toko ini, kamu bisa membeli barang baru dengan menukarkan koin. Barang baru akan diperbarui setiap 6 jam sekali. Kamu juga bisa membuka kotak jarahan untuk mendapatkan barang acak yang mungkin tidak ada di toko!"
 		],
 		"studio_help_3": [
-			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan donator (hijau). Barang donator dapat diperoleh di toko saudaraku."
+			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan legendaris (Emas). Barang legendaris bisa didapatkan di toko saudaraku."
 		],
 		"studio_help_4": [
 			"Tristopio adalah kelinci berwarna pink yang berada di seberang sungai. Barang-barangnya sangat spesial... Ngomong-ngomong, semua yang sudah kamu buka dapat kamu gunakan disini secara gratis."
 		],
 		"studio_help_5": [
-			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku... Baiklaaaah, aku harap semuanya sudah saaangat jelas!"
+			"Baiklah, aku harap semuanya sudah jelas. Eh, maksudku... Baiklaaah, aku harap semuanya sudah saaangat jelas!"
 		],
 		"time_format": [
 			"{0}j{1}m{2}d"
 		],
-		"title_gameplay": [
-			"Gameplay"
-		],
+		"title_gameplay": [],
 		"title_graphics1": [
 			"Grafik"
 		],
@@ -10949,7 +12119,7 @@
 			"Mode Latihan"
 		],
 		"tristopio_practice_info": [
-			"Kamu telah menyelesaikan misi ini! Sekarang kamu dapat bermain misi ini lagi tanpa kehilangan headset."
+			"Kamu telah menyelesaikan misi ini! Kamu dapat bermain misi ini lagi tanpa kehilangan headset."
 		],
 		"tristopio_start": [
 			"Mulai misi"
@@ -11006,7 +12176,7 @@
 			"Tahan B saat melompat untuk melakukan hentakan perut."
 		],
 		"tutorial_sign_11": [
-			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk mencapai lebih jauh!"
+			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk menempuh lebih jauh!"
 		],
 		"tutorial_sign_12": [
 			"Jika kamu melepas B tepat setelah kamu menghentakkan perut ke tanah, kamu akan mendapatkan dorongan hentakan."
@@ -11024,7 +12194,7 @@
 			"6 buah nyawa"
 		],
 		"ui_6hp_desc": [
-			"Nyawa maksimum kamu menjadi 6 poin.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
+			"Nyawa maksimum kamu menjadi 6 buah.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
 		],
 		"ui_aboutbutton": [
 			"Tentang"
@@ -11107,6 +12277,9 @@
 		"ui_connected": [
 			"Terhubung"
 		],
+		"ui_continue": [
+			"Lanjutkan"
+		],
 		"ui_cosm_buy": [
 			"Apa kamu ingin membeli//{0}//seharga {1} {2}?"
 		],
@@ -11143,18 +12316,6 @@
 		"ui_discord": [
 			"Official Discord//Gabung untuk mendapatkan berita pengembangan game ini."
 		],
-		"ui_donator_1": [
-			"Kamu sudah menjadi seorang donator."
-		],
-		"ui_donator_2": [
-			"Pembelian berhasil! Sekarang kamu adalah seorang donator! Terima kasih!"
-		],
-		"ui_donator_info": [
-			"Membeli status donator memberikan Kamu akses://- Mendukung developer game ini//- Menghilangkan iklan yang tak berhadiah//- Kostum eksklusif//- Koin ×2 tanpa iklan//- Nyawa maksimal menjadi 6//- Menghidupkan kembali pertama secara gratis!"
-		],
-		"ui_donator_title": [
-			"Beli status donator"
-		],
 		"ui_empty": [
 			"Kosong"
 		],
@@ -11179,9 +12340,7 @@
 		"ui_fps_counter": [
 			"Penghitung FPS"
 		],
-		"ui_framerate": [
-			"framerate"
-		],
+		"ui_framerate": [],
 		"ui_freed": [
 			"Kamu membebaskan"
 		],
@@ -11272,6 +12431,9 @@
 		"ui_mission_win": [
 			"Misi berhasil!"
 		],
+		"ui_motion_blur": [
+			"Gerakan kabur"
+		],
 		"ui_music": [
 			"Volume musik"
 		],
@@ -11283,6 +12445,9 @@
 		],
 		"ui_no_boost": [
 			"Keluar tanpa tambahan koin"
+		],
+		"ui_none": [
+			"Tidak ada"
 		],
 		"ui_open_shop": [
 			"Buka toko"
@@ -11296,8 +12461,17 @@
 		"ui_performance": [
 			"Performa"
 		],
+		"ui_photo_error_1": [
+			"Kamu perlu menyelamatkan setiap beruang di level ini untuk menggunakan mode foto."
+		],
+		"ui_photo_error_2": [
+			"Kamu tidak bisa menggunakan mode foto dalam misi, kecuali dalam mode latihan."
+		],
+		"ui_photo_error_3": [
+			"Kamu harus menyelamatkan kerajaan terlebih dulu untuk menggunakan Mode Foto di Sarang Lebah."
+		],
 		"ui_progression": [
-			"Kemajuan"
+			"Kemajuan: {0}%"
 		],
 		"ui_quality": [
 			"Kualitas"
@@ -11306,7 +12480,7 @@
 			"Rendah"
 		],
 		"ui_quality1": [
-			"Normal"
+			"Sedang"
 		],
 		"ui_quality2": [
 			"Tinggi"
@@ -11336,7 +12510,7 @@
 			"Kembali ke layar judul"
 		],
 		"ui_reversed": [
-			"terbalik"
+			"Terbalik"
 		],
 		"ui_revive": [
 			"Hidup kembali"
@@ -11380,9 +12554,7 @@
 		"ui_time": [
 			"Waktu"
 		],
-		"ui_timer": [
-			"Timer"
-		],
+		"ui_timer": [],
 		"ui_titleconfirm": [
 			"Apa kamu yakin ingin kembali ke layar judul?"
 		],
@@ -11390,7 +12562,7 @@
 			"Token Tristopio"
 		],
 		"ui_tristopio_info": [
-			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap kali misi berhasil, kamu akan mendapatkan satu Token Tristopio. Kamu dapat menghabiskan token mu untuk membuka pakaian yang unik. Setiap kali kamu gagal, kamu akan kehilangan satu headset."
+			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap misi berhasil akan memberikan kamu satu token Tristopio. Kamu dapat menggunakan token mu untuk membuka pakaian yang unik! Setiap kali kamu gagal, kamu akan kehilangan satu headset."
 		],
 		"ui_tristopio_title": [
 			"Toko Tristopio"
@@ -11728,13 +12900,13 @@
 			"Senza testa"
 		],
 		"cosmetic_047": [
-			"Maglietta (donatore)"
+			"Maglietta SBA"
 		],
 		"cosmetic_048": [
 			"Panda"
 		],
 		"cosmetic_049": [
-			"Testa del capitello"
+			"Testa del Capitalus"
 		],
 		"cosmetic_050": [
 			"Striature arcobaleno"
@@ -11761,7 +12933,7 @@
 			"Cranio"
 		],
 		"cosmetic_058": [
-			"Corona del donatore"
+			"Corona reale"
 		],
 		"cosmetic_059": [
 			"Testa d'uovo"
@@ -11845,7 +13017,7 @@
 			"Primavera Shicka"
 		],
 		"cosmetic_086": [
-			"Cappello bretone"
+			"Nuvola bretone"
 		],
 		"cosmetic_087": [
 			"Capo (rosso)"
@@ -11887,7 +13059,7 @@
 			"La polvere"
 		],
 		"cosmetic_100": [
-			"Orso (piccolo)"
+			"Orso piccolo"
 		],
 		"cosmetic_101": [
 			"Orso viola"
@@ -11901,8 +13073,131 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Visione nera"
+		],
+		"cosmetic_106": [
+			"Uccello addomesticato"
+		],
+		"cosmetic_107": [
+			"Violette domata"
+		],
+		"cosmetic_108": [
+			"Impronte magiche"
+		],
 		"cosmetic_default": [
 			"Difetto"
+		],
+		"filter_00": [
+			"Nessun filtro"
+		],
+		"filter_01": [
+			"Cinematico"
+		],
+		"filter_02": [
+			"Spaventoso"
+		],
+		"filter_03": [
+			"Intenso"
+		],
+		"filter_04": [
+			"Drammatico"
+		],
+		"filter_05": [
+			"Flashback"
+		],
+		"filter_06": [
+			"Colorato"
+		],
+		"filter_07": [
+			"Estate"
+		],
+		"filter_08": [
+			"Scottato dal sole"
+		],
+		"filter_09": [
+			"Confortevole"
+		],
+		"filter_10": [
+			"Fresco"
+		],
+		"filter_11": [
+			"Ghiacciaio"
+		],
+		"filter_12": [
+			"Più vecchio"
+		],
+		"filter_13": [
+			"Piatto"
+		],
+		"filter_14": [
+			"Notturno"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Posterizzazione"
+		],
+		"filter_17": [
+			"Parco a tema"
+		],
+		"filter_18": [
+			"Scala di grigi"
+		],
+		"filter_19": [
+			"Vecchia pellicola"
+		],
+		"filter_20": [
+			"Pellicola nera"
+		],
+		"filter_21": [
+			"Solo rosso"
+		],
+		"filter_22": [
+			"Solo verde"
+		],
+		"filter_23": [
+			"Solo blu"
+		],
+		"filter_24": [
+			"Seppia"
+		],
+		"filter_25": [
+			"Viola"
+		],
+		"filter_26": [
+			"Fuoco"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Binario"
+		],
+		"filter_29": [
+			"Strano"
+		],
+		"filter_30": [
+			"Follia"
+		],
+		"filter_31": [
+			"Rilevamento del calore"
+		],
+		"filter_32": [
+			"Arcobaleno"
+		],
+		"filter_33": [
+			"Visione robotica"
+		],
+		"filter_34": [
+			"Negativo 1"
+		],
+		"filter_35": [
+			"Negativo 2"
+		],
+		"filter_36": [
+			"Mondo Neonizzato"
 		],
 		"help_birds": [
 			"Disattivare gli uccelli migliora le prestazioni."
@@ -11939,6 +13234,9 @@
 		],
 		"help_lightmaps": [
 			"Le mappe di luce vengono utilizzate per visualizzare la luce precalcolata su oggetti statici. Questa opzione può essere utile sui dispositivi più vecchi, ma non influisce sulle prestazioni."
+		],
+		"help_motion_blur": [
+			"Gli oggetti in rapido movimento devono essere sfocati? Disattivando questa funzione si migliorano le prestazioni"
 		],
 		"help_shicka_tips": [
 			"Mostra i consiglii di Shicka."
@@ -12137,6 +13435,51 @@
 		],
 		"hub_tristopio": [
 			"Ehilà! Siete alla ricerca di una bella sfida? Penso di avere quello che vi serve!"
+		],
+		"iap_noads_desc_1": [
+			"<h>Niente più annunci</h> tra i livelli!"
+		],
+		"iap_noads_desc_2": [
+			"Gli annunci premiati saranno comunque disponibili."
+		],
+		"iap_noads_status_1": [
+			"Hai già rimosso gli annunci!"
+		],
+		"iap_noads_status_2": [
+			"Acquisto riuscito! Gli annunci sono stati rimossi! Grazie!"
+		],
+		"iap_noads_title": [
+			"Rimuovi gli annunci"
+		],
+		"iap_premium_desc_1": [
+			"Incluso in SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Rimuove gli annunci indesiderati</h>."
+		],
+		"iap_premium_desc_3": [
+			"Sblocca <h>articoli esclusivi</h>."
+		],
+		"iap_premium_desc_4": [
+			"Sblocca <h>filtri per la modalità Foto</h>."
+		],
+		"iap_premium_desc_5": [
+			"<h>Monete × 2</h> senza pubblicità"
+		],
+		"iap_premium_desc_6": [
+			"<h>Doppia</h> il massimo della <h>salute</h>."
+		],
+		"iap_premium_desc_7": [
+			"Prima <h>resurrezione gratuita</h>"
+		],
+		"iap_premium_status_1": [
+			"Hai già SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Acquisto riuscito! Ora hai SBA Gold! Grazie!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
 			"Per secoli c'è stato un regno in cui le creature vivevano in pace sotto il dominio della dinastia Bee."
@@ -12519,7 +13862,9 @@
 		"loading_9": [
 			"Usa le tue monete nell'hub per sbloccare i vestiti."
 		],
-		"merch_ad": [],
+		"merch_ad": [
+			"Disponibile per l'acquisto su {0}"
+		],
 		"mission_0_1": [
 			"Benvenuto alla mia sfida del pavimento di lava! Se tocchi il suolo, perderai la salute e tornerai al checkpoint precedente."
 		],
@@ -12654,6 +13999,30 @@
 		],
 		"party_turtle_6": [
 			"Mi ci sono voluti 6 mesi per arrivare fin qui."
+		],
+		"photo_contribution": [
+			"Contributo dei filtri"
+		],
+		"photo_dof": [
+			"Profondità di campo"
+		],
+		"photo_guidelines": [
+			"Guide"
+		],
+		"photo_iap_blocker": [
+			"È necessario acquistare SBA Gold per utilizzare i filtri in Modalità Foto."
+		],
+		"photo_save": [
+			"Salva"
+		],
+		"photo_saved": [
+			"Una copia di questa foto è stata salvata in"
+		],
+		"photo_take": [
+			"Scatta una foto"
+		],
+		"photo_title": [
+			"Modalità Foto"
 		],
 		"rarity_common": [
 			"Comune"
@@ -12803,7 +14172,7 @@
 			"Nel negozio è possibile acquistare nuovi cosmetici in cambio di monete. Gli articoli in vendita cambiano ogni 6 ore. È anche possibile aprire un pacchetto per ottenere un oggetto a caso che potrebbe non essere nel negozio."
 		],
 		"studio_help_3": [
-			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa), donatore (verde). Gli articoli da donatore possono essere acquistati presso il negozio di mio fratello."
+			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa) e leggendario (oro). Gli articoli leggendari possono essere acquistati presso il negozio di mio fratello."
 		],
 		"studio_help_4": [
 			"Tristopio è il coniglio rosa dall'altra parte del fiume, i suoi oggetti sono piuttosto speciali... A proposito, tutto quello che si sblocca può essere equipaggiato qui, gratuitamente."
@@ -12811,7 +14180,9 @@
 		"studio_help_5": [
 			"Bene, spero che sia tutto chiaro. Uh, voglio dire... Beeeene, spero che sia tutto chiaaaaro!"
 		],
-		"time_format": [],
+		"time_format": [
+			"{0}h{1}min{2}s"
+		],
 		"title_gameplay": [
 			"Gioco"
 		],
@@ -12992,6 +14363,9 @@
 		"ui_connected": [
 			"Collegato"
 		],
+		"ui_continue": [
+			"Continua"
+		],
 		"ui_cosm_buy": [
 			"Vuoi comprare//{0}/// per {1} {2}?"
 		],
@@ -13028,18 +14402,6 @@
 		"ui_discord": [
 			"Discord Ufficiale//Entra per informazioni sullo sviluppo."
 		],
-		"ui_donator_1": [
-			"Sei già un donatore."
-		],
-		"ui_donator_2": [
-			"Acquisto riuscito. Ora sei un donatore! Grazie mille! Sei fantastico!"
-		],
-		"ui_donator_info": [
-			"Acquistando lo status di donatore si ha accesso a://- supportare lo sviluppatore del gioco! //- rimozione pubblicità senza ricompense//- cosmetici esclusivi//- monete × 2 senza annunci//- vita massima a 6//- prima resurrezione gratuita"
-		],
-		"ui_donator_title": [
-			"Acquista lo stato di donatore"
-		],
 		"ui_empty": [
 			"Vuoto"
 		],
@@ -13064,14 +14426,18 @@
 		"ui_fps_counter": [
 			"Contatore FPS"
 		],
-		"ui_framerate": [],
+		"ui_framerate": [
+			"Frequenza dei fotogrammi"
+		],
 		"ui_freed": [
 			"Hai liberato"
 		],
 		"ui_game_creator": [
 			"Gioco creato da {0}"
 		],
-		"ui_game_over": [],
+		"ui_game_over": [
+			"Game over"
+		],
 		"ui_go": [
 			"Vai!"
 		],
@@ -13155,6 +14521,9 @@
 		"ui_mission_win": [
 			"Sfida vinta!"
 		],
+		"ui_motion_blur": [
+			"Sfocatura cinetica"
+		],
 		"ui_music": [
 			"Volume della Musica"
 		],
@@ -13167,6 +14536,9 @@
 		"ui_no_boost": [
 			"Nessun boost di monete"
 		],
+		"ui_none": [
+			"No"
+		],
 		"ui_open_shop": [
 			"Apri il negozio"
 		],
@@ -13178,6 +14550,15 @@
 		],
 		"ui_performance": [
 			"Prestazioni"
+		],
+		"ui_photo_error_1": [
+			"Per utilizzare la Modalità Foto è necessario salvare ogni orso di questo livello."
+		],
+		"ui_photo_error_2": [
+			"Durante una missione, è possibile utilizzare la Modalità Foto solo in modalità allenamento."
+		],
+		"ui_photo_error_3": [
+			"Per utilizzare la Modalità Foto nell'alveare, è necessario salvare prima il regno."
 		],
 		"ui_progression": [
 			"Progressione : {0}%"
@@ -13532,7 +14913,48 @@
 		"cosmetic_102": [],
 		"cosmetic_103": [],
 		"cosmetic_104": [],
+		"cosmetic_105": [],
+		"cosmetic_106": [],
+		"cosmetic_107": [],
+		"cosmetic_108": [],
 		"cosmetic_default": [],
+		"filter_00": [],
+		"filter_01": [],
+		"filter_02": [],
+		"filter_03": [],
+		"filter_04": [],
+		"filter_05": [],
+		"filter_06": [],
+		"filter_07": [],
+		"filter_08": [],
+		"filter_09": [],
+		"filter_10": [],
+		"filter_11": [],
+		"filter_12": [],
+		"filter_13": [],
+		"filter_14": [],
+		"filter_15": [],
+		"filter_16": [],
+		"filter_17": [],
+		"filter_18": [],
+		"filter_19": [],
+		"filter_20": [],
+		"filter_21": [],
+		"filter_22": [],
+		"filter_23": [],
+		"filter_24": [],
+		"filter_25": [],
+		"filter_26": [],
+		"filter_27": [],
+		"filter_28": [],
+		"filter_29": [],
+		"filter_30": [],
+		"filter_31": [],
+		"filter_32": [],
+		"filter_33": [],
+		"filter_34": [],
+		"filter_35": [],
+		"filter_36": [],
 		"help_birds": [
 			"鳥を無効化するとパフォーマンスが向上します。"
 		],
@@ -13569,6 +14991,7 @@
 		"help_lightmaps": [
 			"ライトマップは、 静的なオブジェクトにベイクドライトを表示するために使用されます。 このオプションは古いデバイスで便利で、 パフォーマンスには影響しません。"
 		],
+		"help_motion_blur": [],
 		"help_shicka_tips": [
 			"シッカのヒントを表示します。"
 		],
@@ -13699,6 +15122,21 @@
 		"hub_tristopio": [
 			"こんにちは！クールなミッションをお探しですか？あなたに必要なものを持っていると思います！"
 		],
+		"iap_noads_desc_1": [],
+		"iap_noads_desc_2": [],
+		"iap_noads_status_1": [],
+		"iap_noads_status_2": [],
+		"iap_noads_title": [],
+		"iap_premium_desc_1": [],
+		"iap_premium_desc_2": [],
+		"iap_premium_desc_3": [],
+		"iap_premium_desc_4": [],
+		"iap_premium_desc_5": [],
+		"iap_premium_desc_6": [],
+		"iap_premium_desc_7": [],
+		"iap_premium_status_1": [],
+		"iap_premium_status_2": [],
+		"iap_premium_title": [],
 		"intro_1_1": [],
 		"intro_1_2": [],
 		"intro_1_3": [],
@@ -14078,6 +15516,14 @@
 		"party_turtle_4": [],
 		"party_turtle_5": [],
 		"party_turtle_6": [],
+		"photo_contribution": [],
+		"photo_dof": [],
+		"photo_guidelines": [],
+		"photo_iap_blocker": [],
+		"photo_save": [],
+		"photo_saved": [],
+		"photo_take": [],
+		"photo_title": [],
 		"rarity_common": [
 			"コモン"
 		],
@@ -14381,6 +15827,7 @@
 		"ui_connected": [
 			"接続している"
 		],
+		"ui_continue": [],
 		"ui_cosm_buy": [
 			"あなたは//{0}//を{1} {2}で買いますか？"
 		],
@@ -14407,18 +15854,6 @@
 			"切断された"
 		],
 		"ui_discord": [],
-		"ui_donator_1": [
-			"すでに寄付者になっています。"
-		],
-		"ui_donator_2": [
-			"購入完了です。 これであなたは寄付者になりました ありがとうございます！"
-		],
-		"ui_donator_info": [
-			"ドナーステータスを購入すると、 ://-ゲームの開発者をサポートすることができます！ //-報われない広告を削除する//-排他的な化粧品//-広告なしで2倍のコイン//-最大ヘルスを6にする//-最初のリバイバルを無料で行うことができます。"
-		],
-		"ui_donator_title": [
-			"ドナーのステータスを購入"
-		],
 		"ui_empty": [
 			"空の"
 		],
@@ -14538,6 +15973,7 @@
 		"ui_mission_win": [
 			"ミッション合格"
 		],
+		"ui_motion_blur": [],
 		"ui_music": [
 			"音楽の音量"
 		],
@@ -14550,6 +15986,7 @@
 		"ui_no_boost": [
 			"コインブーストなし"
 		],
+		"ui_none": [],
 		"ui_open_shop": [
 			"お店を開く"
 		],
@@ -14562,6 +15999,9 @@
 		"ui_performance": [
 			"パフォーマンス"
 		],
+		"ui_photo_error_1": [],
+		"ui_photo_error_2": [],
+		"ui_photo_error_3": [],
 		"ui_progression": [],
 		"ui_quality": [
 			"品質"
@@ -14984,7 +16424,7 @@
 			"Hoofdloos"
 		],
 		"cosmetic_047": [
-			"Shirt (koning)"
+			"SBA shirt"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -15157,9 +16597,60 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [],
+		"cosmetic_106": [],
+		"cosmetic_107": [],
+		"cosmetic_108": [],
 		"cosmetic_default": [
 			"Standaard"
 		],
+		"filter_00": [
+			"Geen filter"
+		],
+		"filter_01": [],
+		"filter_02": [],
+		"filter_03": [],
+		"filter_04": [],
+		"filter_05": [],
+		"filter_06": [],
+		"filter_07": [],
+		"filter_08": [],
+		"filter_09": [],
+		"filter_10": [],
+		"filter_11": [],
+		"filter_12": [],
+		"filter_13": [],
+		"filter_14": [],
+		"filter_15": [],
+		"filter_16": [],
+		"filter_17": [],
+		"filter_18": [],
+		"filter_19": [],
+		"filter_20": [],
+		"filter_21": [
+			"Alleen rood"
+		],
+		"filter_22": [
+			"Alleen groen"
+		],
+		"filter_23": [
+			"Alleen blauw"
+		],
+		"filter_24": [],
+		"filter_25": [
+			"Paars"
+		],
+		"filter_26": [],
+		"filter_27": [],
+		"filter_28": [],
+		"filter_29": [],
+		"filter_30": [],
+		"filter_31": [],
+		"filter_32": [],
+		"filter_33": [],
+		"filter_34": [],
+		"filter_35": [],
+		"filter_36": [],
 		"help_birds": [
 			"Vogels uitschakelen verbetert prestaties."
 		],
@@ -15196,6 +16687,7 @@
 		"help_lightmaps": [
 			"Lightmaps worden gebruikt om gebakken verlichting op statische objecten weer te geven. Deze optie kan handig zijn op oudere apparaten en heeft geen invloed op de prestaties."
 		],
+		"help_motion_blur": [],
 		"help_shicka_tips": [
 			"Toont Shicka's tips."
 		],
@@ -15394,6 +16886,21 @@
 		"hub_tristopio": [
 			"Hallo daar! Zoek je een gave nieuwe missie? Ik heb dan misschien wat jij nodig hebt!"
 		],
+		"iap_noads_desc_1": [],
+		"iap_noads_desc_2": [],
+		"iap_noads_status_1": [],
+		"iap_noads_status_2": [],
+		"iap_noads_title": [],
+		"iap_premium_desc_1": [],
+		"iap_premium_desc_2": [],
+		"iap_premium_desc_3": [],
+		"iap_premium_desc_4": [],
+		"iap_premium_desc_5": [],
+		"iap_premium_desc_6": [],
+		"iap_premium_desc_7": [],
+		"iap_premium_status_1": [],
+		"iap_premium_status_2": [],
+		"iap_premium_title": [],
 		"intro_1_1": [
 			"Eeuwenlang bestond er een koninkrijk waar wezens in vrede leefden onder de heerschappij van de Bijendynastie."
 		],
@@ -15913,6 +17420,18 @@
 		"party_turtle_6": [
 			"Het heeft me zes maanden gekost om hier boven te komen."
 		],
+		"photo_contribution": [],
+		"photo_dof": [],
+		"photo_guidelines": [
+			"Richtlijnen"
+		],
+		"photo_iap_blocker": [],
+		"photo_save": [],
+		"photo_saved": [],
+		"photo_take": [],
+		"photo_title": [
+			"Foto modus"
+		],
 		"rarity_common": [
 			"Normaal"
 		],
@@ -16252,6 +17771,7 @@
 		"ui_connected": [
 			"Verbonden"
 		],
+		"ui_continue": [],
 		"ui_cosm_buy": [
 			"Wil je//{0}//voor {1} {2} kopen?"
 		],
@@ -16287,18 +17807,6 @@
 		],
 		"ui_discord": [
 			"Officiele Discord//Join voor nieuws over de game!"
-		],
-		"ui_donator_1": [
-			"Je bent al een donor!"
-		],
-		"ui_donator_2": [
-			"Betaling voltooid! Je bent nu een donor! Bedankt!"
-		],
-		"ui_donator_info": [
-			"Het kopen van donorstatus geeft je toegang tot://- Steunen van de ontwikkelaar van de game!;//- Verwijderen van advertenties die geen beloningen geven;//- Exclusieve costuums;//- Munten × 2 zonder advertenties;//- Maximale leven wordt 6;//- Eerste herleving gratis"
-		],
-		"ui_donator_title": [
-			"Koop donorstatus"
 		],
 		"ui_empty": [
 			"Leeg"
@@ -16419,6 +17927,7 @@
 		"ui_mission_win": [
 			"Mission volbracht!"
 		],
+		"ui_motion_blur": [],
 		"ui_music": [
 			"Muziek volume"
 		],
@@ -16431,6 +17940,7 @@
 		"ui_no_boost": [
 			"Verlaten zonder muntenboost"
 		],
+		"ui_none": [],
 		"ui_open_shop": [
 			"Open winkel"
 		],
@@ -16443,6 +17953,9 @@
 		"ui_performance": [
 			"Prestaties"
 		],
+		"ui_photo_error_1": [],
+		"ui_photo_error_2": [],
+		"ui_photo_error_3": [],
 		"ui_progression": [
 			"Progressie: {0}%"
 		],
@@ -16887,7 +18400,7 @@
 			"Bezgłowy"
 		],
 		"cosmetic_047": [
-			"Koszulka (król)"
+			"Koszula SBA"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -16920,7 +18433,7 @@
 			"Czaszka"
 		],
 		"cosmetic_058": [
-			"Korona dawcy"
+			"Korona królewska"
 		],
 		"cosmetic_059": [
 			"Jajko głowa"
@@ -17004,7 +18517,7 @@
 			"Shicka Bobble"
 		],
 		"cosmetic_086": [
-			"Brytyjski kapelusz"
+			"Chmura Bretanii"
 		],
 		"cosmetic_087": [
 			"Peleryna (czerwona)"
@@ -17060,8 +18573,131 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Wizja Noire"
+		],
+		"cosmetic_106": [
+			"Pet bird"
+		],
+		"cosmetic_107": [
+			"Pet Violette"
+		],
+		"cosmetic_108": [
+			"Magiczne ślady"
+		],
 		"cosmetic_default": [
 			"Domyślny"
+		],
+		"filter_00": [
+			"Bez filtra"
+		],
+		"filter_01": [
+			"Filmowy"
+		],
+		"filter_02": [
+			"Przerażający"
+		],
+		"filter_03": [
+			"Intensywny"
+		],
+		"filter_04": [
+			"Dramatyczny"
+		],
+		"filter_05": [
+			"Flashback"
+		],
+		"filter_06": [
+			"Kolorowy"
+		],
+		"filter_07": [
+			"Lato"
+		],
+		"filter_08": [
+			"Sunburn"
+		],
+		"filter_09": [
+			"Przytulny"
+		],
+		"filter_10": [
+			"Świeży"
+		],
+		"filter_11": [
+			"Lodowiec"
+		],
+		"filter_12": [
+			"Starzejący się"
+		],
+		"filter_13": [
+			"Płaski"
+		],
+		"filter_14": [
+			"Nightly"
+		],
+		"filter_15": [
+			"Haker"
+		],
+		"filter_16": [
+			"Posterize"
+		],
+		"filter_17": [
+			"Candyland"
+		],
+		"filter_18": [
+			"Grayscale"
+		],
+		"filter_19": [
+			"Stary film"
+		],
+		"filter_20": [
+			"Noire"
+		],
+		"filter_21": [
+			"Tylko czerwony"
+		],
+		"filter_22": [
+			"Tylko zielony"
+		],
+		"filter_23": [
+			"Tylko niebieski"
+		],
+		"filter_24": [
+			"Sepia"
+		],
+		"filter_25": [
+			"Fioletowy"
+		],
+		"filter_26": [
+			"Ogień"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Binarny"
+		],
+		"filter_29": [
+			"Dziwne"
+		],
+		"filter_30": [
+			"Szaleństwo"
+		],
+		"filter_31": [
+			"Heat"
+		],
+		"filter_32": [
+			"Rainbow"
+		],
+		"filter_33": [
+			"Wizja robota"
+		],
+		"filter_34": [
+			"Negatyw 1"
+		],
+		"filter_35": [
+			"Negatyw 2"
+		],
+		"filter_36": [
+			"Neonowy świat"
 		],
 		"help_birds": [
 			"Wyłączenie ptaków poprawia wydajność"
@@ -17098,6 +18734,9 @@
 		],
 		"help_lightmaps": [
 			"Mapy świetlne służą do wyświetlania pieczonego oświetlenia na obiektach statycznych. Ta opcja może być przydatna na starszych urządzeniach i nie wpływa na wydajność"
+		],
+		"help_motion_blur": [
+			"Czy szybko poruszające się obiekty powinny być rozmyte? Wyłączenie tego poprawia wydajność."
 		],
 		"help_shicka_tips": [
 			"Wskazówki Shicki"
@@ -17296,6 +18935,51 @@
 		],
 		"hub_tristopio": [
 			"Witaj! Czy szukasz ciekawej misji? Wydaje mi się że mam to czego szukasz!"
+		],
+		"iap_noads_desc_1": [
+			"<h>Koniec z niechcianymi reklamami</h> pomiędzy poziomami!"
+		],
+		"iap_noads_desc_2": [
+			"Nagrodzone reklamy nadal będą dostępne."
+		],
+		"iap_noads_status_1": [
+			"Usunąłeś już reklamy!"
+		],
+		"iap_noads_status_2": [
+			"Zakup zakończony! Reklamy są teraz usunięte! Dziękujemy!"
+		],
+		"iap_noads_title": [
+			"Usuń reklamy"
+		],
+		"iap_premium_desc_1": [
+			"Zawarte w SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Usuwa</h> niechciane <h>reklamy</h>"
+		],
+		"iap_premium_desc_3": [
+			"Odblokowuje ekskluzywne <h>kosmetyki</h>."
+		],
+		"iap_premium_desc_4": [
+			"Odblokowuje <h>Filtry Photo Mode</h>."
+		],
+		"iap_premium_desc_5": [
+			"<h>Monety × 2</h> bez reklam"
+		],
+		"iap_premium_desc_6": [
+			"<h>Podwaja</h> maksymalne <h>zdrowie</h>."
+		],
+		"iap_premium_desc_7": [
+			"Daje pierwsze <h>odzyskanie życia za darmo</h>"
+		],
+		"iap_premium_status_1": [
+			"Masz już SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Zakup zakończony! Masz już SBA Gold! Dziękujemy!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
 			"Przez wieki istniało królestwo, w którym istoty żyły w pokoju pod rządami dynastii pszczół."
@@ -17816,6 +19500,30 @@
 		"party_turtle_6": [
 			"Zajęło mi to 6 miesięcy żeby się tu dostać."
 		],
+		"photo_contribution": [
+			"Wkład filtrów"
+		],
+		"photo_dof": [
+			"Głębokość pola"
+		],
+		"photo_guidelines": [
+			"Wskazówki"
+		],
+		"photo_iap_blocker": [
+			"Musisz kupić SBA Gold, aby używać filtrów w Photo Mode."
+		],
+		"photo_save": [
+			"Zapisz"
+		],
+		"photo_saved": [
+			"Kopia tego zdjęcia została zapisana do"
+		],
+		"photo_take": [
+			"Zrób zdjęcie"
+		],
+		"photo_title": [
+			"Photo Mode"
+		],
 		"rarity_common": [
 			"Zwykły"
 		],
@@ -17964,7 +19672,7 @@
 			"W sklepie można kupić nowe przedmioty w zamian za monety. Nowe przedmioty są dostępne co 6 godzin. Możesz również otworzyć skrzynkę z łupami, aby otrzymać losowy przedmiot, który może nie znajdować się w sklepie!"
 		],
 		"studio_help_3": [
-			"Istnieje 5 kategorii rzadkości: zwykły (biały), rzadki (niebieski), epicki (magenta), Tristopio (różowy) i dawcy (zielony). Przedmioty dawcy można otrzymać w sklepie mojego brata."
+			"Istnieje 5 kategorii rzadkości: zwykły (biały), rzadki (niebieski), epicki (magenta), Tristopio (różowy) i legendarny (złoty). Przedmioty legendarne można otrzymać w sklepie mojego brata."
 		],
 		"studio_help_4": [
 			"Tristopio to różowy królik po drugiej stronie rzeki. Jego przedmioty są dość wyjątkowe... Nawiasem mówiąc, wszystko, co odblokujesz, może być tutaj wyposażone bezpłatnie."
@@ -18155,6 +19863,9 @@
 		"ui_connected": [
 			"Połączony"
 		],
+		"ui_continue": [
+			"Kontynuuj"
+		],
 		"ui_cosm_buy": [
 			"Czy chcesz kupić//{0}//za {1} {2}?"
 		],
@@ -18190,18 +19901,6 @@
 		],
 		"ui_discord": [
 			"Oficjalny Discord // Dołącz, aby otrzymywać informacje o rozwoju gry"
-		],
-		"ui_donator_1": [
-			"Jesteś już dawcą"
-		],
-		"ui_donator_2": [
-			"Zakupy zakończone. Jesteś teraz dawcą! Dziękuje!"
-		],
-		"ui_donator_info": [
-			"Wykupienie statusu dawcy daje dostęp do: // - wspierania twórcy gry! // - usunięcia reklam // - ekskluzywnych kosmetyków // - Monety × 2 bez reklam // - maksymalną ilość zdrowia do 6 // - pierwszego odrodzenia za darmo"
-		],
-		"ui_donator_title": [
-			"Kup status dawcy"
 		],
 		"ui_empty": [
 			"Pusty"
@@ -18326,6 +20025,9 @@
 		"ui_mission_win": [
 			"Misja zaliczona!"
 		],
+		"ui_motion_blur": [
+			"Rozmycie ruchu"
+		],
 		"ui_music": [
 			"Głośność muzyki"
 		],
@@ -18338,6 +20040,9 @@
 		"ui_no_boost": [
 			"Brak ulepszenia monet"
 		],
+		"ui_none": [
+			"Brak"
+		],
 		"ui_open_shop": [
 			"Otwarcie sklepu"
 		],
@@ -18349,6 +20054,15 @@
 		],
 		"ui_performance": [
 			"Wydajność"
+		],
+		"ui_photo_error_1": [
+			"Musisz zapisać każdego niedźwiedzia w tym poziomie, aby użyć Photo Mode."
+		],
+		"ui_photo_error_2": [
+			"Podczas misji możesz używać Photo Mode tylko w trybie treningowym."
+		],
+		"ui_photo_error_3": [
+			"Musisz najpierw uratować królestwo, aby użyć Photo Mode w Ulu."
 		],
 		"ui_progression": [
 			"Progress: {0}%"
@@ -18622,7 +20336,7 @@
 			"Pinguim"
 		],
 		"char_queen": [
-			"Rainha Beeatrice"
+			"Rainha Belhatriz"
 		],
 		"char_reindeer": [
 			"Rena"
@@ -18776,7 +20490,7 @@
 			"Sem cabeça"
 		],
 		"cosmetic_047": [
-			"Camisa (doador)"
+			"Camisa SBA"
 		],
 		"cosmetic_048": [],
 		"cosmetic_049": [
@@ -18807,7 +20521,7 @@
 			"Caveira"
 		],
 		"cosmetic_058": [
-			"Coroa de doador"
+			"Coroa Real"
 		],
 		"cosmetic_059": [
 			"Cabeça de ovo"
@@ -18887,7 +20601,7 @@
 			"Shicka bobble"
 		],
 		"cosmetic_086": [
-			"Chapéu britânico"
+			"Chapéu Bretânhico"
 		],
 		"cosmetic_087": [
 			"Capa (vermelho)"
@@ -18939,8 +20653,125 @@
 			"Cabeça de gato"
 		],
 		"cosmetic_104": [],
+		"cosmetic_105": [
+			"Visão Nóir"
+		],
+		"cosmetic_106": [
+			"Passarinho pet"
+		],
+		"cosmetic_107": [
+			"Violette pet"
+		],
+		"cosmetic_108": [
+			"Pegadas mágicas"
+		],
 		"cosmetic_default": [
 			"Padrão"
+		],
+		"filter_00": [
+			"Sem filtro"
+		],
+		"filter_01": [
+			"Cinemático"
+		],
+		"filter_02": [
+			"Assustador"
+		],
+		"filter_03": [
+			"Intenso"
+		],
+		"filter_04": [
+			"Dramático"
+		],
+		"filter_05": [],
+		"filter_06": [
+			"Colorido"
+		],
+		"filter_07": [
+			"Verão"
+		],
+		"filter_08": [
+			"Tostado"
+		],
+		"filter_09": [
+			"Aconchegante"
+		],
+		"filter_10": [
+			"Fresco"
+		],
+		"filter_11": [
+			"Geladinho"
+		],
+		"filter_12": [
+			"Antigo"
+		],
+		"filter_13": [
+			"Plano"
+		],
+		"filter_14": [
+			"Noturno"
+		],
+		"filter_15": [],
+		"filter_16": [
+			"Posterizar"
+		],
+		"filter_17": [
+			"Terra dos Doces"
+		],
+		"filter_18": [
+			"Escala de cinzas"
+		],
+		"filter_19": [
+			"Filme velho"
+		],
+		"filter_20": [
+			"Noir"
+		],
+		"filter_21": [
+			"Só Vermelho"
+		],
+		"filter_22": [
+			"Só Verde"
+		],
+		"filter_23": [
+			"Só Azul"
+		],
+		"filter_24": [
+			"Sépia"
+		],
+		"filter_25": [
+			"Roxo"
+		],
+		"filter_26": [
+			"Fogo"
+		],
+		"filter_27": [],
+		"filter_28": [
+			"Binário"
+		],
+		"filter_29": [
+			"Estranho"
+		],
+		"filter_30": [
+			"Loucura"
+		],
+		"filter_31": [
+			"Calor"
+		],
+		"filter_32": [
+			"Arco-Íris"
+		],
+		"filter_33": [
+			"Visão Robótica"
+		],
+		"filter_34": [
+			"Negativo 1"
+		],
+		"filter_35": [
+			"Negativo 2"
+		],
+		"filter_36": [
+			"Mundo Neon"
 		],
 		"help_birds": [
 			"Desativar pássaros melhora o desempenho"
@@ -18978,6 +20809,9 @@
 		"help_lightmaps": [
 			"São usadas pra exibir iluminação pré-calculada em objetos estáticos. Esta opção pode ser útil em dispositivos antigos e não afeta o desempenho"
 		],
+		"help_motion_blur": [
+			"Coisas rápidas devem ficar borradas? Desativar melhora o desempenho."
+		],
 		"help_shicka_tips": [
 			"Exibir dicas da Shicka"
 		],
@@ -18997,7 +20831,7 @@
 			"Infelizmente, meus caros ursos preferem paz e viver com outros animais igualmente. Isso é patético, que falta de ambições. Até você, meu próprio irmão, me traiu."
 		],
 		"hive_boss_1_4": [
-			"O Kernel é um tanto maravilhoso, não é? Usei seu poder para controlar a Rainha Beeatrice e pegar as abelhas."
+			"O Kernel é um tanto maravilhoso, não é? Usei seu poder para controlar a Rainha Belhatriz e pegar as abelhas."
 		],
 		"hive_boss_1_5": [
 			"Continuei meus experimentos com este artefato mágico e agora entendo mais do que qualquer um. Posso controlar mentes de ursos! Agora que você está aqui, posso acabar com sua rebelião..."
@@ -19172,32 +21006,77 @@
 		"hub_tristopio": [
 			"Opa! Está procurando uma boa missão? Eu acho que tenho o que você precisa!"
 		],
+		"iap_noads_desc_1": [
+			"<h>Sem mais anúncios indesejados</h> entre as fases!"
+		],
+		"iap_noads_desc_2": [
+			"Anúncios recompensáveis ainda vão estar disponíveis."
+		],
+		"iap_noads_status_1": [
+			"Você já removeu os anúncios!"
+		],
+		"iap_noads_status_2": [
+			"Compra concluída! Anúncios removidos! Obrigado!"
+		],
+		"iap_noads_title": [
+			"Remover anúncios"
+		],
+		"iap_premium_desc_1": [
+			"Incluso no SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Remove anúncios</h> indesejados"
+		],
+		"iap_premium_desc_3": [
+			"Desbloqueia <h>itens</h> exclusivos"
+		],
+		"iap_premium_desc_4": [
+			"Desbloqueia <h>Filtros do Modo Foto</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>2x mais moedas</h> sem anúncios"
+		],
+		"iap_premium_desc_6": [
+			"<h>Dobra a vida</h> máxima"
+		],
+		"iap_premium_desc_7": [
+			"Ganha o <h>primeiro renascimento de graça</h>"
+		],
+		"iap_premium_status_1": [
+			"Você já tem SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Compra concluída! Agora você tem SBA Gold! Obrigado!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
+		],
 		"intro_1_1": [
 			"Por séculos, havia um reino onde criaturas viviam em paz com o governo da Dinastia das Abelhas."
 		],
 		"intro_1_2": [
-			"A Rainha Beeatrice, rainha das abelhas, era uma governante amada, justa e apreciada por todos. A harmonia entre todas as criaturas era perfeita."
+			"A Rainha Belhatriz, rainha das abelhas, era uma governante amada, justa e apreciada por todos. A harmonia entre todas as criaturas era perfeita."
 		],
 		"intro_1_3": [
 			"Até que..."
 		],
 		"intro_2_1": [
-			"...as abelhas começaram a produzir um tipo diferente de mel na Colmeia. Momentos depois, esse novo sabor e coloração roxa foram amados por todos."
+			"...as abelhas começaram a produzir um tipo diferente de mel na Colmeia. Pouco depois, esse novo sabor e coloração roxa foi amados por todos."
 		],
 		"intro_2_2": [
-			"Infelizmente, criaturas que o consumiam logo começaram a ficar loucas e atacar seus amigos como animais desnorteados."
+			"Infelizmente, criaturas que o consumiam logo começaram a ficar loucas e atacar seus amigos como animais desordenados."
 		],
 		"intro_2_3": [
-			"Ninguém sabe porque as abelhas começaram a fazer um estrago sobre o próprio reino, e seus habitantes estavam fracos demais para se defender."
+			"Ninguém sabe porque as abelhas começaram a fazer um estrago sobre o próprio reino, e seus habitantes estavam fracos demais pra se defender."
 		],
 		"intro_3_1": [
-			"Não muito tarde, as abelhas perceberam os ursos misteriosamente não são afetados pelo mel roxo."
+			"Não muito tarde, as abelhas perceberam que os ursos misteriosamente não eram afetados pelo mel roxo."
 		],
 		"intro_3_2": [
-			"Essa resistência causou sua ruína: as abelhas invadiram a Vila dos Ursos e os aprisionaram para prevenir qualquer revolta."
+			"Essa resistência lhes causou a ruína: as abelhas invadiram a Vila dos Ursos e os aprisionaram para evitar qualquer revolta."
 		],
 		"intro_4_1": [
-			"Por sorte, um urso conseguiu evitar o ataque. Mas agora, o destino das pessoas estão em suas patas."
+			"Por sorte, um urso conseguiu se afastar do ataque. Mas agora, o destino das pessoas estão em suas patas."
 		],
 		"intro_4_2": [
 			"O mundo precisa de um herói. Alguém para restaurar o equilíbrio, alguém para acabar com essa maldição roxa."
@@ -19639,7 +21518,7 @@
 			"Que loja bacana!"
 		],
 		"party_fennec_2": [
-			"Rainha Beeatrice é enorme... huh, eu quis dizer bonita."
+			"Rainha Belhatriz é enorme... huh, eu quis dizer bonita."
 		],
 		"party_fennec_3": [
 			"Eu nunca vi grama tão verde assim."
@@ -19660,7 +21539,7 @@
 			"Obrigada por salvvvar o reino! Eu organizzzei uma boa festa pra vocêszz, se divirtam!"
 		],
 		"party_reindeer_1": [
-			"Vida longa à Rainha Beeatrice!"
+			"Vida longa à Rainha Belhatriz!"
 		],
 		"party_reindeer_2": [
 			"Esse lugar é definitivamente muito quente pra mim."
@@ -19688,6 +21567,30 @@
 		],
 		"party_turtle_6": [
 			"Demorei 6 meses pra chegar aqui."
+		],
+		"photo_contribution": [
+			"Força do filtro"
+		],
+		"photo_dof": [
+			"Desfoque"
+		],
+		"photo_guidelines": [
+			"Linhas de Grade"
+		],
+		"photo_iap_blocker": [
+			"Você precisa comprar SBA Gold pra usar os filtros no Modo Foto"
+		],
+		"photo_save": [
+			"Guardar"
+		],
+		"photo_saved": [
+			"Uma cópia dessa foto foi salva em"
+		],
+		"photo_take": [
+			"Tirar foto"
+		],
+		"photo_title": [
+			"Modo Foto"
 		],
 		"rarity_common": [
 			"Comum"
@@ -19726,7 +21629,7 @@
 			"Talvez elas acharam que estava abandonada ou algo do tipo? Está tão suja assim? Enfim..."
 		],
 		"scientist_cutscene_2_1": [
-			"Beleza, então esta bagunça toda está ligada com o Kernel. Precisamos tomá-lo da Rainha Beeatrice e daquele urso roxo seja lá quem for..."
+			"Beleza, então esta bagunça toda está ligada com o Kernel. Precisamos tomá-lo da Rainha Belhatriz e daquele urso roxo seja lá quem for..."
 		],
 		"scientist_cutscene_2_2": [
 			"Mas primeiro, vamos salvar aqueles pobres bebês!"
@@ -19813,7 +21716,7 @@
 			"Nós podemos usar esse canhão para ir pro andar de cima mais rápido!"
 		],
 		"shicka_4_4": [
-			"A chave está presa dentro desse cubo de gelo; vamos achar algo quente pra derretê-lo!"
+			"A chave está presa dentro do cubo de gelo. Vamos achar algo quente pra derretê-lo."
 		],
 		"shicka_4_5": [
 			"Você pode dar uma barrigada pra quicar mais alto!"
@@ -19837,7 +21740,7 @@
 			"Na loja, você pode comprar novos itens em troca de moedas. Itens novos ficam disponíveis a cada 6 horas. Você ainda pode abrir uma loot box pra ganhar um item aleatório que possa não estar na loja!"
 		],
 		"studio_help_3": [
-			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e doador (verde). Itens de doador podem ser pegos na loja do meu irmão."
+			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e lendário (dourado). Itens lendários podem ser pegos na loja do meu irmão."
 		],
 		"studio_help_4": [
 			"Tristopio é o coelho rosa no outro lado do rio. Seus itens são bem especiais... Aliás, tudo o que você desbloquear pode ser equipado aqui, de graça."
@@ -20026,6 +21929,9 @@
 		"ui_connected": [
 			"Conectado"
 		],
+		"ui_continue": [
+			"Continuar"
+		],
 		"ui_cosm_buy": [
 			"Você quer comprar//{0}//por {1} {2}?"
 		],
@@ -20061,18 +21967,6 @@
 		],
 		"ui_discord": [
 			"Discord oficial//Entre pra notícias de desenvolvimento!"
-		],
-		"ui_donator_1": [
-			"Você já é um doador!"
-		],
-		"ui_donator_2": [
-			"Compra completa! Você é agora um doador! Obrigado!"
-		],
-		"ui_donator_info": [
-			"Comprando o status de doador, você://- Ajuda o desenvolvedor do jogo!;//- Não vê anúncios não recompensáveis;//- Tem acesso a roupas exclusivas;//- Ganha 2 vezes mais moedas sem anúncios;//- Ganha vida máxima de 6 pontos;//- Ganha o primeiro renascimento de graça"
-		],
-		"ui_donator_title": [
-			"Comprar status de Doador"
 		],
 		"ui_empty": [
 			"Vazio"
@@ -20183,13 +22077,16 @@
 			"Pressione qualquer lugar para continuar"
 		],
 		"ui_main_menu_2": [
-			"Selecione um save para começar a jogar"
+			"Escolha um save pra começar a jogar"
 		],
 		"ui_mission_fail": [
 			"Missão fracassada!"
 		],
 		"ui_mission_win": [
 			"Missão concluída!"
+		],
+		"ui_motion_blur": [
+			"Borrão de movimento"
 		],
 		"ui_music": [
 			"Volume de músicas"
@@ -20203,6 +22100,9 @@
 		"ui_no_boost": [
 			"Sair sem boost de moedas"
 		],
+		"ui_none": [
+			"Nenhum"
+		],
 		"ui_open_shop": [
 			"Abrir loja"
 		],
@@ -20212,7 +22112,18 @@
 		"ui_oxygen": [
 			"Oxigênio"
 		],
-		"ui_performance": [],
+		"ui_performance": [
+			"Desempenho"
+		],
+		"ui_photo_error_1": [
+			"Você precisa salvar todos os ursos nesta fase pra usar o Modo Foto."
+		],
+		"ui_photo_error_2": [
+			"Durante uma Missão, você só pode usar o modo foto no Modo Treinamento."
+		],
+		"ui_photo_error_3": [
+			"Você precisa salvar o reino primeiro pra usar o Modo Foto na Colmeia."
+		],
 		"ui_progression": [
 			"Progresso: {0}%"
 		],
@@ -20723,7 +22634,7 @@
 			"Без головы"
 		],
 		"cosmetic_047": [
-			"Майка (донатер)"
+			"Майка SBA"
 		],
 		"cosmetic_048": [
 			"Панда"
@@ -20756,7 +22667,7 @@
 			"Череп"
 		],
 		"cosmetic_058": [
-			"Корона донатера"
+			"Царская корона"
 		],
 		"cosmetic_059": [
 			"Голова яйцо"
@@ -20840,7 +22751,7 @@
 			"Покачивающаяся Шика"
 		],
 		"cosmetic_086": [
-			"Бретонская шляпа"
+			"Бретонское облако"
 		],
 		"cosmetic_087": [
 			"Плащ (красный)"
@@ -20896,8 +22807,131 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Тёмное зрение"
+		],
+		"cosmetic_106": [
+			"Питомец птица"
+		],
+		"cosmetic_107": [
+			"Питомец Виолетта"
+		],
+		"cosmetic_108": [
+			"Волшебные шаги"
+		],
 		"cosmetic_default": [
 			"Стандартный"
+		],
+		"filter_00": [
+			"Без фильтра"
+		],
+		"filter_01": [
+			"Кинематографический"
+		],
+		"filter_02": [
+			"Жуткий"
+		],
+		"filter_03": [
+			"Интенсивный"
+		],
+		"filter_04": [
+			"Драматичный"
+		],
+		"filter_05": [
+			"Воспоминание"
+		],
+		"filter_06": [
+			"Красочный"
+		],
+		"filter_07": [
+			"Летний"
+		],
+		"filter_08": [
+			"Солнечный Ожог"
+		],
+		"filter_09": [
+			"Уютный"
+		],
+		"filter_10": [
+			"Свежий"
+		],
+		"filter_11": [
+			"Ледник"
+		],
+		"filter_12": [
+			"Постаревший"
+		],
+		"filter_13": [
+			"Плоский"
+		],
+		"filter_14": [
+			"Ночной"
+		],
+		"filter_15": [
+			"Хакер"
+		],
+		"filter_16": [
+			"Постеризованный"
+		],
+		"filter_17": [
+			"Конфетный Мир"
+		],
+		"filter_18": [
+			"Оттенки Серого"
+		],
+		"filter_19": [
+			"Старый Фильм"
+		],
+		"filter_20": [
+			"Noire"
+		],
+		"filter_21": [
+			"Только Красный"
+		],
+		"filter_22": [
+			"Только Зелёный"
+		],
+		"filter_23": [
+			"Только Синий"
+		],
+		"filter_24": [
+			"Сепия"
+		],
+		"filter_25": [
+			"Фиолетовый"
+		],
+		"filter_26": [
+			"Огненный"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"Gameboy"
+		],
+		"filter_29": [
+			"Странный"
+		],
+		"filter_30": [
+			"Безумие"
+		],
+		"filter_31": [
+			"Теплота"
+		],
+		"filter_32": [
+			"Радуга"
+		],
+		"filter_33": [
+			"Зрение Робота"
+		],
+		"filter_34": [
+			"Отрицательный 1"
+		],
+		"filter_35": [
+			"Отрицательный 2"
+		],
+		"filter_36": [
+			"Неоновый Мир"
 		],
 		"help_birds": [
 			"Отключив птиц, Вы улучшите работу Вашего устройства."
@@ -20934,6 +22968,9 @@
 		],
 		"help_lightmaps": [
 			"Светотени используются для отображения запечённого освещения на статических объектах. Эта функция может быть использована на старых устройствах и не влияет на производительность Вашего устройства."
+		],
+		"help_motion_blur": [
+			"Следует ли быстро двигающемуся объекту быть размытым? Отключение этого улучшает производительность."
 		],
 		"help_shicka_tips": [
 			"Отображать подсказки Шики."
@@ -21132,6 +23169,51 @@
 		],
 		"hub_tristopio": [
 			"Привет! Ты ищешь классную миссию? Думаю, у меня есть то, что тебе нужно!"
+		],
+		"iap_noads_desc_1": [
+			"<h>Больше никакой нежеланной рекламы</h> между уровнями!"
+		],
+		"iap_noads_desc_2": [
+			"Награды за рекламу всё ещё будут доступны."
+		],
+		"iap_noads_status_1": [
+			"Вы уже убрали рекламу!"
+		],
+		"iap_noads_status_2": [
+			"Покупка завершена! Реклама теперь убрана! Спасибо!"
+		],
+		"iap_noads_title": [
+			"Убрать рекламу"
+		],
+		"iap_premium_desc_1": [
+			"Включено в SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Убирает</h> нежеланную <h>рекламу</h>"
+		],
+		"iap_premium_desc_3": [
+			"Открывает эксклюзивную <h>косметику</h>"
+		],
+		"iap_premium_desc_4": [
+			"Открывает <h>Фильтры в Фото-Режиме</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>2x монеты</h> без рекламы"
+		],
+		"iap_premium_desc_6": [
+			"<h>Удваивает</h> максимальное <h>здоровье</h>"
+		],
+		"iap_premium_desc_7": [
+			"Даёт первое <h>возрождение бесплатно</h>"
+		],
+		"iap_premium_status_1": [
+			"У Вас уже есть SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Покупка завершена! Теперь у Вас есть SBA Gold! Спасибо!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
 			"На протяжении веков существовало королевство, где существа жили в мире под правлением династии Пчел."
@@ -21652,6 +23734,30 @@
 		"party_turtle_6": [
 			"Мне понадобилось 6 месяцев, чтобы подняться сюда."
 		],
+		"photo_contribution": [
+			"Вклад фильтра"
+		],
+		"photo_dof": [
+			"Глубина резкости"
+		],
+		"photo_guidelines": [
+			"Руководство"
+		],
+		"photo_iap_blocker": [
+			"Вам нужно купить SBA Gold, чтобы использовать фильтры в Фото-Режиме."
+		],
+		"photo_save": [
+			"Сохранить"
+		],
+		"photo_saved": [
+			"Копия этого фото была сохранена в"
+		],
+		"photo_take": [
+			"Сделать Снимок"
+		],
+		"photo_title": [
+			"Фото-Режим"
+		],
 		"rarity_common": [
 			"Обычный"
 		],
@@ -21800,7 +23906,7 @@
 			"В этом магазине вы сможете обменять свои монеты на новые предметы! Новые предметы будут появляться каждые 6 часов! Так же, вы можете открывать Ящики с одеждой для получения предметов которых нет в магазине!"
 		],
 		"studio_help_3": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая), донатерская (зелёная). Донатерские предметы можно преобрести в магазине моего брата."
+			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая) и легендарная (золотая). Легендарные предметы можно преобрести в магазине моего брата."
 		],
 		"studio_help_4": [
 			"Тристопио это кролик на другой стороне реки, его предметы очень редкие ! Так же, всё что вы приобретёте вы сможете надеть здесь, бесплатно."
@@ -21991,6 +24097,9 @@
 		"ui_connected": [
 			"Подключено"
 		],
+		"ui_continue": [
+			"Продолжить"
+		],
 		"ui_cosm_buy": [
 			"Вы действительно хотите купить //{0}//За {1} {2}?"
 		],
@@ -22026,18 +24135,6 @@
 		],
 		"ui_discord": [
 			"Официальный Discord сервер \\ Подключайтесь, чтобы узнавать новости об игре."
-		],
-		"ui_donator_1": [
-			"Вы уже являетесь донатером."
-		],
-		"ui_donator_2": [
-			"Покупка завершена. Вы теперь донатер! Спасибо!"
-		],
-		"ui_donator_info": [
-			"Приобретение статуса донатера даёт Вам доступ к://- Поддержка разработчика игры!//- Удаление обычной рекламы//- Эксклюзивная косметика//- Двойные монеты без рекламы//- Здоровье будет увеличено до 6//- Бесплатное возрождение"
-		],
-		"ui_donator_title": [
-			"Купить статус донатера"
 		],
 		"ui_empty": [
 			"Пусто"
@@ -22162,6 +24259,9 @@
 		"ui_mission_win": [
 			"Миссия пройдена!"
 		],
+		"ui_motion_blur": [
+			"Размытость во время движения"
+		],
 		"ui_music": [
 			"Громкость музыки"
 		],
@@ -22174,6 +24274,9 @@
 		"ui_no_boost": [
 			"Выйти без допонительных монет"
 		],
+		"ui_none": [
+			"Ничего"
+		],
 		"ui_open_shop": [
 			"Открыть магазин"
 		],
@@ -22185,6 +24288,15 @@
 		],
 		"ui_performance": [
 			"Быстро"
+		],
+		"ui_photo_error_1": [
+			"Вам нужно спасти каждого медведя в этом уровне, чтобы использовать фото-режим."
+		],
+		"ui_photo_error_2": [
+			"Во время миссии, Вы только можете использовать фото-режим в режиме практики."
+		],
+		"ui_photo_error_3": [
+			"Сначала Вам нужно спасти королевство, чтобы использовать Фото-Режим в Улье."
 		],
 		"ui_progression": [
 			"Прогресс: {0}%"
@@ -22513,7 +24625,48 @@
 		"cosmetic_102": [],
 		"cosmetic_103": [],
 		"cosmetic_104": [],
+		"cosmetic_105": [],
+		"cosmetic_106": [],
+		"cosmetic_107": [],
+		"cosmetic_108": [],
 		"cosmetic_default": [],
+		"filter_00": [],
+		"filter_01": [],
+		"filter_02": [],
+		"filter_03": [],
+		"filter_04": [],
+		"filter_05": [],
+		"filter_06": [],
+		"filter_07": [],
+		"filter_08": [],
+		"filter_09": [],
+		"filter_10": [],
+		"filter_11": [],
+		"filter_12": [],
+		"filter_13": [],
+		"filter_14": [],
+		"filter_15": [],
+		"filter_16": [],
+		"filter_17": [],
+		"filter_18": [],
+		"filter_19": [],
+		"filter_20": [],
+		"filter_21": [],
+		"filter_22": [],
+		"filter_23": [],
+		"filter_24": [],
+		"filter_25": [],
+		"filter_26": [],
+		"filter_27": [],
+		"filter_28": [],
+		"filter_29": [],
+		"filter_30": [],
+		"filter_31": [],
+		"filter_32": [],
+		"filter_33": [],
+		"filter_34": [],
+		"filter_35": [],
+		"filter_36": [],
 		"help_birds": [],
 		"help_fancy_shaders": [],
 		"help_fast_restart": [],
@@ -22526,6 +24679,7 @@
 		"help_key_help": [],
 		"help_light_probes": [],
 		"help_lightmaps": [],
+		"help_motion_blur": [],
 		"help_shicka_tips": [],
 		"help_speedrun_mode": [],
 		"help_timer": [],
@@ -22608,6 +24762,21 @@
 			"Välkommen till hubben! Gå på en blå cirkel för att gå in på en bana!"
 		],
 		"hub_tristopio": [],
+		"iap_noads_desc_1": [],
+		"iap_noads_desc_2": [],
+		"iap_noads_status_1": [],
+		"iap_noads_status_2": [],
+		"iap_noads_title": [],
+		"iap_premium_desc_1": [],
+		"iap_premium_desc_2": [],
+		"iap_premium_desc_3": [],
+		"iap_premium_desc_4": [],
+		"iap_premium_desc_5": [],
+		"iap_premium_desc_6": [],
+		"iap_premium_desc_7": [],
+		"iap_premium_status_1": [],
+		"iap_premium_status_2": [],
+		"iap_premium_title": [],
 		"intro_1_1": [],
 		"intro_1_2": [],
 		"intro_1_3": [],
@@ -22805,6 +24974,14 @@
 		"party_turtle_4": [],
 		"party_turtle_5": [],
 		"party_turtle_6": [],
+		"photo_contribution": [],
+		"photo_dof": [],
+		"photo_guidelines": [],
+		"photo_iap_blocker": [],
+		"photo_save": [],
+		"photo_saved": [],
+		"photo_take": [],
+		"photo_title": [],
 		"rarity_common": [],
 		"rarity_epic": [],
 		"rarity_rare": [],
@@ -22928,6 +25105,7 @@
 		],
 		"ui_coins_found": [],
 		"ui_connected": [],
+		"ui_continue": [],
 		"ui_cosm_buy": [],
 		"ui_cosm_new": [],
 		"ui_cosm_owned": [],
@@ -22940,18 +25118,6 @@
 		"ui_deleteconfirm": [],
 		"ui_disconnected": [],
 		"ui_discord": [],
-		"ui_donator_1": [
-			"Du är redan en donator."
-		],
-		"ui_donator_2": [
-			"Köp slutfört. Du är nu en donator! Tack så mycket!"
-		],
-		"ui_donator_info": [
-			"Att köpa donator status ger dig tillgång till: Du supportar spelutvecklaren! Tar bort reklamer utan belöningar! Exklusiva kosmetiska föremål! Mynt × 2 utan reklamer! Max hälsa blir 6! Första återupplivningen är gratis!"
-		],
-		"ui_donator_title": [
-			"Köp donator status"
-		],
 		"ui_empty": [
 			"Tom"
 		],
@@ -22995,14 +25161,19 @@
 		"ui_main_menu_2": [],
 		"ui_mission_fail": [],
 		"ui_mission_win": [],
+		"ui_motion_blur": [],
 		"ui_music": [],
 		"ui_new_best": [],
 		"ui_next_mission": [],
 		"ui_no_boost": [],
+		"ui_none": [],
 		"ui_open_shop": [],
 		"ui_options": [],
 		"ui_oxygen": [],
 		"ui_performance": [],
+		"ui_photo_error_1": [],
+		"ui_photo_error_2": [],
+		"ui_photo_error_3": [],
 		"ui_progression": [],
 		"ui_quality": [],
 		"ui_quality0": [],
@@ -23195,8 +25366,12 @@
 		"char_mouse": [
 			"Fare"
 		],
-		"char_penguin": [],
-		"char_queen": [],
+		"char_penguin": [
+			"Penguen"
+		],
+		"char_queen": [
+			"Kraliçe"
+		],
 		"char_reindeer": [
 			"Ren geyiği"
 		],
@@ -23351,7 +25526,7 @@
 			"Başsız"
 		],
 		"cosmetic_047": [
-			"Gömlek (bağışçı)"
+			"SBA gömleği"
 		],
 		"cosmetic_048": [
 			"Panda"
@@ -23384,7 +25559,7 @@
 			"Kafatası"
 		],
 		"cosmetic_058": [
-			"Bağışçı tacı"
+			"Kraliyet tacı"
 		],
 		"cosmetic_059": [
 			"Yumurta kafa"
@@ -23468,7 +25643,7 @@
 			"Bobble Shicka"
 		],
 		"cosmetic_086": [
-			"Brittany şapkası"
+			"Brittany bulutu"
 		],
 		"cosmetic_087": [
 			"Pelerin (kırmızı)"
@@ -23524,8 +25699,129 @@
 		"cosmetic_104": [
 			"Deal with it"
 		],
+		"cosmetic_105": [
+			"Siyah görüş"
+		],
+		"cosmetic_106": [
+			"Evcil Hayvan Kuş"
+		],
+		"cosmetic_107": [],
+		"cosmetic_108": [
+			"Büyülü ayak izleri"
+		],
 		"cosmetic_default": [
 			"Varsayılan"
+		],
+		"filter_00": [
+			"Filtre yok"
+		],
+		"filter_01": [
+			"Sinematik"
+		],
+		"filter_02": [
+			"Ürpertici"
+		],
+		"filter_03": [
+			"Intense"
+		],
+		"filter_04": [
+			"Dramatik"
+		],
+		"filter_05": [
+			"Flashback"
+		],
+		"filter_06": [
+			"Renkli"
+		],
+		"filter_07": [
+			"Yaz"
+		],
+		"filter_08": [
+			"Güneş yanığı"
+		],
+		"filter_09": [
+			"Samimi"
+		],
+		"filter_10": [
+			"Fresh"
+		],
+		"filter_11": [
+			"Buzlu"
+		],
+		"filter_12": [
+			"Yaşlı"
+		],
+		"filter_13": [
+			"Düz"
+		],
+		"filter_14": [
+			"Gece"
+		],
+		"filter_15": [
+			"Hacker"
+		],
+		"filter_16": [
+			"Posterize"
+		],
+		"filter_17": [
+			"Şeker diyarı"
+		],
+		"filter_18": [
+			"Gri ton"
+		],
+		"filter_19": [
+			"Eski film"
+		],
+		"filter_20": [
+			"Kara"
+		],
+		"filter_21": [
+			"Sadece Kırmızı"
+		],
+		"filter_22": [
+			"Sadece Yeşil"
+		],
+		"filter_23": [
+			"Sadece Mavi"
+		],
+		"filter_24": [
+			"Sepia"
+		],
+		"filter_25": [
+			"Mor"
+		],
+		"filter_26": [
+			"Ateş"
+		],
+		"filter_27": [
+			"Gameboy"
+		],
+		"filter_28": [
+			"İki Renk"
+		],
+		"filter_29": [
+			"Garip"
+		],
+		"filter_30": [
+			"Madness"
+		],
+		"filter_31": [
+			"Sıcak"
+		],
+		"filter_32": [
+			"Gökkuşağı"
+		],
+		"filter_33": [
+			"Robot Görüşü"
+		],
+		"filter_34": [
+			"Negative 1"
+		],
+		"filter_35": [
+			"Negative 2"
+		],
+		"filter_36": [
+			"Neon Dünya"
 		],
 		"help_birds": [
 			"Kuşları devre dışı bırakmak oyun verimini arttırır."
@@ -23534,7 +25830,7 @@
 			"Süslü gölgelendiriciler nesnelerin daha iyi gözükmesini sağlar. Özelliği devre dışı bırakmak oyun verimini arttırır."
 		],
 		"help_fast_restart": [
-			"Seviyeler daha hızlı başlar. (hızlıkoşular için kullanışllı)"
+			"Seviyeler daha hızlı başlar.(speedrunlar için kullanışllı)"
 		],
 		"help_fish": [
 			"Balıkları devre dışı bırakmak oyun verimini arttırır."
@@ -23563,6 +25859,9 @@
 		"help_lightmaps": [
 			"Işıklandırma haritaları durgun nesnelerde ısıtılmış aydınlatmayı görüntülemek için kullanılır. Bu seçenek eski aygıtlarda yararlı olabilir ve oyun verimini etkilemez"
 		],
+		"help_motion_blur": [
+			"Hızlı hareket eden nesne bulanık olmalı mı? Bunu devre dışı bırakmak performansı artırır."
+		],
 		"help_shicka_tips": [
 			"Shicka'nın ipuçlarını gösterir"
 		],
@@ -23570,7 +25869,7 @@
 			"Sayaç her zaman çalışır ve yalnızca son patronu yendiğinizde durur. Kaydetme devre dışı."
 		],
 		"help_timer": [
-			"Geçen süreyi gösterir (hızlıkoşular için kullanışlı)"
+			"Geçen süreyi gösterir (speedrunlar için kullanışlı)"
 		],
 		"hive_boss_1_1": [
 			"Ben de seni bekliyordum. Baaren. Tekrar karşılaşmak için ne güzel bir yer."
@@ -23624,7 +25923,7 @@
 			"Maybee'nin hediye dükkanı"
 		],
 		"hive_shop_equip": [
-			"Ekipman"
+			"Kuşan"
 		],
 		"hive_shop_unequip": [
 			"Önceki kıyafete dön"
@@ -23747,10 +26046,10 @@
 			"Ben ayı."
 		],
 		"hub_capitalos": [
-			"Merhabaaa! Ben, Capitaluuus! Eğer bir reklam izlemeyi kabul edersen, sana hediyeler vereceğiiim!"
+			"Merhabaaa! Ben Capitalooos, Capitulus'un erkek kardeşi! Eğer bu oyunun geliştiricisini desteklerseeen, çok özel ödüller kazanacaksııın!"
 		],
 		"hub_capitalus": [
-			"Merhabaaa! Ben Capitalooos, Capitulus'un erkek kardeşi! Eğer bu oyunun geliştiricisini desteklerseeen, çok özel ödüller kazanacaksııın!"
+			"Merhabaaa! Ben, Capitaluuus! Eğer bir reklam izlemeyi kabul edersen, sana hediyeler vereceğiiim!"
 		],
 		"hub_scientist": [
 			"Endişelenme, büzme makinesi büyük olasılıkla güvenlidir."
@@ -23760,6 +26059,51 @@
 		],
 		"hub_tristopio": [
 			"Selam! Harika bir görev mi arıyorsunuz? Sanırım gereken şeyin bende!"
+		],
+		"iap_noads_desc_1": [
+			"Seviyeler arasında <h>artık istenmeyen reklam yok</h>!"
+		],
+		"iap_noads_desc_2": [
+			"Ödüllü reklamlar yine kullanılabilir olacak."
+		],
+		"iap_noads_status_1": [
+			"Reklamları zaten kaldırdın!"
+		],
+		"iap_noads_status_2": [
+			"Satın Alma İşlemi Tamamlandı! Reklamlar artık kaldırıldı! Teşekkürler"
+		],
+		"iap_noads_title": [
+			"Reklamları kaldır"
+		],
+		"iap_premium_desc_1": [
+			"SBA Goldda bulunanlar:"
+		],
+		"iap_premium_desc_2": [
+			"İstenmeyen <h>reklamları</h> <h>kaldırır</h>"
+		],
+		"iap_premium_desc_3": [
+			"Özel </h>kozmetiğin</h> kilidini açar"
+		],
+		"iap_premium_desc_4": [
+			"<h>Fotoğraf Filtrelerini</h> açar"
+		],
+		"iap_premium_desc_5": [
+			"Reklam izlemeden <h>2 kat para</h>"
+		],
+		"iap_premium_desc_6": [
+			"Maksimum <h>canı</h> <h>ikiye katla</h>"
+		],
+		"iap_premium_desc_7": [
+			"İlk <h>canlanma ücretsiz</h>"
+		],
+		"iap_premium_status_1": [
+			"SBA Golda zaten sahipsin!"
+		],
+		"iap_premium_status_2": [
+			"Satın alım başarılı! Artık SBA Golda sahipsin! Teşekkürler!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
 		],
 		"intro_1_1": [
 			"Yüzyıllar boyunca, Arı hanedanının yönetimi altında canlıların barış içinde yaşadığı bir krallık vardı."
@@ -24131,7 +26475,7 @@
 			"Bir seviye yeterince zorsa Capitalus sana ek sayı verebilir."
 		],
 		"loading_6": [
-			"Hızlıkoşu yapmak istiyorsan, duraklama menüsünde ilgili seçenekleri bulabilirsin."
+			"Speedrun yapmak istiyorsan, duraklama menüsünde ilgili seçenekleri bulabilirsin."
 		],
 		"loading_7": [
 			"Discord'daki topluluğumuza katıl! Bağlantı, duraklama menüsünde."
@@ -24194,10 +26538,10 @@
 			"Yerler lav"
 		],
 		"mission_parkour": [
-			"İzkoşu"
+			"Parkur"
 		],
 		"mission_race": [
-			"Ralli"
+			"Yarış"
 		],
 		"party_bee_1": [
 			"İnsanları incittiğim için çok üzgünüm, biz sadece emirleri uyguluyordukzz..."
@@ -24279,6 +26623,30 @@
 		],
 		"party_turtle_6": [
 			"Buraya gelmem 6 ayımı aldı."
+		],
+		"photo_contribution": [
+			"Filtre Katkısı"
+		],
+		"photo_dof": [
+			"Derinlik"
+		],
+		"photo_guidelines": [
+			"Yönergeler"
+		],
+		"photo_iap_blocker": [
+			"Fotoğraf Modunda filtreleri kullanmak için SBA Gold satın almanız gerekir."
+		],
+		"photo_save": [
+			"Kaydet"
+		],
+		"photo_saved": [
+			"Fotoğraf kaydedildi"
+		],
+		"photo_take": [
+			"Fotoğraf çek"
+		],
+		"photo_title": [
+			"Fotoğraf modu"
 		],
 		"rarity_common": [
 			"Yaygın (beyaz)"
@@ -24619,6 +26987,9 @@
 		"ui_connected": [
 			"Bağlı"
 		],
+		"ui_continue": [
+			"Devam et"
+		],
 		"ui_cosm_buy": [
 			"{1} için//{0}// satın almak istiyor musunuz? {2}?"
 		],
@@ -24655,18 +27026,6 @@
 		"ui_discord": [
 			"Resmi Discord//Geliştirme haberleri için katılın!"
 		],
-		"ui_donator_1": [
-			"Sen zaten bir bağışçısın!"
-		],
-		"ui_donator_2": [
-			"Satın alma tamamlandı! Artık bir bağışçısınız! Teşekkürler!"
-		],
-		"ui_donator_info": [
-			"Bağışçı statüsünü satın almak size şunlara erişim sağlar://- Oyunun geliştiricisini desteklemek;//- Ödülsüz reklamların kaldırılması;//- Özel kostümler;//- Reklamsız 2 kat para;//- Maksimum sağlık 6'ya;//- Ücretsiz ilk canlanma"
-		],
-		"ui_donator_title": [
-			"Bağışçı statüsü satın alın"
-		],
 		"ui_empty": [
 			"Boş"
 		],
@@ -24700,7 +27059,9 @@
 		"ui_game_creator": [
 			"Oyun {0} tarafından yapılmıştır"
 		],
-		"ui_game_over": [],
+		"ui_game_over": [
+			"Oyun bitti"
+		],
 		"ui_go": [
 			"Git!"
 		],
@@ -24711,7 +27072,7 @@
 			"Düz döner"
 		],
 		"ui_hide_inputs": [
-			"Düğmeleri gizle"
+			"Jiroskop"
 		],
 		"ui_hive": [
 			"Kovan"
@@ -24784,6 +27145,9 @@
 		"ui_mission_win": [
 			"Görev tamamlandı!"
 		],
+		"ui_motion_blur": [
+			"Motion blur"
+		],
 		"ui_music": [
 			"Müzik sesi"
 		],
@@ -24796,6 +27160,9 @@
 		"ui_no_boost": [
 			"Akçe arttırıcı yok"
 		],
+		"ui_none": [
+			"Hiçbiri"
+		],
 		"ui_open_shop": [
 			"Mağazayı aç"
 		],
@@ -24807,6 +27174,15 @@
 		],
 		"ui_performance": [
 			"Verim"
+		],
+		"ui_photo_error_1": [
+			"Fotoğraf modunu kullanmak için bu seviyedeki her ayıyı kurtarmanız gerekiyor."
+		],
+		"ui_photo_error_2": [
+			"Bir görev sırasında fotoğraf modunu sadece pratik modunda kullanabilirsiniz."
+		],
+		"ui_photo_error_3": [
+			"Kovan'da Fotoğraf Modunu kullanmak için önce krallığı kurtarmanız gerek."
 		],
 		"ui_progression": [
 			"İlerleme: {0}%"
@@ -24881,7 +27257,7 @@
 			"Atla"
 		],
 		"ui_speedrun_mode": [
-			"Hızlıkoşu kipi"
+			"Speedrun modu"
 		],
 		"ui_start": [
 			"Başla"
@@ -24913,7 +27289,9 @@
 		"ui_vehicle_controls": [
 			"Araç kontrolleri"
 		],
-		"ui_version": [],
+		"ui_version": [
+			"Sürüm {0}"
+		],
 		"ui_watch": [
 			"İzle"
 		],
