@@ -148,6 +148,9 @@
 		"char_mouse": [
 			"Maus"
 		],
+		"char_note": [
+			"Notiz"
+		],
 		"char_penguin": [
 			"Pinguin"
 		],
@@ -427,7 +430,7 @@
 			"Bommel Schicka"
 		],
 		"cosmetic_086": [
-			"Bretagne Hut"
+			"Bretagne Wolke"
 		],
 		"cosmetic_087": [
 			"Umhang (rot)"
@@ -492,6 +495,15 @@
 		],
 		"cosmetic_108": [
 			"Magische Fußspuren"
+		],
+		"cosmetic_109": [
+			"Süßes Gesicht"
+		],
+		"cosmetic_110": [
+			"Geburtstagskuchen"
+		],
+		"cosmetic_111": [
+			"Roter Bär"
 		],
 		"cosmetic_default": [
 			"Standard"
@@ -921,6 +933,12 @@
 		],
 		"intro_4_3": [
 			"Wirst du uns retten, Baaren?"
+		],
+		"lab_note_1": [
+			"Das Rezept für violetten Honig scheint zu funktionieren... aber nicht bei Bären. Ich habe meinem Bruder etwas davon gegeben, während er schlief. Als er aufwachte, war er immer noch friedlich, aber es scheint, als hätte er Schwierigkeiten, sich an Dinge zu erinnern. Weitere Tests sind erforderlich."
+		],
+		"lab_note_2": [
+			"Wiederholte Versuche mit lila Honig scheinen mein Fell langsam lila werden zu lassen. Ich werde das Bärendorf bald verlassen, damit die Bären keinen Verdacht schöpfen."
 		],
 		"level1_boss_1_1": [
 			"Baaren! Du bist gekommen, um mich zu retten! Sei vorsichtig, der Schildkrötengolem ist sehr gefährlich!"
@@ -1739,7 +1757,7 @@
 			"Abbrechen"
 		],
 		"ui_capitalus_hint": [
-			"Ist dieses Level zu schwer? Versuch, einen Gesundheitsschub von Capitalus im Hauptzentrum zu bekommen, oder sieh dir eine Werbung an, um dich wiederzubeleben!"
+			"Ist dieses Level zu schwer? Versuche, einen Gesundheitsschub von Capitalus im Hub zu bekommen!"
 		],
 		"ui_cloud": [
 			"Cloud speichert"
@@ -1936,7 +1954,7 @@
 			"Musik Lautstärke"
 		],
 		"ui_new_best": [
-			"(neue Bestleistung!)"
+			"Neue Bestleistung!"
 		],
 		"ui_next_mission": [
 			"Nächste Mission in"
@@ -1958,6 +1976,9 @@
 		],
 		"ui_performance": [
 			"Leistung"
+		],
+		"ui_personal_best": [
+			"Persönliche Bestleistung:"
 		],
 		"ui_photo_error_1": [
 			"Du musst jeden Bären in diesem Level retten, um den Fotomodus nutzen zu können."
@@ -2015,6 +2036,9 @@
 		],
 		"ui_save": [
 			"Speicher"
+		],
+		"ui_save_kingdom": [
+			"Rettet das Königreich"
 		],
 		"ui_select_quality": [
 			"Wähle die Grafikqualität:"
@@ -2087,6 +2111,9 @@
 		],
 		"ui_yes": [
 			"Ja"
+		],
+		"ui_your_time": [
+			"Deine Zeit"
 		]
 	},
 	"el": {
@@ -2236,6 +2263,7 @@
 		"char_mouse": [
 			"Ποντίκι"
 		],
+		"char_note": [],
 		"char_penguin": [
 			"πιγκουίνος"
 		],
@@ -2579,6 +2607,9 @@
 		"cosmetic_108": [
 			"Μαγικά βήματα"
 		],
+		"cosmetic_109": [],
+		"cosmetic_110": [],
+		"cosmetic_111": [],
 		"cosmetic_default": [
 			"Προεπιλεγμένο"
 		],
@@ -3008,6 +3039,8 @@
 		"intro_4_3": [
 			"Θα μας σώσεις, Μπάαρεν;"
 		],
+		"lab_note_1": [],
+		"lab_note_2": [],
 		"level1_boss_1_1": [
 			"Baaren! Ήρθες να με σώσεις! Πρόσεχε, το Γκόλεμ Χελώνα είναι πολύ επικίνδυνο!"
 		],
@@ -4049,6 +4082,7 @@
 		"ui_performance": [
 			"Απόδοση"
 		],
+		"ui_personal_best": [],
 		"ui_photo_error_1": [
 			"Πρέπει να αποθηκεύσετε κάθε αρκούδα σε αυτό το επίπεδο για να χρησιμοποιήσετε τη λειτουργία Photo Mode."
 		],
@@ -4106,6 +4140,7 @@
 		"ui_save": [
 			"Αποθήκευση"
 		],
+		"ui_save_kingdom": [],
 		"ui_select_quality": [
 			"Επιλέξτε ποιότητα γραφικών:"
 		],
@@ -4177,7 +4212,8 @@
 		],
 		"ui_yes": [
 			"Ναι"
-		]
+		],
+		"ui_your_time": []
 	},
 	"en": {
 		"action_attack": [
@@ -4401,6 +4437,9 @@
 		],
 		"char_mouse": [
 			"Mouse"
+		],
+		"char_note": [
+			"Note"
 		],
 		"char_penguin": [
 			"Penguin"
@@ -4752,6 +4791,15 @@
 		],
 		"cosmetic_108": [
 			"Magical footsteps"
+		],
+		"cosmetic_109": [
+			"Cute face"
+		],
+		"cosmetic_110": [
+			"Birthday cake"
+		],
+		"cosmetic_111": [
+			"Red bear"
 		],
 		"cosmetic_default": [
 			"Default"
@@ -5181,6 +5229,12 @@
 		],
 		"intro_4_3": [
 			"Will you save us, Baaren?"
+		],
+		"lab_note_1": [
+			"The purple honey recipe seems to work... but not on bears. I gave some to my brother while he was sleeping; when waking up he was still peaceful but it seems like he has trouble remembering things. More testing required."
+		],
+		"lab_note_2": [
+			"Repeated experiments on purple honey seem to make my fur turn purple slowly. I will leave the Bear Village soon so bears don't suspect anything."
 		],
 		"level1_boss_1_1": [
 			"Baaren! You came to save me! Be careful, the Turtle Golem is very dangerous!"
@@ -5999,7 +6053,7 @@
 			"Cancel"
 		],
 		"ui_capitalus_hint": [
-			"Is this level too hard? Try to get a health boost from Capitalus in the hub or watch an ad to revive!"
+			"Is this level too hard? Try to get a health boost from Capitalus in the hub!"
 		],
 		"ui_cloud": [
 			"Cloud saves"
@@ -6200,7 +6254,7 @@
 			"Music volume"
 		],
 		"ui_new_best": [
-			"(new best!)"
+			"New best!"
 		],
 		"ui_next_mission": [
 			"Next mission in"
@@ -6222,6 +6276,9 @@
 		],
 		"ui_performance": [
 			"Performance"
+		],
+		"ui_personal_best": [
+			"Personal best:"
 		],
 		"ui_photo_error_1": [
 			"You need to save every bear in this level to use Photo Mode."
@@ -6279,6 +6336,9 @@
 		],
 		"ui_save": [
 			"Save"
+		],
+		"ui_save_kingdom": [
+			"Save the kingdom"
 		],
 		"ui_select_quality": [
 			"Select graphics quality:"
@@ -6351,6 +6411,9 @@
 		],
 		"ui_yes": [
 			"Yes"
+		],
+		"ui_your_time": [
+			"Your time"
 		]
 	},
 	"es": {
@@ -6504,6 +6567,9 @@
 		"char_mouse": [
 			"Ratón"
 		],
+		"char_note": [
+			"Nota"
+		],
 		"char_penguin": [
 			"Pingüino"
 		],
@@ -6610,7 +6676,7 @@
 			"Cabeza al revés"
 		],
 		"cosmetic_029": [
-			"Shicka oscuro"
+			"Shicka obscura"
 		],
 		"cosmetic_030": [
 			"Barba (blanca)"
@@ -6760,7 +6826,7 @@
 			"Shicka oso"
 		],
 		"cosmetic_079": [
-			"Shicka oso"
+			"Oso shicka"
 		],
 		"cosmetic_080": [
 			"Shicka arcoíris"
@@ -6849,6 +6915,15 @@
 		"cosmetic_108": [
 			"Huellas mágicas"
 		],
+		"cosmetic_109": [
+			"Cara linda"
+		],
+		"cosmetic_110": [
+			"Pastel de cumpleaños"
+		],
+		"cosmetic_111": [
+			"Oso rojo"
+		],
 		"cosmetic_default": [
 			"Defecto"
 		],
@@ -6865,7 +6940,7 @@
 			"Intenso"
 		],
 		"filter_04": [
-			"Dramatico"
+			"Dramático"
 		],
 		"filter_05": [
 			"Flashback"
@@ -6913,7 +6988,7 @@
 			"Película vieja"
 		],
 		"filter_20": [
-			"Negro"
+			"Obscuro"
 		],
 		"filter_21": [
 			"Sólo rojo"
@@ -6970,7 +7045,7 @@
 			"El sombreado fino hace que los materiales se vean mejor. Desactivarlo mejora el rendimiento"
 		],
 		"help_fast_restart": [
-			"El nivel se reinicia mas rapido (util para speedruns)"
+			"El nivel se reinicia más rápido (útil para speedruns)"
 		],
 		"help_fish": [
 			"Desactivar los peces mejora el rendimiento"
@@ -6982,7 +7057,7 @@
 			"Mostrar la cantidad de fotogramas por segundo"
 		],
 		"help_gyro_controls": [
-			"Cambia el tipo de cotrol del vehiculo (giroscopio = inclinar el dispositivo)"
+			"Cambia el tipo de cotrol del vehículo (giroscopio = inclinar el dispositivo)"
 		],
 		"help_hide_inputs": [
 			"Oculta los botones de la pantalla táctil (útil cuando se juega con un control)"
@@ -6991,13 +7066,13 @@
 			"Invierte los controles de la camara"
 		],
 		"help_key_help": [
-			"Cuando consigues una llave, se muestra la direccion de la jaula"
+			"Cuando consigues una llave, se muestra la dirección de la jaula"
 		],
 		"help_light_probes": [
 			"Las sondas de luz se usan para mostrar la iluminación baked en objetos en movimiento. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
 		],
 		"help_lightmaps": [
-			"Los Lightmaps se usan para mostrar la iluminacion baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
+			"Los Lightmaps se usan para mostrar la iluminación baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
 		],
 		"help_motion_blur": [
 			"¿Debería un objeto rápido en movimiento ser borroso? Deshabilitar esto mejora el rendimiento."
@@ -7009,10 +7084,10 @@
 			"El cronómetro esta siempre en marcha y solo se detiene cuando derrotas al jefe final. El guardado se desactiva."
 		],
 		"help_timer": [
-			"Muestra un cronómetro (util para speedruns)"
+			"Muestra un cronómetro (útil para speedruns)"
 		],
 		"hive_boss_1_1": [
-			"Te estaba esperando... Baaren. Qué hermoso lugar para una reunión."
+			"Te estaba esperando... Baaren. Que hermoso lugar para una reunión."
 		],
 		"hive_boss_1_2": [
 			"Dejaste a esos osos libres para que destruyeran mis esfuerzos. Si los osos se hubieran apoderado del reino, tendríamos todo lo que quisiéramos. Podríamos haber recuperado el poder que una vez tuvimos."
@@ -7078,7 +7153,7 @@
 			"Última advertencia. No entre."
 		],
 		"hive_task_boss": [
-			"Salvar el reino"
+			"Salvar al reino"
 		],
 		"hive_task_gold": [
 			"Supera todos los tiempos de oro"
@@ -7189,16 +7264,16 @@
 			"¡Holaaa! ¡Soy yo, Capitalooos, hermano de Capitaluuus! ¡Si apoyas al desarrollador de este juuuego, obtendrás regalos muy especialeees!"
 		],
 		"hub_capitalus": [
-			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te dare regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te daré regaaalos!"
 		],
 		"hub_scientist": [
-			"No te preocupes, la maquina encogedora parece ser muy segura."
+			"No te preocupes, la máquina encogedora parece ser muy segura."
 		],
 		"hub_sign_1": [
-			"¡Bienvenido al hub! Ve a los circulos azules para entra a un nivel."
+			"¡Bienvenido al hub! Ve a los círculos azules para entrar a un nivel."
 		],
 		"hub_tristopio": [
-			"¡Hola tú! ¿Buscas una mision genial? ¡Creo que tengo lo que necesitas!"
+			"¡Hola tú! ¿Buscas una misión genial? ¡Creo que tengo lo que necesitas!"
 		],
 		"iap_noads_desc_1": [
 			"<h>¡No más anuncios no deseados</h> entre niveles!"
@@ -7258,7 +7333,7 @@
 			"...las abejas empezaron a producir un tipo de miel diferente en la colmena. Poco despues, este nuevo sabor y su color morado fue amado por todos."
 		],
 		"intro_2_2": [
-			"Desafortunadamente, las criaturas que lo consumian pronto comenzaron a volverse locas y a atacar a sus amigos como animales descerebrados"
+			"Desafortunadamente, las criaturas que lo consumían pronto comenzaron a volverse locas y a atacar a sus amigos como animales descerebrados"
 		],
 		"intro_2_3": [
 			"Nadie sabe por qué las abejas comenzaron a causar estragos en su propio reino y sus habitantes eran demasiado débiles para defenderse."
@@ -7267,16 +7342,22 @@
 			"Pronto, las abejas se dieron cuenta de que los osos eran misteriosamente no afectados por la miel morada."
 		],
 		"intro_3_2": [
-			"Esta resistencia causo su perdida: las abejas atacaron la aldea de los osos y los encarcelaron para impedir cualquier problema."
+			"Esta resistencia causó su perdida: las abejas atacaron la aldea de los osos y los encarcelaron para impedir cualquier problema."
 		],
 		"intro_4_1": [
-			"Afortunadamente, un oso logro evitar el ataque. Pero ahora, el destino del pueblo esta en sus hombros."
+			"Afortunadamente, un oso logro evitar el ataque. Pero ahora, el destino del pueblo está en sus hombros."
 		],
 		"intro_4_2": [
 			"El mundo necesita un héroe. Alguien que restablesca el balance, alguien que termine con esta perdición morada."
 		],
 		"intro_4_3": [
 			"¿Vas a salvarnos, Baaren?"
+		],
+		"lab_note_1": [
+			"La receta de la miel púrpura parece funcionar... pero no en osos. le dí un poco a mi hermano mientras él dormía, cuando se levantó el aún era pacífico pero parece que tiene problemas para recordar las cosas. Más experimentación es requerida."
+		],
+		"lab_note_2": [
+			"Los experimentos constantes con la miel púrpura parecen hacer que mi pelaje se torne morado lentamente. Dejaré la aldea de los osos pronto para que los osos no sospechen nada."
 		],
 		"level1_boss_1_1": [
 			"¡Baaren! ¡Has venido a salvarme! Ten cuidado, el Golem Tortuga es muy peligroso."
@@ -7936,7 +8017,7 @@
 			"En la tienda, puedes comprar nuevos objetos a cambio de monedas. Los nuevos artículos están disponibles cada 6 horas. También puedes abrir una caja de botín para conseguir un objeto aleatorio que puede no estar en la tienda."
 		],
 		"studio_help_3": [
-			"Hay 5 niveles de rareza: común (blanco), raro (azul), épico (magenta), tristopio (rosa) y donante (verde). Los artículos de los donantes pueden obtenerse en la tienda de mi hermano."
+			"Hay 5 niveles de rareza: común (blanco), raro (azúl), épico (magenta), tristopio (rosa) y legendario (naranja). Los artículos legendarios pueden obtenerse en la tienda de mi hermano."
 		],
 		"studio_help_4": [
 			"Tristopio es el conejo rosa del otro lado, sus objetos son un poco... especiales. Por cierto, todo lo que se desbloquea se puede equipar aquí, de forma gratuita."
@@ -8053,7 +8134,7 @@
 			"Logros"
 		],
 		"ui_ad_text": [
-			"Está a punto de ver un anuncio. Después de ver este vídeo, obtendrás tu recompensa."
+			"Estás a punto de ver un anuncio. Después de ver este vídeo, obtendrás tu recompensa."
 		],
 		"ui_arcade_enter": [
 			"Entra en el Mundo Arcade para ganar monedas jugando a los minijuegos."
@@ -8107,7 +8188,7 @@
 			"Guardar en la nube"
 		],
 		"ui_coin_count": [
-			"Monedas de colección"
+			"Monedas coleccionadas"
 		],
 		"ui_coin_detector": [
 			"Detector de monedas"
@@ -8298,7 +8379,7 @@
 			"Próxima misión en"
 		],
 		"ui_no_boost": [
-			"Salir sin el bonus de la moneda"
+			"Salir sin la bonificación de la moneda"
 		],
 		"ui_none": [
 			"Ningúno"
@@ -8315,8 +8396,11 @@
 		"ui_performance": [
 			"Rendimiento"
 		],
+		"ui_personal_best": [
+			"Mejor marca personal:"
+		],
 		"ui_photo_error_1": [
-			"Necesitas salvar a todos los osos en este nivel para usar el modo foto."
+			"Necesitas salvar a todos los osos en este nivel para poder usar el modo foto."
 		],
 		"ui_photo_error_2": [
 			"Durante una misión, sólo puedes usar el modo foto en el modo práctica."
@@ -8371,6 +8455,9 @@
 		],
 		"ui_save": [
 			"Guardar como"
+		],
+		"ui_save_kingdom": [
+			"Salva el reino"
 		],
 		"ui_select_quality": [
 			"Seleccione la calidad de los gráficos"
@@ -8443,6 +8530,9 @@
 		],
 		"ui_yes": [
 			"Sí"
+		],
+		"ui_your_time": [
+			"Tu tiempo"
 		]
 	},
 	"fr": {
@@ -8595,6 +8685,9 @@
 		],
 		"char_mouse": [
 			"Souris"
+		],
+		"char_note": [
+			"Note"
 		],
 		"char_penguin": [
 			"Manchot"
@@ -8940,6 +9033,15 @@
 		],
 		"cosmetic_108": [
 			"Empreintes magiques"
+		],
+		"cosmetic_109": [
+			"Bouille trognonne"
+		],
+		"cosmetic_110": [
+			"Gâteau d'anniversaire"
+		],
+		"cosmetic_111": [
+			"Ours rouge"
 		],
 		"cosmetic_default": [
 			"Défaut"
@@ -9369,6 +9471,12 @@
 		],
 		"intro_4_3": [
 			"Nous sauveras-tu, Baaren ?"
+		],
+		"lab_note_1": [
+			"La recette de miel violet semble fonctionner... mais pas sur les ours. J'en ai donné à mon frère pendant qu'il dormait ; quand il s'est réveillé il était toujours paisible mais il semble qu'il ait du mal à se souvenir des choses. Plus de tests sont nécessaires."
+		],
+		"lab_note_2": [
+			"Des expériences répétées sur le miel violet semblent progressivement rendre ma fourrure violette. Je vais bientôt quitter le Village Ours pour que les ours ne suspectent rien."
 		],
 		"level1_boss_1_1": [
 			"Baaren ! Tu es venu me sauver ! Fais attention, le Golem Tortue est très dangereux !"
@@ -10187,7 +10295,7 @@
 			"Annuler"
 		],
 		"ui_capitalus_hint": [
-			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub ou regarde une publicité pour revivre !"
+			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub !"
 		],
 		"ui_cloud": [
 			"Sauvegardes cloud"
@@ -10384,7 +10492,7 @@
 			"Volume de la musique"
 		],
 		"ui_new_best": [
-			"(nouveau record !)"
+			"Nouveau record !"
 		],
 		"ui_next_mission": [
 			"Prochaine mission dans"
@@ -10406,6 +10514,9 @@
 		],
 		"ui_performance": [
 			"Performance"
+		],
+		"ui_personal_best": [
+			"Record personnel :"
 		],
 		"ui_photo_error_1": [
 			"Tu dois sauver chaque ours de ce niveau pour utiliser le Mode Photo."
@@ -10463,6 +10574,9 @@
 		],
 		"ui_save": [
 			"Sauvegarde"
+		],
+		"ui_save_kingdom": [
+			"Sauver le royaume"
 		],
 		"ui_select_quality": [
 			"Selectionner la qualité des graphismes"
@@ -10535,6 +10649,9 @@
 		],
 		"ui_yes": [
 			"Oui"
+		],
+		"ui_your_time": [
+			"Ton temps"
 		]
 	},
 	"id": {
@@ -10607,7 +10724,9 @@
 		"binding_alt_2": [
 			"Tombol alternatif 2"
 		],
-		"binding_axis": [],
+		"binding_axis": [
+			"Sumbu"
+		],
 		"binding_button": [
 			"Tombol"
 		],
@@ -10632,57 +10751,138 @@
 		"boss_yeti": [
 			"Yeti"
 		],
-		"char_baaren": [],
-		"char_bear_01": [],
-		"char_bear_02": [],
-		"char_bear_03": [],
-		"char_bear_04": [],
-		"char_bear_05": [],
-		"char_bear_06": [],
-		"char_bear_07": [],
-		"char_bear_08": [],
-		"char_bear_09": [],
-		"char_bear_10": [],
-		"char_bear_11": [],
-		"char_bear_12": [],
-		"char_bear_13": [],
-		"char_bear_14": [],
-		"char_bear_15": [],
-		"char_bear_16": [],
-		"char_bear_17": [],
-		"char_bear_18": [],
-		"char_bear_19": [],
-		"char_bear_20": [],
-		"char_bear_21": [],
-		"char_bear_22": [],
-		"char_bear_23": [],
-		"char_bear_24": [],
-		"char_bear_25": [],
-		"char_bear_26": [],
-		"char_bear_27": [],
-		"char_bear_28": [],
-		"char_bear_29": [],
-		"char_bear_30": [],
-		"char_bear_31": [],
-		"char_bear_32": [],
+		"char_baaren": [
+			"Bareen"
+		],
+		"char_bear_01": [
+			"Barry"
+		],
+		"char_bear_02": [
+			"Tommy"
+		],
+		"char_bear_03": [
+			"Blackbeard"
+		],
+		"char_bear_04": [
+			"Stéphane"
+		],
+		"char_bear_05": [
+			"Dr Christopher"
+		],
+		"char_bear_06": [
+			"Pierre"
+		],
+		"char_bear_07": [
+			"Bob"
+		],
+		"char_bear_08": [
+			"Madeline"
+		],
+		"char_bear_09": [
+			"Polaris"
+		],
+		"char_bear_10": [
+			"Flake"
+		],
+		"char_bear_11": [
+			"Rodolph"
+		],
+		"char_bear_12": [
+			"Frosty"
+		],
+		"char_bear_13": [
+			"Alix"
+		],
+		"char_bear_14": [
+			"Vladimir"
+		],
+		"char_bear_15": [
+			"Skia"
+		],
+		"char_bear_16": [
+			"Jon"
+		],
+		"char_bear_17": [
+			"Sand"
+		],
+		"char_bear_18": [
+			"Amos"
+		],
+		"char_bear_19": [
+			"Alexander"
+		],
+		"char_bear_20": [
+			"Zephyr"
+		],
+		"char_bear_21": [
+			"Grumble"
+		],
+		"char_bear_22": [
+			"Numerobis"
+		],
+		"char_bear_23": [
+			"Cleo"
+		],
+		"char_bear_24": [
+			"Ramses"
+		],
+		"char_bear_25": [
+			"Viper"
+		],
+		"char_bear_26": [
+			"Blossom"
+		],
+		"char_bear_27": [
+			"Joseph"
+		],
+		"char_bear_28": [
+			"Toast"
+		],
+		"char_bear_29": [
+			"Maya"
+		],
+		"char_bear_30": [
+			"Junior"
+		],
+		"char_bear_31": [
+			"Claptrap"
+		],
+		"char_bear_32": [
+			"Felix"
+		],
 		"char_bee": [
 			"Lebah"
 		],
 		"char_brother": [
 			"Saudara Baaren"
 		],
-		"char_capitalos": [],
-		"char_capitalus": [],
+		"char_capitalos": [
+			"Capitalos"
+		],
+		"char_capitalus": [
+			"Capitalus"
+		],
 		"char_crocodile": [
 			"Buaya"
 		],
-		"char_crogo": [],
-		"char_fennec": [],
-		"char_maybee": [],
+		"char_crogo": [
+			"Crogo"
+		],
+		"char_fennec": [
+			"Fennec"
+		],
+		"char_maybee": [
+			"Maybee"
+		],
 		"char_mouse": [
 			"Curut"
 		],
-		"char_penguin": [],
+		"char_note": [
+			"Catatan"
+		],
+		"char_penguin": [
+			"Pinguin"
+		],
 		"char_queen": [
 			"Ratu Beeatrice"
 		],
@@ -10692,15 +10892,21 @@
 		"char_scientist": [
 			"Ilmuwan"
 		],
-		"char_shicka": [],
+		"char_shicka": [
+			"Shicka"
+		],
 		"char_sign": [
 			"Tanda"
 		],
-		"char_tristopio": [],
+		"char_tristopio": [
+			"Tristopio"
+		],
 		"char_turtle": [
 			"Kura-kura"
 		],
-		"char_violette": [],
+		"char_violette": [
+			"Violette"
+		],
 		"cosmetic_001": [
 			"Topeng bandit"
 		],
@@ -10710,11 +10916,15 @@
 		"cosmetic_003": [
 			"Topi (biru)"
 		],
-		"cosmetic_004": [],
+		"cosmetic_004": [
+			"Unicorn"
+		],
 		"cosmetic_005": [
 			"Rambut punk"
 		],
-		"cosmetic_006": [],
+		"cosmetic_006": [
+			"Fez"
+		],
 		"cosmetic_007": [
 			"Mahkota"
 		],
@@ -10838,7 +11048,9 @@
 		"cosmetic_047": [
 			"Kaos SBA"
 		],
-		"cosmetic_048": [],
+		"cosmetic_048": [
+			"Panda"
+		],
 		"cosmetic_049": [
 			"Kepala Capitalus"
 		],
@@ -10860,7 +11072,9 @@
 		"cosmetic_055": [
 			"Labu"
 		],
-		"cosmetic_056": [],
+		"cosmetic_056": [
+			"Labu halloween"
+		],
 		"cosmetic_057": [
 			"Tengkorak"
 		],
@@ -11000,7 +11214,9 @@
 		"cosmetic_103": [
 			"Kepala Kucing"
 		],
-		"cosmetic_104": [],
+		"cosmetic_104": [
+			"Hadapilah"
+		],
 		"cosmetic_105": [
 			"Penglihatan Noire"
 		],
@@ -11012,6 +11228,15 @@
 		],
 		"cosmetic_108": [
 			"Jejak ajaib"
+		],
+		"cosmetic_109": [
+			"Wajah imut"
+		],
+		"cosmetic_110": [
+			"Kue Ulang Tahun"
+		],
+		"cosmetic_111": [
+			"Beruang merah"
 		],
 		"cosmetic_default": [
 			"Bawaan"
@@ -11061,7 +11286,9 @@
 		"filter_14": [
 			"Malam"
 		],
-		"filter_15": [],
+		"filter_15": [
+			"Hacker"
+		],
 		"filter_16": [
 			"Posterisasi"
 		],
@@ -11074,7 +11301,9 @@
 		"filter_19": [
 			"Film Lama"
 		],
-		"filter_20": [],
+		"filter_20": [
+			"Noir"
+		],
 		"filter_21": [
 			"Hanya Merah"
 		],
@@ -11084,14 +11313,18 @@
 		"filter_23": [
 			"Hanya Biru"
 		],
-		"filter_24": [],
+		"filter_24": [
+			"Sepia"
+		],
 		"filter_25": [
 			"Ungu"
 		],
 		"filter_26": [
 			"Api"
 		],
-		"filter_27": [],
+		"filter_27": [
+			"Gameboy"
+		],
 		"filter_28": [
 			"Biner"
 		],
@@ -11372,7 +11605,7 @@
 			"Hapus iklan"
 		],
 		"iap_premium_desc_1": [
-			"Dalam SBA Gold:"
+			"Termasuk dalam SBA Gold:"
 		],
 		"iap_premium_desc_2": [
 			"<h>Menghapus</h> iklan<h>yang tidak diinginkan</h>"
@@ -11398,7 +11631,9 @@
 		"iap_premium_status_2": [
 			"Pembelian berhasil! Sekarang kamu punya SBA Gold! Terima kasih!"
 		],
-		"iap_premium_title": [],
+		"iap_premium_title": [
+			"SBA Gold"
+		],
 		"intro_1_1": [
 			"Selama berabad-abad, ada sebuah kerajaan di mana makhluk hidup dalam kedamaian di bawah kekuasaan dinasti Lebah."
 		],
@@ -11431,6 +11666,12 @@
 		],
 		"intro_4_3": [
 			"Maukah kau menyelamatkan kami, Baaren?"
+		],
+		"lab_note_1": [
+			"Resep madu ungu tampaknya berhasil... tetapi tidak pada beruang. Aku memberikan sedikit kepada saudaraku ketika dia sedang tidur, ketika bangun dia masih tenang tetapi sepertinya dia kesulitan mengingat segala sesuatu. Diperlukan lebih banyak pengujian."
+		],
+		"lab_note_2": [
+			"Eksperimen berulang pada madu ungu tampaknya membuat bulu ku perlahan-lahan menjadi ungu. Aku akan segera meninggalkan desa beruang agar beruang lain tidak curiga."
 		],
 		"level1_boss_1_1": [
 			"Baaren! Kau datang untuk menyelamatkanku! Hati-hati, Golem Kura-kura sangat berbahaya!"
@@ -11831,7 +12072,9 @@
 		"mission_lava": [
 			"Lantai lava"
 		],
-		"mission_parkour": [],
+		"mission_parkour": [
+			"Parkour"
+		],
 		"mission_race": [
 			"Balapan"
 		],
@@ -12099,7 +12342,9 @@
 		"time_format": [
 			"{0}j{1}m{2}d"
 		],
-		"title_gameplay": [],
+		"title_gameplay": [
+			"Gaya permainan"
+		],
 		"title_graphics1": [
 			"Grafik"
 		],
@@ -12245,7 +12490,7 @@
 			"Batal"
 		],
 		"ui_capitalus_hint": [
-			"Apakah level ini terlalu susah? Cobalah untuk mendapatkan nyawa tambahan dari Capitalus di hub atau tonton iklan untuk hidup kembali!"
+			"Apakah level ini terlalu susah? Coba untuk mendapatkan nyawa tambahan dari Capitalus di hub!"
 		],
 		"ui_cloud": [
 			"Penyimpanan cloud"
@@ -12340,14 +12585,18 @@
 		"ui_fps_counter": [
 			"Penghitung FPS"
 		],
-		"ui_framerate": [],
+		"ui_framerate": [
+			"Gambar per detik"
+		],
 		"ui_freed": [
 			"Kamu membebaskan"
 		],
 		"ui_game_creator": [
 			"Game buatan {0}"
 		],
-		"ui_game_over": [],
+		"ui_game_over": [
+			"Permainan selesai"
+		],
 		"ui_go": [
 			"Mulai!"
 		],
@@ -12402,8 +12651,12 @@
 		"ui_life": [
 			"Nyawa"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
+		"ui_light_probes": [
+			"Probe cahaya"
+		],
+		"ui_lightmaps": [
+			"Map cahaya"
+		],
 		"ui_load": [
 			"Mulai"
 		],
@@ -12438,7 +12691,7 @@
 			"Volume musik"
 		],
 		"ui_new_best": [
-			"(waktu terbaik baru!)"
+			"Waktu terbaik baru!"
 		],
 		"ui_next_mission": [
 			"Misi berikutnya dalam"
@@ -12460,6 +12713,9 @@
 		],
 		"ui_performance": [
 			"Performa"
+		],
+		"ui_personal_best": [
+			"Waktu terbaik mu:"
 		],
 		"ui_photo_error_1": [
 			"Kamu perlu menyelamatkan setiap beruang di level ini untuk menggunakan mode foto."
@@ -12518,6 +12774,9 @@
 		"ui_save": [
 			"Slot"
 		],
+		"ui_save_kingdom": [
+			"Selamatkan kerajaan"
+		],
 		"ui_select_quality": [
 			"Pilih kualitas grafik:"
 		],
@@ -12554,7 +12813,9 @@
 		"ui_time": [
 			"Waktu"
 		],
-		"ui_timer": [],
+		"ui_timer": [
+			"Timer"
+		],
 		"ui_titleconfirm": [
 			"Apa kamu yakin ingin kembali ke layar judul?"
 		],
@@ -12562,7 +12823,7 @@
 			"Token Tristopio"
 		],
 		"ui_tristopio_info": [
-			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap misi berhasil akan memberikan kamu satu token Tristopio. Kamu dapat menggunakan token mu untuk membuka pakaian yang unik! Setiap kali kamu gagal, kamu akan kehilangan satu headset."
+			"Datang ke sini untuk misi baru setiap hari jam 10 pagi!//Setiap misi berhasil akan memberikan kamu satu token Tristopio. Kamu dapat menggunakan token mu untuk membuka pakaian yang unik! Setiap kali kamu gagal, kamu akan kehilangan satu headset."
 		],
 		"ui_tristopio_title": [
 			"Toko Tristopio"
@@ -12587,6 +12848,9 @@
 		],
 		"ui_yes": [
 			"Ya"
+		],
+		"ui_your_time": [
+			"Waktumu"
 		]
 	},
 	"it": {
@@ -12740,6 +13004,7 @@
 		"char_mouse": [
 			"Topo"
 		],
+		"char_note": [],
 		"char_penguin": [
 			"Pinguino"
 		],
@@ -13085,6 +13350,9 @@
 		"cosmetic_108": [
 			"Impronte magiche"
 		],
+		"cosmetic_109": [],
+		"cosmetic_110": [],
+		"cosmetic_111": [],
 		"cosmetic_default": [
 			"Difetto"
 		],
@@ -13514,6 +13782,8 @@
 		"intro_4_3": [
 			"Ci salverai, Baaren?"
 		],
+		"lab_note_1": [],
+		"lab_note_2": [],
 		"level1_boss_1_1": [
 			"Baaren! Sei venuto a salvarmi! Fate attenzione, il Golem della Tartaruga è molto pericoloso!"
 		],
@@ -14551,6 +14821,7 @@
 		"ui_performance": [
 			"Prestazioni"
 		],
+		"ui_personal_best": [],
 		"ui_photo_error_1": [
 			"Per utilizzare la Modalità Foto è necessario salvare ogni orso di questo livello."
 		],
@@ -14608,6 +14879,7 @@
 		"ui_save": [
 			"Salvataggio"
 		],
+		"ui_save_kingdom": [],
 		"ui_select_quality": [
 			"Seleziona la qualità grafica"
 		],
@@ -14677,7 +14949,8 @@
 		],
 		"ui_yes": [
 			"Sì"
-		]
+		],
+		"ui_your_time": []
 	},
 	"ja": {
 		"action_attack": [],
@@ -14790,6 +15063,7 @@
 		"char_mouse": [
 			"マウス"
 		],
+		"char_note": [],
 		"char_penguin": [
 			"ペンギン"
 		],
@@ -14917,6 +15191,9 @@
 		"cosmetic_106": [],
 		"cosmetic_107": [],
 		"cosmetic_108": [],
+		"cosmetic_109": [],
+		"cosmetic_110": [],
+		"cosmetic_111": [],
 		"cosmetic_default": [],
 		"filter_00": [],
 		"filter_01": [],
@@ -15148,6 +15425,8 @@
 		"intro_4_1": [],
 		"intro_4_2": [],
 		"intro_4_3": [],
+		"lab_note_1": [],
+		"lab_note_2": [],
 		"level1_boss_1_1": [],
 		"level1_boss_1_2": [],
 		"level1_boss_1_3": [],
@@ -15999,6 +16278,7 @@
 		"ui_performance": [
 			"パフォーマンス"
 		],
+		"ui_personal_best": [],
 		"ui_photo_error_1": [],
 		"ui_photo_error_2": [],
 		"ui_photo_error_3": [],
@@ -16046,6 +16326,7 @@
 		"ui_save": [
 			"保存"
 		],
+		"ui_save_kingdom": [],
 		"ui_select_quality": [
 			"グラフィックスの品質を選択"
 		],
@@ -16111,7 +16392,8 @@
 		],
 		"ui_yes": [
 			"噫"
-		]
+		],
+		"ui_your_time": []
 	},
 	"nl": {
 		"action_attack": [
@@ -16263,6 +16545,9 @@
 		"char_maybee": [],
 		"char_mouse": [
 			"Muis"
+		],
+		"char_note": [
+			"Notitie"
 		],
 		"char_penguin": [
 			"Pinguïn"
@@ -16600,7 +16885,18 @@
 		"cosmetic_105": [],
 		"cosmetic_106": [],
 		"cosmetic_107": [],
-		"cosmetic_108": [],
+		"cosmetic_108": [
+			"Magische voetstappen"
+		],
+		"cosmetic_109": [
+			"Schattig hoofd"
+		],
+		"cosmetic_110": [
+			"Verjaardagstaart"
+		],
+		"cosmetic_111": [
+			"Rode beer"
+		],
 		"cosmetic_default": [
 			"Standaard"
 		],
@@ -16687,7 +16983,9 @@
 		"help_lightmaps": [
 			"Lightmaps worden gebruikt om gebakken verlichting op statische objecten weer te geven. Deze optie kan handig zijn op oudere apparaten en heeft geen invloed op de prestaties."
 		],
-		"help_motion_blur": [],
+		"help_motion_blur": [
+			"Moeten snel bewegende objecten wazig zijn? Als je dit uitschakelt, worden de prestaties verbeterd."
+		],
 		"help_shicka_tips": [
 			"Toont Shicka's tips."
 		],
@@ -16886,21 +17184,51 @@
 		"hub_tristopio": [
 			"Hallo daar! Zoek je een gave nieuwe missie? Ik heb dan misschien wat jij nodig hebt!"
 		],
-		"iap_noads_desc_1": [],
-		"iap_noads_desc_2": [],
-		"iap_noads_status_1": [],
-		"iap_noads_status_2": [],
-		"iap_noads_title": [],
-		"iap_premium_desc_1": [],
-		"iap_premium_desc_2": [],
-		"iap_premium_desc_3": [],
-		"iap_premium_desc_4": [],
-		"iap_premium_desc_5": [],
-		"iap_premium_desc_6": [],
-		"iap_premium_desc_7": [],
-		"iap_premium_status_1": [],
-		"iap_premium_status_2": [],
-		"iap_premium_title": [],
+		"iap_noads_desc_1": [
+			"<h>Geen ongewenste advertenties</h> tussen levels!"
+		],
+		"iap_noads_desc_2": [
+			"Beloonde advertenties zullen nog steeds beschikbaar zijn."
+		],
+		"iap_noads_status_1": [
+			"Je hebt al advertenties verwijderd!"
+		],
+		"iap_noads_status_2": [
+			"Aankoop voltooid! Advertenties zijn nu verwijderd! Bedankt!"
+		],
+		"iap_noads_title": [
+			"Verwijdert advertenties"
+		],
+		"iap_premium_desc_1": [
+			"Inbegrepen in SBA Gold:"
+		],
+		"iap_premium_desc_2": [
+			"<h>Verwijdert</h> ongewenste <h>advertentie</h>"
+		],
+		"iap_premium_desc_3": [
+			"Ontgrendelt exclusieve <h>items</h>"
+		],
+		"iap_premium_desc_4": [
+			"Ontgrendelt <h>Foto Modus filters</h>"
+		],
+		"iap_premium_desc_5": [
+			"<h>Coins × 2</h> zonder advertentie"
+		],
+		"iap_premium_desc_6": [
+			"<h>Verdubbelt</h> maximale <h>levens</h>"
+		],
+		"iap_premium_desc_7": [
+			"Geeft eerste <h>revive gratis</h>"
+		],
+		"iap_premium_status_1": [
+			"Je hebt al SBA Gold!"
+		],
+		"iap_premium_status_2": [
+			"Aankoop voltooid! Je hebt nu SBA Gold! Bedankt!"
+		],
+		"iap_premium_title": [
+			"SBA Gold"
+		],
 		"intro_1_1": [
 			"Eeuwenlang bestond er een koninkrijk waar wezens in vrede leefden onder de heerschappij van de Bijendynastie."
 		],
@@ -16933,6 +17261,12 @@
 		],
 		"intro_4_3": [
 			"Ga jij ons redden, Baaren?"
+		],
+		"lab_note_1": [
+			"Het paarse honing recept lijkt te werken... maar niet op beren. Ik gaf wat aan mijn broer terwijl hij sliep, toen hij wakker werd was hij nog vredig maar het lijkt alsof hij moeite heeft om dingen te onthouden. Meer testen nodig."
+		],
+		"lab_note_2": [
+			"Herhaalde experimenten met paarse honing lijken mijn vacht langzaam paars te laten worden. Ik zal het berendorp binnenkort verlaten, zodat beren niets vermoeden."
 		],
 		"level1_boss_1_1": [
 			"Baaren! Je bent gekomen om me te redden! Wees voorzichtig, de Schildpad Golem is heel gevaarlijk!"
@@ -17423,12 +17757,20 @@
 		"photo_contribution": [],
 		"photo_dof": [],
 		"photo_guidelines": [
-			"Richtlijnen"
+			"Hulplijnen"
 		],
-		"photo_iap_blocker": [],
-		"photo_save": [],
-		"photo_saved": [],
-		"photo_take": [],
+		"photo_iap_blocker": [
+			"Je moet SBA Gold kopen om filters in de fotomodus te gebruiken"
+		],
+		"photo_save": [
+			"Opslaan"
+		],
+		"photo_saved": [
+			"Er is een kopie van deze foto opgeslagen in"
+		],
+		"photo_take": [
+			"Foto nemen"
+		],
 		"photo_title": [
 			"Foto modus"
 		],
@@ -17580,7 +17922,7 @@
 			"In de winkel kan je nieuwe voorwerpen kopen met munten. Er zijn elke 6 uur nieuwe voorwerpen beschikbaar. Je kan een lootbox openen om een willlekeurig voorwerp te krijgen wat misschien niet in de winkel beschikbaar is!"
 		],
 		"studio_help_3": [
-			"Er zijn 5 categorieën van zeldzaamheid: gewoon (wit), zeldzaam (blauw), episch (magenta), Tristopio (roze) and donor (groenn). Donor voorwerpen kunnen worden gekocht in de winkel van mijn broer."
+			"Er zijn 5 categorieën van zeldzaamheid: gewoon (wit), zeldzaam (blauw), episch (magenta), Tristopio (roze) and legendarisch (goud). Legendarische voorwerpen kunnen worden gekocht in de winkel van mijn broer."
 		],
 		"studio_help_4": [
 			"Tristopio is het roze konijn aan de andere kant van de rivier. Zijn voorwerpen zijn vrij speciaal... Je kan trouwens alles wat je hebt gekregen hier toepassen zonder enkele kosten."
@@ -17703,7 +18045,7 @@
 			"Betreed de Arcade Wereld om munten te krjgen door mini-games te spelen!"
 		],
 		"ui_arcade_exit": [
-			"Arcade wereld verlaten"
+			"Arcade wereld"
 		],
 		"ui_arcade_stay": [
 			"Blijven"
@@ -17739,7 +18081,7 @@
 			"Annuleer"
 		],
 		"ui_capitalus_hint": [
-			"Is dit level te moeilijk? Krijg een beest can Capitalus in de hub of kijk een advertentie voor om door te gaan!"
+			"Is dit level te moeilijk?  Probeer een levensboost te krijgen van Capitalus in de hub!"
 		],
 		"ui_cloud": [
 			"Opslag in Cloud"
@@ -17771,7 +18113,9 @@
 		"ui_connected": [
 			"Verbonden"
 		],
-		"ui_continue": [],
+		"ui_continue": [
+			"Doorgaan"
+		],
 		"ui_cosm_buy": [
 			"Wil je//{0}//voor {1} {2} kopen?"
 		],
@@ -17932,7 +18276,7 @@
 			"Muziek volume"
 		],
 		"ui_new_best": [
-			"(nieuw record!)"
+			"Nieuw record!"
 		],
 		"ui_next_mission": [
 			"Volgende missie in"
@@ -17940,7 +18284,9 @@
 		"ui_no_boost": [
 			"Verlaten zonder muntenboost"
 		],
-		"ui_none": [],
+		"ui_none": [
+			"Geen"
+		],
 		"ui_open_shop": [
 			"Open winkel"
 		],
@@ -17953,9 +18299,18 @@
 		"ui_performance": [
 			"Prestaties"
 		],
-		"ui_photo_error_1": [],
-		"ui_photo_error_2": [],
-		"ui_photo_error_3": [],
+		"ui_personal_best": [
+			"Persoonlijk record"
+		],
+		"ui_photo_error_1": [
+			"Je moet elke beer in dit level redden om de fotomodus te gebruiken."
+		],
+		"ui_photo_error_2": [
+			"Tijdens een missie kun je de fotomodus alleen gebruiken in de oefenmodus."
+		],
+		"ui_photo_error_3": [
+			"Je moet eerst het koninkrijk redden om de Fotomodus in de Hive te gebruiken."
+		],
 		"ui_progression": [
 			"Progressie: {0}%"
 		],
@@ -18003,6 +18358,9 @@
 		],
 		"ui_save": [
 			"Opslag"
+		],
+		"ui_save_kingdom": [
+			"Red het koninkrijk"
 		],
 		"ui_select_quality": [
 			"Kies de grafische kwaliteit:"
@@ -18075,6 +18433,9 @@
 		],
 		"ui_yes": [
 			"Ja"
+		],
+		"ui_your_time": [
+			"Jouw tijd"
 		]
 	},
 	"pl": {
@@ -18240,6 +18601,7 @@
 		"char_mouse": [
 			"Mysz"
 		],
+		"char_note": [],
 		"char_penguin": [
 			"Pingwin"
 		],
@@ -18585,6 +18947,9 @@
 		"cosmetic_108": [
 			"Magiczne ślady"
 		],
+		"cosmetic_109": [],
+		"cosmetic_110": [],
+		"cosmetic_111": [],
 		"cosmetic_default": [
 			"Domyślny"
 		],
@@ -19014,6 +19379,8 @@
 		"intro_4_3": [
 			"Uratujesz nas, Baaren?"
 		],
+		"lab_note_1": [],
+		"lab_note_2": [],
 		"level1_boss_1_1": [
 			"Baaren! Przyszedłeś mnie uratować! Uważaj, Żółwi Golem jest bardzo niebezpieczny!"
 		],
@@ -20055,6 +20422,7 @@
 		"ui_performance": [
 			"Wydajność"
 		],
+		"ui_personal_best": [],
 		"ui_photo_error_1": [
 			"Musisz zapisać każdego niedźwiedzia w tym poziomie, aby użyć Photo Mode."
 		],
@@ -20112,6 +20480,7 @@
 		"ui_save": [
 			"Zapis"
 		],
+		"ui_save_kingdom": [],
 		"ui_select_quality": [
 			"Wybierz jakość grafiki"
 		],
@@ -20183,7 +20552,8 @@
 		],
 		"ui_yes": [
 			"Tak"
-		]
+		],
+		"ui_your_time": []
 	},
 	"pt": {
 		"action_attack": [
@@ -20331,6 +20701,9 @@
 		"char_maybee": [],
 		"char_mouse": [
 			"Camundongo"
+		],
+		"char_note": [
+			"Nota"
 		],
 		"char_penguin": [
 			"Pinguim"
@@ -20665,6 +21038,15 @@
 		"cosmetic_108": [
 			"Pegadas mágicas"
 		],
+		"cosmetic_109": [
+			"Cara fofa"
+		],
+		"cosmetic_110": [
+			"Bolo de Aniversário"
+		],
+		"cosmetic_111": [
+			"Urso vermelho"
+		],
 		"cosmetic_default": [
 			"Padrão"
 		],
@@ -20870,7 +21252,7 @@
 			"Ursoszz são nojentos mas talvvvezzz eu possa te abrir uma exceção. Fui habelhitada a fazzzer negócioszz."
 		],
 		"hive_shop": [
-			"Loja de Presentes da Maybee"
+			"Tenda de Presentes da Maybee"
 		],
 		"hive_shop_equip": [
 			"Equipar"
@@ -21083,6 +21465,12 @@
 		],
 		"intro_4_3": [
 			"Você vai nos salvar, Baaren?"
+		],
+		"lab_note_1": [
+			"A receita de mel roxo parece funcionar... mas não em ursos. Dei um pouco pro meu irmão enquanto ele dormia, quando acordou ele ainda estava pacífico mas parecia como se tivesse problemas pra lembrar coisas. Precisa de mais testes."
+		],
+		"lab_note_2": [
+			"Repetir experimentos no mel roxo parece estar fazendo meu pelo ficar roxo lentamente. Vou sair desta vila em breve e os ursos não vão suspeitar de nada."
 		],
 		"level1_boss_1_1": [
 			"Baaren! Você veio me salvar! Cuidado, o Golem Tartaruga é muito perigoso!"
@@ -21897,7 +22285,7 @@
 			"Cancelar"
 		],
 		"ui_capitalus_hint": [
-			"Esta fase está muito difícil? Tente pegar um boost de vida com Capitalus no hub ou assista a um anúncio pra reviver!"
+			"Esta fase está muito difícil? Tente pegar uma bônus de vida com Capitalus no hub!"
 		],
 		"ui_cloud": [
 			"Saves na Nuvem"
@@ -22092,7 +22480,7 @@
 			"Volume de músicas"
 		],
 		"ui_new_best": [
-			"(novo melhor!)"
+			"Novo melhor!"
 		],
 		"ui_next_mission": [
 			"Próxima missão em"
@@ -22114,6 +22502,9 @@
 		],
 		"ui_performance": [
 			"Desempenho"
+		],
+		"ui_personal_best": [
+			"Recorde pessoal:"
 		],
 		"ui_photo_error_1": [
 			"Você precisa salvar todos os ursos nesta fase pra usar o Modo Foto."
@@ -22172,6 +22563,9 @@
 		"ui_save": [
 			"Espaço"
 		],
+		"ui_save_kingdom": [
+			"Salve o Reino"
+		],
 		"ui_select_quality": [
 			"Selecione uma qualidade gráfica:"
 		],
@@ -22221,7 +22615,7 @@
 			"Venha aqui para uma nova missão às 10 horas da manhã todo dia!//Cada missão concluída te dá uma Ficha do Tristopio. Você pode gastar elas pra desbloquear roupas únicas! Cada vez que falhar em uma missão, você perde um headset."
 		],
 		"ui_tristopio_title": [
-			"Loja do Tristopio"
+			"Tenda do Tristopio"
 		],
 		"ui_unlock": [
 			"Você desbloqueou"
@@ -22243,6 +22637,9 @@
 		],
 		"ui_yes": [
 			"Sim"
+		],
+		"ui_your_time": [
+			"Seu tempo"
 		]
 	},
 	"ru": {
@@ -22467,6 +22864,9 @@
 		],
 		"char_mouse": [
 			"Мышь"
+		],
+		"char_note": [
+			"Заметка"
 		],
 		"char_penguin": [
 			"Пингвин"
@@ -22819,6 +23219,15 @@
 		"cosmetic_108": [
 			"Волшебные шаги"
 		],
+		"cosmetic_109": [
+			"Милое лицо"
+		],
+		"cosmetic_110": [
+			"Торт на день рождения"
+		],
+		"cosmetic_111": [
+			"Красный медведь"
+		],
 		"cosmetic_default": [
 			"Стандартный"
 		],
@@ -22907,7 +23316,7 @@
 			"Gameboy"
 		],
 		"filter_28": [
-			"Gameboy"
+			"Бинарный"
 		],
 		"filter_29": [
 			"Странный"
@@ -23247,6 +23656,12 @@
 		],
 		"intro_4_3": [
 			"Ты спасёшь нас, Баарен?"
+		],
+		"lab_note_1": [
+			"Рецепт фиолетового мёд, кажется, работает... но не на медведях. Я дал немного своему брату, пока он спал, когда он проснулся то всё ещё был мирным, но, похоже, у него есть проблемы с памятью. Требуется больше тестирования."
+		],
+		"lab_note_2": [
+			"Повторные эксперименты над фиолетовым мёдом, похоже, заставляют мою шерсть медленно становиться фиолетовой. Скоро я покину медвежью деревню, чтобы медведи ничего не заподозрили"
 		],
 		"level1_boss_1_1": [
 			"Баарен! Ты пришёл чтобы спасти меня! Будь осторожен, Черепаший Голем очень опасен!"
@@ -23741,7 +24156,7 @@
 			"Глубина резкости"
 		],
 		"photo_guidelines": [
-			"Руководство"
+			"Вспомогательные линии"
 		],
 		"photo_iap_blocker": [
 			"Вам нужно купить SBA Gold, чтобы использовать фильтры в Фото-Режиме."
@@ -24065,7 +24480,7 @@
 			"Отмена"
 		],
 		"ui_capitalus_hint": [
-			"Уровень слишком сложен? Чтобы получить прирост здоровья или монеты от Капиталуса, посмотри рекламу!"
+			"Этот уровень слишком сложен? Попробуйте получить увеличенное здоровье от Капиталуса в центре!"
 		],
 		"ui_cloud": [
 			"Облачные сохранения"
@@ -24266,7 +24681,7 @@
 			"Громкость музыки"
 		],
 		"ui_new_best": [
-			"(Лучший результат!)"
+			"Новый рекорд!"
 		],
 		"ui_next_mission": [
 			"Следующая миссия через"
@@ -24288,6 +24703,9 @@
 		],
 		"ui_performance": [
 			"Быстро"
+		],
+		"ui_personal_best": [
+			"Личный рекорд:"
 		],
 		"ui_photo_error_1": [
 			"Вам нужно спасти каждого медведя в этом уровне, чтобы использовать фото-режим."
@@ -24345,6 +24763,9 @@
 		],
 		"ui_save": [
 			"Сохранение"
+		],
+		"ui_save_kingdom": [
+			"Спасти королевство"
 		],
 		"ui_select_quality": [
 			"Выберите качество графики"
@@ -24417,6 +24838,9 @@
 		],
 		"ui_yes": [
 			"Да"
+		],
+		"ui_your_time": [
+			"Ваше время"
 		]
 	},
 	"sv": {
@@ -24502,6 +24926,7 @@
 		"char_mouse": [
 			"Mus"
 		],
+		"char_note": [],
 		"char_penguin": [
 			"Pingvin"
 		],
@@ -24629,6 +25054,9 @@
 		"cosmetic_106": [],
 		"cosmetic_107": [],
 		"cosmetic_108": [],
+		"cosmetic_109": [],
+		"cosmetic_110": [],
+		"cosmetic_111": [],
 		"cosmetic_default": [],
 		"filter_00": [],
 		"filter_01": [],
@@ -24788,6 +25216,8 @@
 		"intro_4_1": [],
 		"intro_4_2": [],
 		"intro_4_3": [],
+		"lab_note_1": [],
+		"lab_note_2": [],
 		"level1_boss_1_1": [],
 		"level1_boss_1_2": [],
 		"level1_boss_1_3": [],
@@ -25171,6 +25601,7 @@
 		"ui_options": [],
 		"ui_oxygen": [],
 		"ui_performance": [],
+		"ui_personal_best": [],
 		"ui_photo_error_1": [],
 		"ui_photo_error_2": [],
 		"ui_photo_error_3": [],
@@ -25192,6 +25623,7 @@
 		"ui_save": [
 			"Spara"
 		],
+		"ui_save_kingdom": [],
 		"ui_select_quality": [],
 		"ui_sfx_volume": [],
 		"ui_shadows": [],
@@ -25217,7 +25649,8 @@
 		"ui_website": [],
 		"ui_yes": [
 			"Ja"
-		]
+		],
+		"ui_your_time": []
 	},
 	"tr": {
 		"action_attack": [
@@ -25366,6 +25799,9 @@
 		"char_mouse": [
 			"Fare"
 		],
+		"char_note": [
+			"Not"
+		],
 		"char_penguin": [
 			"Penguen"
 		],
@@ -25380,7 +25816,7 @@
 		],
 		"char_shicka": [],
 		"char_sign": [
-			"İz"
+			"Tabela"
 		],
 		"char_tristopio": [],
 		"char_turtle": [
@@ -25705,9 +26141,20 @@
 		"cosmetic_106": [
 			"Evcil Hayvan Kuş"
 		],
-		"cosmetic_107": [],
+		"cosmetic_107": [
+			"Evcil Hayvan Violette"
+		],
 		"cosmetic_108": [
 			"Büyülü ayak izleri"
+		],
+		"cosmetic_109": [
+			"Şirin yüz"
+		],
+		"cosmetic_110": [
+			"Doğum günü pastası"
+		],
+		"cosmetic_111": [
+			"Kırmızı ayı"
 		],
 		"cosmetic_default": [
 			"Varsayılan"
@@ -26137,6 +26584,12 @@
 		],
 		"intro_4_3": [
 			"Bizi kurtaracak mısın, Baaren?"
+		],
+		"lab_note_1": [
+			"Mor bal tarifi işe yarıyor gibi görünüyor... ama ayılar üzerinde değil. Birazını kardeşim uyurken verdim; uyandığında hala huzurluydu ama görünüşe göre bazı şeyleri hatırlamakta zorlanıyor. Daha fazla test gerekli."
+		],
+		"lab_note_2": [
+			"Mor bal üzerinde tekrarlanan deneyler, kürkümün yavaşça mora dönüşmesine neden oluyor. Ayılar hiçbir şeyden şüphelenmesin diye yakında Ayı Köyü'nden ayrılacağım."
 		],
 		"level1_boss_1_1": [
 			"Baaren! Beni kurtarmaya geldin! Dikkatli ol, Kaplumbağa Golem çok tehlikelidir!"
@@ -26934,7 +27387,7 @@
 			"ayı kurtarıldı"
 		],
 		"ui_best_time": [
-			"En iyi süren"
+			"En iyi zamanın"
 		],
 		"ui_bestcoins": [
 			"En iyi akçe sayın:"
@@ -26955,7 +27408,8 @@
 			"Vazgeç"
 		],
 		"ui_capitalus_hint": [
-			"Bu seviye çok mu zor? Başlangıç noktasındaki Capitalus'dan sağlık arttırıcı almayı dene veya canlanmak için bir reklam izle!"
+			"Bu seviye çok mu zor? Başlangıç noktasındaki Capitalus'dan sağlık arttırıcı almayı dene veya canlanmak için bir reklam izle!",
+			"Bu seviye çok mu zor? Merkezdeki Capitalus'tan sağlık desteği almaya çalışın!"
 		],
 		"ui_cloud": [
 			"Bulut kayıtları"
@@ -27003,7 +27457,7 @@
 			"Dükkan"
 		],
 		"ui_credits": [
-			"Kredileri izleyin"
+			"Emeği geçenler"
 		],
 		"ui_day_0": [
 			"Bugün"
@@ -27152,7 +27606,7 @@
 			"Müzik sesi"
 		],
 		"ui_new_best": [
-			"(yeni en iyin!)"
+			"Yeni En İyin!"
 		],
 		"ui_next_mission": [
 			"Yeni görev için:"
@@ -27174,6 +27628,9 @@
 		],
 		"ui_performance": [
 			"Verim"
+		],
+		"ui_personal_best": [
+			"En iyi zamanın:"
 		],
 		"ui_photo_error_1": [
 			"Fotoğraf modunu kullanmak için bu seviyedeki her ayıyı kurtarmanız gerekiyor."
@@ -27231,6 +27688,9 @@
 		],
 		"ui_save": [
 			"Kayıt"
+		],
+		"ui_save_kingdom": [
+			"Krallığı kurtar"
 		],
 		"ui_select_quality": [
 			"Görsel türünü seç"
@@ -27303,6 +27763,9 @@
 		],
 		"ui_yes": [
 			"Evet"
+		],
+		"ui_your_time": [
+			"Zamanın"
 		]
 	}
 }

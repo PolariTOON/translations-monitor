@@ -1,4 +1,4 @@
-Translation coverage: 354 / 724 required (48.90%), 0 / 0 optional (100.00%)
+Translation coverage: 354 / 733 required (48.29%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -56,6 +56,7 @@ The following keys have missing translations:
 - char_capitalus
 - char_crogo
 - char_maybee
+- char_note
 - char_queen
 - char_shicka
 - char_tristopio
@@ -168,6 +169,9 @@ The following keys have missing translations:
 - cosmetic_106
 - cosmetic_107
 - cosmetic_108
+- cosmetic_109
+- cosmetic_110
+- cosmetic_111
 - cosmetic_default
 - filter_00
 - filter_01
@@ -267,6 +271,8 @@ The following keys have missing translations:
 - intro_4_1
 - intro_4_2
 - intro_4_3
+- lab_note_1
+- lab_note_2
 - level1_boss_1_1
 - level1_boss_1_2
 - level1_boss_1_3
@@ -362,11 +368,14 @@ The following keys have missing translations:
 - ui_game_over
 - ui_motion_blur
 - ui_none
+- ui_personal_best
 - ui_photo_error_1
 - ui_photo_error_2
 - ui_photo_error_3
 - ui_progression
 - ui_respawn
+- ui_save_kingdom
 - ui_skip
 - ui_version
 - ui_watch_trailer
+- ui_your_time

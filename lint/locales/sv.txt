@@ -1,4 +1,4 @@
-Translation coverage: 37 / 643 required (5.75%), 0 / 81 optional (0.00%)
+Translation coverage: 37 / 652 required (5.67%), 0 / 81 optional (0.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -33,6 +33,7 @@ The following keys have missing translations:
 - boss_yeti
 - char_bee
 - char_brother
+- char_note
 - char_queen
 - cosmetic_001
 - cosmetic_002
@@ -140,6 +141,9 @@ The following keys have missing translations:
 - cosmetic_106
 - cosmetic_107
 - cosmetic_108
+- cosmetic_109
+- cosmetic_110
+- cosmetic_111
 - cosmetic_default
 - filter_00
 - help_birds
@@ -238,6 +242,8 @@ The following keys have missing translations:
 - intro_4_1
 - intro_4_2
 - intro_4_3
+- lab_note_1
+- lab_note_2
 - level1_boss_1_1
 - level1_boss_1_2
 - level1_boss_1_3
@@ -565,6 +571,7 @@ The following keys have missing translations:
 - ui_options
 - ui_oxygen
 - ui_performance
+- ui_personal_best
 - ui_photo_error_1
 - ui_photo_error_2
 - ui_photo_error_3
@@ -583,6 +590,7 @@ The following keys have missing translations:
 - ui_returntotitle
 - ui_reversed
 - ui_revive
+- ui_save_kingdom
 - ui_select_quality
 - ui_sfx_volume
 - ui_shadows
@@ -606,6 +614,7 @@ The following keys have missing translations:
 - ui_watch
 - ui_watch_trailer
 - ui_website
+- ui_your_time
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01

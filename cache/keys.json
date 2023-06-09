@@ -951,7 +951,9 @@
 		"fr": [
 			"Axe"
 		],
-		"id": [],
+		"id": [
+			"Sumbu"
+		],
 		"it": [
 			"Asse"
 		],
@@ -1313,7 +1315,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Bareen"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1333,7 +1337,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Barry"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1353,7 +1359,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Tommy"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1373,7 +1381,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Blackbeard"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1393,7 +1403,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Stéphane"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1415,7 +1427,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Dr Christopher"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1437,7 +1451,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Pierre"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1457,7 +1473,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Bob"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1477,7 +1495,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Madeline"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1499,7 +1519,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Polaris"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1519,7 +1541,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Flake"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1541,7 +1565,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Rodolph"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1561,7 +1587,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Frosty"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1581,7 +1609,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Alix"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1601,7 +1631,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Vladimir"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1621,7 +1653,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Skia"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1641,7 +1675,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Jon"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1661,7 +1697,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Sand"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1683,7 +1721,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Amos"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1703,7 +1743,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Alexander"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1725,7 +1767,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Zephyr"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1745,7 +1789,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Grumble"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1765,7 +1811,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Numerobis"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1785,7 +1833,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Cleo"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1805,7 +1855,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Ramses"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1825,7 +1877,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Viper"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1845,7 +1899,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Blossom"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1867,7 +1923,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Joseph"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1887,7 +1945,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Toast"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1907,7 +1967,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Maya"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1927,7 +1989,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Junior"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1947,7 +2011,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Claptrap"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1967,7 +2033,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Felix"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2065,7 +2133,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Capitalos"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2085,7 +2155,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Capitalus"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2149,7 +2221,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Crogo"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [
@@ -2179,7 +2253,9 @@
 		"fr": [
 			"Fennec"
 		],
-		"id": [],
+		"id": [
+			"Fennec"
+		],
 		"it": [
 			"Fennec"
 		],
@@ -2217,7 +2293,9 @@
 		"fr": [
 			"Isabeille"
 		],
-		"id": [],
+		"id": [
+			"Maybee"
+		],
 		"it": [
 			"Isabape"
 		],
@@ -2275,6 +2353,40 @@
 			"Fare"
 		]
 	},
+	"char_note": {
+		"de": [
+			"Notiz"
+		],
+		"el": [],
+		"en": [
+			"Note"
+		],
+		"es": [
+			"Nota"
+		],
+		"fr": [
+			"Note"
+		],
+		"id": [
+			"Catatan"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Notitie"
+		],
+		"pl": [],
+		"pt": [
+			"Nota"
+		],
+		"ru": [
+			"Заметка"
+		],
+		"sv": [],
+		"tr": [
+			"Not"
+		]
+	},
 	"char_penguin": {
 		"de": [
 			"Pinguin"
@@ -2291,7 +2403,9 @@
 		"fr": [
 			"Manchot"
 		],
-		"id": [],
+		"id": [
+			"Pinguin"
+		],
 		"it": [
 			"Pinguino"
 		],
@@ -2451,7 +2565,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Shicka"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2504,7 +2620,7 @@
 			"Skylt"
 		],
 		"tr": [
-			"İz"
+			"Tabela"
 		]
 	},
 	"char_tristopio": {
@@ -2515,7 +2631,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Tristopio"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2581,7 +2699,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Violette"
+		],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2729,7 +2849,9 @@
 		"fr": [
 			"Licorne"
 		],
-		"id": [],
+		"id": [
+			"Unicorn"
+		],
 		"it": [
 			"Unicorno"
 		],
@@ -2807,7 +2929,9 @@
 		"fr": [
 			"Fez"
 		],
-		"id": [],
+		"id": [
+			"Fez"
+		],
 		"it": [
 			"Fez"
 		],
@@ -3718,7 +3842,7 @@
 			"Dark Shicka"
 		],
 		"es": [
-			"Shicka oscuro"
+			"Shicka obscura"
 		],
 		"fr": [
 			"Shicka sombre"
@@ -4483,7 +4607,9 @@
 		"fr": [
 			"Panda"
 		],
-		"id": [],
+		"id": [
+			"Panda"
+		],
 		"it": [
 			"Panda"
 		],
@@ -4799,7 +4925,9 @@
 		"fr": [
 			"Citrouille d'Halloween"
 		],
-		"id": [],
+		"id": [
+			"Labu halloween"
+		],
 		"it": [
 			"Zucca di Halloween"
 		],
@@ -5710,7 +5838,7 @@
 			"Shicka bear"
 		],
 		"es": [
-			"Shicka oso"
+			"Oso shicka"
 		],
 		"fr": [
 			"Ours Shicka"
@@ -5979,7 +6107,7 @@
 	},
 	"cosmetic_086": {
 		"de": [
-			"Bretagne Hut"
+			"Bretagne Wolke"
 		],
 		"el": [
 			"Σύννεφο της Βρετάνης"
@@ -6707,7 +6835,9 @@
 		"fr": [
 			"Deal with it"
 		],
-		"id": [],
+		"id": [
+			"Hadapilah"
+		],
 		"it": [
 			"Deal with it"
 		],
@@ -6837,7 +6967,9 @@
 			"Питомец Виолетта"
 		],
 		"sv": [],
-		"tr": []
+		"tr": [
+			"Evcil Hayvan Violette"
+		]
 	},
 	"cosmetic_108": {
 		"de": [
@@ -6862,7 +6994,9 @@
 			"Impronte magiche"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Magische voetstappen"
+		],
 		"pl": [
 			"Magiczne ślady"
 		],
@@ -6875,6 +7009,108 @@
 		"sv": [],
 		"tr": [
 			"Büyülü ayak izleri"
+		]
+	},
+	"cosmetic_109": {
+		"de": [
+			"Süßes Gesicht"
+		],
+		"el": [],
+		"en": [
+			"Cute face"
+		],
+		"es": [
+			"Cara linda"
+		],
+		"fr": [
+			"Bouille trognonne"
+		],
+		"id": [
+			"Wajah imut"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Schattig hoofd"
+		],
+		"pl": [],
+		"pt": [
+			"Cara fofa"
+		],
+		"ru": [
+			"Милое лицо"
+		],
+		"sv": [],
+		"tr": [
+			"Şirin yüz"
+		]
+	},
+	"cosmetic_110": {
+		"de": [
+			"Geburtstagskuchen"
+		],
+		"el": [],
+		"en": [
+			"Birthday cake"
+		],
+		"es": [
+			"Pastel de cumpleaños"
+		],
+		"fr": [
+			"Gâteau d'anniversaire"
+		],
+		"id": [
+			"Kue Ulang Tahun"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Verjaardagstaart"
+		],
+		"pl": [],
+		"pt": [
+			"Bolo de Aniversário"
+		],
+		"ru": [
+			"Торт на день рождения"
+		],
+		"sv": [],
+		"tr": [
+			"Doğum günü pastası"
+		]
+	},
+	"cosmetic_111": {
+		"de": [
+			"Roter Bär"
+		],
+		"el": [],
+		"en": [
+			"Red bear"
+		],
+		"es": [
+			"Oso rojo"
+		],
+		"fr": [
+			"Ours rouge"
+		],
+		"id": [
+			"Beruang merah"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Rode beer"
+		],
+		"pl": [],
+		"pt": [
+			"Urso vermelho"
+		],
+		"ru": [
+			"Красный медведь"
+		],
+		"sv": [],
+		"tr": [
+			"Kırmızı ayı"
 		]
 	},
 	"cosmetic_default": {
@@ -7082,7 +7318,7 @@
 			"Dramatic"
 		],
 		"es": [
-			"Dramatico"
+			"Dramático"
 		],
 		"fr": [
 			"Dramatique"
@@ -7503,7 +7739,9 @@
 		"fr": [
 			"Hacker"
 		],
-		"id": [],
+		"id": [
+			"Hacker"
+		],
 		"it": [
 			"Hacker"
 		],
@@ -7684,12 +7922,14 @@
 			"Noire"
 		],
 		"es": [
-			"Negro"
+			"Obscuro"
 		],
 		"fr": [
 			"Film noir"
 		],
-		"id": [],
+		"id": [
+			"Noir"
+		],
 		"it": [
 			"Pellicola nera"
 		],
@@ -7845,7 +8085,9 @@
 		"fr": [
 			"Sépia"
 		],
-		"id": [],
+		"id": [
+			"Sepia"
+		],
 		"it": [
 			"Seppia"
 		],
@@ -7959,7 +8201,9 @@
 		"fr": [
 			"Gameboy"
 		],
-		"id": [],
+		"id": [
+			"Gameboy"
+		],
 		"it": [
 			"Gameboy"
 		],
@@ -8008,7 +8252,7 @@
 			"Binário"
 		],
 		"ru": [
-			"Gameboy"
+			"Бинарный"
 		],
 		"sv": [],
 		"tr": [
@@ -8414,7 +8658,7 @@
 			"Levels restart faster (useful for speedruns)"
 		],
 		"es": [
-			"El nivel se reinicia mas rapido (util para speedruns)"
+			"El nivel se reinicia más rápido (útil para speedruns)"
 		],
 		"fr": [
 			"Les niveaux redémarrent plus vite (utile pour les speedruns)"
@@ -8582,7 +8826,7 @@
 			"Changes the vehicle control type (gyroscope = tilting the device)"
 		],
 		"es": [
-			"Cambia el tipo de cotrol del vehiculo (giroscopio = inclinar el dispositivo)"
+			"Cambia el tipo de cotrol del vehículo (giroscopio = inclinar el dispositivo)"
 		],
 		"fr": [
 			"Change le type de contrôles du véhicule (gyroscope = pencher l'appareil)"
@@ -8708,7 +8952,7 @@
 			"When you get a key, the direction of the corresponding cage is displayed"
 		],
 		"es": [
-			"Cuando consigues una llave, se muestra la direccion de la jaula"
+			"Cuando consigues una llave, se muestra la dirección de la jaula"
 		],
 		"fr": [
 			"Quand tu as une clef, la direction de la cage correspondante est affichée"
@@ -8792,7 +9036,7 @@
 			"Lightmaps are used to display baked lighting on static objects. This option can be useful on older devices and doesn't affect performance"
 		],
 		"es": [
-			"Los Lightmaps se usan para mostrar la iluminacion baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
+			"Los Lightmaps se usan para mostrar la iluminación baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
 		],
 		"fr": [
 			"Les Lightmaps sont utilisées pour afficher la lumière pré-calculée sur les objets statiques. Cette option peut être utile sur les vieux appareils mais n'affecte pas les performances"
@@ -8846,7 +9090,9 @@
 			"Gli oggetti in rapido movimento devono essere sfocati? Disattivando questa funzione si migliorano le prestazioni"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Moeten snel bewegende objecten wazig zijn? Als je dit uitschakelt, worden de prestaties verbeterd."
+		],
 		"pl": [
 			"Czy szybko poruszające się obiekty powinny być rozmyte? Wyłączenie tego poprawia wydajność."
 		],
@@ -8956,7 +9202,7 @@
 			"Displays a timer (useful for speedruns)"
 		],
 		"es": [
-			"Muestra un cronómetro (util para speedruns)"
+			"Muestra un cronómetro (útil para speedruns)"
 		],
 		"fr": [
 			"Affiche un chronomètre (utile pour les speedruns)"
@@ -8998,7 +9244,7 @@
 			"I was waiting for you... Baaren. What a beautiful place to meet again."
 		],
 		"es": [
-			"Te estaba esperando... Baaren. Qué hermoso lugar para una reunión."
+			"Te estaba esperando... Baaren. Que hermoso lugar para una reunión."
 		],
 		"fr": [
 			"Je t'attendais... Baaren. Quel bel endroit pour des retrouvailles."
@@ -9657,7 +9903,7 @@
 			"Sklep z pamiątkami Maybee"
 		],
 		"pt": [
-			"Loja de Presentes da Maybee"
+			"Tenda de Presentes da Maybee"
 		],
 		"ru": [
 			"Магазин сувениров Мэйби"
@@ -9878,7 +10124,7 @@
 			"Save the kingdom"
 		],
 		"es": [
-			"Salvar el reino"
+			"Salvar al reino"
 		],
 		"fr": [
 			"Sauver le royaume"
@@ -11418,7 +11664,7 @@
 			"Hellooo! It's me, Capitaluuus! If you accept to watch an advertisemeeent, I will give you giiifts!"
 		],
 		"es": [
-			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te dare regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te daré regaaalos!"
 		],
 		"fr": [
 			"Saluuut ! C'est moi, Capitaluuus ! Si tu acceptes de regarder une publicitééé, je t'offrirais des cadeauuux !"
@@ -11460,7 +11706,7 @@
 			"Don't worry, the shrinking machine is very likely to be safe."
 		],
 		"es": [
-			"No te preocupes, la maquina encogedora parece ser muy segura."
+			"No te preocupes, la máquina encogedora parece ser muy segura."
 		],
 		"fr": [
 			"Ne t'inquiète pas, la machine rétrécissante est très probablement sûre."
@@ -11502,7 +11748,7 @@
 			"Welcome to the hub! Go to the blue circles to enter a level."
 		],
 		"es": [
-			"¡Bienvenido al hub! Ve a los circulos azules para entra a un nivel."
+			"¡Bienvenido al hub! Ve a los círculos azules para entrar a un nivel."
 		],
 		"fr": [
 			"Bienvenue dans le hub ! Place-toi sur les cercles bleus pour entrer dans un niveau."
@@ -11546,7 +11792,7 @@
 			"Hello there! Are you looking for a cool mission? I think I've got what you need!"
 		],
 		"es": [
-			"¡Hola tú! ¿Buscas una mision genial? ¡Creo que tengo lo que necesitas!"
+			"¡Hola tú! ¿Buscas una misión genial? ¡Creo que tengo lo que necesitas!"
 		],
 		"fr": [
 			"Bonjour à toi ! Tu es à la recherche d'une mission sympa ? Je crois que j'ai ce qu'il te faut !"
@@ -11600,7 +11846,9 @@
 			"<h>Niente più annunci</h> tra i livelli!"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"<h>Geen ongewenste advertenties</h> tussen levels!"
+		],
 		"pl": [
 			"<h>Koniec z niechcianymi reklamami</h> pomiędzy poziomami!"
 		],
@@ -11638,7 +11886,9 @@
 			"Gli annunci premiati saranno comunque disponibili."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Beloonde advertenties zullen nog steeds beschikbaar zijn."
+		],
 		"pl": [
 			"Nagrodzone reklamy nadal będą dostępne."
 		],
@@ -11676,7 +11926,9 @@
 			"Hai già rimosso gli annunci!"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Je hebt al advertenties verwijderd!"
+		],
 		"pl": [
 			"Usunąłeś już reklamy!"
 		],
@@ -11714,7 +11966,9 @@
 			"Acquisto riuscito! Gli annunci sono stati rimossi! Grazie!"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Aankoop voltooid! Advertenties zijn nu verwijderd! Bedankt!"
+		],
 		"pl": [
 			"Zakup zakończony! Reklamy są teraz usunięte! Dziękujemy!"
 		],
@@ -11752,7 +12006,9 @@
 			"Rimuovi gli annunci"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Verwijdert advertenties"
+		],
 		"pl": [
 			"Usuń reklamy"
 		],
@@ -11784,13 +12040,15 @@
 			"Inclus dans SBA Gold :"
 		],
 		"id": [
-			"Dalam SBA Gold:"
+			"Termasuk dalam SBA Gold:"
 		],
 		"it": [
 			"Incluso in SBA Gold:"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Inbegrepen in SBA Gold:"
+		],
 		"pl": [
 			"Zawarte w SBA Gold:"
 		],
@@ -11828,7 +12086,9 @@
 			"<h>Rimuove gli annunci indesiderati</h>."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"<h>Verwijdert</h> ongewenste <h>advertentie</h>"
+		],
 		"pl": [
 			"<h>Usuwa</h> niechciane <h>reklamy</h>"
 		],
@@ -11866,7 +12126,9 @@
 			"Sblocca <h>articoli esclusivi</h>."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Ontgrendelt exclusieve <h>items</h>"
+		],
 		"pl": [
 			"Odblokowuje ekskluzywne <h>kosmetyki</h>."
 		],
@@ -11904,7 +12166,9 @@
 			"Sblocca <h>filtri per la modalità Foto</h>."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Ontgrendelt <h>Foto Modus filters</h>"
+		],
 		"pl": [
 			"Odblokowuje <h>Filtry Photo Mode</h>."
 		],
@@ -11942,7 +12206,9 @@
 			"<h>Monete × 2</h> senza pubblicità"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"<h>Coins × 2</h> zonder advertentie"
+		],
 		"pl": [
 			"<h>Monety × 2</h> bez reklam"
 		],
@@ -11980,7 +12246,9 @@
 			"<h>Doppia</h> il massimo della <h>salute</h>."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"<h>Verdubbelt</h> maximale <h>levens</h>"
+		],
 		"pl": [
 			"<h>Podwaja</h> maksymalne <h>zdrowie</h>."
 		],
@@ -12018,7 +12286,9 @@
 			"Prima <h>resurrezione gratuita</h>"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Geeft eerste <h>revive gratis</h>"
+		],
 		"pl": [
 			"Daje pierwsze <h>odzyskanie życia za darmo</h>"
 		],
@@ -12056,7 +12326,9 @@
 			"Hai già SBA Gold!"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Je hebt al SBA Gold!"
+		],
 		"pl": [
 			"Masz już SBA Gold!"
 		],
@@ -12094,7 +12366,9 @@
 			"Acquisto riuscito! Ora hai SBA Gold! Grazie!"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Aankoop voltooid! Je hebt nu SBA Gold! Bedankt!"
+		],
 		"pl": [
 			"Zakup zakończony! Masz już SBA Gold! Dziękujemy!"
 		],
@@ -12125,12 +12399,16 @@
 		"fr": [
 			"SBA Gold"
 		],
-		"id": [],
+		"id": [
+			"SBA Gold"
+		],
 		"it": [
 			"SBA Gold"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"SBA Gold"
+		],
 		"pl": [
 			"SBA Gold"
 		],
@@ -12316,7 +12594,7 @@
 			"Unfortunately, creatures that consumed it soon began to turn crazy and attack their friends like mindless animals."
 		],
 		"es": [
-			"Desafortunadamente, las criaturas que lo consumian pronto comenzaron a volverse locas y a atacar a sus amigos como animales descerebrados"
+			"Desafortunadamente, las criaturas que lo consumían pronto comenzaron a volverse locas y a atacar a sus amigos como animales descerebrados"
 		],
 		"fr": [
 			"Malheureusement, les créatures qui le consommèrent devinrent rapidement folles et attaquèrent leurs amis tels des animaux sans cervelle."
@@ -12436,7 +12714,7 @@
 			"This resistance caused their loss: the bees raided the Bear Village and imprisoned them to prevent any revolt."
 		],
 		"es": [
-			"Esta resistencia causo su perdida: las abejas atacaron la aldea de los osos y los encarcelaron para impedir cualquier problema."
+			"Esta resistencia causó su perdida: las abejas atacaron la aldea de los osos y los encarcelaron para impedir cualquier problema."
 		],
 		"fr": [
 			"Cette résistance causa leur perte : les abeilles menèrent une offensive contre le Village Ours et les emprisonnèrent pour empêcher toute révolte."
@@ -12476,7 +12754,7 @@
 			"Luckily, one bear managed to avoid the attack. But now, the fate of the people is on his shoulders."
 		],
 		"es": [
-			"Afortunadamente, un oso logro evitar el ataque. Pero ahora, el destino del pueblo esta en sus hombros."
+			"Afortunadamente, un oso logro evitar el ataque. Pero ahora, el destino del pueblo está en sus hombros."
 		],
 		"fr": [
 			"Par chance, un ours réussit à éviter l'attaque. Mais désormais, le destin du peuple repose sur ses épaules."
@@ -12583,6 +12861,74 @@
 		"sv": [],
 		"tr": [
 			"Bizi kurtaracak mısın, Baaren?"
+		]
+	},
+	"lab_note_1": {
+		"de": [
+			"Das Rezept für violetten Honig scheint zu funktionieren... aber nicht bei Bären. Ich habe meinem Bruder etwas davon gegeben, während er schlief. Als er aufwachte, war er immer noch friedlich, aber es scheint, als hätte er Schwierigkeiten, sich an Dinge zu erinnern. Weitere Tests sind erforderlich."
+		],
+		"el": [],
+		"en": [
+			"The purple honey recipe seems to work... but not on bears. I gave some to my brother while he was sleeping; when waking up he was still peaceful but it seems like he has trouble remembering things. More testing required."
+		],
+		"es": [
+			"La receta de la miel púrpura parece funcionar... pero no en osos. le dí un poco a mi hermano mientras él dormía, cuando se levantó el aún era pacífico pero parece que tiene problemas para recordar las cosas. Más experimentación es requerida."
+		],
+		"fr": [
+			"La recette de miel violet semble fonctionner... mais pas sur les ours. J'en ai donné à mon frère pendant qu'il dormait ; quand il s'est réveillé il était toujours paisible mais il semble qu'il ait du mal à se souvenir des choses. Plus de tests sont nécessaires."
+		],
+		"id": [
+			"Resep madu ungu tampaknya berhasil... tetapi tidak pada beruang. Aku memberikan sedikit kepada saudaraku ketika dia sedang tidur, ketika bangun dia masih tenang tetapi sepertinya dia kesulitan mengingat segala sesuatu. Diperlukan lebih banyak pengujian."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Het paarse honing recept lijkt te werken... maar niet op beren. Ik gaf wat aan mijn broer terwijl hij sliep, toen hij wakker werd was hij nog vredig maar het lijkt alsof hij moeite heeft om dingen te onthouden. Meer testen nodig."
+		],
+		"pl": [],
+		"pt": [
+			"A receita de mel roxo parece funcionar... mas não em ursos. Dei um pouco pro meu irmão enquanto ele dormia, quando acordou ele ainda estava pacífico mas parecia como se tivesse problemas pra lembrar coisas. Precisa de mais testes."
+		],
+		"ru": [
+			"Рецепт фиолетового мёд, кажется, работает... но не на медведях. Я дал немного своему брату, пока он спал, когда он проснулся то всё ещё был мирным, но, похоже, у него есть проблемы с памятью. Требуется больше тестирования."
+		],
+		"sv": [],
+		"tr": [
+			"Mor bal tarifi işe yarıyor gibi görünüyor... ama ayılar üzerinde değil. Birazını kardeşim uyurken verdim; uyandığında hala huzurluydu ama görünüşe göre bazı şeyleri hatırlamakta zorlanıyor. Daha fazla test gerekli."
+		]
+	},
+	"lab_note_2": {
+		"de": [
+			"Wiederholte Versuche mit lila Honig scheinen mein Fell langsam lila werden zu lassen. Ich werde das Bärendorf bald verlassen, damit die Bären keinen Verdacht schöpfen."
+		],
+		"el": [],
+		"en": [
+			"Repeated experiments on purple honey seem to make my fur turn purple slowly. I will leave the Bear Village soon so bears don't suspect anything."
+		],
+		"es": [
+			"Los experimentos constantes con la miel púrpura parecen hacer que mi pelaje se torne morado lentamente. Dejaré la aldea de los osos pronto para que los osos no sospechen nada."
+		],
+		"fr": [
+			"Des expériences répétées sur le miel violet semblent progressivement rendre ma fourrure violette. Je vais bientôt quitter le Village Ours pour que les ours ne suspectent rien."
+		],
+		"id": [
+			"Eksperimen berulang pada madu ungu tampaknya membuat bulu ku perlahan-lahan menjadi ungu. Aku akan segera meninggalkan desa beruang agar beruang lain tidak curiga."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Herhaalde experimenten met paarse honing lijken mijn vacht langzaam paars te laten worden. Ik zal het berendorp binnenkort verlaten, zodat beren niets vermoeden."
+		],
+		"pl": [],
+		"pt": [
+			"Repetir experimentos no mel roxo parece estar fazendo meu pelo ficar roxo lentamente. Vou sair desta vila em breve e os ursos não vão suspeitar de nada."
+		],
+		"ru": [
+			"Повторные эксперименты над фиолетовым мёдом, похоже, заставляют мою шерсть медленно становиться фиолетовой. Скоро я покину медвежью деревню, чтобы медведи ничего не заподозрили"
+		],
+		"sv": [],
+		"tr": [
+			"Mor bal üzerinde tekrarlanan deneyler, kürkümün yavaşça mora dönüşmesine neden oluyor. Ayılar hiçbir şeyden şüphelenmesin diye yakında Ayı Köyü'nden ayrılacağım."
 		]
 	},
 	"level1_boss_1_1": {
@@ -18147,7 +18493,9 @@
 		"fr": [
 			"Parkour"
 		],
-		"id": [],
+		"id": [
+			"Parkour"
+		],
 		"it": [
 			"Parkour"
 		],
@@ -19391,7 +19739,7 @@
 		],
 		"ja": [],
 		"nl": [
-			"Richtlijnen"
+			"Hulplijnen"
 		],
 		"pl": [
 			"Wskazówki"
@@ -19400,7 +19748,7 @@
 			"Linhas de Grade"
 		],
 		"ru": [
-			"Руководство"
+			"Вспомогательные линии"
 		],
 		"sv": [],
 		"tr": [
@@ -19430,7 +19778,9 @@
 			"È necessario acquistare SBA Gold per utilizzare i filtri in Modalità Foto."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Je moet SBA Gold kopen om filters in de fotomodus te gebruiken"
+		],
 		"pl": [
 			"Musisz kupić SBA Gold, aby używać filtrów w Photo Mode."
 		],
@@ -19468,7 +19818,9 @@
 			"Salva"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Opslaan"
+		],
 		"pl": [
 			"Zapisz"
 		],
@@ -19506,7 +19858,9 @@
 			"Una copia di questa foto è stata salvata in"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Er is een kopie van deze foto opgeslagen in"
+		],
 		"pl": [
 			"Kopia tego zdjęcia została zapisana do"
 		],
@@ -19544,7 +19898,9 @@
 			"Scatta una foto"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Foto nemen"
+		],
 		"pl": [
 			"Zrób zdjęcie"
 		],
@@ -21640,7 +21996,7 @@
 			"There are 5 rarity categories: common (white), rare (blue), epic (magenta), Tristopio (pink) and legendary (golden). Legendary items can be obtained at my brother's shop."
 		],
 		"es": [
-			"Hay 5 niveles de rareza: común (blanco), raro (azul), épico (magenta), tristopio (rosa) y donante (verde). Los artículos de los donantes pueden obtenerse en la tienda de mi hermano."
+			"Hay 5 niveles de rareza: común (blanco), raro (azúl), épico (magenta), tristopio (rosa) y legendario (naranja). Los artículos legendarios pueden obtenerse en la tienda de mi hermano."
 		],
 		"fr": [
 			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et légendaire (doré). Les articles légendaires peuvent être obtenus à la boutique de mon frère."
@@ -21655,7 +22011,7 @@
 			"レアリティには、コモン（白）、レア（青）、エピック（マゼンタ）、トリストピオ（ピンク）、ドナー（緑）の5種類があります。ドナーのアイテムは、兄のショップで手に入れることができます。"
 		],
 		"nl": [
-			"Er zijn 5 categorieën van zeldzaamheid: gewoon (wit), zeldzaam (blauw), episch (magenta), Tristopio (roze) and donor (groenn). Donor voorwerpen kunnen worden gekocht in de winkel van mijn broer."
+			"Er zijn 5 categorieën van zeldzaamheid: gewoon (wit), zeldzaam (blauw), episch (magenta), Tristopio (roze) and legendarisch (goud). Legendarische voorwerpen kunnen worden gekocht in de winkel van mijn broer."
 		],
 		"pl": [
 			"Istnieje 5 kategorii rzadkości: zwykły (biały), rzadki (niebieski), epicki (magenta), Tristopio (różowy) i legendarny (złoty). Przedmioty legendarne można otrzymać w sklepie mojego brata."
@@ -21809,7 +22165,9 @@
 		"fr": [
 			"Jouabilité"
 		],
-		"id": [],
+		"id": [
+			"Gaya permainan"
+		],
 		"it": [
 			"Gioco"
 		],
@@ -23274,7 +23632,7 @@
 			"You are about to watch an advertisement. After watching the video, you will get your reward."
 		],
 		"es": [
-			"Está a punto de ver un anuncio. Después de ver este vídeo, obtendrás tu recompensa."
+			"Estás a punto de ver un anuncio. Después de ver este vídeo, obtendrás tu recompensa."
 		],
 		"fr": [
 			"Tu es sur le point de regarder une publicité. Après avoir regardé cette vidéo, tu obtiendras ta récompense."
@@ -23373,7 +23731,7 @@
 			"アラクデワールドからの脱出"
 		],
 		"nl": [
-			"Arcade wereld verlaten"
+			"Arcade wereld"
 		],
 		"pl": [
 			"Wyjście ze świata gier"
@@ -23598,7 +23956,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"En iyi süren"
+			"En iyi zamanın"
 		]
 	},
 	"ui_bestcoins": {
@@ -23855,22 +24213,22 @@
 	},
 	"ui_capitalus_hint": {
 		"de": [
-			"Ist dieses Level zu schwer? Versuch, einen Gesundheitsschub von Capitalus im Hauptzentrum zu bekommen, oder sieh dir eine Werbung an, um dich wiederzubeleben!"
+			"Ist dieses Level zu schwer? Versuche, einen Gesundheitsschub von Capitalus im Hub zu bekommen!"
 		],
 		"el": [
 			"Είναι αυτό το επίπεδο πολύ δύσκολο; Προσπαθήστε να πάρετε μια ενίσχυση υγείας από τον Capitalus στον κόμβο ή παρακολουθήστε μια διαφήμιση για να αναζωογονηθείτε!"
 		],
 		"en": [
-			"Is this level too hard? Try to get a health boost from Capitalus in the hub or watch an ad to revive!"
+			"Is this level too hard? Try to get a health boost from Capitalus in the hub!"
 		],
 		"es": [
 			"¿Es este nivel muy difícil? Intenta conseguir una bonificación de vida de Capitalus en el centro o mira un anuncio para revivir."
 		],
 		"fr": [
-			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub ou regarde une publicité pour revivre !"
+			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub !"
 		],
 		"id": [
-			"Apakah level ini terlalu susah? Cobalah untuk mendapatkan nyawa tambahan dari Capitalus di hub atau tonton iklan untuk hidup kembali!"
+			"Apakah level ini terlalu susah? Coba untuk mendapatkan nyawa tambahan dari Capitalus di hub!"
 		],
 		"it": [
 			"Questo livello è troppo difficile? Puoi ottenere un bonus di vita da Capitalus nell'hub o guardare un annuncio per tornare in vita!"
@@ -23879,20 +24237,21 @@
 			"このレベルは難しいですか？ハブにいるキャピタロスからヘルスブーストをもらったり、 広告を見てリバイバルしてみてください。"
 		],
 		"nl": [
-			"Is dit level te moeilijk? Krijg een beest can Capitalus in de hub of kijk een advertentie voor om door te gaan!"
+			"Is dit level te moeilijk?  Probeer een levensboost te krijgen van Capitalus in de hub!"
 		],
 		"pl": [
 			"Czy ten poziom jest zbyt trudny? Postaraj się uzyskać poprawę zdrowia od Capitalusa w centrum lub obejrzyj reklamę, aby kontynuować"
 		],
 		"pt": [
-			"Esta fase está muito difícil? Tente pegar um boost de vida com Capitalus no hub ou assista a um anúncio pra reviver!"
+			"Esta fase está muito difícil? Tente pegar uma bônus de vida com Capitalus no hub!"
 		],
 		"ru": [
-			"Уровень слишком сложен? Чтобы получить прирост здоровья или монеты от Капиталуса, посмотри рекламу!"
+			"Этот уровень слишком сложен? Попробуйте получить увеличенное здоровье от Капиталуса в центре!"
 		],
 		"sv": [],
 		"tr": [
-			"Bu seviye çok mu zor? Başlangıç noktasındaki Capitalus'dan sağlık arttırıcı almayı dene veya canlanmak için bir reklam izle!"
+			"Bu seviye çok mu zor? Başlangıç noktasındaki Capitalus'dan sağlık arttırıcı almayı dene veya canlanmak için bir reklam izle!",
+			"Bu seviye çok mu zor? Merkezdeki Capitalus'tan sağlık desteği almaya çalışın!"
 		]
 	},
 	"ui_cloud": {
@@ -24032,7 +24391,7 @@
 			"Collected coins"
 		],
 		"es": [
-			"Monedas de colección"
+			"Monedas coleccionadas"
 		],
 		"fr": [
 			"Pièces ramassées"
@@ -24338,7 +24697,9 @@
 			"Continua"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Doorgaan"
+		],
 		"pl": [
 			"Kontynuuj"
 		],
@@ -24558,7 +24919,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Kredileri izleyin"
+			"Emeği geçenler"
 		]
 	},
 	"ui_day_0": {
@@ -25201,7 +25562,9 @@
 		"fr": [
 			"Taux de rafraîchissement"
 		],
-		"id": [],
+		"id": [
+			"Gambar per detik"
+		],
 		"it": [
 			"Frequenza dei fotogrammi"
 		],
@@ -25323,7 +25686,9 @@
 		"fr": [
 			"Game over"
 		],
-		"id": [],
+		"id": [
+			"Permainan selesai"
+		],
 		"it": [
 			"Game over"
 		],
@@ -26109,7 +26474,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Probe cahaya"
+		],
 		"it": [],
 		"ja": [
 			"ライトプローブ"
@@ -26135,7 +26502,9 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [],
+		"id": [
+			"Map cahaya"
+		],
 		"it": [],
 		"ja": [
 			"ライトマップ"
@@ -26611,22 +26980,22 @@
 	},
 	"ui_new_best": {
 		"de": [
-			"(neue Bestleistung!)"
+			"Neue Bestleistung!"
 		],
 		"el": [
 			"(νέα καλύτερη τιμή!)"
 		],
 		"en": [
-			"(new best!)"
+			"New best!"
 		],
 		"es": [
 			"(¡Nuevo récord!)"
 		],
 		"fr": [
-			"(nouveau record !)"
+			"Nouveau record !"
 		],
 		"id": [
-			"(waktu terbaik baru!)"
+			"Waktu terbaik baru!"
 		],
 		"it": [
 			"(nuovo record!)"
@@ -26635,20 +27004,20 @@
 			"(新ベスト!)"
 		],
 		"nl": [
-			"(nieuw record!)"
+			"Nieuw record!"
 		],
 		"pl": [
 			"(nowy najlepszy!)"
 		],
 		"pt": [
-			"(novo melhor!)"
+			"Novo melhor!"
 		],
 		"ru": [
-			"(Лучший результат!)"
+			"Новый рекорд!"
 		],
 		"sv": [],
 		"tr": [
-			"(yeni en iyin!)"
+			"Yeni En İyin!"
 		]
 	},
 	"ui_next_mission": {
@@ -26704,7 +27073,7 @@
 			"Exit with no coin boost"
 		],
 		"es": [
-			"Salir sin el bonus de la moneda"
+			"Salir sin la bonificación de la moneda"
 		],
 		"fr": [
 			"Quitter sans boost de pièces"
@@ -26758,7 +27127,9 @@
 			"No"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Geen"
+		],
 		"pl": [
 			"Brak"
 		],
@@ -26941,6 +27312,40 @@
 			"Verim"
 		]
 	},
+	"ui_personal_best": {
+		"de": [
+			"Persönliche Bestleistung:"
+		],
+		"el": [],
+		"en": [
+			"Personal best:"
+		],
+		"es": [
+			"Mejor marca personal:"
+		],
+		"fr": [
+			"Record personnel :"
+		],
+		"id": [
+			"Waktu terbaik mu:"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Persoonlijk record"
+		],
+		"pl": [],
+		"pt": [
+			"Recorde pessoal:"
+		],
+		"ru": [
+			"Личный рекорд:"
+		],
+		"sv": [],
+		"tr": [
+			"En iyi zamanın:"
+		]
+	},
 	"ui_photo_error_1": {
 		"de": [
 			"Du musst jeden Bären in diesem Level retten, um den Fotomodus nutzen zu können."
@@ -26952,7 +27357,7 @@
 			"You need to save every bear in this level to use Photo Mode."
 		],
 		"es": [
-			"Necesitas salvar a todos los osos en este nivel para usar el modo foto."
+			"Necesitas salvar a todos los osos en este nivel para poder usar el modo foto."
 		],
 		"fr": [
 			"Tu dois sauver chaque ours de ce niveau pour utiliser le Mode Photo."
@@ -26964,7 +27369,9 @@
 			"Per utilizzare la Modalità Foto è necessario salvare ogni orso di questo livello."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Je moet elke beer in dit level redden om de fotomodus te gebruiken."
+		],
 		"pl": [
 			"Musisz zapisać każdego niedźwiedzia w tym poziomie, aby użyć Photo Mode."
 		],
@@ -27002,7 +27409,9 @@
 			"Durante una missione, è possibile utilizzare la Modalità Foto solo in modalità allenamento."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Tijdens een missie kun je de fotomodus alleen gebruiken in de oefenmodus."
+		],
 		"pl": [
 			"Podczas misji możesz używać Photo Mode tylko w trybie treningowym."
 		],
@@ -27040,7 +27449,9 @@
 			"Per utilizzare la Modalità Foto nell'alveare, è necessario salvare prima il regno."
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Je moet eerst het koninkrijk redden om de Fotomodus in de Hive te gebruiken."
+		],
 		"pl": [
 			"Musisz najpierw uratować królestwo, aby użyć Photo Mode w Ulu."
 		],
@@ -27725,6 +28136,40 @@
 			"Kayıt"
 		]
 	},
+	"ui_save_kingdom": {
+		"de": [
+			"Rettet das Königreich"
+		],
+		"el": [],
+		"en": [
+			"Save the kingdom"
+		],
+		"es": [
+			"Salva el reino"
+		],
+		"fr": [
+			"Sauver le royaume"
+		],
+		"id": [
+			"Selamatkan kerajaan"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Red het koninkrijk"
+		],
+		"pl": [],
+		"pt": [
+			"Salve o Reino"
+		],
+		"ru": [
+			"Спасти королевство"
+		],
+		"sv": [],
+		"tr": [
+			"Krallığı kurtar"
+		]
+	},
 	"ui_select_quality": {
 		"de": [
 			"Wähle die Grafikqualität:"
@@ -28243,7 +28688,9 @@
 		"fr": [
 			"Chronomètre"
 		],
-		"id": [],
+		"id": [
+			"Timer"
+		],
 		"it": [
 			"Cronometro"
 		],
@@ -28368,7 +28815,7 @@
 			"Viens ici chaque jour à 10h00 pour une nouvelle mission !//Chaque mission réussie te rapporte un jeton Tristopio. Tu peux dépenser ces jetons pour débloquer des vêtements uniques. À chaque fois que tu échoues à une mission, tu perds un casque."
 		],
 		"id": [
-			"Datang ke sini untuk misi baru setiap hari jam 10!//Setiap misi berhasil akan memberikan kamu satu token Tristopio. Kamu dapat menggunakan token mu untuk membuka pakaian yang unik! Setiap kali kamu gagal, kamu akan kehilangan satu headset."
+			"Datang ke sini untuk misi baru setiap hari jam 10 pagi!//Setiap misi berhasil akan memberikan kamu satu token Tristopio. Kamu dapat menggunakan token mu untuk membuka pakaian yang unik! Setiap kali kamu gagal, kamu akan kehilangan satu headset."
 		],
 		"it": [
 			"Vieni qui per una nuova sfida ogni giorno alle 10 del mattino, ogni sfida completata con successo vi darà un gettone Tristopio. Puoi spendere i tuoi gettoni per sbloccare cosmetici unici. Ogni volta che fallisci una missione perderai un visore."
@@ -28425,7 +28872,7 @@
 			"Sklep Tristopia"
 		],
 		"pt": [
-			"Loja do Tristopio"
+			"Tenda do Tristopio"
 		],
 		"ru": [
 			"Магазин Тристопио"
@@ -28723,6 +29170,40 @@
 		],
 		"tr": [
 			"Evet"
+		]
+	},
+	"ui_your_time": {
+		"de": [
+			"Deine Zeit"
+		],
+		"el": [],
+		"en": [
+			"Your time"
+		],
+		"es": [
+			"Tu tiempo"
+		],
+		"fr": [
+			"Ton temps"
+		],
+		"id": [
+			"Waktumu"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Jouw tijd"
+		],
+		"pl": [],
+		"pt": [
+			"Seu tempo"
+		],
+		"ru": [
+			"Ваше время"
+		],
+		"sv": [],
+		"tr": [
+			"Zamanın"
 		]
 	}
 }

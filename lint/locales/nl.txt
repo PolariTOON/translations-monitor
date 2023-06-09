@@ -1,4 +1,4 @@
-Translation coverage: 612 / 643 required (95.18%), 7 / 81 optional (8.64%)
+Translation coverage: 646 / 652 required (99.08%), 8 / 81 optional (9.88%)
 The following keys have extra, but optional, translations:
 - char_crogo
 - cosmetic_094
@@ -7,38 +7,14 @@ The following keys have extra, but optional, translations:
 - filter_22
 - filter_23
 - filter_25
+- iap_premium_title
 The following keys have missing translations:
 - cosmetic_105
 - cosmetic_106
 - cosmetic_107
-- cosmetic_108
-- help_motion_blur
-- iap_noads_desc_1
-- iap_noads_desc_2
-- iap_noads_status_1
-- iap_noads_status_2
-- iap_noads_title
-- iap_premium_desc_1
-- iap_premium_desc_2
-- iap_premium_desc_3
-- iap_premium_desc_4
-- iap_premium_desc_5
-- iap_premium_desc_6
-- iap_premium_desc_7
-- iap_premium_status_1
-- iap_premium_status_2
 - photo_contribution
 - photo_dof
-- photo_iap_blocker
-- photo_save
-- photo_saved
-- photo_take
-- ui_continue
 - ui_motion_blur
-- ui_none
-- ui_photo_error_1
-- ui_photo_error_2
-- ui_photo_error_3
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -111,7 +87,6 @@ The following keys have missing, but optional, translations:
 - filter_34
 - filter_35
 - filter_36
-- iap_premium_title
 - ui_light_probes
 - ui_lightmaps
 The following keys have transparent translations:
@@ -127,6 +102,7 @@ The following keys have transparent translations:
 - cosmetic_085
 - cosmetic_094
 - cosmetic_104
+- iap_premium_title
 - mission_parkour
 - mission_race
 - title_gameplay

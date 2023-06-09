@@ -1,4 +1,4 @@
-Translation coverage: 643 / 643 required (100.00%), 39 / 81 optional (48.15%)
+Translation coverage: 652 / 652 required (100.00%), 39 / 81 optional (48.15%)
 The following keys have extra, but optional, translations:
 - char_violette
 - cosmetic_094

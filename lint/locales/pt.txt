@@ -1,4 +1,4 @@
-Translation coverage: 633 / 643 required (98.44%), 34 / 81 optional (41.98%)
+Translation coverage: 642 / 652 required (98.47%), 34 / 81 optional (41.98%)
 The following keys have extra, but optional, translations:
 - filter_01
 - filter_02

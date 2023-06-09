@@ -136,7 +136,7 @@ function computeOutfits() {
 			name: keys["cosmetic_default"],
 		});
 	}
-	for (let k = 0; k < 108; ++k) {
+	for (let k = 0; k < 111; ++k) {
 		outfits.push({
 			name: keys[`cosmetic_${`${k + 1}`.padStart(3, "0")}`],
 		});
@@ -148,7 +148,7 @@ function computeParts() {
 	const outfitsByPart = [
 		[13, 28, 32, 41, 49, 54, 59, 63, 84, 90, 103],
 		[15, 16, 52, 64],
-		[14, 18, 22, 35, 39, 40, 43, 70, 73, 74, 79, 82, 101],
+		[14, 18, 22, 35, 39, 40, 43, 70, 73, 74, 79, 82, 101, 111],
 		[19, 20, 21, 29, 36, 42, 68, 69, 77, 78, 80, 85, 93],
 	].map((partOutfits) => {
 		return partOutfits.map((index) => {
