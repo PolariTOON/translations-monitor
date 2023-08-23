@@ -1,4 +1,4 @@
-Translation coverage: 642 / 652 required (98.47%), 40 / 81 optional (49.38%)
+Translation coverage: 628 / 677 required (92.76%), 40 / 79 optional (50.63%)
 The following keys have extra, but optional, translations:
 - char_maybee
 - cosmetic_094
@@ -45,9 +45,48 @@ The following keys have missing translations:
 - cosmetic_109
 - cosmetic_110
 - cosmetic_111
+- ctokens_description
+- ctokens_name
+- ctokens_requirement
+- fwheel_item_owned
+- fwheel_item_reward
+- fwheel_premium
+- fwheel_reward_none
+- fwheel_reward_normal
+- fwheel_spin
+- fwheel_title
+- iap_noads_desc_3
+- iap_noads_desc_4
 - lab_note_1
 - lab_note_2
+- level1_tutorial_exit
+- rarity_legendary
+- reward_active
+- reward_disabled
+- reward_free
+- shicka_4_6
+- splash_company
+- splash_gamepad
+- title_iap
+- title_inputs
+- tutorial_tip_01
+- tutorial_tip_02
+- tutorial_tip_03
+- tutorial_tip_04
+- tutorial_tip_05
+- tutorial_tip_06
+- tutorial_tip_07
+- tutorial_tip_title_01
+- tutorial_tip_title_02
+- tutorial_tip_title_03
+- tutorial_tip_title_04
+- tutorial_tip_title_05
+- tutorial_tip_title_06
+- tutorial_tip_title_07
+- ui_hub
+- ui_own
 - ui_personal_best
+- ui_restore_iap
 - ui_save_kingdom
 - ui_version
 - ui_your_time
@@ -91,8 +130,6 @@ The following keys have missing, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
-- ui_light_probes
-- ui_lightmaps
 The following keys have transparent translations:
 - char_fennec
 - cosmetic_006

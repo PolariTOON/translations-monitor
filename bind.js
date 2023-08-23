@@ -206,26 +206,9 @@ function computeRarities() {
 	rarities.push({
 		name: keys["char_tristopio"],
 	});
-	const unknownRarities = [];
-	const locales = keys["studio_help_3"];
-	for (const locale of Object.keys(locales)) {
-		const rarities = [];
-		for (const word of (locales[locale][0] ?? locales["en"][0]).match(/([^ :(),（）、]+?)(?= *[(（] *[^ :(),（）、]+? *[)）])/g) ?? []) {
-			const lowerCaseWord = word.toLocaleLowerCase(locale);
-			rarities.push(lowerCaseWord);
-		}
-		for (const [index, word] of rarities.entries()) {
-			if (index >= unknownRarities.length) {
-				unknownRarities.push(Object.create(null));
-			}
-			unknownRarities[index][locale] = [capitalize(word, locale)];
-		}
-	}
-	if (4 < unknownRarities.length) {
-		rarities.push({
-			name: unknownRarities[4],
-		});
-	}
+	rarities.push({
+		name: keys["rarity_legendary"],
+	});
 	rarities.push({
 		name: keys["char_maybee"],
 	});

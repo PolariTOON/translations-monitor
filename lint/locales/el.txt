@@ -1,4 +1,4 @@
-Translation coverage: 641 / 652 required (98.31%), 41 / 81 optional (50.62%)
+Translation coverage: 670 / 677 required (98.97%), 39 / 79 optional (49.37%)
 The following keys have extra, but optional, translations:
 - cosmetic_094
 - cosmetic_104
@@ -39,8 +39,6 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
-- ui_light_probes
-- ui_lightmaps
 The following keys have missing translations:
 - char_bee
 - char_note
@@ -48,11 +46,7 @@ The following keys have missing translations:
 - cosmetic_109
 - cosmetic_110
 - cosmetic_111
-- lab_note_1
-- lab_note_2
-- ui_personal_best
 - ui_save_kingdom
-- ui_your_time
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01

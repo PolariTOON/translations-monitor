@@ -29,7 +29,7 @@
 			"Atak"
 		],
 		"pt": [
-			"Atacar"
+			"Ataque"
 		],
 		"ru": [
 			"Атаковать"
@@ -189,7 +189,7 @@
 			"Skok"
 		],
 		"pt": [
-			"Pular"
+			"Pulo"
 		],
 		"ru": [
 			"Прыгать"
@@ -229,10 +229,10 @@
 			"Przesuwanie w poziomie"
 		],
 		"pt": [
-			"Mover Horizontal"
+			"Mover horizontal"
 		],
 		"ru": [
-			"Движение по вертикали"
+			"Двигаться по горизонтали"
 		],
 		"sv": [],
 		"tr": [
@@ -269,10 +269,10 @@
 			"Przesuwanie w pionie"
 		],
 		"pt": [
-			"Mover Vertical"
+			"Mover vertical"
 		],
 		"ru": [
-			"Движение по горизонтали"
+			"Двигаться по вертикали"
 		],
 		"sv": [],
 		"tr": [
@@ -311,10 +311,10 @@
 			"Gra wyścig jest próbą czasową. Po każdym okrążeniu zyskujesz monety na podstawie czasu, który miałeś na ukończenie okrążenia."
 		],
 		"pt": [
-			"O jogo Corrida é um contra-relógio. Após cada volta, você ganha moedas com base no tempo que levou pra completá-la."
+			"O jogo de Corrida é um contra-relógio. Depois de cada volta, você ganha moedas com base no tempo que levou pra completá-la."
 		],
 		"ru": [
-			"Гонка - это игра на время. Количество монет, полученные за эту игру, будут зависить от времени, за которое Вы проедете трассу."
+			"Гонка - это испытание на время. После каждого круга, Вы получаете монеты в зависимости от времени, за которое Вы проедете этот круг."
 		],
 		"sv": [],
 		"tr": [
@@ -323,22 +323,22 @@
 	},
 	"arcade_1_2": {
 		"de": [
-			"Steige in das Fahrzeug indem du B drückst. Wenn du in der Luft bist kontrolliere das Fahrzeug um dich nicht zu überschlagen."
+			"Steig auf das Quad und denke daran, bei den Sprüngen das Gleichgewicht zu halten, indem du deine Luftkontrolle einsetzt."
 		],
 		"el": [
-			"Μπες στο όχημα πατώντας το B. Ενώ βρίσκεσαι στον αέρα, προσπάθησε να παραμείνεις ισορροπημένος χρησιμοποιώντας τον έλεγχο του αέρα."
+			"Ανεβείτε στο τετρακίνητο ποδήλατο και θυμηθείτε να παραμείνετε ισορροπημένοι κατά τη διάρκεια των αλμάτων χρησιμοποιώντας τον έλεγχο του αέρα."
 		],
 		"en": [
-			"Get into the vehicle by pressing B. While in the air, try to stay balanced using your air control."
+			"Hop onto the quad bike and remember to stay balanced during jumps using your air control."
 		],
 		"es": [
-			"Subete al vehiculo presionando B. En el aire, intenta mantener el balance usando tu control aereo."
+			"Subete al vehiculo. En el aire, intenta mantener el balance usando tu control aereo."
 		],
 		"fr": [
-			"Entre dans le véhicule en appuyant sur B. En l'air, essaye de rester droit en utilisant le contrôle aérien."
+			"Monte sur le quad et n'oublie pas de rester droit pendant les sauts en utilisant le contrôle aérien."
 		],
 		"id": [
-			"Masuk ke dalam kendaraan dengan menekan tombol B. Saat di udara, usahakan untuk tetap seimbang menggunakan kontrol udara."
+			"Naik ke motor quad dan usahakan untuk tetap seimbang saat berada di udara menggunakan kontrol udara."
 		],
 		"it": [
 			"Entra nel veicolo premendo il tasto B. Mentre sei a mezzaria, cerca di bilanciarti controllando il movimento."
@@ -347,20 +347,20 @@
 			"Bボタンを押して乗り物に乗ってください。そしてレース中は”アクセル”と”ブレーキ”を使ってバランスを保ってください。"
 		],
 		"nl": [
-			"Stap in het voertuig door op B te drukken. Probeer in de lucht in evenwicht te blijven met behulp van je lucht controle."
+			"Spring op de quad en vergeet niet om in balans te blijven tijdens sprongen met behulp van je luchtcontrole."
 		],
 		"pl": [
-			"Aby dostać się do pojazdu, naciśnij przycisk B. Będąc w powietrzu, staraj się zachować równowagę za pomocą guzików kontroli."
+			"Wskocz na quada i pamiętaj, aby zachować równowagę podczas skoków, korzystając z kontroli powietrza."
 		],
 		"pt": [
-			"Entre no veículo pressionando B. Enquanto estiver no ar, tente se manter equilibrado usando os controles de ar."
+			"Entre no quadriciclo e lembre-se de manter o equilíbrio nos saltos com seus controles de ar."
 		],
 		"ru": [
-			"Нажмите В, чтобы сесть в машину."
+			"Запрыгивайте на квадроцикл и старайтесь удерживать баланс во время прыжков, используя управление в воздухе."
 		],
 		"sv": [],
 		"tr": [
-			"Araca binmek için B ye bas. Havadayken dengeni sağlamak için hız düğmelerini kullan."
+			"Dörtlü bisiklete atlayın ve hava kontrolünüzü kullanarak atlamalar sırasında dengede kalmayı unutmayın."
 		]
 	},
 	"arcade_2_1": {
@@ -395,10 +395,10 @@
 			"Platform Parkour to nieskończony parkour wykonany z różnych platform. Im dalej idziesz w parkour, tym więcej monet dostaniesz, ale tym trudniejsze będą skoki."
 		],
 		"pt": [
-			"O Parkour de Plataformas é um parkour infinito de diferentes materiais. Quanto mais longe você for, mais moedas poderá pegar, e mais difíceis serão os pulos."
+			"O Parkour de Plataformas é um parkour infinito de diferentes materiais. Quanto mais longe você for, mais moedas poderá pegar, e mais difíceis serão os saltos."
 		],
 		"ru": [
-			"Это бесконечный паркур с несколькими типами платформ. Чем дальше Вы пройдёте, тем больше монет Вы получите, но паркур будет сложнее."
+			"Паркур по Платформам - это бесконечный паркур, созданный из разных платформ. Чем дальше Вы пройдёте паркур, тем больше монет Вы будете получать, но тем сложнее будут прыжки."
 		],
 		"sv": [],
 		"tr": [
@@ -440,7 +440,7 @@
 			"Sempre que você cair no espaço, o parkour vai ser gerado de novo de forma aleatória."
 		],
 		"ru": [
-			"После каждого Вашего падения, паркур будет генерироваться случайно."
+			"Каждый раз, когда Вы падаете в пустоту, паркур будет заново случайно генерироваться."
 		],
 		"sv": [],
 		"tr": [
@@ -482,7 +482,7 @@
 			"A cada 15 plataformas, o tipo do parkour muda. Os atuais são: normal, parede, água, gelo e ritmo."
 		],
 		"ru": [
-			"Каждые 15 платформ, тип паркура будет меняться. Сейчас есть типы: обычный, стена, вода, лёд и ритмичный."
+			"Каждые 15 платформ, тип паркура будет меняться. Сейчас есть типы: обычный, стена, вода, лёд и ритм."
 		],
 		"sv": [],
 		"tr": [
@@ -521,10 +521,10 @@
 			"Kręcące wędziska są o unikaniu kolcy, podczas gdy pręty się obracają. Unikaj wyrzucenia z platformy!"
 		],
 		"pt": [
-			"O jogo dos Bastões Giratórios consiste em desviar dos espinhos enquanto os bastões giram. Evite ser jogado pra fora da plataforma!"
+			"O jogo dos Bastões Giratórios é sobre desviar dos espinhos enquanto os bastões giram. Tente não ser jogado pra fora da plataforma!"
 		],
 		"ru": [
-			"Крутящиеся стержни заключаются в том, чтобы избегать шипов, пока стержни вращаются. Избегайте столкновения с платформы!"
+			"Крутящиеся Cтержни заключаются в том, чтобы избегать шипов, пока стержни вращаются. Избегайте столкновения с платформы!"
 		],
 		"sv": [],
 		"tr": [
@@ -563,10 +563,10 @@
 			"Monety będą pojawiać się na tej platformie w czasie. Im dłużej przetrwasz, tym więcej dostaniesz."
 		],
 		"pt": [
-			"Moedas irão aparecer com o tempo. Quanto mais você sobreviver, mais poderá coletar."
+			"Moedas vão aparecer no chão com o tempo. Quanto mais você sobreviver, mais vai poder pegar."
 		],
 		"ru": [
-			"Со временем на платформе будут появляться монеты. Чем дольше вы будете находиться на этой платформе, тем больше вы получите."
+			"Со временем на этой платформе будут появляться монеты. Чем дольше Вы продержитесь, тем больше получите."
 		],
 		"sv": [],
 		"tr": [
@@ -575,22 +575,22 @@
 	},
 	"arcade_intro_1": {
 		"de": [
-			"Willkommen in der Spielhallenwelt! Du kannst Minispiele spielen, um Münzen zu sammeln. Sobald du die gewünschte Menge an Münzen hast, kannst du zum Spielautomaten gehen, um zum Hauptzentrum zurückzukehren."
+			"Willkommen in der Spielhallenwelt! Du kannst Minispiele spielen, um Münzen zu sammeln. Sobald du die gewünschte Menge an Münzen hast, kannst du zum Spielautomaten gehen, um zurück ins Bärendorf zu gelangen."
 		],
 		"el": [
-			"Καλώς ήρθατε στον κόσμο του Arcade! Μπορείτε να παίξετε μίνι-παιχνίδια για να συγκεντρώσετε νομίσματα. Μόλις αποκτήσετε την επιθυμητή ποσότητα κερμάτων, μπορείτε να πάτε στο μηχάνημα arcade για να επιστρέψετε στον κόμβο."
+			"Καλώς ήρθατε στον κόσμο του Arcade! Μπορείτε να παίξετε μίνι-παιχνίδια για να συγκεντρώσετε νομίσματα. Μόλις συγκεντρώσετε το επιθυμητό ποσό κερμάτων, μπορείτε να πάτε στο μηχάνημα arcade για να επιστρέψετε στο χωριό της αρκούδας."
 		],
 		"en": [
-			"Welcome to the Arcade World! You can play mini-games to gather coins. Once you got a desired amount of coins, you can go to the arcade machine to go back to the hub."
+			"Welcome to the Arcade World! You can play mini-games to gather coins. Once you got a desired amount of coins, you can go to the arcade machine to go back to the Bear Village."
 		],
 		"es": [
-			"¡Bienvenido al mundo arcade! Puedes jugar mini-juegos para obtener monedas. Una vez que tengas tantas monedas como quieras, puedes ir a la maquina de arcade para volver al hub."
+			"¡Bienvenido al Mundo Arcade! Puedes jugar mini-juegos para conseguir monedas. Una vez que consigas una cantidad deseada de monedas, puedes ir a la máquina de arcade para volver a la aldea de los osos."
 		],
 		"fr": [
-			"Bienvenue dans le Monde Arcade ! Tu peux jouer à des mini-jeux pour obtenir des pièces. Une fois que tu as la quantité voulue de pièces, tu peux aller à cette machine pour retourner au hub."
+			"Bienvenue dans le Monde Arcade ! Tu peux jouer à des mini-jeux pour obtenir des pièces. Une fois que tu as la quantité voulue de pièces, tu peux aller à cette machine pour retourner au Village Ours."
 		],
 		"id": [
-			"Selamat datang di Dunia Arkade! Kamu bisa bermain mini-game untuk mengumpulkan koin. Setelah puas dengan koin yang kamu dapatkan, kamu bisa pergi ke mesin arkade untuk kembali ke hub."
+			"Selamat datang di Dunia Arkade! Kamu bisa bermain mini-game untuk mengumpulkan koin. Setelah puas dengan koin yang kamu dapatkan, kamu bisa pergi ke mesin arkade untuk kembali ke Desa Beruang."
 		],
 		"it": [
 			"Benvenuti nel mondo arcade! Questo mondo è ancora in beta e probabilmente cambierà in futuro."
@@ -599,20 +599,20 @@
 			"”アーケードワールド”へようこそ！ この世界はまだベータ版で、 これからどんどん変化していく可能性があります。"
 		],
 		"nl": [
-			"Welkom in de Arcade Wereld! Je kunt minigames spelen om munten te verzamelen. Zodra je een gewenst aantal munten hebt, kun je naar de arcade-machine gaan om terug te gaan naar de hub."
+			"Welkom in de Arcade Wereld! Je kunt minigames spelen om munten te verzamelen. Zodra je een gewenst aantal munten hebt, kun je naar de arcade-machine gaan om terug te gaan naar het berendorp."
 		],
 		"pl": [
-			"Witamy w Świecie Gier! Tu można grać w mini-gry, aby zbierać monety. Gdy masz żądaną ilość monet, można przejść do maszyny arcade, aby wrócić do centrum."
+			"Witamy w świecie zręcznościowym! Możesz grać w mini-gry, aby zbierać monety. Po zebraniu odpowiedniej liczby monet możesz udać się do automatu zręcznościowego, aby wrócić do wioski niedźwiedzi."
 		],
 		"pt": [
-			"Bem-vindo ao Mundo Fliperama! Aqui você pode jogar mini-jogos pra acumular moedas. Quando estiver satisfeito, poderá sempre voltar ao hub pela máquina fliperama."
+			"Bem-vindo ao Mundo Fliperama! Você pode jogar mini-jogos pra acumular moedas. Assim que pegar o quanto quiser, você pode ir pela máquina fliperama de volta à Vila dos Ursos."
 		],
 		"ru": [
-			"Добро пожаловать в Аркадный мир! В этом мире вы можете играть в мини-игры чтобы собирать монеты. Как только вы соберёте нужное вам количество монет, вы можете подойти к этой машине чтобы вернуться в центр."
+			"Добро пожаловать в Аркадный мир! Вы можете играть в мини-игры, чтобы собирать монеты. Как только Вы соберёте желаемое количество монет, Вы можете подойти к аркадному автомату, чтобы вернуться в Медвежью Деревню."
 		],
 		"sv": [],
 		"tr": [
-			"Arcade Dünyasına hoş geldiniz! Para toplamak için mini oyunlar oynayabilirsiniz. İstediğiniz miktarda jeton topladıktan sonra, merkeze geri dönmek için atari makinesine gidebilirsiniz."
+			"Arcade Dünyasına hoş geldiniz! Jeton toplamak için mini oyunlar oynayabilirsiniz. İstediğiniz miktarda madeni paraya sahip olduğunuzda, Ayı Köyü'ne geri dönmek için atari makinesine gidebilirsiniz."
 		]
 	},
 	"arcade_intro_2": {
@@ -647,10 +647,10 @@
 			"Jeśli chcesz poznać zasady gry, wejdź na te przyciski"
 		],
 		"pt": [
-			"E se quiser aprender as instruções dos jogos, ande sobre esses botões."
+			"Se quiser aprender as instruções dos jogos, ande sobre esses botões."
 		],
 		"ru": [
-			"Наступите на эти кнопки, чтобы узнать правила игры."
+			"Если Вы хотите узнать правила игр, наступите на эти кнопки."
 		],
 		"sv": [],
 		"tr": [
@@ -852,7 +852,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Güncel://Best:"
+			"Güncel://En iyin:"
 		]
 	},
 	"binding_alt_1": {
@@ -885,10 +885,10 @@
 			"Alt, przycisk 1"
 		],
 		"pt": [
-			"Botão Extra 1"
+			"Botão extra 1"
 		],
 		"ru": [
-			"Дополнительная кнопка 1"
+			"Альтернативная кнопка 1"
 		],
 		"sv": [],
 		"tr": [
@@ -925,10 +925,10 @@
 			"Alt, przycisk 2"
 		],
 		"pt": [
-			"Botão Extra 2"
+			"Botão extra 2"
 		],
 		"ru": [
-			"Дополнительная кнопка 2"
+			"Альтернативная кнопка 2"
 		],
 		"sv": [],
 		"tr": [
@@ -1315,9 +1315,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Bareen"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1337,9 +1335,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Barry"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1359,9 +1355,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Tommy"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1381,9 +1375,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Blackbeard"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1403,9 +1395,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Stéphane"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1427,16 +1417,16 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Dr Christopher"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
 		"pl": [
 			"Dr Krzysztof"
 		],
-		"pt": [],
+		"pt": [
+			"Dr. Christopher"
+		],
 		"ru": [
 			"Доктор Кристофер"
 		],
@@ -1451,9 +1441,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Pierre"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1473,9 +1461,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Bob"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1495,9 +1481,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Madeline"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1506,7 +1490,7 @@
 		],
 		"pt": [],
 		"ru": [
-			"Мэдлин"
+			"Мэделин"
 		],
 		"sv": [],
 		"tr": []
@@ -1519,9 +1503,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Polaris"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1541,9 +1523,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Flake"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1552,7 +1532,7 @@
 		],
 		"pt": [],
 		"ru": [
-			"Флейк"
+			"Флэйк"
 		],
 		"sv": [],
 		"tr": []
@@ -1565,9 +1545,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Rodolph"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1587,9 +1565,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Frosty"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1609,9 +1585,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Alix"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1631,9 +1605,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Vladimir"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1653,9 +1625,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Skia"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1675,9 +1645,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Jon"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1697,9 +1665,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Sand"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1721,9 +1687,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Amos"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1743,9 +1707,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Alexander"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1767,9 +1729,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Zephyr"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1789,9 +1749,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Grumble"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1811,9 +1769,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Numerobis"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1833,9 +1789,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Cleo"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1855,9 +1809,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Ramses"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1877,9 +1829,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Viper"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1899,9 +1849,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Blossom"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1923,9 +1871,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Joseph"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1945,9 +1891,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Toast"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1967,9 +1911,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Maya"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -1989,9 +1931,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Junior"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2011,9 +1951,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Claptrap"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2033,9 +1971,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Felix"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2133,9 +2069,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Capitalos"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2155,9 +2089,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Capitalus"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2221,9 +2153,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Crogo"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [
@@ -2253,9 +2183,7 @@
 		"fr": [
 			"Fennec"
 		],
-		"id": [
-			"Fennec"
-		],
+		"id": [],
 		"it": [
 			"Fennec"
 		],
@@ -2293,9 +2221,7 @@
 		"fr": [
 			"Isabeille"
 		],
-		"id": [
-			"Maybee"
-		],
+		"id": [],
 		"it": [
 			"Isabape"
 		],
@@ -2565,9 +2491,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Shicka"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2631,9 +2555,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Tristopio"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -2699,9 +2621,7 @@
 		],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Violette"
-		],
+		"id": [],
 		"it": [],
 		"ja": [],
 		"nl": [],
@@ -3141,7 +3061,7 @@
 			"Długie włosy (czarne)"
 		],
 		"pt": [
-			"Cabelos longos (negro)"
+			"Cabelo longo (negro)"
 		],
 		"ru": [
 			"Длинные волосы (черные)"
@@ -3508,7 +3428,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Red Shicka"
+			"Kırmızı Shicka"
 		]
 	},
 	"cosmetic_021": {
@@ -5864,7 +5784,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Shicka ayısı"
+			"Shicka ayı"
 		]
 	},
 	"cosmetic_080": {
@@ -6651,7 +6571,7 @@
 			"Kupa piasku"
 		],
 		"pt": [
-			"A Poeira"
+			"A poeira"
 		],
 		"ru": [
 			"Пыль"
@@ -6835,20 +6755,18 @@
 		"fr": [
 			"Deal with it"
 		],
-		"id": [
-			"Hadapilah"
-		],
+		"id": [],
 		"it": [
 			"Deal with it"
 		],
 		"ja": [],
-		"nl": [
-			"Deal with it"
-		],
+		"nl": [],
 		"pl": [
 			"Deal with it"
 		],
-		"pt": [],
+		"pt": [
+			"Óculos daora"
+		],
 		"ru": [
 			"Deal with it"
 		],
@@ -6874,7 +6792,7 @@
 			"Vision noire"
 		],
 		"id": [
-			"Penglihatan Noire"
+			"Hitam Putih"
 		],
 		"it": [
 			"Visione nera"
@@ -7033,7 +6951,9 @@
 		"nl": [
 			"Schattig hoofd"
 		],
-		"pl": [],
+		"pl": [
+			"Urocza twarz"
+		],
 		"pt": [
 			"Cara fofa"
 		],
@@ -7067,7 +6987,9 @@
 		"nl": [
 			"Verjaardagstaart"
 		],
-		"pl": [],
+		"pl": [
+			"Tort urodzinowy"
+		],
 		"pt": [
 			"Bolo de Aniversário"
 		],
@@ -7101,7 +7023,9 @@
 		"nl": [
 			"Rode beer"
 		],
-		"pl": [],
+		"pl": [
+			"Czerwony miś"
+		],
 		"pt": [
 			"Urso vermelho"
 		],
@@ -7151,6 +7075,120 @@
 		"sv": [],
 		"tr": [
 			"Varsayılan"
+		]
+	},
+	"ctokens_description": {
+		"de": [
+			"Du erhältst Capitalus-Marken, wenn du in den Levels Münzen sammelst. Du kannst deine Münzen ausgeben, um verschiedene Boni von Capitalus zu erhalten."
+		],
+		"el": [
+			"Αποκτήστε μάρκες Capitalus από τη συλλογή νομισμάτων στα επίπεδα. Μπορείτε να ξοδέψετε το κουπόνι σας για να λάβετε διάφορα μπόνους από την Capitalus."
+		],
+		"en": [
+			"Get Capitalus tokens from collecting coins in levels. You can spend your token to get various bonuses from Capitalus."
+		],
+		"es": [
+			"Consige tokens Capitalus coleccionando monedas en niveles. Puedes gastar tus tokens para obtener bonos de Capitalus."
+		],
+		"fr": [
+			"Obtiens des jetons Capitalus en ramassant des pièces dans les niveaux. Tu peux dépenser tes jetons pour obtenir divers bonus de la part de Capitalus."
+		],
+		"id": [
+			"Dapatkan Token Capitalus dari mengumpulkan koin. Kamu bisa menggunakan token mu untuk mendapatkan berbagai bonus dari Capitalus."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Krijg tokens van Capitalus door munten te verzamelen in levels. Je kunt je munten uitgeven om verschillende bonussen van Capitalus te krijgen."
+		],
+		"pl": [
+			"Zdobądź żetony Capitalus, zbierając monety na poziomach. Możesz wydać swój żeton, aby uzyskać różne bonusy od Capitalus."
+		],
+		"pt": [
+			"Ganhe fichas do Capitalus pegando moedas nas fases. Você pode gastar suas fichas pra obter vários bônus com ele!"
+		],
+		"ru": [
+			"Получайте жетоны Капиталуса собирая монеты в уровнях. Вы можете потратить Ваш жетон, чтобы получить различные бонусы от Капиталуса."
+		],
+		"sv": [],
+		"tr": [
+			"Seviyelerde para toplayarak Capitalus jetonları alın. Jetonunuzu Capitalus'tan çeşitli bonuslar almak için harcayabilirsiniz."
+		]
+	},
+	"ctokens_name": {
+		"de": [
+			"Capitalus-Marke"
+		],
+		"el": [
+			"Μάρκες Capitalus"
+		],
+		"en": [
+			"Capitalus tokens"
+		],
+		"es": [
+			"Tokens Capitalus"
+		],
+		"fr": [
+			"Jetons Capitalus"
+		],
+		"id": [
+			"Token Capitalus"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Capitalus munten"
+		],
+		"pl": [
+			"Żetony Capitalus"
+		],
+		"pt": [
+			"Fichas do Capitalus"
+		],
+		"ru": [
+			"Жетоны Капиталуса"
+		],
+		"sv": [],
+		"tr": [
+			"Capitalus jetonu"
+		]
+	},
+	"ctokens_requirement": {
+		"de": [
+			"Neue Marke in {0} Münzen"
+		],
+		"el": [
+			"Νέο κουπόνι σε {0} νομίσματα"
+		],
+		"en": [
+			"New token in {0} coins"
+		],
+		"es": [
+			"Nuevo token en {0} monedas"
+		],
+		"fr": [
+			"Nouveau jeton dans {0} pièces"
+		],
+		"id": [
+			"{0} koin lagi untuk mendapatkan token baru"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Nieuwe munt in {0} munten"
+		],
+		"pl": [
+			"Nowy żeton za {0} monet"
+		],
+		"pt": [
+			"Mais uma com {0} moedas"
+		],
+		"ru": [
+			"Новый жетон через {0} монет"
+		],
+		"sv": [],
+		"tr": [
+			"{0} yeni jeton"
 		]
 	},
 	"filter_00": {
@@ -7568,7 +7606,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Fresh"
+			"Serin"
 		]
 	},
 	"filter_11": {
@@ -7606,7 +7644,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Buzlu"
+			"Soğuk"
 		]
 	},
 	"filter_12": {
@@ -7644,7 +7682,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Yaşlı"
+			"Eski"
 		]
 	},
 	"filter_13": {
@@ -7739,9 +7777,7 @@
 		"fr": [
 			"Hacker"
 		],
-		"id": [
-			"Hacker"
-		],
+		"id": [],
 		"it": [
 			"Hacker"
 		],
@@ -7928,7 +7964,7 @@
 			"Film noir"
 		],
 		"id": [
-			"Noir"
+			"Hitam Putih"
 		],
 		"it": [
 			"Pellicola nera"
@@ -8085,9 +8121,7 @@
 		"fr": [
 			"Sépia"
 		],
-		"id": [
-			"Sepia"
-		],
+		"id": [],
 		"it": [
 			"Seppia"
 		],
@@ -8201,9 +8235,7 @@
 		"fr": [
 			"Gameboy"
 		],
-		"id": [
-			"Gameboy"
-		],
+		"id": [],
 		"it": [
 			"Gameboy"
 		],
@@ -8294,7 +8326,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Garip"
+			"Tuhaf"
 		]
 	},
 	"filter_30": {
@@ -8370,7 +8402,7 @@
 		],
 		"sv": [],
 		"tr": [
-			"Sıcak"
+			"Termal"
 		]
 	},
 	"filter_32": {
@@ -8561,6 +8593,272 @@
 		"sv": [],
 		"tr": [
 			"Neon Dünya"
+		]
+	},
+	"fwheel_item_owned": {
+		"de": [
+			"Du besitzt bereits alle {0} Gegenstände, also hast du stattdessen {1} Münzen gewonnen."
+		],
+		"el": [
+			"Έχετε ήδη στην κατοχή σας κάθε {0} αντικείμενο, οπότε κερδίσατε {1} νομίσματα."
+		],
+		"en": [
+			"You already own every {0} item so you won {1} coins instead."
+		],
+		"es": [
+			"Ya tienes todos los ítems {0} así que ganaste {1} monedas en su lugar."
+		],
+		"fr": [
+			"Tu possèdes déjà chaque objet {0} donc tu as reçu {1} pièces à la place."
+		],
+		"id": [
+			"Kamu sudah memiliki semua barang {0}. Jadi sebagai gantinya, kamu memenangkan {1} koin."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Je hebt al elk {0} item, dus je hebt {1} munten gewonnen."
+		],
+		"pl": [
+			"Posiadasz już wszystkie {0} przedmioty, więc zamiast nich wygrałeś {1} monet."
+		],
+		"pt": [
+			"Você já tem todo item {0}, então ganhou {1} moedas em vez disso."
+		],
+		"ru": [
+			"У Вас уже есть каждый {0} предмет, поэтому вместо этого Вы выиграли {1} монет."
+		],
+		"sv": [],
+		"tr": [
+			"Her {0} öğeye zaten sahipsiniz, dolayısıyla bunun yerine {1} jeton kazandınız."
+		]
+	},
+	"fwheel_item_reward": {
+		"de": [
+			"Du hast einen neuen {0} Gegenstand gewonnen: {1}"
+		],
+		"el": [
+			"Κερδίσατε ένα νέο {0} αντικείμενο: {1}"
+		],
+		"en": [
+			"You won a new {0} item: {1}"
+		],
+		"es": [
+			"Ganaste un nuevo ítem {0}: {1}"
+		],
+		"fr": [
+			"Tu as gagné un nouvel objet {0} : {1}"
+		],
+		"id": [
+			"Kamu memenangkan barang {0} baru: {1}"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Je hebt een nieuw {0} item gewonnen: {1}"
+		],
+		"pl": [
+			"Wygrałeś nowy {0} przedmiot: {1}"
+		],
+		"pt": [
+			"Você ganhou um novo item {0}: {1}"
+		],
+		"ru": [
+			"Вы выиграли новый {0} предмет: {1}"
+		],
+		"sv": [],
+		"tr": [
+			"Yeni bir {0} öğe kazandınız: {1}"
+		]
+	},
+	"fwheel_premium": {
+		"de": [
+			"Das Glücksrad von Capitalos erfordert SBA Gold!"
+		],
+		"el": [
+			"Για να γυρίσετε τον Τροχό της Τύχης του Capitalos απαιτείται χρυσός SBA!"
+		],
+		"en": [
+			"Spinning Capitalos' Wheel of Fortune requires SBA Gold!"
+		],
+		"es": [
+			"¡Necesitas SBA Gold para poder girar la rueda de Capitalos!"
+		],
+		"fr": [
+			"Faire tourner la Roue de la Fortune de Capitalos nécéssite SBA Gold!"
+		],
+		"id": [
+			"Kamu butuh SBA Gold untuk memutar Roda Keberuntungan Capitalos!"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Het draaien van het Rad van Fortuin van Capitalos vereist SBA goud!"
+		],
+		"pl": [
+			"Koło fortuny Capitalos wymaga złota SBA!"
+		],
+		"pt": [
+			"Jogar a Girada da Fortuna de Capitalos requer SBA Gold!"
+		],
+		"ru": [
+			"Чтобы крутить Колесо Фортуны Капиталоса требуется SBA Gold!"
+		],
+		"sv": [],
+		"tr": [
+			"Capitalosun çarkını çevirmek için altın gereklidir"
+		]
+	},
+	"fwheel_reward_none": {
+		"de": [
+			"Du hast nichts gewonnen... Mehr Glück beim nächsten Mal!"
+		],
+		"el": [
+			"Δεν κερδίσατε τίποτα... Καλύτερη τύχη την επόμενη φορά!"
+		],
+		"en": [
+			"You didn't win anything... Better luck next time!"
+		],
+		"es": [
+			"No ganaste nada... ¡Mejor suerte para la próxima!"
+		],
+		"fr": [
+			"Tu n'as rien gagné... Plus de chance la prochaine fois!"
+		],
+		"id": [
+			"Kamu tidak memenangkan apa-apa... Semoga beruntung lain kali!"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Je hebt niets gewonnen... Volgende keer meer geluk!"
+		],
+		"pl": [
+			"Nic nie wygrałeś... Powodzenia następnym razem!"
+		],
+		"pt": [
+			"Você ganhou nada... Mais sorte da próxima vez!"
+		],
+		"ru": [
+			"Вы ничего не выиграли... Повезет в следующий раз!"
+		],
+		"sv": [],
+		"tr": [
+			"Hiçbir şey kazanmadın... Bir dahaki sefere bol şans!"
+		]
+	},
+	"fwheel_reward_normal": {
+		"de": [
+			"Du hast gewonnen {0} {1}"
+		],
+		"el": [
+			"Κερδίσατε {0} {1}"
+		],
+		"en": [
+			"You won {0} {1}"
+		],
+		"es": [
+			"Ganaste {0} {1}"
+		],
+		"fr": [
+			"Tu as gagné {0} {1}"
+		],
+		"id": [
+			"Kamu memenangkan {0} {1}"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Je hebt {0} {1}"
+		],
+		"pl": [
+			"Wygrałeś {0} {1}"
+		],
+		"pt": [
+			"Você ganhou {0} {1}"
+		],
+		"ru": [
+			"Вы выиграли {0} {1}"
+		],
+		"sv": [],
+		"tr": [
+			"{0} {1} kazandınız"
+		]
+	},
+	"fwheel_spin": {
+		"de": [
+			"Dreh das Rad!"
+		],
+		"el": [
+			"Περιστρέψτε τον τροχό!"
+		],
+		"en": [
+			"Spin the wheel!"
+		],
+		"es": [
+			"¡Gira la rueda!"
+		],
+		"fr": [
+			"Tourner la roue!"
+		],
+		"id": [
+			"Putar rodanya!"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Draai aan het rad!"
+		],
+		"pl": [
+			"Zakręć kołem!"
+		],
+		"pt": [
+			"Girar a roleta!"
+		],
+		"ru": [
+			"Крутить колесо!"
+		],
+		"sv": [],
+		"tr": [
+			"Çarkı çevir"
+		]
+	},
+	"fwheel_title": {
+		"de": [
+			"Glücksrad"
+		],
+		"el": [
+			"Τροχός της τύχης"
+		],
+		"en": [
+			"Wheel of Fortune"
+		],
+		"es": [
+			"Rueda de la fortuna"
+		],
+		"fr": [
+			"Roue de la fortune"
+		],
+		"id": [
+			"Roda Keberuntungan"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Rad van fortuin"
+		],
+		"pl": [
+			"Koło fortuny"
+		],
+		"pt": [
+			"Girada da Fortuna"
+		],
+		"ru": [
+			"Колесо Фортуны"
+		],
+		"sv": [],
+		"tr": [
+			"Çarkıfelek"
 		]
 	},
 	"help_birds": {
@@ -8984,88 +9282,40 @@
 		]
 	},
 	"help_light_probes": {
-		"de": [
-			"Light Probes werden verwendet, um gebackene Beleuchtung auf sich bewegenden Objekten anzuzeigen. Diese Option kann auf älteren Geräten nützlich sein und hat keinen Einfluss auf die Leistung."
-		],
-		"el": [
-			"Οι ανιχνευτές φωτός χρησιμοποιούνται για την εμφάνιση ψημένου φωτισμού σε κινούμενα αντικείμενα. Αυτή η επιλογή μπορεί να είναι χρήσιμη σε παλαιότερες συσκευές και δεν επηρεάζει την απόδοση"
-		],
-		"en": [
-			"Light Probes are used to display baked lighting on moving objects. This option can be useful on older devices and doesn't affect performance"
-		],
-		"es": [
-			"Las sondas de luz se usan para mostrar la iluminación baked en objetos en movimiento. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
-		],
-		"fr": [
-			"Les Light Probes sont utilisées pour afficher la lumière pré-calculée sur les objets dynamiques. Cette option peut être utile sur les vieux appareils mais n'affecte pas les performances"
-		],
-		"id": [
-			"Probe cahaya akan digunakan untuk menampilkan pencahayaan pada objek bergerak. Opsi ini dapat berguna pada perangkat yang lebih tua dan tidak mempengaruhi performa."
-		],
-		"it": [
-			"Le sonde di luce sono utilizzate per visualizzare la luce precalcolata su oggetti dinamici. Questa opzione può essere utile su apparecchi più vecchi, ma non influisce sulle prestazioni."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"ライトプローブは、 動いているオブジェクトにベイクドライトを表示するために使用されます。 このオプションは、 古いデバイスでは便利ですが、 パフォーマンスには影響しません。"
 		],
-		"nl": [
-			"Light Probes worden gebruikt om gebakken verlichting op bewegende objecten weer te geven. Deze optie kan handig zijn op oudere apparaten en heeft geen invloed op de prestaties."
-		],
-		"pl": [
-			"Sondy świetlne służą do wyświetlania pieczonego oświetlenia na poruszających się obiektach. Ta opcja może być przydatna na starszych urządzeniach i nie wpływa na wydajność"
-		],
-		"pt": [
-			"São usados pra exibir iluminação pré-calculada em objetos em movimento. Esta opção pode ser útil em dispositivos antigos e não afeta o desempenho"
-		],
-		"ru": [
-			"Световые зонды используются для отображения запечённого освещения на движущихся объектах. Эта функция может быть использована на старых устройствах и не влияет на производительность Вашего устройства."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Işık uydurmaları hareketli nesnelerde ısıtılmış aydınlatmayı görüntülemek için kullanılır. Bu seçenek eski aygıtlarda yararlı olabilir ve oyun verimini etkilemez"
-		]
+		"tr": []
 	},
 	"help_lightmaps": {
-		"de": [
-			"Lightmaps werden verwendet, um gebackene Beleuchtung auf statischen Objekten anzuzeigen. Diese Option kann auf älteren Geräten nützlich sein und hat keinen Einfluss auf die Leistung."
-		],
-		"el": [
-			"Τα Lightmaps χρησιμοποιούνται για την εμφάνιση ψημένου φωτισμού σε στατικά αντικείμενα. Αυτή η επιλογή μπορεί να είναι χρήσιμη σε παλαιότερες συσκευές και δεν επηρεάζει την απόδοση"
-		],
-		"en": [
-			"Lightmaps are used to display baked lighting on static objects. This option can be useful on older devices and doesn't affect performance"
-		],
-		"es": [
-			"Los Lightmaps se usan para mostrar la iluminación baked en objetos estaticos. Esta opción puede ser útil en dispositivos viejos y no afecta el rendimiento"
-		],
-		"fr": [
-			"Les Lightmaps sont utilisées pour afficher la lumière pré-calculée sur les objets statiques. Cette option peut être utile sur les vieux appareils mais n'affecte pas les performances"
-		],
-		"id": [
-			"Lightmaps akan digunakan untuk menampilkan pencahayaan pada objek statis. Opsi ini dapat berguna pada perangkat yang lebih tua dan tidak mempengaruhi performa."
-		],
-		"it": [
-			"Le mappe di luce vengono utilizzate per visualizzare la luce precalcolata su oggetti statici. Questa opzione può essere utile sui dispositivi più vecchi, ma non influisce sulle prestazioni."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"ライトマップは、 静的なオブジェクトにベイクドライトを表示するために使用されます。 このオプションは古いデバイスで便利で、 パフォーマンスには影響しません。"
 		],
-		"nl": [
-			"Lightmaps worden gebruikt om gebakken verlichting op statische objecten weer te geven. Deze optie kan handig zijn op oudere apparaten en heeft geen invloed op de prestaties."
-		],
-		"pl": [
-			"Mapy świetlne służą do wyświetlania pieczonego oświetlenia na obiektach statycznych. Ta opcja może być przydatna na starszych urządzeniach i nie wpływa na wydajność"
-		],
-		"pt": [
-			"São usadas pra exibir iluminação pré-calculada em objetos estáticos. Esta opção pode ser útil em dispositivos antigos e não afeta o desempenho"
-		],
-		"ru": [
-			"Светотени используются для отображения запечённого освещения на статических объектах. Эта функция может быть использована на старых устройствах и не влияет на производительность Вашего устройства."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Işıklandırma haritaları durgun nesnelerde ısıtılmış aydınlatmayı görüntülemek için kullanılır. Bu seçenek eski aygıtlarda yararlı olabilir ve oyun verimini etkilemez"
-		]
+		"tr": []
 	},
 	"help_motion_blur": {
 		"de": [
@@ -9370,7 +9620,7 @@
 			"Le Kernel est assez merveilleux, n'est-ce pas ? J'ai utilisé ses pouvoirs pour contrôle Reine Mirabeille et prendre le commandement des abeilles."
 		],
 		"id": [
-			"Kernel ini cukup luar biasa, bukan? Aku menggunakan kekuatannya untuk mengendalikan Ratu Beeatrice dan mengambil alih para lebah."
+			"Kernel ini luar biasa, bukan? Aku menggunakan kekuatan-nya untuk mengendalikan Ratu Beeatrice dan mengambil alih para lebah."
 		],
 		"it": [
 			"Il Kernel è davvero meraviglioso, non è vero? Ho usato i suoi poteri per controllare la regina Mirabape e prendere il comando delle api."
@@ -9463,7 +9713,7 @@
 			"Nie ruszaj się, nie będzie bolało. Prawdopodobnie."
 		],
 		"pt": [
-			"Não se mova, não vai doer. Provavelmente."
+			"Não se mexa, não vai doer. Provavelmente."
 		],
 		"ru": [
 			"Не двигайся, больно не будет. Наверно."
@@ -9543,7 +9793,7 @@
 			"Nie zły refleks bracie! Wygląda na to że nie tknę cię tym laserem, ale może Królowa Beetrycja we własnej osobie może cię uspokoić."
 		],
 		"pt": [
-			"Belos reflexos irmão! Parece que não vou tocar em você com o laser, mas talvez a própria Rainha possa te acalmar."
+			"Belos reflexos irmão! Parece que não vou tocar em você com o laser, mas talvez a própria Rainha possa te sossegar."
 		],
 		"ru": [
 			"Хорошие рефлексы, брат! Похоже, мне не удастся попасть в тебя этим лазером, но возможно, сама королева Беатриса сможет тебя успокоить."
@@ -9610,7 +9860,7 @@
 			"Le sort n'était pas calibré pour un Backpacker ! Oh non... non non NON ! Ça a fait n'importe quoi !"
 		],
 		"id": [
-			"Mantra nya tidak dikalibrasi untuk Backpacker! Oh tidak... tidak, tidak, tidak! Ini sangat salah!"
+			"Mantra nya tidak dikalibrasi untuk Backpacker! Oh tidak... tidak, tidak, TIDAK! Ini sangat salah!"
 		],
 		"it": [
 			"L'incantesimo non è stato calibrato per un Backpacker! Oh no... no no NO! Ha fatto di tutto!"
@@ -9623,7 +9873,7 @@
 			"Zaklęcie nie zostało skalibrowane dla Plecakowicza! O nie... nie nie NIE. To wyszło tak źle!"
 		],
 		"pt": [
-			"O encantamento não foi ajustado pra um mochileiro! A não... não não NÃO! Tudo errado!"
+			"O encantamento não foi pensado pra um mochileiro! A não... não não NÃO! Tudo errado!"
 		],
 		"ru": [
 			"Заклинание не было откалибровано под рюкзак! О нет... нет нет НЕТ! Всё пошло совсем не так!"
@@ -9650,7 +9900,7 @@
 			"Ok Shicka, il est l'heure de se battre contre le vrai moi !"
 		],
 		"id": [
-			"Baiklah, Shicka. Saatnya untuk melawan diriku yang sebenarnya!"
+			"Baiklah, Shicka. Saatnya melawan diriku yang sebenarnya!"
 		],
 		"it": [
 			"Ok Shicka, è ora di combattere il vero me!"
@@ -9663,7 +9913,7 @@
 			"Okej Shicka, nadszedł czas żeby zawalczyć z prawdziwym mną!"
 		],
 		"pt": [
-			"Ok Shicka, está na hora de lutar com o verdadeiro eu!"
+			"Ok Shicka, tá na hora de lutar com o verdadeiro eu!"
 		],
 		"ru": [
 			"Хорошо, Шика, пришло время сразиться с настоящим мной!"
@@ -9703,7 +9953,7 @@
 			"Przepraszam że walczyłam przeciwko tobie, mój drogi niedźwiedziu. Nie byłam wtedy sobą, Jądro... działo na mój umysł."
 		],
 		"pt": [
-			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel estavvva... agindo sobre minha cabeça."
+			"Sinto muito por lutar com vvvocê, meu caro urso. Não era minha pessoa lá; o Kernel eszztavvva... agindo sobre minha cabeça."
 		],
 		"ru": [
 			"Извввини, что дралась сзз тобой, мой дорогой медведь. Я не была собой там, Кернел... вввлиял на мой разззум."
@@ -9743,7 +9993,7 @@
 			"Z wyglądu rzeczy, Jądro eksplodowało, uderzając w Ul w drodze w dół... W jakiś sposób zostaliśmy tu przetelepotowani, lecz twój brat pewnie skończył gdzieś indziej."
 		],
 		"pt": [
-			"Do jeito que as coiszzas estão, o Kernel explodiu quando atingiu a Colmeia sendo destruída... Fomoszz teleportados para cá de alguma forma, maszz seu irmão provvvavvvelmente foi parar em outro local."
+			"Do jeito que as coiszzaszz estão, o Kernel explodiu quando atingiu a Colmeia sendo destruída... Fomoszz teleportados pra cá de alguma forma, maszz seu irmão provvvavvvelmente foi parar em outro lugar."
 		],
 		"ru": [
 			"Судя по вввсему, Кернел взззорвался, ударивввшись об Улей по пути вввниз...Насзз сюда телепортировввало каким-то образом, но твввой брат, наввверное, оказззался где-то ещё."
@@ -9863,7 +10113,7 @@
 			"Niedźwiedzie są okropne ale maybee mogę z ciebie skorzystać. Jestem beesy robię beesiness."
 		],
 		"pt": [
-			"Ursoszz são nojentos mas talvvvezzz eu possa te abrir uma exceção. Fui habelhitada a fazzzer negócioszz."
+			"Ursoszz são nojentos mas talvvvezzz eu possa te abrir uma exceção. Fui habelhitada a fazzzer negócios."
 		],
 		"ru": [
 			"Медввведи отвввратительны, но можжжет я смогу получить от тебя вввыгоду. Я зззанята ведением бизззнеса."
@@ -10349,7 +10599,7 @@
 			"Spójrz na kamienną platformę za mną, możesz tam iść zmienić kostium."
 		],
 		"pt": [
-			"Dê uma olhada na plataforma de pedra perto de mim, você pode ir nela pra mudar sua aparência."
+			"Dá uma olhada na plataforma de pedra perto de mim, você pode ir nela pra mudar sua aparência."
 		],
 		"ru": [
 			"Взгляни-ка на каменную платформу позади меня. Ты можешь встать на неё, чтобы изменить свой костюм."
@@ -10437,7 +10687,7 @@
 			"Musiało ci to zająć dużo czasu, aby znaleźć wszystkie monety w Turtletown!"
 		],
 		"pt": [
-			"Você deve ter levado um bom tempo pra achar todas as moedas na Aldeia das Tartarugas!"
+			"Cê deve ter levado um bom tempo pra achar todas as moedas na Aldeia das Tartarugas!"
 		],
 		"ru": [
 			"Ты наверное потратил много времени, чтобы найти все монеты в Черепашьем городе!"
@@ -11016,7 +11266,7 @@
 			"Les fennecs sont tellement adorables, j'aimerais en adopter un !"
 		],
 		"id": [
-			"Binatang Fennec sangat menggemaskan, aku mau pelihara satu!"
+			"Binatang Fennec begitu menggemaskan, aku mau pelihara satu!"
 		],
 		"it": [
 			"I Fennecs sono così adorabili. Quanto vorrei poterne adottare uno!"
@@ -11115,7 +11365,7 @@
 			"Musisz znać pustynie jak z tyłu ręki teraz, że znalazłeś wszystkie monety!"
 		],
 		"pt": [
-			"Você deve conhecer o deserto como a palma da sua mão agora que coletou todas as moedas!"
+			"Você deve conhecer o deserto como a palma da sua mão agora que pegou todas aquelas moedas!"
 		],
 		"ru": [
 			"Ты должен знать пустыню, как свои пять пальцев, ты же нашел все монеты!"
@@ -11613,22 +11863,22 @@
 	},
 	"hub_capitalos": {
 		"de": [
-			"Hallooo! Ich bin's, Capitalooos, der Bruder von Capitalus! Wenn ihr den Entwickler dieses Spiiiiiels unterstützt, erhaltet ihr ganz besondere Geschenkeeeee!"
+			"Hallooo! Ich bin's, Capitalooos, der Bruder von Capitalus! Bist du hier wegen... Bessere Waren? Heute ist dein Glückstag, denn du bist im BESTEN Laden des ganzen Königreichs!"
 		],
 		"el": [
-			"Γεια σου! Εγώ είμαι, ο Capitalooos, ο αδερφός του Capitalus! Αν υποστηρίξετε τον προγραμματιστή αυτού του παιχνιδιού, θα πάρετε πολύ ειδικά δώρα!"
+			"Γεια σου! Εγώ είμαι, ο Capitalooos, ο αδελφός του Capitalus! Είσαι εδώ για κάποια... Καλύτερες διακοπές; Αυτή είναι η τυχερή σου μέρα, γιατί βρίσκεσαι στο ΚΑΛΥΤΕΡΟ κατάστημα σε ολόκληρο το βασίλειο!"
 		],
 		"en": [
-			"Hellooo! It's me, Capitalooos, Capitalus' brother! If you support the developer of this gaaame, you will get very special giiifts!"
+			"Hellooo! It's me, Capitalooos, Capitalus' brother! Are you here for some... BETTER rewaaards? This is your lucky daaay, because you're at the MOST BEST shop in the entire kingdooom!"
 		],
 		"es": [
-			"¡Holaaa! ¡Soy yo, Capitalooos, hermano de Capitaluuus! ¡Si apoyas al desarrollador de este juuuego, obtendrás regalos muy especialeees!"
+			"¡Holaaa! ¡Soy yo, Capitalooos! ¡El hermano de Capitalus! ¿Estás aquí por las... MEJORES recooompensas? ¡Este es tu día de suerte, porque estás en la MUY MEJOR tienda del reinooo entero!"
 		],
 		"fr": [
-			"Saluuut ! C'est moi, Capitalooos, le frère de Capitalus ! Si tu soutiens le développeur du jeeeu, tu obtiendras des cadeaux très spéciauuux !"
+			"Saluuut ! C'est moi, Capitalooos, le frère de Capitalus ! Est-ce que tu est la pour des... MEILLEURES récompeeenses ? C'est ton jour de chaaance, parce-que tu est au PLUS MEILLEUR magasin de tout le royaaaume!"
 		],
 		"id": [
-			"Halooo! ini aku, Capitalooos, saudaranya Capitalus! Kalau kau ingin mendukung developer game ini, aku akan memberikanmu hadiaaah!"
+			"Halooo! Ini aku, Capitalooos, saudara Capitalus! Apakah kau ke sini untuk... hadiah yang LEBIH BAIIIK? Ini adalah hari keberuntunganmu, karena kau berada di toko PALING TERBAIK di seluruh kerajaaaan!"
 		],
 		"it": [
 			"Ciao! Sono io, Capitalooos, il fratello di Capitalus! Se sostieni lo sviluuuuppatore del gioco, riceverai dei regali molto speciaaaali!"
@@ -11637,40 +11887,40 @@
 			"こんにちは！キャピタロスの兄貴のキャピタロスです。 このゲームの開発者を応援してくれた方には、 特別なプレゼントを差し上げます。"
 		],
 		"nl": [
-			"Hallooo! Ik ben het, Capitalooos, Capitalus' broer! Als je de ontwikkelaar van deze gaaame steunt, krijg je hele speciale cadeaauuus!"
+			"Hallooo! Ik ben het, Capitalooos, de broer van Capitalus! Ben je hier voor... BETERE beloooningen? Dit is je geluksdag, want je bent in de ALLER BESTE winkel van het hele koninkrijk!"
 		],
 		"pl": [
-			"Witajjj! To ja, Capitalooos, brat Capitalusa! Jeśli wesprzesz twórcę tej gryyy, dostaniesz specjalne prezentyyt!"
+			"Witajjj! To ja, Capitalooos, brat Capitalusa! Przyszedłeś po... lepszych nagród? To twój szczęśliwy dzień, ponieważ jesteś w NAJLEPSZYM sklepie w całym królestwie!"
 		],
 		"pt": [
-			"Olááá! Sou eu, Capitalooos, irmão de Capitalus! Se você apoiar o desenvolvedor deste jooogo, você ganhará presentes muito especiaaais!"
+			"Olááá! Sou eu, Capitalooos, irmão do Capitalus! Por acaso você veio por um pouco de... MELHORES recompeeensas? Este é seu diiia de sorte, você está na MAIS MELHOR LOJA de tooodo o reino!"
 		],
 		"ru": [
-			"Привееет! Это я, Капиталооос, брат Капиталуса! Если вы поддержите разработчика этой игрыыы, то Вы получите особенные прииизы!"
+			"Привееет! Это я, Капиталооос, брат Капиталуса! Ты здесь за какими-нибудь... награаадами ПОЛУЧШЕ? Это твой счастливый дееень, потому что ты в БОЛЕЕ ЛУЧШЕМ магазине во всём королвстеее!"
 		],
 		"sv": [],
 		"tr": [
-			"Merhabaaa! Ben Capitalooos, Capitulus'un erkek kardeşi! Eğer bu oyunun geliştiricisini desteklerseeen, çok özel ödüller kazanacaksııın!"
+			"Merhaba! Benim, Capitalooos, Capitalus'un kardeşi! Biraz... DAHA İYİ ödüller için mi buradasın? Bu senin şanslı günün, çünkü tüm krallıktaki EN İYİ dükkândasın!"
 		]
 	},
 	"hub_capitalus": {
 		"de": [
-			"Hallooo! Ich bin's, Capitaluuus! Wenn du dich bereit erklärst, einen Werbespot anzusehen, werde ich dir Geschenke geben!"
+			"Hallooo! Ich bin's, Capitaluuus! Bist du hier für ein paar... Belohnungen? Heute ist dein Glückstag, denn du bist im besten Laden des ganzen Königreichs!"
 		],
 		"el": [
-			"Γεια σας! Εγώ είμαι, ο Capitaluuus! Αν δεχτείτε να παρακολουθήσετε μια διαφήμιση, θα σας δώσω δώρα!"
+			"Γεια σας! Εγώ είμαι, ο Καπιτάλιος! Είσαι εδώ για μερικές... αγορές; Αυτή είναι η τυχερή σας μέρα, γιατί βρίσκεστε στο καλύτερο μαγαζί σε ολόκληρο το βασίλειο!"
 		],
 		"en": [
-			"Hellooo! It's me, Capitaluuus! If you accept to watch an advertisemeeent, I will give you giiifts!"
+			"Hellooo! It's me, Capitaluuus! Are you here for some... rewaaards? This is your lucky daaay, because you're at the best shop in the entire kingdooom!"
 		],
 		"es": [
-			"¡Holaaa! ¡Soy yo, Capitaluuus! ¡Si aceptas ver un anuncio, te daré regaaalos!"
+			"¡Holaaa! ¡Soy yo, Capitaluuus! ¿Estás aquí por las... recooompensas? ¡Este es tu día de suerte, porque estás en la mejor tienda del reinooo entero!"
 		],
 		"fr": [
-			"Saluuut ! C'est moi, Capitaluuus ! Si tu acceptes de regarder une publicitééé, je t'offrirais des cadeauuux !"
+			"Saluuut ! C'est moi, Capitaluuus ! Est-ce que tu est la pour des... récompeeenses ? C'est ton jour de chaaance, parce-que tu est au meilleur magasin de tout le royaaaume!"
 		],
 		"id": [
-			"Halooo! Ini aku, Capitaluuus! Kalau kau ingin menonton iklan, aku akan memberikanmu hadiaaah!"
+			"Halooo! Ini aku, Capitaluuuss! Apa kau ke sini untuk beberapa... hadiaaah? Ini adalah hari keberuntunganmu, karena kau berada di toko terbaik di seluruh kerajaaaan!"
 		],
 		"it": [
 			"Saluti! Sono io, Capitaluuuus! Se accetti di guardare una puuuubblicità, ti farò dei reeeegali!"
@@ -11679,20 +11929,20 @@
 			"こんにちは、 私、 キャピトルウスです。 広告を見てくれた方には、 プレゼントを差し上げます！"
 		],
 		"nl": [
-			"Hallooo! Ik ben het, Capitaluuus! Als je akkoord gaat met het bekijken van een advertentieee, krijg je van mij cadeaauuus!"
+			"Hallooo! Ik ben het, Capitaluuus! Ben je hier voor wat... beloooningen? Dit is je geluksdag, want je bent in de beste winkel van het hele koninkrijk!"
 		],
 		"pl": [
-			"Witajjj! To ja, Capitaluuus! Jeśli zakceptujesz obejrzenie reklammmy, to dam ci prezentyy!"
+			"Witajjj! To ja, Capitaluuus! Przyszedłeś po... rewaaardy? To twój szczęśliwy dzień, ponieważ jesteś w najlepszym sklepie w całym królestwie!"
 		],
 		"pt": [
-			"Olááá! Sou eu, Capitaluuus! Se você aceitar assistir um anúuuncio, eu posso te dar preseeentes!"
+			"Olááá! Sou eu, Capitaluuus! Por acaso você veio por um pouco de... recompeeensas? Este é seu diiia de sorte, você está na melhor loja de tooodo o reino!"
 		],
 		"ru": [
-			"Привееет! Это я, Капиталууус! Если вы согласитесь просмотреть рекламу, то я дам Вам подарки!"
+			"Привееет! Это я, Капиталууус! Ты здесь за какими-нибудь... награаадами? Это твой счастливый дееень, потому что ты в лучшем магазине во всём королвстеее!"
 		],
 		"sv": [],
 		"tr": [
-			"Merhabaaa! Ben, Capitaluuus! Eğer bir reklam izlemeyi kabul edersen, sana hediyeler vereceğiiim!"
+			"Merhaba! Benim, Capitaluuus! Ödül için mi buradasın? Bu senin şanslı günün, çünkü tüm krallıktaki en iyi dükkandasın!"
 		]
 	},
 	"hub_scientist": {
@@ -11727,7 +11977,7 @@
 			"Nie martw się, maszyna zmniejszająca jest nawet bezpieczna."
 		],
 		"pt": [
-			"Não se preocupe, a máquina de encolhimento provavelmente é segura."
+			"Não se preocupe, a máquina de encolhimento é bem provável de ser segura."
 		],
 		"ru": [
 			"Не волнуйтесь, утягивающая машина, скорее всего, будет в безопасности."
@@ -11739,22 +11989,22 @@
 	},
 	"hub_sign_1": {
 		"de": [
-			"Willkommen im Hauptzentum! Gehe zu den blauen Kreisen, um ein Level zu betreten."
+			"Willkommen im Bärendorf! Gehe zu den blauen Kreisen, um ein Level zu betreten."
 		],
 		"el": [
-			"Καλώς ήρθατε στον κόμβο! Πηγαίνετε στους μπλε κύκλους για να μπείτε σε ένα επίπεδο."
+			"Καλώς ήρθατε στο Χωριό της Αρκούδας! Πηγαίνετε στους μπλε κύκλους για να μπείτε σε ένα επίπεδο."
 		],
 		"en": [
-			"Welcome to the hub! Go to the blue circles to enter a level."
+			"Welcome to the Bear Village! Go to the blue circles to enter a level."
 		],
 		"es": [
-			"¡Bienvenido al hub! Ve a los círculos azules para entrar a un nivel."
+			"¡Bienvenido a la aldea de los osos! Ve a los círculos azules para entrar a un nivel."
 		],
 		"fr": [
-			"Bienvenue dans le hub ! Place-toi sur les cercles bleus pour entrer dans un niveau."
+			"Bienvenue au Village Ours ! Place-toi sur les cercles bleus pour entrer dans un niveau."
 		],
 		"id": [
-			"Selamat datang di hub! Pergi ke lingkaran biru untuk memasuki suatu level."
+			"Selamat datang di Desa Beruang! Pergi ke lingkaran biru untuk memasuki suatu level."
 		],
 		"it": [
 			"Benvenuto nell'hub! Sali sulle pedane blu per entrare in un livello."
@@ -11763,22 +12013,22 @@
 			"ハブへようこそ 青い丸の上を進むとレベルに入ります。"
 		],
 		"nl": [
-			"Welkom in de Hub! Ga op de blauwe cirkels staan om een level te starten."
+			"Welkom in het berendorp! Ga naar de blauwe cirkels om een level te betreden."
 		],
 		"pl": [
-			"Witaj w centrum! Idź w stronę niebieskich kół żeby dostać się do poziomu."
+			"Witamy w wiosce niedźwiedzi! Przejdź do niebieskich okręgów, aby wejść na poziom."
 		],
 		"pt": [
-			"Boas vindas ao hub! Ande sob dos círculos azuis para entrar em fases!"
+			"Boas vindas à Vila dos Ursos! Vá para os círculos azuis pra entrar em uma fase."
 		],
 		"ru": [
-			"Добро пожаловать! Идите к синим кругам, чтобы попасть на нужный уровень."
+			"Добро пожаловать в Медвежью Деревню! Идите к синим кругам, чтобы зайти в уровень."
 		],
 		"sv": [
 			"Välkommen till hubben! Gå på en blå cirkel för att gå in på en bana!"
 		],
 		"tr": [
-			"Başlangıç'a hoş geldin! Bir seviyeye girmek için mavi dairenin içine gir."
+			"Ayı Köyü'ne hoş geldiniz! Bir seviyeye girmek için mavi dairelere gidin."
 		]
 	},
 	"hub_tristopio": {
@@ -11813,7 +12063,7 @@
 			"Witaj! Czy szukasz ciekawej misji? Wydaje mi się że mam to czego szukasz!"
 		],
 		"pt": [
-			"Opa! Está procurando uma boa missão? Eu acho que tenho o que você precisa!"
+			"Opa! Tá procurando uma boa missão? Eu acho que tenho o que você precisa!"
 		],
 		"ru": [
 			"Привет! Ты ищешь классную миссию? Думаю, у меня есть то, что тебе нужно!"
@@ -11828,7 +12078,7 @@
 			"<h>Keine unerwünschte Werbung mehr</h> zwischen den Levels!"
 		],
 		"el": [
-			"<h>Δεν υπάρχουν πλέον ανεπιθύμητες διαφημίσεις</h> μεταξύ των επιπέδων!"
+			"<h>Τέρμα οι ανεπιθύμητες διαφημίσεις</h> μεταξύ των επιπέδων!"
 		],
 		"en": [
 			"<h>No more unwanted ads</h> between levels!"
@@ -11840,17 +12090,17 @@
 			"<h>Plus aucune publicité</h> entre les niveaux !"
 		],
 		"id": [
-			"<h>Tidak ada lagi iklan yang tidak diinginkan</h> antar level!"
+			"<h>Tidak ada lagi iklan yang menggangu</h> antar level!"
 		],
 		"it": [
 			"<h>Niente più annunci</h> tra i livelli!"
 		],
 		"ja": [],
 		"nl": [
-			"<h>Geen ongewenste advertenties</h> tussen levels!"
+			"<h>Geen ongewenste advertenties</h> meer tussen levels!"
 		],
 		"pl": [
-			"<h>Koniec z niechcianymi reklamami</h> pomiędzy poziomami!"
+			"<h>Koniec z niechcianymi reklamami</h> między poziomami!"
 		],
 		"pt": [
 			"<h>Sem mais anúncios indesejados</h> entre as fases!"
@@ -11865,42 +12115,118 @@
 	},
 	"iap_noads_desc_2": {
 		"de": [
-			"Belohnte Werbuing werden weiterhin verfügbar sein."
+			"Erhalte <h>Capitalus-Marken</h>, indem du Münzen sammelst!"
 		],
 		"el": [
-			"Οι διαφημίσεις που ανταμείβονται θα εξακολουθούν να είναι διαθέσιμες."
+			"Αποκτήστε <h>Capitalus tokens</h> συλλέγοντας νομίσματα!"
 		],
 		"en": [
-			"Rewarded ads will still be available."
+			"Get <h>Capitalus tokens</h> by collecting coins!"
 		],
 		"es": [
-			"Los anuncios con recompensa seguirán disponibles."
+			"¡Consige <h>tokens Capitalus</h> coleccionando monedas!"
 		],
 		"fr": [
-			"Les publicités récompensées seront toujours disponibles."
+			"Obtiens des <h>jetons Capitalus</h> en ramassant des pièces!"
 		],
 		"id": [
-			"Iklan berhadiah akan masih ada."
+			"Dapatkan <h>Token Capitalus</h> dengan mengumpulkan koin!"
 		],
 		"it": [
 			"Gli annunci premiati saranno comunque disponibili."
 		],
 		"ja": [],
 		"nl": [
-			"Beloonde advertenties zullen nog steeds beschikbaar zijn."
+			"Krijg <h>Capitalusmunten</h> door munten te verzamelen!"
 		],
 		"pl": [
-			"Nagrodzone reklamy nadal będą dostępne."
+			"Zdobądź tokeny <h>Capitalus</h>, zbierając monety!"
 		],
 		"pt": [
-			"Anúncios recompensáveis ainda vão estar disponíveis."
+			"Ganhe <h>fichas do Capitalus</h> pegando moedas!"
 		],
 		"ru": [
-			"Награды за рекламу всё ещё будут доступны."
+			"Получайте <h>жетоны Капиталуса</h> собирая монеты!"
 		],
 		"sv": [],
 		"tr": [
-			"Ödüllü reklamlar yine kullanılabilir olacak."
+			"Madeni para toplayarak <h>Capitalus jetonları</h> kazanın!"
+		]
+	},
+	"iap_noads_desc_3": {
+		"de": [
+			"Belohnungen, die Du durch das Ansehen von Werbung erhältst, können stattdessen mit <h>Capitalus-Marken</h> aktiviert werden!"
+		],
+		"el": [
+			"Οι ανταμοιβές που λαμβάνετε βλέποντας διαφημίσεις μπορούν να ενεργοποιηθούν με <h>Capitalus tokens</h> αντί για αυτά!"
+		],
+		"en": [
+			"Rewards you get by watching ads can be activated with <h>Capitalus tokens</h> instead!"
+		],
+		"es": [
+			"¡Las recompensas que obtienes mirando anuncios pueden ser conseguidas con <h>tokens Capitalus</h>!"
+		],
+		"fr": [
+			"Les récompenses que tu obtiens en regardant des pubs peuvent être activées avec des <h>jetons Capitalus</h> à la place!"
+		],
+		"id": [
+			"Hadiah yang kamu dapatkan dengan menonton iklan bisa didapat dengan <h>Token Capitalus</h>!"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Beloningen die je krijgt door het kijken naar advertenties kunnen in plaats daarvan worden geactiveerd met <h>Capitalus munten</h>!"
+		],
+		"pl": [
+			"Nagrody za oglądanie reklam można aktywować za pomocą tokenów <h>Capitalus</h>!"
+		],
+		"pt": [
+			"Recompensas de anúncios podem ser obtidas com <h>fichas do Capitalus</h> em vez disso!"
+		],
+		"ru": [
+			"Награды, которые Вы получаете смотря рекламу, вместо этого могут быть активированы с помощью <h>жетонов Капиталуса</h>!"
+		],
+		"sv": [],
+		"tr": [
+			"Reklam izleyerek elde ettiğiniz ödüller, bunun yerine <h>Capitalus jetonları</h> ile etkinleştirilebilir!"
+		]
+	},
+	"iap_noads_desc_4": {
+		"de": [
+			"Wenn Du keinen Marken mehr hast, kannst du immer noch eine Werbung ansehen, um deinen Bonus zu bekommen."
+		],
+		"el": [
+			"Αν δεν σας έχει μείνει κανένα κουπόνι, μπορείτε ακόμα να παρακολουθήσετε μια διαφήμιση για να λάβετε το μπόνους σας."
+		],
+		"en": [
+			"If you don't have any token left, you can still watch an ad to get your bonus."
+		],
+		"es": [
+			"Si no tienes ningún token, puedes seguir mirando anuncios para conseguir tu bonificación."
+		],
+		"fr": [
+			"Si tu n'as plus aucun jeton, tu peux toujours regarder une pub pour obtenus ton bonus."
+		],
+		"id": [
+			"Jika kamu tidak memiliki sisa token, kamu masih dapat menonton iklan untuk mendapatkan bonus."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Als je geen token meer hebt, kun je nog steeds naar een advertentie kijken om je bonus te krijgen."
+		],
+		"pl": [
+			"Jeśli nie masz już żadnego tokena, nadal możesz obejrzeć reklamę, aby otrzymać bonus."
+		],
+		"pt": [
+			"Se você não tiver mais nenhuma ficha, ainda pode assistir um anúncio pra ganhar um bônus."
+		],
+		"ru": [
+			"Если у Вас не осталось жетонов, Вы всё ещё можете посмотреть рекламу, чтобы получить Ваш бонус."
+		],
+		"sv": [],
+		"tr": [
+			"Jetonunuz kalmamışsa, bonusunuzu almak için yine de bir reklam izleyebilirsiniz."
 		]
 	},
 	"iap_noads_status_1": {
@@ -12065,87 +12391,87 @@
 	},
 	"iap_premium_desc_2": {
 		"de": [
-			"<h>Entfernt</h> unerwünschte <h>Werbung</h>"
+			"Ersetzt Anzeigen durch <h>Capitalus-Marken</h>"
 		],
 		"el": [
-			"<h>Απομακρύνει</h> τις ανεπιθύμητες <h>διαφημίσεις</h>"
+			"Αντικαθιστά τις διαφημίσεις με <h>Μάρκες Capitalus</h>"
 		],
 		"en": [
-			"<h>Removes</h> unwanted <h>ads</h>"
+			"Replaces ads with <h>Capitalus tokens</h>"
 		],
 		"es": [
-			"<h>Remueve</h> anuncios <h>no deseados</h>"
+			"Reemplaza anuncios con <h>tokens Capitalus</h>"
 		],
 		"fr": [
-			"<h>Retire les pubs</h> non désirées"
+			"Remplace les pubs par des <h>jetons Capitalus</h>"
 		],
 		"id": [
-			"<h>Menghapus</h> iklan<h>yang tidak diinginkan</h>"
+			"Mengganti iklan dengan <h>Token Capitalus</h>"
 		],
 		"it": [
 			"<h>Rimuove gli annunci indesiderati</h>."
 		],
 		"ja": [],
 		"nl": [
-			"<h>Verwijdert</h> ongewenste <h>advertentie</h>"
+			"Vervangt advertenties door <h>Capitalus munten</h>"
 		],
 		"pl": [
-			"<h>Usuwa</h> niechciane <h>reklamy</h>"
+			"Zastępuje reklamy <h>żetonami Capitalus</h>."
 		],
 		"pt": [
-			"<h>Remove anúncios</h> indesejados"
+			"Substitui anúncios com <h>fichas do Capitalus</h>"
 		],
 		"ru": [
-			"<h>Убирает</h> нежеланную <h>рекламу</h>"
+			"Заменяет рекламу на <h>жетоны Капиталуса</h>"
 		],
 		"sv": [],
 		"tr": [
-			"İstenmeyen <h>reklamları</h> <h>kaldırır</h>"
+			"Reklamları <h>Capitalus jetonlarıyla</h> değiştirir"
 		]
 	},
 	"iap_premium_desc_3": {
 		"de": [
-			"Schaltet exklusive <h>Kosmetik</h> frei"
+			"Schaltet <h>exklusive Gegenstände</h> frei"
 		],
 		"el": [
-			"Ξεκλειδώνει αποκλειστικά <h>κοσμητικά</h>"
+			"Ξεκλειδώνει <h>αποκλειστικά αντικείμενα</h>"
 		],
 		"en": [
-			"Unlocks exclusive <h>items</h>"
+			"Unlocks <h>exclusive items</h>"
 		],
 		"es": [
-			"Desbloquea <h>cosméticos exclusivos</h>"
+			"Desbloquea <h>ítems exclusivos</h>"
 		],
 		"fr": [
 			"Débloque des <h>articles exclusifs</h>"
 		],
 		"id": [
-			"Membuka barang-barang <h>eksklusif</h>"
+			"Membuka <h>barang-barang eksklusif</h>"
 		],
 		"it": [
 			"Sblocca <h>articoli esclusivi</h>."
 		],
 		"ja": [],
 		"nl": [
-			"Ontgrendelt exclusieve <h>items</h>"
+			"Ontgrendelt <h>exclusieve items</h>"
 		],
 		"pl": [
-			"Odblokowuje ekskluzywne <h>kosmetyki</h>."
+			"Odblokowuje <h>wyjątkowe przedmioty</h>"
 		],
 		"pt": [
-			"Desbloqueia <h>itens</h> exclusivos"
+			"Desbloqueia <h>itens exclusivos</h>"
 		],
 		"ru": [
-			"Открывает эксклюзивную <h>косметику</h>"
+			"Открывает <h>эксклюзивные предметы</h>"
 		],
 		"sv": [],
 		"tr": [
-			"Özel </h>kozmetiğin</h> kilidini açar"
+			"<h>Özel öğelerin</h> kilidini açar"
 		]
 	},
 	"iap_premium_desc_4": {
 		"de": [
-			"Schaltet <h>Fotomodus Filter</h> frei"
+			"Schaltet die <h>Fotomodus filter</h> frei"
 		],
 		"el": [
 			"Ξεκλειδώνει <h>Φίλτρα λειτουργίας φωτογραφίας</h>"
@@ -12167,13 +12493,13 @@
 		],
 		"ja": [],
 		"nl": [
-			"Ontgrendelt <h>Foto Modus filters</h>"
+			"Ontgrendelt <h>Fotomodus filters</h>"
 		],
 		"pl": [
-			"Odblokowuje <h>Filtry Photo Mode</h>."
+			"Odblokowuje <h>filtry trybu fotograficznego</h>"
 		],
 		"pt": [
-			"Desbloqueia <h>Filtros do Modo Foto</h>"
+			"Desbloqueia <h>filtros do Modo Foto</h>"
 		],
 		"ru": [
 			"Открывает <h>Фильтры в Фото-Режиме</h>"
@@ -12185,122 +12511,122 @@
 	},
 	"iap_premium_desc_5": {
 		"de": [
-			"<h>2x Münzen</h> ohne Werbung"
+			"Schaltet <h>Kapitalos' Glücksrad</h> frei"
 		],
 		"el": [
-			"<h>Κέρματα × 2</h> χωρίς διαφημίσεις"
+			"Ξεκλειδώνει τον <h>Τροχό της τύχης του Capitalos</h>"
 		],
 		"en": [
-			"<h>Coins × 2</h> without ads"
+			"Unlocks <h>Capitalos' Wheel of Fortune</h>"
 		],
 		"es": [
-			"<h>2x monedas</h> sin anuncios"
+			"Desbloquea <h>la rueda de la fortuna de Capitalos</h>"
 		],
 		"fr": [
-			"<h>Pièces × 2</h> sans pub"
+			"Débloque la <h>Roue de la Fortune de Capitalos</h>"
 		],
 		"id": [
-			"<h>koin 2×</h> tanpa iklan"
+			"Membuka <h>Roda Keberuntungan Capitalos</h>"
 		],
 		"it": [
 			"<h>Monete × 2</h> senza pubblicità"
 		],
 		"ja": [],
 		"nl": [
-			"<h>Coins × 2</h> zonder advertentie"
+			"Ontgrendelt <h>Capitalos' Rad van Fortuin</h>"
 		],
 		"pl": [
-			"<h>Monety × 2</h> bez reklam"
+			"Odblokowuje <h>Koło fortuny Capitalos</h>"
 		],
 		"pt": [
-			"<h>2x mais moedas</h> sem anúncios"
+			"Desbloqueia <h>Girada da Fortuna de Capitalos</h>"
 		],
 		"ru": [
-			"<h>2x монеты</h> без рекламы"
+			"Открывает <h>Колесо Фортуны Капиталоса</h>"
 		],
 		"sv": [],
 		"tr": [
-			"Reklam izlemeden <h>2 kat para</h>"
+			"<h>Capitalos'un Çarkıfelek</h>'in kilidini açar"
 		]
 	},
 	"iap_premium_desc_6": {
 		"de": [
-			"<h>Doppelt</h> maximale <h>Gesundheit</h>"
+			"<h>Doppelte Münzen</h> kostenlos"
 		],
 		"el": [
-			"<h>διπλασιάζει</h> τη μέγιστη <h>υγεία</h>"
+			"<h>Διπλάσια νομίσματα</h> δωρεάν"
 		],
 		"en": [
-			"<h>Doubles</h> maximum <h>health</h>"
+			"<h>Double coins</h> for free"
 		],
 		"es": [
-			"<h>Dobla</h> la salud <h>máxima</h>"
+			"<h>El doble de monedas</h> grátis"
 		],
 		"fr": [
-			"<h>Double</h> la <h>santé</h> maximale"
+			"<h>Double tes pièces</h> gratuitement!"
 		],
 		"id": [
-			"<h>Menggandakan</h> nyawa <h>maksimum</h>"
+			"<h>Menggandakan koin</h> secara gratis"
 		],
 		"it": [
 			"<h>Doppia</h> il massimo della <h>salute</h>."
 		],
 		"ja": [],
 		"nl": [
-			"<h>Verdubbelt</h> maximale <h>levens</h>"
+			"Gratis <h>munten verdubbelen</h>"
 		],
 		"pl": [
-			"<h>Podwaja</h> maksymalne <h>zdrowie</h>."
+			"<h>Podwójne monety</h> za darmo"
 		],
 		"pt": [
-			"<h>Dobra a vida</h> máxima"
+			"<h>Moedas em dobro</h> de graça"
 		],
 		"ru": [
-			"<h>Удваивает</h> максимальное <h>здоровье</h>"
+			"<h>Двойные монеты бесплатно</h>"
 		],
 		"sv": [],
 		"tr": [
-			"Maksimum <h>canı</h> <h>ikiye katla</h>"
+			"Ücretsiz <h>çift jeton</h>"
 		]
 	},
 	"iap_premium_desc_7": {
 		"de": [
-			"Gibt die erste <h>Wiederbelebung kostenlos</h>"
+			"Hol dir <h>Capitalus-Marken</h> schneller!"
 		],
 		"el": [
-			"Δίνει δωρεάν την πρώτη <h>αναβίωση</h>"
+			"Αποκτήστε <h>Μάρκες του Κάπιταλους</h> πιο γρήγορα!"
 		],
 		"en": [
-			"Gives first <h>revive for free</h>"
+			"Get <h>Capitalus tokens</h> faster!"
 		],
 		"es": [
-			"La primera <h>resurección es grátis</h>"
+			"¡Consige <h>tokens Capitalus</h> más rápido!"
 		],
 		"fr": [
-			"Première <h>résurrection gratuite</h>"
+			"Obtiens des <h>jetons Capitalus</h> plus rapidement!"
 		],
 		"id": [
-			"Menghidupkan kembali pertama <h>secara gratis</h>"
+			"Dapatkan <h>Token Capitalus</h> lebih cepat!"
 		],
 		"it": [
 			"Prima <h>resurrezione gratuita</h>"
 		],
 		"ja": [],
 		"nl": [
-			"Geeft eerste <h>revive gratis</h>"
+			"Krijg <h>Capitalus munten</h> sneller!"
 		],
 		"pl": [
-			"Daje pierwsze <h>odzyskanie życia za darmo</h>"
+			"Zdobądź<h>żetonami Capitalus</h> szybciej!"
 		],
 		"pt": [
-			"Ganha o <h>primeiro renascimento de graça</h>"
+			"Ganhe <h>fichas do Capitalus</h> mais rápido!"
 		],
 		"ru": [
-			"Даёт первое <h>возрождение бесплатно</h>"
+			"Получайте <h>жетоны Капиталуса</h> быстрее!"
 		],
 		"sv": [],
 		"tr": [
-			"İlk <h>canlanma ücretsiz</h>"
+			"<h>Capitalus jetonlarını</h> daha hızlı alın!"
 		]
 	},
 	"iap_premium_status_1": {
@@ -12867,7 +13193,9 @@
 		"de": [
 			"Das Rezept für violetten Honig scheint zu funktionieren... aber nicht bei Bären. Ich habe meinem Bruder etwas davon gegeben, während er schlief. Als er aufwachte, war er immer noch friedlich, aber es scheint, als hätte er Schwierigkeiten, sich an Dinge zu erinnern. Weitere Tests sind erforderlich."
 		],
-		"el": [],
+		"el": [
+			"Η συνταγή με το μωβ μέλι φαίνεται να λειτουργεί... αλλά όχι στις αρκούδες. Έδωσα λίγο στον αδελφό μου ενώ κοιμόταν- όταν ξύπνησε ήταν ακόμα ήρεμος, αλλά φαίνεται ότι δυσκολεύεται να θυμηθεί πράγματα. Απαιτούνται περισσότερες δοκιμές."
+		],
 		"en": [
 			"The purple honey recipe seems to work... but not on bears. I gave some to my brother while he was sleeping; when waking up he was still peaceful but it seems like he has trouble remembering things. More testing required."
 		],
@@ -12885,12 +13213,14 @@
 		"nl": [
 			"Het paarse honing recept lijkt te werken... maar niet op beren. Ik gaf wat aan mijn broer terwijl hij sliep, toen hij wakker werd was hij nog vredig maar het lijkt alsof hij moeite heeft om dingen te onthouden. Meer testen nodig."
 		],
-		"pl": [],
+		"pl": [
+			"Przepis na fioletowy miód wydaje się działać... ale nie na niedźwiedzie. Dałem trochę mojemu bratu, gdy spał; po przebudzeniu nadal był spokojny, ale wygląda na to, że ma problemy z zapamiętywaniem rzeczy. Potrzeba więcej testów."
+		],
 		"pt": [
-			"A receita de mel roxo parece funcionar... mas não em ursos. Dei um pouco pro meu irmão enquanto ele dormia, quando acordou ele ainda estava pacífico mas parecia como se tivesse problemas pra lembrar coisas. Precisa de mais testes."
+			"A receita de mel roxo parece funcionar... mas não em ursos. Dei um pouco pro meu irmão enquanto ele dormia, quando acordou ele ainda estava pacífico mas parecia como se ele tivesse problemas pra lembrar coisas. Precisa de mais testes."
 		],
 		"ru": [
-			"Рецепт фиолетового мёд, кажется, работает... но не на медведях. Я дал немного своему брату, пока он спал, когда он проснулся то всё ещё был мирным, но, похоже, у него есть проблемы с памятью. Требуется больше тестирования."
+			"Рецепт фиолетового мёда, кажется, работает... но не на медведях. Я дал немного своему брату, пока он спал, когда он проснулся то всё ещё был мирным, но, похоже, у него есть проблемы с памятью. Требуется больше тестирования."
 		],
 		"sv": [],
 		"tr": [
@@ -12901,7 +13231,9 @@
 		"de": [
 			"Wiederholte Versuche mit lila Honig scheinen mein Fell langsam lila werden zu lassen. Ich werde das Bärendorf bald verlassen, damit die Bären keinen Verdacht schöpfen."
 		],
-		"el": [],
+		"el": [
+			"Επαναλαμβανόμενα πειράματα με μωβ μέλι φαίνεται να κάνουν τη γούνα μου να γίνεται μωβ σιγά σιγά. Θα φύγω από το χωριό των αρκούδων σύντομα, ώστε οι αρκούδες να μην υποψιαστούν τίποτα."
+		],
 		"en": [
 			"Repeated experiments on purple honey seem to make my fur turn purple slowly. I will leave the Bear Village soon so bears don't suspect anything."
 		],
@@ -12912,19 +13244,21 @@
 			"Des expériences répétées sur le miel violet semblent progressivement rendre ma fourrure violette. Je vais bientôt quitter le Village Ours pour que les ours ne suspectent rien."
 		],
 		"id": [
-			"Eksperimen berulang pada madu ungu tampaknya membuat bulu ku perlahan-lahan menjadi ungu. Aku akan segera meninggalkan desa beruang agar beruang lain tidak curiga."
+			"Eksperimen berulang pada madu ungu tampaknya membuat bulu ku perlahan-lahan menjadi ungu. Aku akan segera meninggalkan Desa Beruang agar beruang lain tidak curiga."
 		],
 		"it": [],
 		"ja": [],
 		"nl": [
 			"Herhaalde experimenten met paarse honing lijken mijn vacht langzaam paars te laten worden. Ik zal het berendorp binnenkort verlaten, zodat beren niets vermoeden."
 		],
-		"pl": [],
+		"pl": [
+			"Wielokrotne eksperymenty z fioletowym miodem sprawiają, że moje futro powoli zmienia kolor na fioletowy. Wkrótce opuszczę Wioskę Niedźwiedzi, aby niedźwiedzie niczego nie podejrzewały."
+		],
 		"pt": [
 			"Repetir experimentos no mel roxo parece estar fazendo meu pelo ficar roxo lentamente. Vou sair desta vila em breve e os ursos não vão suspeitar de nada."
 		],
 		"ru": [
-			"Повторные эксперименты над фиолетовым мёдом, похоже, заставляют мою шерсть медленно становиться фиолетовой. Скоро я покину медвежью деревню, чтобы медведи ничего не заподозрили"
+			"Повторные эксперименты над фиолетовым мёдом, похоже, заставляют мою шерсть медленно становиться фиолетовой. Скоро я покину медвежью деревню, чтобы медведи ничего не заподозрили."
 		],
 		"sv": [],
 		"tr": [
@@ -13613,7 +13947,7 @@
 			"Musisz znaleźć co najmniej 125 monet na 150 w tym poziomie, aby otworzyć tę klatkę."
 		],
 		"pt": [
-			"Você precisa coletar pelo menos 125 moedas de 150 nesta fase para abrir esta jaula."
+			"Você precisa pegar pelo menos 125 moedas de 150 nesta fase para abrir esta jaula."
 		],
 		"ru": [
 			"Вам нужно найти не менее 125 монет из 150 на этом уровне, чтобы открыть эту клетку."
@@ -13624,46 +13958,22 @@
 		]
 	},
 	"level1_stair_cutscene_1": {
-		"de": [
-			"Die Schildkröten versperrten den Weg zum oberen Teil des Dorfes, um die kontaminierten Schildkröten zu isolieren."
-		],
-		"el": [
-			"Οι χελώνες μπλόκαραν το μονοπάτι προς το πάνω μέρος του χωριού για να απομονώσουν τις μολυσμένες χελώνες."
-		],
-		"en": [
-			"The turtles blocked the path to the upper part of the village to isolate the contaminated turtles."
-		],
-		"es": [
-			"Las tortugas bloquearon el camino a la parte superior de la aldea para aislar a las tortugas contaminadas."
-		],
-		"fr": [
-			"Les tortues ont bloqué l'accès à la partie supérieure du village afin d'isoler les tortues contaminées."
-		],
-		"id": [
-			"Para Kura-kura menutup jalan ke bagian atas desa ini untuk mengisolasi para Kura-kura yang terkontaminasi."
-		],
-		"it": [
-			"Le tartarughe hanno bloccato l'accesso alla parte superiore del villaggio per isolare le tartarughe infette."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"汚染されたカメを隔離するために、 村の上部への道をカメが塞いでいる。"
 		],
-		"nl": [
-			"De schildpadden hebben het pad geblokkeerd naar het bovenste deel van het dorp om de besmette bij elkaar te houden."
-		],
-		"pl": [
-			"Żółwie zablokowały drogę do górnej części wioski, aby odizolować skażone żółwie."
-		],
-		"pt": [
-			"As tartarugas bloquearam o caminho da parte de cima da aldeia pra isolar as outras contaminadas."
-		],
-		"ru": [
-			"Черепахи заблокировали путь в верхнюю часть деревни, чтобы изолировать зараженных черепах."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Kaplumbağalar, zehirli kaplumbağaların geçişini engellemek için köyün üst kısmına giden yolu kapattı."
-		]
+		"tr": []
 	},
 	"level1_turtle_1": {
 		"de": [
@@ -13991,7 +14301,7 @@
 			"Są tu klatki z niedźwiedziami porozrzucane w pobliżu. Każda klatka ma własny więc musimy najpierw je znaleźć. Powinny być w pobliżu klatek ."
 		],
 		"pt": [
-			"Há jaulas de ursos espalhadas por essa área. Cada uma tem sua própria chave, então devemos encontrá-la primeiro. Devem estar por algum lugar perto das jaulas."
+			"Tem jaulas de ursos espalhadas por essa área. Cada uma tem sua própria chave, então devemos achar elas primeiro. Devem estar por algum lugar perto das jaulas."
 		],
 		"ru": [
 			"По всей территории расположены клетки с медведями. К каждой клетке есть её собственный ключ, так что нам нужно сначала найти его. Они должны быть где-то рядом с клетками."
@@ -14085,6 +14395,44 @@
 			"Akçeler ve düşmanlar seviyeye her girişte yeniden ortaya çıkacaktır."
 		]
 	},
+	"level1_tutorial_exit": {
+		"de": [
+			"Wir können zurück zum Bärendorf gehen und in anderen Gebieten nach Bären suchen. Wir werden später zur Schildkrötenstadt zurückkehren."
+		],
+		"el": [
+			"Μπορούμε να επιστρέψουμε στο Χωριό της Αρκούδας και να ψάξουμε για αρκούδες σε άλλες περιοχές. Θα επιστρέψουμε στο Turtletown αργότερα."
+		],
+		"en": [
+			"We can go back to the Bear Village and look for bears in other areas. We will go back to Turtletown later."
+		],
+		"es": [
+			"Podemos volver a la aldea de los osos y buscar osos en otras áreas. Regresaremos a Tortuciudad más tarde."
+		],
+		"fr": [
+			"On peut aller au Village Ours and chercher des ours dans un autre endroit. On retournera à Tortibourg plus tard."
+		],
+		"id": [
+			"Kita bisa kembali ke Desa Beruang dan mencari beruang di daerah lain. Kita bisa kembali ke Desa Kura-kura nanti."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"We kunnen teruggaan naar het Berendorp en op zoek gaan naar beren in andere gebieden. We gaan later terug naar Turtletown."
+		],
+		"pl": [
+			"Możemy wrócić do Wioski Niedźwiedzi i poszukać niedźwiedzi w innych obszarach. Do Turtletown wrócimy później."
+		],
+		"pt": [
+			"Nós podemos voltar pra Vila dos Ursos e olhar por ursos em outras áreas. Vamos voltar pra Aldeia das Tartarugas depois."
+		],
+		"ru": [
+			"Мы можем вернуться в Медвежью Деревню и поискать медведий в других местах. Мы вернёмся в Черепаший Город позже."
+		],
+		"sv": [],
+		"tr": [
+			"Ayı Köyü'ne geri dönüp başka bölgelerde ayı arayabiliriz. Daha sonra Kaplumbağa Köyüne geri döneceğiz."
+		]
+	},
 	"level2_boss_1": {
 		"de": [
 			"Hier ist der bekannte Yeti... Wir sollten seinen Angriffen vorerst ausweichen. Warte, bis er erschöpft ist, bevor Du angreifst."
@@ -14117,7 +14465,7 @@
 			"Oto słynny Yeti... Na razie unikajmy jego ataków. Poczekaj, aż się wyczerpie, zanim zaatakujemy."
 		],
 		"pt": [
-			"Aqui está o renomado Yeti... Vamos evitar os ataques dele por enquanto. Espere ele ficar exausto antes de confrontar."
+			"Aqui está o renomado Yeti... Vamos evitar os ataques dele por enquanto. Espere ele ficar exausto antes de atacar."
 		],
 		"ru": [
 			"Вот это знаменитый Йети. Избегай его атак. Не нападай, пока он не устанет."
@@ -14144,7 +14492,7 @@
 			"As-tu vu ça ? Il y avait quelqu'un là-haut ! qui était... violet."
 		],
 		"id": [
-			"Apa kau melihat itu? Ada seseorang di sana! yang berwarna... ungu."
+			"Apa kau melihatnya? Ada seseorang di sana! yang berwarna... ungu."
 		],
 		"it": [
 			"L'avete visto? C'era qualcuno lassù! Era... viola."
@@ -14184,7 +14532,7 @@
 			"Quelque chose ne tourne pas rond dans tout ça..."
 		],
 		"id": [
-			"Sepertinya ada yang tidak beres dengan semua ini..."
+			"Ada yang tidak beres dengan semua ini..."
 		],
 		"it": [
 			"C'è qualcosa che non quadra..."
@@ -14472,7 +14820,7 @@
 			"Les vieux du village disent qu'un Yéti vit dans les parages."
 		],
 		"id": [
-			"Para tetua desa ini mengatakan bahwa Yeti tinggal di sekitaran daerah ini..."
+			"Tetua desa ini mengatakan bahwa Yeti tinggal di sekitaran daerah ini..."
 		],
 		"it": [
 			"Gli anziani del villaggio dicono che c'è uno Yeti che vive da queste parti."
@@ -14655,7 +15003,7 @@
 			"Na końcu rzeki znajduje się winda, ale musisz najpierw wspiąć się na górę, aby ją aktywować."
 		],
 		"pt": [
-			"Tem um elevador no final do rio, mas você tem que escalar a montanha primeiro para ativar ele."
+			"Tem um elevador no final do rio, mas você tem que escalar a montanha primeiro pra ativar ele."
 		],
 		"ru": [
 			"В конце реки есть лифт, но ты должен сначала подняться на гору, чтобы активировать его."
@@ -14697,7 +15045,7 @@
 			"Wolę pozostać w ukryciu w moim igloo, na zewnątrz jest zbyt wiele dziwnych rzeczy..."
 		],
 		"pt": [
-			"Eu prefiro ficar escondido no meu iglu, há muitas coisas estranhas lá fora..."
+			"Eu prefiro ficar escondido no meu iglu, tem muitas coisas estranhas lá fora..."
 		],
 		"ru": [
 			"Я предпочитаю оставаться скрытым в своей иглу, снаружи слишком много странных вещей..."
@@ -16258,7 +16606,7 @@
 			"Tu es si mi-mi-minuscule, petit ours, je peux fa-fa-facilement t'écraser !"
 		],
 		"id": [
-			"Kau sangat ke-ke-kecil, beruang kecil, aku bisa dengan mudah me-me-menghancurkanmu!"
+			"Kau sangat ke-ke-kecil, beruang, aku bisa dengan mudah me-me-menghancurkanmu!"
 		],
 		"it": [
 			"Sei così piccolo, orsetto, che posso schiacciarti così facilmente!"
@@ -16849,7 +17197,7 @@
 			"W Mieście Szczurów znajduje się stary zardzewiały kapsel od butelki. To moja jedyna pamiątka, była przekazywana z pokolenia na pokolenie w mojej rodzinie. Jeśli przyniesiesz go z powrotem tutaj, dam ci ten klucz."
 		],
 		"pt": [
-			"Há uma velha tampa de garrafa enferrujada na Cidade dos Ratos. É minha única herança, passada de geração em geração na minha família. Se você trazer ela de volta aqui, vou te dar esta chave."
+			"Tem uma velha tampa de garrafa enferrujada na Cidade dos Ratos. É minha única herança, passada de geração em geração na minha família. Se você trazer ela de volta aqui, vou te dar esta chave."
 		],
 		"ru": [
 			"В Мышином городе есть старая ржавая крышка от бутылки. Это моя единственная семейная реликвия, она передавалась из поколения в поколение в моей семье. Если ты принесешь её сюда, я дам тебе этот ключ."
@@ -17185,7 +17533,7 @@
 			"Musisz zebrać co najmniej 175 monet z 200 na tym poziomie, aby otworzyć tę klatkę."
 		],
 		"pt": [
-			"Você precisa coletar pelo menos 175 moedas de 200 nesta fase para abrir esta jaula."
+			"Você precisa pegar pelo menos 175 moedas de 200 nesta fase para abrir esta jaula."
 		],
 		"ru": [
 			"Вам нужно найти не менее 175 монет из 200 на этом уровне, чтобы открыть эту клетку."
@@ -17195,7 +17543,7 @@
 			"Bu kafesi açabilmek için 200 akçeden en az 175'ini toplamalısınız."
 		]
 	},
-	"loading_1": {
+	"loading_01": {
 		"de": [
 			"Wenn das Spiel zu langsam läuft, sieh dir das Optionsmenü an."
 		],
@@ -17217,9 +17565,7 @@
 		"it": [
 			"Se il gioco va troppo lento, dai un'occhiata al menu delle opzioni."
 		],
-		"ja": [
-			"ゲームの動作が遅い場合は、 オプションメニューを見てみてください。"
-		],
+		"ja": [],
 		"nl": [
 			"Als het spel te langzaam speelt, kijk dan in het optiemenu."
 		],
@@ -17232,12 +17578,350 @@
 		"ru": [
 			"Если игра работает слишком медленно, загляните в меню настроек."
 		],
-		"sv": [
-			"Om spelet går för långsamt, ta en titt på alternativ i menyn."
-		],
+		"sv": [],
 		"tr": [
 			"Eğer oyun yavaş çalışıyorsa, ayarlar menüsüne göz at."
 		]
+	},
+	"loading_02": {
+		"de": [
+			"Wenn du einen Fehler findest, melde ihn bitte auf dem Discord Server."
+		],
+		"el": [
+			"Αν βρείτε κάποιο σφάλμα, αναφέρετέ το στον διακομιστή Discord."
+		],
+		"en": [
+			"If you find any bug, please report it on the Discord server."
+		],
+		"es": [
+			"Si encuentras un error, por favor, infórmalo en el servidor Discord."
+		],
+		"fr": [
+			"Si tu trouves un bogue, merci de le signaler sur le serveur Discord."
+		],
+		"id": [
+			"Jika kamu menemukan sebuah bug, tolong laporkan di server Discord kami."
+		],
+		"it": [
+			"Il gioco è ancora in versione beta, quindi se trovi un bug, segnalalo sul server Discord."
+		],
+		"ja": [],
+		"nl": [
+			"Als je een bug vindt, meld dit dan op de Discord-server."
+		],
+		"pl": [
+			"Gra jest nadal w wersji beta. Tak więc, jeśli znajdziesz jakiś błąd, zgłoś go na serwerze Discord."
+		],
+		"pt": [
+			"Se encontrar qualquer bug, por favor, conte-o no servidor do Discord."
+		],
+		"ru": [
+			"Если Вы найдёте какие-либо баги, пожалуйста, сообщите об этом в нашем Discord сервере."
+		],
+		"sv": [],
+		"tr": [
+			"Oyun henüz beta sürümünde, bu yüzden herhangi bir açık bulursanız bunu lütfen Discord sunucumuza bildirin."
+		]
+	},
+	"loading_03": {
+		"de": [
+			"Denke daran, von Zeit zu Zeit manuelle Cloud Speicherungen vorzunehmen."
+		],
+		"el": [
+			"Θυμηθείτε να κάνετε χειροκίνητες αποθηκεύσεις στο σύννεφο από καιρό σε καιρό."
+		],
+		"en": [
+			"Remember to do manual cloud saves from time to time."
+		],
+		"es": [
+			"No te olvides de hacer guardados manuales en la nube de vez en cuando."
+		],
+		"fr": [
+			"N'oublie pas de faire des sauvegardes cloud manuelles de temps en temps."
+		],
+		"id": [
+			"Ingatlah untuk melakukan penyimpanan cloud secara manual dari waktu ke waktu."
+		],
+		"it": [
+			"Devi sbloccare la porta della moneta del livello prima di poter salvare gli orsi."
+		],
+		"ja": [],
+		"nl": [
+			"Vergeet niet om soms je game op te slaan."
+		],
+		"pl": [
+			"Musisz odblokować monetowe drzwi poziomu przed uratowaniem niedźwiedzia."
+		],
+		"pt": [
+			"Lembre-se de salvar na nuvem manualmente de vez em quando."
+		],
+		"ru": [
+			"Не забывайте время от времени делать облачные сохранения."
+		],
+		"sv": [],
+		"tr": [
+			"Bir ayıyı kurtarmadan önce akçe kapısını açman gerek."
+		]
+	},
+	"loading_04": {
+		"de": [
+			"Du kannst Gegner angreifen, indem du sie schlägst, in sie stürzt oder ihnen auf den Kopf springst."
+		],
+		"el": [
+			"Μπορείτε να επιτεθείτε στους εχθρούς με γροθιές, βουτώντας μέσα τους ή πηδώντας στο κεφάλι τους."
+		],
+		"en": [
+			"You can attack enemies by punching, diving into them or jumping on their head."
+		],
+		"es": [
+			"Puedes atacar a los enemigos golpeándolos, lanzándote sobre ellos o saltando sobre sus cabezas."
+		],
+		"fr": [
+			"Tu peux attaquer les ennemis en les frappant, en leur plongeant dessus ou en sautant sur leur tête."
+		],
+		"id": [
+			"Kamu dapat menyerang musuh dengan memukul, berseluncur atau menginjak kepala mereka."
+		],
+		"it": [
+			"Puoi attaccare i nemici colpendoli, tuffandoti su di loro o saltando sulle loro teste."
+		],
+		"ja": [],
+		"nl": [
+			"Je kunt vijanden aanvallen door ze te slaan, op ze te duiken of op hun hoofd te springen."
+		],
+		"pl": [
+			"Możesz atakować wrogów, uderzając, używając techniki dive lub skacząc na ich głowie."
+		],
+		"pt": [
+			"Você pode atacar inimigos com soco, mergulhando neles ou pulando em suas cabeças."
+		],
+		"ru": [
+			"Вы можете атаковать противников просто ударив их, нырнув на них или же просто прыгнув им на голову."
+		],
+		"sv": [],
+		"tr": [
+			"Düşmanlara zarar vermek için saldırı ve dalış gücünü kullan veya kafalarına atla!"
+		]
+	},
+	"loading_05": {
+		"de": [
+			"Capitalus kann dir einen Bonus geben, wenn ein Level zu schwer ist..."
+		],
+		"el": [
+			"Ο Capitalus μπορεί να σας δώσει μπόνους αν ένα επίπεδο είναι πολύ δύσκολο..."
+		],
+		"en": [
+			"Capitalus can give you bonuses if a level is too hard..."
+		],
+		"es": [
+			"Capitalus puede darte bonificaciones si un nivel es demasiado difícil..."
+		],
+		"fr": [
+			"Capitalus peut te donner des bonus si un niveau est trop difficile..."
+		],
+		"id": [
+			"Capitalus dapat memberikanmu bonus jika sebuah level terlalu sulit..."
+		],
+		"it": [
+			"Capitalus può darvi dei bonus se un livello è troppo difficile."
+		],
+		"ja": [],
+		"nl": [
+			"Capitalus kan je bonussen geven als een level te moeilijk is..."
+		],
+		"pl": [
+			"Capitalus może dać ci bonusy jeśli poziom jest za trudny..."
+		],
+		"pt": [
+			"Capitalus pode te dar alguns bônus se uma fase estiver muito difícil..."
+		],
+		"ru": [
+			"Капиталус может дать Вам бонусы, если уровень слишком сложный."
+		],
+		"sv": [],
+		"tr": [
+			"Bir seviye yeterince zorsa Capitalus sana ek sayı verebilir."
+		]
+	},
+	"loading_06": {
+		"de": [
+			"Wenn du einen Speedrun machen willst, gibt es dafür Optionen im Pausenmenü."
+		],
+		"el": [
+			"Αν θέλετε να κάνετε speedrunning, υπάρχουν επιλογές γι' αυτό στο μενού παύσης."
+		],
+		"en": [
+			"If you want to do speedrunning, there are options for this in the pause menu."
+		],
+		"es": [
+			"Si quieres hacer speedrun, hay opciones para ello en el menú de pausa."
+		],
+		"fr": [
+			"Si tu veux faire du speedrun, il y a des options pour cela dans le menu pause."
+		],
+		"id": [
+			"Jika kamu ingin speedrun, ada pengaturan nya di menu pause."
+		],
+		"it": [
+			"Se si desidera eseguire speedrun, ci sono opzioni per facilitarti nel menu di pausa."
+		],
+		"ja": [],
+		"nl": [
+			"Als je aan speedrunning wilt doen, zijn er opties hiervoor in het pauzemenu."
+		],
+		"pl": [
+			"Jeśli chcesz zrobić speedrun, istnieją opcje tego w menu pauzy."
+		],
+		"pt": [
+			"Se quiser fazer speedruns, há opções pra isso no menu de pausa."
+		],
+		"ru": [
+			"Если Вы хотите сделать быстрое прохождение, то эта функция есть в меню паузы."
+		],
+		"sv": [],
+		"tr": [
+			"Speedrun yapmak istiyorsan, duraklama menüsünde ilgili seçenekleri bulabilirsin."
+		]
+	},
+	"loading_07": {
+		"de": [
+			"Werde Teil der Community auf dem Discord Server! Der Link befindet sich im Pausenmenü."
+		],
+		"el": [
+			"Γίνετε μέλος της κοινότητας στον διακομιστή Discord! Ο σύνδεσμος βρίσκεται στο μενού παύσης."
+		],
+		"en": [
+			"Join the community on the Discord server! The link is in the pause menu."
+		],
+		"es": [
+			"¡Únete a la comunidad en el servidor Discord! El enlace está en el menú de pausa."
+		],
+		"fr": [
+			"Rejoins la communauté sur le serveur Discord ! Le lien est dans le menu pause."
+		],
+		"id": [
+			"Bergabunglah dengan komunitas kami di Discord! Link nya ada di menu pause."
+		],
+		"it": [
+			"Unisciti alla comunità sul server Discord! Il link si trova nel menu di pausa."
+		],
+		"ja": [],
+		"nl": [
+			"Word lid van de community op de Discord-server!  De link staat in het pauzemenu."
+		],
+		"pl": [
+			"Dołącz do społeczności na serwerze Discord! Łącze znajduje się w menu pauzy."
+		],
+		"pt": [
+			"Junte-se à comunidade no Servidor do Discord! O link está no menu de pausa."
+		],
+		"ru": [
+			"Присоединяйтесь к сообществу в Discord!"
+		],
+		"sv": [],
+		"tr": [
+			"Discord'daki topluluğumuza katıl! Bağlantı, duraklama menüsünde."
+		]
+	},
+	"loading_08": {
+		"de": [
+			"Manches kann mit einem Bauchstampfen zerstört werden."
+		],
+		"el": [
+			"Κάποια πράγματα μπορούν να καταστραφούν με ένα belly stomp."
+		],
+		"en": [
+			"Some stuff can be destroyed with a belly stomp."
+		],
+		"es": [
+			"Algunas cosas pueden ser destruidas con una carga de tierra."
+		],
+		"fr": [
+			"Certaines choses peuvent être détruites avec une charge au sol."
+		],
+		"id": [
+			"Beberapa hal bisa dihancurkan dengan menghentakkan perut."
+		],
+		"it": [
+			"Alcune cose possono essere distrutte con una carica a terra."
+		],
+		"ja": [],
+		"nl": [
+			"Sommige dingen kunnen worden vernietigd met een buikstomp."
+		],
+		"pl": [
+			"Niektóre rzeczy mogą być zniszczone z brzucha stompstom"
+		],
+		"pt": [
+			"Algumas coisas podem ser destruídas com uma barrigada."
+		],
+		"ru": [
+			"Некоторые объекты могут быть разрушены с помощью шлепка животом."
+		],
+		"sv": [],
+		"tr": [
+			"Bazı nesneleri yok etmek için 'karın saldırısı'nı kullan."
+		]
+	},
+	"loading_09": {
+		"de": [
+			"Verwende deine Münzen im Bärendorf um Kleidung freizuschalten!"
+		],
+		"el": [
+			"Χρησιμοποιήστε τα νομίσματά σας στον κόμβο για να ξεκλειδώσετε ρούχα!"
+		],
+		"en": [
+			"Use your coins in the Bear Village to unlock clothing!"
+		],
+		"es": [
+			"Utiliza tus monedas en el centro para desbloquear ropa."
+		],
+		"fr": [
+			"Utilise tes pièces dans le Village Ours pour débloquer des vêtements."
+		],
+		"id": [
+			"Gunakan koin mu di Desa Beruang untuk membuka pakaian baru!"
+		],
+		"it": [
+			"Usa le tue monete nell'hub per sbloccare i vestiti."
+		],
+		"ja": [],
+		"nl": [
+			"Gebruik je munten in de hub om kleding te ontgrendelen!"
+		],
+		"pl": [
+			"Użyj monet w centrum, aby odblokować odzież!"
+		],
+		"pt": [
+			"Use suas moedas na Vila dos Ursos para desbloquear roupas!"
+		],
+		"ru": [
+			"Используйте свои монеты в центре, чтобы покупать одежду."
+		],
+		"sv": [],
+		"tr": [
+			"Değişik kostümleri açmak için akçelerini kullan."
+		]
+	},
+	"loading_1": {
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
+		"ja": [
+			"ゲームの動作が遅い場合は、 オプションメニューを見てみてください。"
+		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [
+			"Om spelet går för långsamt, ta en titt på alternativ i menyn."
+		],
+		"tr": []
 	},
 	"loading_10": {
 		"de": [
@@ -17247,16 +17931,16 @@
 			"Μη διστάσετε να εξερευνήσετε τον κόμβο για να βρείτε μερικά ενδιαφέροντα πράγματα!"
 		],
 		"en": [
-			"Feel free to explore the hub to find some interesting stuff!"
+			"Feel free to explore the Bear Village to find some interesting stuff!"
 		],
 		"es": [
 			"No dudes en explorar el centro para encontrar cosas interesantes."
 		],
 		"fr": [
-			"N'hésite pas à explorer le hub pour trouver des choses intéressantes."
+			"N'hésite pas à explorer le Village Ours pour trouver des choses intéressantes."
 		],
 		"id": [
-			"Jangan ragu untuk menjelajahi hub untuk menemukan beberapa hal menarik!"
+			"Coba jelajahi Desa Beruang untuk menemukan beberapa hal menarik!"
 		],
 		"it": [
 			"Sentiti libero di esplorare l'hub alla ricerca di cose interessanti."
@@ -17271,7 +17955,7 @@
 			"Zapraszamy do zwiedzania centrum, aby znaleźć kilka ciekawych rzeczy!"
 		],
 		"pt": [
-			"Sinta-se livre pra explorar o hub e encontrar coisas interessantes!"
+			"Sinta-se livre pra explorar a Vila dos Ursos e encontrar coisas interessantes!"
 		],
 		"ru": [
 			"Не стесняйтесь исследовать центр, Вы можете найти немного интересных вещей."
@@ -17357,7 +18041,7 @@
 			"Uważaj na miernik tlenu pod wodą, niedźwiedzie też muszą oddychać!"
 		],
 		"pt": [
-			"Observe a barra de oxigênio debaixo d'água, ursos também precisam respirar!"
+			"Veja o medidor de ar debaixo d'água, ursos também precisam respirar!"
 		],
 		"ru": [
 			"Не забывайте смотреть на кислород, когда находитесь под водой, медведям тоже нужно дышать!"
@@ -17414,356 +18098,164 @@
 		]
 	},
 	"loading_2": {
-		"de": [
-			"Wenn du einen Fehler findest, melde ihn bitte auf dem Discord Server."
-		],
-		"el": [
-			"Αν βρείτε κάποιο σφάλμα, αναφέρετέ το στον διακομιστή Discord."
-		],
-		"en": [
-			"If you find any bug, please report it on the Discord server."
-		],
-		"es": [
-			"Si encuentras un error, por favor, infórmalo en el servidor Discord."
-		],
-		"fr": [
-			"Si tu trouves un bogue, merci de le signaler sur le serveur Discord."
-		],
-		"id": [
-			"Jika kamu menemukan sebuah bug, tolong laporkan di server Discord kami."
-		],
-		"it": [
-			"Il gioco è ancora in versione beta, quindi se trovi un bug, segnalalo sul server Discord."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"このゲームはまだベータ版なので、 バグを見つけたらDiscordサーバーに報告してください。"
 		],
-		"nl": [
-			"Als je een bug vindt, meld dit dan op de Discord-server."
-		],
-		"pl": [
-			"Gra jest nadal w wersji beta. Tak więc, jeśli znajdziesz jakiś błąd, zgłoś go na serwerze Discord."
-		],
-		"pt": [
-			"Se encontrar qualquer bug, por favor, conte-o no servidor do Discord."
-		],
-		"ru": [
-			"Если Вы найдёте какие-либо баги, пожалуйста, сообщите об этом в нашем Discord сервере."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Spelet är fortfarande i betaversion så om du hittar en bugg, snällla raportera det på Discord servern."
 		],
-		"tr": [
-			"Oyun henüz beta sürümünde, bu yüzden herhangi bir açık bulursanız bunu lütfen Discord sunucumuza bildirin."
-		]
+		"tr": []
 	},
 	"loading_3": {
-		"de": [
-			"Denke daran, von Zeit zu Zeit manuelle Cloud Speicherungen vorzunehmen."
-		],
-		"el": [
-			"Θυμηθείτε να κάνετε χειροκίνητες αποθηκεύσεις στο σύννεφο από καιρό σε καιρό."
-		],
-		"en": [
-			"Remember to do manual cloud saves from time to time."
-		],
-		"es": [
-			"No te olvides de hacer guardados manuales en la nube de vez en cuando."
-		],
-		"fr": [
-			"N'oublie pas de faire des sauvegardes cloud manuelles de temps en temps."
-		],
-		"id": [
-			"Ingatlah untuk melakukan penyimpanan cloud secara manual dari waktu ke waktu."
-		],
-		"it": [
-			"Devi sbloccare la porta della moneta del livello prima di poter salvare gli orsi."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"クマを救うには、 レベルのコインドアのロックを解除する必要があります。"
 		],
-		"nl": [
-			"Vergeet niet om soms je game op te slaan."
-		],
-		"pl": [
-			"Musisz odblokować monetowe drzwi poziomu przed uratowaniem niedźwiedzia."
-		],
-		"pt": [
-			"Lembre-se de salvar na nuvem manualmente de vez em quando."
-		],
-		"ru": [
-			"Не забывайте время от времени делать облачные сохранения."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Du måste låsa upp myntdörren i banan före du räddar björnarna där."
 		],
-		"tr": [
-			"Bir ayıyı kurtarmadan önce akçe kapısını açman gerek."
-		]
+		"tr": []
 	},
 	"loading_4": {
-		"de": [
-			"Du kannst Gegner angreifen, indem du sie schlägst, in sie stürzt oder ihnen auf den Kopf springst."
-		],
-		"el": [
-			"Μπορείτε να επιτεθείτε στους εχθρούς με γροθιές, βουτώντας μέσα τους ή πηδώντας στο κεφάλι τους."
-		],
-		"en": [
-			"You can attack enemies by punching, diving into them or jumping on their head."
-		],
-		"es": [
-			"Puedes atacar a los enemigos golpeándolos, lanzándote sobre ellos o saltando sobre sus cabezas."
-		],
-		"fr": [
-			"Tu peux attaquer les ennemis en les frappant, en leur plongeant dessus ou en sautant sur leur tête."
-		],
-		"id": [
-			"Kamu dapat menyerang musuh dengan memukul, berseluncur atau menginjak kepala mereka."
-		],
-		"it": [
-			"Puoi attaccare i nemici colpendoli, tuffandoti su di loro o saltando sulle loro teste."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"敵を殴ったり、 飛び込んだり、 頭の上に飛び乗ったりして攻撃することができます。"
 		],
-		"nl": [
-			"Je kunt vijanden aanvallen door ze te slaan, op ze te duiken of op hun hoofd te springen."
-		],
-		"pl": [
-			"Możesz atakować wrogów, uderzając, używając techniki dive lub skacząc na ich głowie."
-		],
-		"pt": [
-			"Você pode atacar inimigos com soco, mergulhando neles ou pulando em suas cabeças."
-		],
-		"ru": [
-			"Вы можете атаковать противников просто ударив их, нырнув на них или же просто прыгнув им на голову."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Du kan attackera fiender genom att slå dem, dyka in i dem eller hoppa på deras huvuden."
 		],
-		"tr": [
-			"Düşmanlara zarar vermek için saldırı ve dalış gücünü kullan veya kafalarına atla!"
-		]
+		"tr": []
 	},
 	"loading_5": {
-		"de": [
-			"Capitalus kann dir einen Bonus geben, wenn ein Level zu schwer ist..."
-		],
-		"el": [
-			"Ο Capitalus μπορεί να σας δώσει μπόνους αν ένα επίπεδο είναι πολύ δύσκολο..."
-		],
-		"en": [
-			"Capitalus can give you bonuses if a level is too hard..."
-		],
-		"es": [
-			"Capitalus puede darte bonificaciones si un nivel es demasiado difícil..."
-		],
-		"fr": [
-			"Capitalus peut te donner des bonus si un niveau est trop difficile..."
-		],
-		"id": [
-			"Capitalus dapat memberikanmu bonus jika sebuah level terlalu sulit..."
-		],
-		"it": [
-			"Capitalus può darvi dei bonus se un livello è troppo difficile."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"Capitalus は、 レベルが難しすぎる場合はボーナスを与えることができます。"
 		],
-		"nl": [
-			"Capitalus kan je bonussen geven als een level te moeilijk is..."
-		],
-		"pl": [
-			"Capitalus może dać ci bonusy jeśli poziom jest za trudny..."
-		],
-		"pt": [
-			"Capitalus pode te dar alguns bônus se uma fase estiver muito difícil..."
-		],
-		"ru": [
-			"Капиталус может дать Вам бонусы, если уровень слишком сложный."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Capitalus kan ge dig bonusar om en bana är för svår."
 		],
-		"tr": [
-			"Bir seviye yeterince zorsa Capitalus sana ek sayı verebilir."
-		]
+		"tr": []
 	},
 	"loading_6": {
-		"de": [
-			"Wenn du einen Speedrun machen willst, gibt es dafür Optionen im Pausenmenü."
-		],
-		"el": [
-			"Αν θέλετε να κάνετε speedrunning, υπάρχουν επιλογές γι' αυτό στο μενού παύσης."
-		],
-		"en": [
-			"If you want to do speedrunning, there are options for this in the pause menu."
-		],
-		"es": [
-			"Si quieres hacer speedrun, hay opciones para ello en el menú de pausa."
-		],
-		"fr": [
-			"Si tu veux faire du speedrun, il y a des options pour cela dans le menu pause."
-		],
-		"id": [
-			"Jika kamu ingin speedrun, ada pengaturan nya di menu pause."
-		],
-		"it": [
-			"Se si desidera eseguire speedrun, ci sono opzioni per facilitarti nel menu di pausa."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"スピードランニングをしたい場合は、 一時停止メニューにオプションがあります。"
 		],
-		"nl": [
-			"Als je aan speedrunning wilt doen, zijn er opties hiervoor in het pauzemenu."
-		],
-		"pl": [
-			"Jeśli chcesz zrobić speedrun, istnieją opcje tego w menu pauzy."
-		],
-		"pt": [
-			"Se quiser fazer speedruns, há opções pra isso no menu de pausa."
-		],
-		"ru": [
-			"Если Вы хотите сделать быстрое прохождение, то эта функция есть в меню паузы."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Om du vill speedrunna så finns det alternativ för det i pause menyn."
 		],
-		"tr": [
-			"Speedrun yapmak istiyorsan, duraklama menüsünde ilgili seçenekleri bulabilirsin."
-		]
+		"tr": []
 	},
 	"loading_7": {
-		"de": [
-			"Werde Teil der Community auf dem Discord Server! Der Link befindet sich im Pausenmenü."
-		],
-		"el": [
-			"Γίνετε μέλος της κοινότητας στον διακομιστή Discord! Ο σύνδεσμος βρίσκεται στο μενού παύσης."
-		],
-		"en": [
-			"Join the community on the Discord server! The link is in the pause menu."
-		],
-		"es": [
-			"¡Únete a la comunidad en el servidor Discord! El enlace está en el menú de pausa."
-		],
-		"fr": [
-			"Rejoins la communauté sur le serveur Discord ! Le lien est dans le menu pause."
-		],
-		"id": [
-			"Bergabunglah dengan komunitas kami di Discord! Link nya ada di menu pause."
-		],
-		"it": [
-			"Unisciti alla comunità sul server Discord! Il link si trova nel menu di pausa."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"Discordサーバーでコミュニティに参加しよう リンクは一時停止メニューにあります。"
 		],
-		"nl": [
-			"Word lid van de community op de Discord-server!  De link staat in het pauzemenu."
-		],
-		"pl": [
-			"Dołącz do społeczności na serwerze Discord! Łącze znajduje się w menu pauzy."
-		],
-		"pt": [
-			"Junte-se à comunidade no Servidor do Discord! O link está no menu de pausa."
-		],
-		"ru": [
-			"Присоединяйтесь к сообществу в Discord!"
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Gå med i gemenskapen på Discord servern! Länken finns i pause menyn!"
 		],
-		"tr": [
-			"Discord'daki topluluğumuza katıl! Bağlantı, duraklama menüsünde."
-		]
+		"tr": []
 	},
 	"loading_8": {
-		"de": [
-			"Manches kann mit einem Bauchstampfen zerstört werden."
-		],
-		"el": [
-			"Κάποια πράγματα μπορούν να καταστραφούν με ένα belly stomp."
-		],
-		"en": [
-			"Some stuff can be destroyed with a belly stomp."
-		],
-		"es": [
-			"Algunas cosas pueden ser destruidas con una carga de tierra."
-		],
-		"fr": [
-			"Certaines choses peuvent être détruites avec une charge au sol."
-		],
-		"id": [
-			"Beberapa hal bisa dihancurkan dengan menghentakkan perut."
-		],
-		"it": [
-			"Alcune cose possono essere distrutte con una carica a terra."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"ベリーストンプで破壊できるものもあります。"
 		],
-		"nl": [
-			"Sommige dingen kunnen worden vernietigd met een buikstomp."
-		],
-		"pl": [
-			"Niektóre rzeczy mogą być zniszczone z brzucha stompstom"
-		],
-		"pt": [
-			"Algumas coisas podem ser destruídas com uma barrigada."
-		],
-		"ru": [
-			"Некоторые объекты могут быть разрушены с помощью шлепка животом."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Vissa saker kan bli förstörda med en magattack."
 		],
-		"tr": [
-			"Bazı nesneleri yok etmek için 'karın saldırısı'nı kullan."
-		]
+		"tr": []
 	},
 	"loading_9": {
-		"de": [
-			"Verwende deine Münzen im Hauptzentrum, um Kleidung freizuschalten!"
-		],
-		"el": [
-			"Χρησιμοποιήστε τα νομίσματά σας στον κόμβο για να ξεκλειδώσετε ρούχα!"
-		],
-		"en": [
-			"Use your coins in the hub to unlock clothing!"
-		],
-		"es": [
-			"Utiliza tus monedas en el centro para desbloquear ropa."
-		],
-		"fr": [
-			"Utilise tes pièces dans le hub pour débloquer des vêtements."
-		],
-		"id": [
-			"Gunakan koin mu di hub untuk membuka pakaian baru!"
-		],
-		"it": [
-			"Usa le tue monete nell'hub per sbloccare i vestiti."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"ハブでコインを使って服のロックを解除しましょう。"
 		],
-		"nl": [
-			"Gebruik je munten in de hub om kleding te ontgrendelen!"
-		],
-		"pl": [
-			"Użyj monet w centrum, aby odblokować odzież!"
-		],
-		"pt": [
-			"Use suas moedas no hub para desbloquear roupas!"
-		],
-		"ru": [
-			"Используйте свои монеты в центре, чтобы покупать одежду."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Använd dina mynt i hubben för att låsa upp nya kläder!"
 		],
-		"tr": [
-			"Değişik kostümleri açmak için akçelerini kullan."
-		]
+		"tr": []
 	},
 	"merch_ad": {
 		"de": [
@@ -17837,7 +18329,7 @@
 			"Witam w mojej misji podłoga to lawa! Jeśli dotkniesz ziemi, stracisz zdrowie i wrócisz do poprzedniego punktu kontrolnego."
 		],
 		"pt": [
-			"Bem-vindo à minha missão Chão é Lava! Se você tocar o chão, vai perder uma vida e voltará pro checkpoint anterior."
+			"Bem-vindo à minha missão O Chão é Lava! Se você encostar o chão, vai perder uma vida e voltar pro checkpoint de antes."
 		],
 		"ru": [
 			"Добро пожаловать в мою миссию пол это лава! Если вы коснётесь земли, то вы потеряете здоровье и вернётесь на последний чекпоинт."
@@ -17879,7 +18371,7 @@
 			"Serca nie odradzają się, więc używaj ich ostrożnie. Te niebieskie niedźwiedzie są punktami kontrolnymi, które są aktywowane po ich dotknięciu."
 		],
 		"pt": [
-			"Corações não vão reaparecer, então use com cuidado. Esses ursos azuis são checkpoints que são ativados ao passar por eles."
+			"Corações não vão aparecer de novo, então toma cuidado. Esses ursos azuis são checkpoints que ativam quando você passar por eles."
 		],
 		"ru": [
 			"Сердца не респавнятся так что используйте их аккуратно. Эти синие медведи - чекпоинты которые активируются когда вы косаетесь их."
@@ -17921,7 +18413,7 @@
 			"Twoim celem jest to, aby dostać się do mnie bez umierania. Powodzenia!"
 		],
 		"pt": [
-			"Seu objetivo é chegar até mim sem morrer. Boa sorte!"
+			"Teu objetivo é chegar até mim sem morrer. Boa sorte!"
 		],
 		"ru": [
 			"Твоя цель - добраться до меня без смертей. Удачи!"
@@ -17963,7 +18455,7 @@
 			"Witam w mojej misji wyścig! Przejedź przez każdy pierścień w kolejności i spróbuj ukończyć jedno okrążenie przede mną. Powodzenia!"
 		],
 		"pt": [
-			"Bem-vindo à minha missão de rali! Passe através de todos os anéis em ordem e tente completar uma volta antes de mim. Boa sorte!"
+			"Bem-vindo à minha missão de rali! Passe dentro de todos os anéis em sequência e tenta completar uma volta antes de mim. Boa sorte!"
 		],
 		"ru": [
 			"Добро пожаловать в мою гоночную миссию! Пройдите через каждое кольцо по порядку и попробуйте пройти первый круг первее меня. Удачи!"
@@ -18005,7 +18497,7 @@
 			"Witam w mojej misji lotu papierowym samolotem! Chwyć papierowy samolot i przeleć przez każdy pierścień w kolejności. Powodzenia!"
 		],
 		"pt": [
-			"Bem-vindo à minha missão Voo com Avião de Papel! Pegue um e passe através de todos os anéis em ordem. Boa sorte!"
+			"Bem-vindo à minha missão de Voo com Avião de Papel! Pegue um e passe dentro de todos os anéis em sequência. Boa sorte!"
 		],
 		"ru": [
 			"Добро пожаловать в мою миссию полёт на бумажном самолёте! Возьмите бумажный самолёт и пролетите через каждое кольцо по порядку. Удачи!"
@@ -18047,7 +18539,7 @@
 			"Witam w mojej misji powódź! Woda zacznie powoli rosnąć. Pozostań na ziemi, aby nie utonąć! Twoim celem jest dotarcie do mojej małej pływającej skrzyni. Powodzenia!"
 		],
 		"pt": [
-			"Bem-vindo à minha missão Inundação! A água vai começar a subir devagar. Fique em solo pra não se afogar! Seu objetivo é alcançar minha caixinha boiando. Boa sorte!"
+			"Bem-vindo à minha missão Inundação! A água vai começar a subir devagar. Fique em terra pra não se afogar! Teu objetivo é alcançar minha caixinha boiando. Boa sorte!"
 		],
 		"ru": [
 			"Добро пожаловать в мою миссию - наводнение! Вода начнёт медленно подниматься вверх. Оставайся на земле чтобы не утонуть! Твоя цель - добраться до моего плавающего ящика. Удачи!"
@@ -18089,7 +18581,7 @@
 			"Witam w mojej misji polowania na jajka! Na tym poziomie ukryte są 3 jajka."
 		],
 		"pt": [
-			"Bem-vindo à minha missão de Caça aos Ovos! Há 3 escondidos nesta fase."
+			"Bem-vindo à minha missão de Caça aos Ovos! Tem 3 escondidos nesta fase."
 		],
 		"ru": [
 			"Добро пожаловать в мою миссию охотника за яйцами! На этом уровне спрятано 3 яйца."
@@ -18131,7 +18623,7 @@
 			"Kiedy znajdziesz je wszystkie, przynieś je do mnie. Powodzenia!"
 		],
 		"pt": [
-			"Quando você encontrar todos, traga eles até mim. Boa sorte!"
+			"Quando você encontrar todos, leva eles até mim. Boa sorte!"
 		],
 		"ru": [
 			"Когда найдёшь их всех, принеси их мне. Удачи!"
@@ -18173,7 +18665,7 @@
 			"Witam w mojej misji problem energii elektrycznej! Jak widać dom został zalany, ale moc jest nadal sprawna. W pokoju pod schodami znajduje się przełącznik, który wyłącza zasilanie. Powodzenia!"
 		],
 		"pt": [
-			"Bem-vindo à minha missão Problema Elétrico! Como você vê, a casa foi inundada, e a energia ainda está ligada. Há uma alavanca na sala debaixo das escadas pra desligar. Boa sorte!"
+			"Bem-vindo à minha missão Problema Elétrico! Como pode ver, a casa tá inundada, e a energia ainda tá ligada. Tem uma alavanca na sala debaixo das escadas pra desligar. Boa sorte!"
 		],
 		"ru": [
 			"Добро пожаловать в мою миссию - проблемы с электричеством! Как вы видите, дом был полностью затоплен, но электричество всё ещё включено...В комнате под лесницей есть выключатель, отключающий электричество. Удачи!"
@@ -18215,7 +18707,7 @@
 			"Witam w mojej misji parkur! Ta misja jest dość prosta, wystarczy podążać za parkurem, aby do mnie dotrzeć."
 		],
 		"pt": [
-			"Bem-vindo à minha missão de parkour! É bem simples, apenas siga as plataformas até chegar em mim."
+			"Bem-vindo à minha missão de Parkour! É bem simples, apenas siga as plataformas até chegar em mim."
 		],
 		"ru": [
 			"Добро пожаловать в мою паркур - миссию! Эта миссия очень простая, просто следуйте паркуру что бы добраться до меня"
@@ -18257,7 +18749,7 @@
 			"Proponuję unikać dotykania wody..."
 		],
 		"pt": [
-			"Recomendo você evitar tocar na água..."
+			"Recomendo você evitar encostar na água..."
 		],
 		"ru": [
 			"Я советую вам не прикасаться к воде."
@@ -18989,7 +19481,7 @@
 			"Królowa Beetrycja jest ogromna... huh, chciałem powiedzieć piękna."
 		],
 		"pt": [
-			"Rainha Belhatriz é enorme... huh, eu quis dizer bonita."
+			"Rainha Belhatriz é gigantesca... huh, eu quis dizer bonita."
 		],
 		"ru": [
 			"Королева Беатриса огромная... хах, я хотел сказать красивая."
@@ -20036,6 +20528,42 @@
 		],
 		"sv": [],
 		"tr": [
+			"Destansı"
+		]
+	},
+	"rarity_legendary": {
+		"de": [
+			"Legendär"
+		],
+		"el": [
+			"Θρυλικό"
+		],
+		"en": [
+			"Legendary"
+		],
+		"es": [
+			"Legendario"
+		],
+		"fr": [
+			"Légendaire"
+		],
+		"id": [
+			"Legendaris"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Legendarny"
+		],
+		"pt": [
+			"Lendário"
+		],
+		"ru": [
+			"Легендарный"
+		],
+		"sv": [],
+		"tr": [
 			"Efsanevi"
 		]
 	},
@@ -20081,6 +20609,120 @@
 			"Ender"
 		]
 	},
+	"reward_active": {
+		"de": [
+			"Aktiv"
+		],
+		"el": [
+			"Ενεργό"
+		],
+		"en": [
+			"Active"
+		],
+		"es": [
+			"Activa"
+		],
+		"fr": [
+			"Actif"
+		],
+		"id": [
+			"Aktif"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Actief"
+		],
+		"pl": [
+			"Aktywny"
+		],
+		"pt": [
+			"Ativo"
+		],
+		"ru": [
+			"Активно"
+		],
+		"sv": [],
+		"tr": [
+			"Aktif"
+		]
+	},
+	"reward_disabled": {
+		"de": [
+			"Deaktiviert"
+		],
+		"el": [
+			"Απενεργοποιημένο"
+		],
+		"en": [
+			"Disabled"
+		],
+		"es": [
+			"Deshabilitada"
+		],
+		"fr": [
+			"Désactivé"
+		],
+		"id": [
+			"Mati"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Uitgeschakeld"
+		],
+		"pl": [
+			"Niepełnosprawny"
+		],
+		"pt": [
+			"Desativado"
+		],
+		"ru": [
+			"Отключено"
+		],
+		"sv": [],
+		"tr": [
+			"Kapalı"
+		]
+	},
+	"reward_free": {
+		"de": [
+			"Gratis"
+		],
+		"el": [
+			"Δωρεάν"
+		],
+		"en": [
+			"Free"
+		],
+		"es": [
+			"Gratis"
+		],
+		"fr": [
+			"Gratuit"
+		],
+		"id": [
+			"Gratis"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Gratis"
+		],
+		"pl": [
+			"Darmowy"
+		],
+		"pt": [
+			"Grátis"
+		],
+		"ru": [
+			"Бесплатно"
+		],
+		"sv": [],
+		"tr": [
+			"Ücretsiz"
+		]
+	},
 	"save_bear_tip_1": {
 		"de": [
 			"Wir haben einen Bären befreit! Wir sollten uns weiter in der Schildkrötenstadt umsehen, bevor wir in andere Gebiete gehen."
@@ -20113,7 +20755,7 @@
 			"Uwolniliśmy jednego niedźwiedzia! Powinniśmy rozglądać się w Żółwiej Wiosce przed udaniem się do innych obszarów."
 		],
 		"pt": [
-			"Libertamos um urso! Devemos continuar olhando ao redor na Aldeia antes de irmos pra outras áreas."
+			"Salvamos um urso! Nós devemos continuar olhando ao redor na Aldeia antes de ir pra outras áreas."
 		],
 		"ru": [
 			"Мы освободили первого медведя! Мы должны осмотреться в Черепашьем городе, прежде чем пойти в другие места."
@@ -20595,7 +21237,7 @@
 			"Jeżeli jesteś wystarczająco odważny żeby je ocalić, mogę cię więc pomniejszyć i cię wpuścić."
 		],
 		"pt": [
-			"Se você forem corajosos o suficiente para salvá-los, eu posso encolher vocês e deixar entrar."
+			"Se vocês forem corajosos o suficiente para salvá-los, eu posso encolher vocês e deixar entrar."
 		],
 		"ru": [
 			"Если ты достаточно смелый, чтобы спасти их, то я могу уменьшить тебя и позволить войти."
@@ -20606,172 +21248,76 @@
 		]
 	},
 	"shicka_0_1": {
-		"de": [
-			"Folge den blauen Pfeilen um in die Schildkrötenstadt zu kommen."
-		],
-		"el": [
-			"Ακολουθήστε τα μπλε βέλη για να φτάσετε στην Τερτλτάουν!"
-		],
-		"en": [
-			"Follow the blue arrows to get to Turtletown!"
-		],
-		"es": [
-			"Siga las flechas azules hasta la entrada de Tortuciudad."
-		],
-		"fr": [
-			"Suis les flèches bleues jusqu'à l'entrée de Tortibourg."
-		],
-		"id": [
-			"Ikuti panah biru untuk sampai ke Desa Kura-kura."
-		],
-		"it": [
-			"Segui le frecce blu fino all'ingresso del Villaggio delle Tartarughe."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"青い矢印に沿って進むと亀の村に行く事が出来るよ"
 		],
-		"nl": [
-			"Volg de blauwe pijlen om bij Turtletown te komen!"
-		],
-		"pl": [
-			"Podążaj za niebieskimi strzałkami, aby dostać się do Żółwiej Wioski!"
-		],
-		"pt": [
-			"Siga as setas azuis pra chegar à Aldeia das Tartarugas!"
-		],
-		"ru": [
-			"Следуй по синим стрелочкам, чтобы добраться до Черепашьего города."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Kaplumbağa Köyü'ne gitmek için mavi okları izle."
-		]
+		"tr": []
 	},
 	"shicka_0_2": {
-		"de": [
-			"Wir können ihn nicht verletzen, versuchen wir erst einmal zu überleben!"
-		],
-		"el": [
-			"Δεν μπορούμε να του κάνουμε κακό, ας προσπαθήσουμε να επιβιώσουμε προς το παρόν!"
-		],
-		"en": [
-			"We can't hurt him, let's try to survive for now!"
-		],
-		"es": [
-			"No podemos hacerle daño, ¡intentemos sobrevivir por ahora!"
-		],
-		"fr": [
-			"Nous ne pouvons pas le blesser, essayons de survivre pour l'instant !"
-		],
-		"id": [
-			"Kita tidak bisa menyakitinya, mari kita coba untuk bertahan hidup untuk saat ini!"
-		],
-		"it": [
-			"Non possiamo fargli del male, cerchiamo di sopravvivere per ora!"
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"彼を傷付けることは出来ない...とりあえず生き延びよう！"
 		],
-		"nl": [
-			"We kunnen hem geen pijn doen, laten we proberen te overleven voor nu!"
-		],
-		"pl": [
-			"Nie możemy go skrzywdzić, spróbujmy przetrwać!"
-		],
-		"pt": [
-			"Não podemos machucá-lo, vamos tentar sobreviver por enquanto!"
-		],
-		"ru": [
-			"Мы не можем его ранить, давай пока что попробуем выжить!"
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Ona zarar veremeyiz, şimdilik hayatta kalmaya çalışalım!"
-		]
+		"tr": []
 	},
 	"shicka_0_3": {
-		"de": [
-			"Ich glaube, ich kann ihn von dieser Plattform stoßen!"
-		],
-		"el": [
-			"Νομίζω ότι μπορώ να τον σπρώξω από αυτή την πλατφόρμα!"
-		],
-		"en": [
-			"I think I can push him off this platform!"
-		],
-		"es": [
-			"¡Creo que puedo empujarla fuera de esta plataforma!"
-		],
-		"fr": [
-			"Je pense que je peux le pousser de cette plateforme !"
-		],
-		"id": [
-			"Aku pikir aku dapat mendorongnya keluar dari platform ini!"
-		],
-		"it": [
-			"Penso di poterlo spingere giù dalla piattaforma!"
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"この台から突き落とすことが出来るはずだ！"
 		],
-		"nl": [
-			"Ik denk dat ik hem van dit platform kan duwen!"
-		],
-		"pl": [
-			"Myślę, że mogę go zepchnąć z tej platformy!"
-		],
-		"pt": [
-			"Eu acho que posso empurrá-lo desta plataforma!"
-		],
-		"ru": [
-			"Думаю, я могу столкнуть его с этой платформы!"
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Bence onu bu düzlükten itebilirim!"
-		]
+		"tr": []
 	},
 	"shicka_0_4": {
-		"de": [
-			"Wir müssen 3 Bären retten, um das Bärentor zu öffnen."
-		],
-		"el": [
-			"Πρέπει να σώσουμε 3 αρκούδες για να ανοίξουμε την πύλη της αρκούδας."
-		],
-		"en": [
-			"We need to rescue 3 bears to open the bear gate."
-		],
-		"es": [
-			"Necesitamos salvar a tres osos para abrir la puerta de los osos."
-		],
-		"fr": [
-			"Nous avons besoin de sauver 3 ours pour ouvrir la grille à ours."
-		],
-		"id": [
-			"Kita harus menyelamatkan 3 beruang untuk membuka gerbang beruang ini."
-		],
-		"it": [
-			"Dobbiamo salvare 3 orsi per aprire il cancello degli orsi."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"コインの扉を開けるには60枚のコインを集める必要みたいだ..."
 		],
-		"nl": [
-			"We moeten 3 beren redden om de berenpoort te openen."
-		],
-		"pl": [
-			"Musimy uzyskać 60 monet, aby otworzyć drzwi monetowe."
-		],
-		"pt": [
-			"Precisamos salvar 3 ursos para abrir o Portão dos Ursos"
-		],
-		"ru": [
-			"Нам нужно спасти 3 медведя, чтобы открыть медвежьи врата."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Akçe kapısını açmak için 60 akçeye ihtiyacımız var."
-		]
+		"tr": []
 	},
 	"shicka_1_1": {
 		"de": [
@@ -21025,6 +21571,46 @@
 			"Bak! Tıpkı benim gibi başka bir sırt çantalı. Biz ender bir türün parçasıyız ve bizi taşıyana bağlıyız."
 		]
 	},
+	"shicka_1_7": {
+		"de": [
+			"Die Schildkröten versperrten den Weg zum oberen Teil des Dorfes, um die kontaminierten Schildkröten zu isolieren."
+		],
+		"el": [
+			"Οι χελώνες μπλόκαραν το μονοπάτι προς το πάνω μέρος του χωριού για να απομονώσουν τις μολυσμένες χελώνες."
+		],
+		"en": [
+			"The turtles blocked the path to the upper part of the village to isolate the contaminated turtles."
+		],
+		"es": [
+			"Las tortugas bloquearon el camino a la parte superior de la aldea para aislar a las tortugas contaminadas."
+		],
+		"fr": [
+			"Les tortues ont bloqué l'accès à la partie supérieure du village afin d'isoler les tortues contaminées."
+		],
+		"id": [
+			"Para Kura-kura menutup jalan ke bagian atas desa ini untuk mengisolasi para Kura-kura yang terkontaminasi."
+		],
+		"it": [
+			"Le tartarughe hanno bloccato l'accesso alla parte superiore del villaggio per isolare le tartarughe infette."
+		],
+		"ja": [],
+		"nl": [
+			"De schildpadden hebben het pad geblokkeerd naar het bovenste deel van het dorp om de besmette bij elkaar te houden."
+		],
+		"pl": [
+			"Żółwie zablokowały drogę do górnej części wioski, aby odizolować skażone żółwie."
+		],
+		"pt": [
+			"As tartarugas bloquearam o caminho da parte de cima da aldeia pra isolar as outras contaminadas."
+		],
+		"ru": [
+			"Черепахи заблокировали путь в верхнюю часть деревни, чтобы изолировать зараженных черепах."
+		],
+		"sv": [],
+		"tr": [
+			"Kaplumbağalar, zehirli kaplumbağaların geçişini engellemek için köyün üst kısmına giden yolu kapattı."
+		]
+	},
 	"shicka_2_1": {
 		"de": [
 			"Vorsicht vor diesen Kreissägen!"
@@ -21210,7 +21796,7 @@
 			"La clef n'est pas à l'intérieur, je pense qu'elle doit être proche de l'entrée."
 		],
 		"id": [
-			"Kuncinya tidak ada di dalam, sepertinya kuncinya ada di dekat pintu masuk."
+			"Kuncinya tidak ada di dalam, kurasa kuncinya ada di dekat pintu masuk."
 		],
 		"it": [
 			"La chiave non è all'interno, penso che probabilmente sia vicino all'ingresso."
@@ -21531,22 +22117,22 @@
 	},
 	"shicka_4_1": {
 		"de": [
-			"Ich glaube, du kannst einen Bauchstampfer machen, um den Abfluss zu zerstören... (B halten)"
+			"Ich glaube, du kannst einen Bauchstampfer machen, um den Abfluss zu zerstören... (halte <b>)"
 		],
 		"el": [
-			"Νομίζω ότι μπορείς να κάνεις ένα χτύπημα με την κοιλιά για να καταστρέψεις την αποχέτευση... (κρατήστε το B)"
+			"Νομίζω ότι μπορείς να κάνεις ένα belly stomp για να καταστρέψεις την αποχέτευση... (κρατήστε το <b>)"
 		],
 		"en": [
-			"I think you can do a belly stomp to destroy that drain... (hold B)"
+			"I think you can do a belly stomp to destroy that drain... (hold <b>)"
 		],
 		"es": [
-			"Creo que puedes hacer una carga en el suelo para destruir el drenaje de agua (mantener B)"
+			"Creo que puedes hacer una carga en el suelo para destruir el drenaje de agua (mantener <b>)"
 		],
 		"fr": [
-			"Je pense que tu peux faire une charge au sol pour détruire l'évacuation d'eau. (maintiens B)"
+			"Je pense que tu peux faire une charge au sol pour détruire l'évacuation d'eau. (maintiens <b>)"
 		],
 		"id": [
-			"Kurasa kau bisa melakukan hentakan perut untuk menghancurkan penutup drainase itu... (tahan B)"
+			"Kurasa kau bisa melakukan hentakan perut untuk menghancurkan penutup drainase itu... (tahan <b>)"
 		],
 		"it": [
 			"Prova a colpire lo scarico dell'acqua con una mossa delle tue! (Tieni premuto B)"
@@ -21555,20 +22141,20 @@
 			"ベリーストンプで排水口を破壊できる気がするな...(Bホールド)"
 		],
 		"nl": [
-			"Ik denk dat je een buikstomp kunt doen om die afvoer te vernietigen... (houd B ingedrukt)"
+			"Ik denk dat je een buikstomp kunt doen om die afvoer te vernietigen... (houd <b> ingedrukt)"
 		],
 		"pl": [
-			"Myślę, że można zrobić belly stomp aby to zniszczyć, że drenaż ... (przytrzymaj B)"
+			"Myślę, że możesz wykonać belly stomp, aby zniszczyć ten odpływ... (przytrzymaj <b>)"
 		],
 		"pt": [
-			"Eu acho que você pode dar uma barrigada pra destruir esse ralo... (segure B)"
+			"Acho que você pode dar uma barrigada pra quebrar esse ralo... (segure <b>)"
 		],
 		"ru": [
-			"Я думаю, ты можешь сделать рывок вниз, чтобы уничтожить эту пробку (удерживайте B)."
+			"Я думаю, ты можешь сделать шлепок животом, чтобы уничтожить эту пробку... (удерживайте <b>)"
 		],
 		"sv": [],
 		"tr": [
-			"Boruyu yok etmek için karın saldırısını kullanın. (B ye basılı tutun)"
+			"Bence o boruyu yok etmek için karın kası saldırısı... (<b>'yi basılı tut)"
 		]
 	},
 	"shicka_4_2": {
@@ -21687,7 +22273,7 @@
 			"Klucz utknął w tej kostce lodu. Znajdźmy coś gorącego, aby ją stopić."
 		],
 		"pt": [
-			"A chave está presa dentro do cubo de gelo. Vamos achar algo quente pra derretê-lo."
+			"A chave está presa dentro do cubo de gelo. Vamos achar algo quente para derreter."
 		],
 		"ru": [
 			"Ключ застрял внутри этого кубика льда. Давай найдём что-нибудь горячее, чтобы растопить его."
@@ -21732,11 +22318,127 @@
 			"Você pode dar uma barrigada pra quicar mais alto!"
 		],
 		"ru": [
-			"Ты можешь сделать рывок вниз, чтобы подпрыгнуть выше."
+			"Ты можешь сделать шлепок животом, чтобы подпрыгнуть выше."
 		],
 		"sv": [],
 		"tr": [
 			"Daha yüksek bir sıçrayış için karın saldırısını deneyebilirsiniz."
+		]
+	},
+	"shicka_4_6": {
+		"de": [
+			"Berühre die Säure nicht, sie wird dich verletzen! Wir müssen einen Weg finden, sie hier herauszubekommen."
+		],
+		"el": [
+			"Μην αγγίζετε το οξύ, θα σας βλάψει! Πρέπει να βρούμε έναν τρόπο να το στραγγίξουμε από εδώ."
+		],
+		"en": [
+			"Don't touch the acid, it will hurt you! We must find a way to drain it out of here."
+		],
+		"es": [
+			"¡No toques el ácido, te va a lastimar! Debemos de encontrar una forma de drenarlo."
+		],
+		"fr": [
+			"Ne touches pas à l'acide, tu te blesserais ! Il faut qu'on trouve un moyen de l'évacuer d'ici."
+		],
+		"id": [
+			"Jangan sentuh asamnya, itu akan menyakitimu! Kita harus menemukan cara untuk mengurasnya dari sini."
+		],
+		"it": [],
+		"ja": [],
+		"nl": [],
+		"pl": [
+			"Nie dotykaj kwasu, zrobi ci krzywdę! Musimy znaleźć sposób, żeby to stąd usunąć."
+		],
+		"pt": [
+			"Não encoste no ácido, vai machucar você! Temos que achar um jeito de drenar isso daqui."
+		],
+		"ru": [
+			"Не касайся кислоты, она тебе навредит! Мы должны найти способ вылить её отсюда."
+		],
+		"sv": [],
+		"tr": [
+			"Aside dokunma, sana zarar verir! Onu buradan boşaltmanın bir yolunu bulmalıyız."
+		]
+	},
+	"shicka_4_7": {
+		"de": [
+			"Benutze <b> zum Feuern oder <a> zum Springen aus dem Fass."
+		],
+		"el": [
+			"Χρησιμοποιήστε το <b> για να πυροβολήσετε ή το <a> για να πηδήξετε έξω από την κάννη."
+		],
+		"en": [
+			"Use <b> to fire or <a> to jump out of the barrel."
+		],
+		"es": [
+			"Usa <b> para disparar o <a> para saltar desde el barril."
+		],
+		"fr": [
+			"Utilise <b> pour tirer ou <a> pour sortir du canon."
+		],
+		"id": [
+			"Tekan <b> untuk meluncur atau <a> untuk melompat keluar dari meriam."
+		],
+		"it": [
+			"Usate <b> per sparare o <a> per saltare dal barile."
+		],
+		"ja": [],
+		"nl": [
+			"Gebruik <b> om te schieten of <a> om van de ton te springen."
+		],
+		"pl": [
+			"Użyj <b>, aby wystrzelić lub <a>, aby wyskoczyć z beczki."
+		],
+		"pt": [
+			"Use <b> para disparar ou <a> para saltar do canhão."
+		],
+		"ru": [
+			"Используйте <b>, чтобы выстрелить, или <a>, чтобы выпрыгнуть из пушки."
+		],
+		"sv": [],
+		"tr": [
+			"Bence o engeli yok etmek için karın saldırısı yapabilirsin... (<b>'yi basılı tut)"
+		]
+	},
+	"shicka_gate_1": {
+		"de": [
+			"Wir müssen 3 Bären retten, um das Bärentor zu öffnen."
+		],
+		"el": [
+			"Πρέπει να σώσουμε 3 αρκούδες για να ανοίξουμε την πύλη της αρκούδας."
+		],
+		"en": [
+			"We need to rescue 3 bears to open the bear gate."
+		],
+		"es": [
+			"Necesitamos salvar a tres osos para abrir la puerta de los osos."
+		],
+		"fr": [
+			"Nous avons besoin de sauver 3 ours pour ouvrir la grille à ours."
+		],
+		"id": [
+			"Kita perlu menyelamatkan 3 beruang untuk membuka gerbang beruang ini."
+		],
+		"it": [
+			"Dobbiamo salvare 3 orsi per aprire il cancello degli orsi."
+		],
+		"ja": [],
+		"nl": [
+			"We moeten 3 beren redden om de berenpoort te openen."
+		],
+		"pl": [
+			"Musimy uratować 3 niedźwiedzie, aby otworzyć niedźwiedzią bramę."
+		],
+		"pt": [
+			"Precisamos salvar 3 ursos para abrir o portão dos ursos."
+		],
+		"ru": [
+			"Нам нужно спасти 3 медведя, чтобы открыть медвежьи врата."
+		],
+		"sv": [],
+		"tr": [
+			"Ayı kapısını açmak için 3 ayı kurtarmamız gerekiyor."
 		]
 	},
 	"shicka_hive_1": {
@@ -21859,6 +22561,162 @@
 			"Eğer bu mor toplara vurursak, onları ona geri gönderebiliriz!"
 		]
 	},
+	"shicka_hive_4": {
+		"de": [
+			"Ich glaube, ich kann ihn in dieses Loch stoßen!"
+		],
+		"el": [
+			"Νομίζω ότι μπορώ να τον σπρώξω σε αυτή την τρύπα!"
+		],
+		"en": [
+			"I think I can push him into this hole!"
+		],
+		"es": [
+			"¡Creo que puedo empujarlo fuera de esta plataforma!"
+		],
+		"fr": [
+			"Je pense que je peux le pousser dans ce trou !"
+		],
+		"id": [
+			"Aku rasa aku bisa mendorongnya ke lubang ini!"
+		],
+		"it": [
+			"Penso di poterlo spingere giù dalla piattaforma!"
+		],
+		"ja": [],
+		"nl": [
+			"Ik denk dat ik hem in dit gat kan duwen!"
+		],
+		"pl": [
+			"Myślę, że mogę go wepchnąć do tej dziury!"
+		],
+		"pt": [
+			"Eu acho que posso empurrá-lo pra esse buraco!"
+		],
+		"ru": [
+			"Думаю, я могу столкнуть его в эту дыру!"
+		],
+		"sv": [],
+		"tr": [
+			"Bence onu bu deliğe itebilirim!"
+		]
+	},
+	"shicka_hub_1": {
+		"de": [
+			"Wir müssen zuerst zur Schildkrötenstadt um unseren Freunden zu helfen!"
+		],
+		"el": [
+			"Πρέπει πρώτα να πάμε στο Turtletown να βοηθήσουμε τους φίλους μας!"
+		],
+		"en": [
+			"We have to go to Turtletown to help our friends first!"
+		],
+		"es": [
+			"Sigue las flechas azules hasta la entrada de Tortuciudad."
+		],
+		"fr": [
+			"On doit aller à Tortibourg pour aider nos amis d'abord !"
+		],
+		"id": [
+			"Kita harus pergi ke Desa Kura-kura untuk membantu teman kita terlebih dahulu!"
+		],
+		"it": [
+			"Segui le frecce blu fino all'ingresso del Villaggio delle Tartarughe."
+		],
+		"ja": [],
+		"nl": [
+			"We moeten eerst naar Turtletown om onze vrienden te helpen!"
+		],
+		"pl": [
+			"Najpierw musimy udać się do Turtletown, aby pomóc naszym przyjaciołom!"
+		],
+		"pt": [
+			"Temos que ir pra Aldeia das Tartarugas pra ajudar nossos amigos primeiro!"
+		],
+		"ru": [
+			"Сначала нам нужно пойти в Черепаший Город, чтобы помочь нашим друзьям!"
+		],
+		"sv": [],
+		"tr": [
+			"Önce arkadaşlarımıza yardım etmek için Kaplumbağa Köyüne gitmeliyiz!"
+		]
+	},
+	"splash_company": {
+		"de": [
+			"{0} präsentiert"
+		],
+		"el": [
+			"{0} δώρα"
+		],
+		"en": [
+			"{0} presents"
+		],
+		"es": [
+			"{0} presenta"
+		],
+		"fr": [
+			"{0} présente"
+		],
+		"id": [
+			"{0} mempersembahkan"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"{0} presenteert"
+		],
+		"pl": [
+			"{0} prezenty"
+		],
+		"pt": [
+			"{0} apresenta"
+		],
+		"ru": [
+			"{0} представляет"
+		],
+		"sv": [],
+		"tr": [
+			"{0} Sunar"
+		]
+	},
+	"splash_gamepad": {
+		"de": [
+			"Die Verwendung eines Gamepads wird empfohlen"
+		],
+		"el": [
+			"Συνιστάται η χρήση gamepad"
+		],
+		"en": [
+			"Use of a gamepad is recommended"
+		],
+		"es": [
+			"El uso de un mando es recomendado"
+		],
+		"fr": [
+			"L'utilisation d'une manette est conseillée"
+		],
+		"id": [
+			"Disarankan untuk menggunakan gamepad"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Gebruik van een gamepad wordt aanbevolen"
+		],
+		"pl": [
+			"Zaleca się korzystanie z gamepada"
+		],
+		"pt": [
+			"Recomendado usar um controle"
+		],
+		"ru": [
+			"Рекомендуется использование геймпада"
+		],
+		"sv": [],
+		"tr": [
+			"Bir gamepad kullanılması önerilir"
+		]
+	},
 	"sticker_found": {
 		"de": [
 			"Versteckter Aufkleber gefunden!"
@@ -21885,7 +22743,7 @@
 			"隠れていたシールが見つかりました"
 		],
 		"nl": [
-			"verborgen sticker gevonden!"
+			"Verborgen sticker gevonden!"
 		],
 		"pl": [
 			"Ukryta Naklejka Znaleziona!"
@@ -21933,7 +22791,7 @@
 			"Witammm mojego niedźwiedzia dostosowywania seeerwis!"
 		],
 		"pt": [
-			"Olááá e boooas vindas ao meu serviiiço de customização de ursos!"
+			"Olááá e beeem-vindo ao meu serviiiço de customização de ursos!"
 		],
 		"ru": [
 			"Привеееет! И добро пожаловать в мою службу персонализации медведя !"
@@ -21960,7 +22818,7 @@
 			"Dans la boutique, tu peux acheter de nouveaux articles en échanges de pièces. De nouveaux articles sont disponibles toutes les 6 heures. Tu peux aussi ouvrir une lootbox pour obtenir un article aléatoire qui peut ne pas être dans la boutique."
 		],
 		"id": [
-			"Di toko ini, kamu bisa membeli barang baru dengan menukarkan koin. Barang baru akan diperbarui setiap 6 jam sekali. Kamu juga bisa membuka kotak jarahan untuk mendapatkan barang acak yang mungkin tidak ada di toko!"
+			"Di toko ini, kamu bisa membeli barang baru dengan menukarkan koin. Barang baru akan diperbarui setiap 6 jam sekali. Kamu juga bisa membuka loot box untuk mendapatkan barang acak yang mungkin tidak ada di toko!"
 		],
 		"it": [
 			"Nel negozio è possibile acquistare nuovi cosmetici in cambio di monete. Gli articoli in vendita cambiano ogni 6 ore. È anche possibile aprire un pacchetto per ottenere un oggetto a caso che potrebbe non essere nel negozio."
@@ -21969,7 +22827,7 @@
 			"ショップでは、コインと交換して新しいアイテムを購入することができます。新しいアイテムは6時間ごとに登場します。また、loot boxを開けると、ショップにないようなランダムなアイテムを手に入れることができますよ。"
 		],
 		"nl": [
-			"In de winkel kan je nieuwe voorwerpen kopen met munten. Er zijn elke 6 uur nieuwe voorwerpen beschikbaar. Je kan een lootbox openen om een willlekeurig voorwerp te krijgen wat misschien niet in de winkel beschikbaar is!"
+			"Er zijn 6 zeldzaamheidscategorieën: {0}, {1}, {2}, {3}, {4} en {5}. {3} items kunnen verkregen worden in de winkel van mijn broer."
 		],
 		"pl": [
 			"W sklepie można kupić nowe przedmioty w zamian za monety. Nowe przedmioty są dostępne co 6 godzin. Możesz również otworzyć skrzynkę z łupami, aby otrzymać losowy przedmiot, który może nie znajdować się w sklepie!"
@@ -21987,25 +22845,25 @@
 	},
 	"studio_help_3": {
 		"de": [
-			"Es gibt 5 Seltenheitsstufen: gewöhnlich (weiß), selten (blau), episch (magenta), Tristopio (rosa) und legendär (golden). Legendäre Gegenstände können im Laden meines Bruders erworben werden."
+			"Es gibt 6 Seltenheitskategorien: {0}, {1}, {2}, {3}, {4} und {5}. {3} Gegenstände können im Laden meines Bruders erworben werden."
 		],
 		"el": [
-			"Υπάρχουν 5 κατηγορίες σπανιότητας: κοινή (λευκό), σπάνια (μπλε), επική (ματζέντα), Tristopio (ροζ) και θρυλικά (χρυσό). Τα θρυλικά αντικείμενα μπορούν να αποκτηθούν στο κατάστημα του αδελφού μου."
+			"Υπάρχουν 6 κατηγορίες σπανιότητας: {0}, {1}, {2}, {3}, {4} και {5}. Τα αντικείμενα {3} μπορούν να αποκτηθούν από το κατάστημα του αδελφού μου."
 		],
 		"en": [
-			"There are 5 rarity categories: common (white), rare (blue), epic (magenta), Tristopio (pink) and legendary (golden). Legendary items can be obtained at my brother's shop."
+			"There are 6 rarity categories: {0}, {1}, {2}, {3}, {4} and {5}. {3} items can be obtained at my brother's shop."
 		],
 		"es": [
-			"Hay 5 niveles de rareza: común (blanco), raro (azúl), épico (magenta), tristopio (rosa) y legendario (naranja). Los artículos legendarios pueden obtenerse en la tienda de mi hermano."
+			"Hay 6 niveles de rareza: {0}, {1}, {2}, {3}, {4} y {5}. Los artículos {3}(s) pueden obtenerse en la tienda de mi hermano."
 		],
 		"fr": [
-			"Il existe 5 niveaux de rareté : commun (blanc), rare (bleu), épique (magenta), Tristopio (rose) et légendaire (doré). Les articles légendaires peuvent être obtenus à la boutique de mon frère."
+			"Il existe 6 niveaux de rareté : {0}, {1}, {2}, {3}, {4} et {5}. Les articles {3}(s) peuvent être obtenus à la boutique de mon frère."
 		],
 		"id": [
-			"Ada 5 kategori barang: biasa (putih), langka (biru), epik (magenta), Tristopio (pink) dan legendaris (Emas). Barang legendaris bisa didapatkan di toko saudaraku."
+			"Ada 6 kategori kelangkaan: {0}, {1}, {2}, {3}, {4}, dan {5}. Item {3} dapat diperoleh di toko kakak saya."
 		],
 		"it": [
-			"Ci sono 5 categorie di rarità: comune (bianco), raro (blu), epico (magenta), Tristopio (rosa) e leggendario (oro). Gli articoli leggendari possono essere acquistati presso il negozio di mio fratello."
+			"Esistono 6 categorie di rarità: {0}, {1}, {2}, {3}, {4} e {5}. Gli oggetti {3} possono essere ottenuti nel negozio di mio fratello."
 		],
 		"ja": [
 			"レアリティには、コモン（白）、レア（青）、エピック（マゼンタ）、トリストピオ（ピンク）、ドナー（緑）の5種類があります。ドナーのアイテムは、兄のショップで手に入れることができます。"
@@ -22014,17 +22872,17 @@
 			"Er zijn 5 categorieën van zeldzaamheid: gewoon (wit), zeldzaam (blauw), episch (magenta), Tristopio (roze) and legendarisch (goud). Legendarische voorwerpen kunnen worden gekocht in de winkel van mijn broer."
 		],
 		"pl": [
-			"Istnieje 5 kategorii rzadkości: zwykły (biały), rzadki (niebieski), epicki (magenta), Tristopio (różowy) i legendarny (złoty). Przedmioty legendarne można otrzymać w sklepie mojego brata."
+			"Istnieje 6 kategorii rzadkości: {0}, {1}, {2}, {3}, {4} i {5}. Przedmioty {3} można zdobyć w sklepie mojego brata."
 		],
 		"pt": [
-			"Há 5 categorias de raridade: comum (branco), raro (azul), épico (magenta), Tristopio (rosa) e lendário (dourado). Itens lendários podem ser pegos na loja do meu irmão."
+			"Há 6 categorias de raridade:  {0}, {1}, {2}, {3}, {4} e {5}. Itens {3}s podem ser pegos na loja do meu irmão."
 		],
 		"ru": [
-			"Существует 5 категорий редкости:обычная (белая), редкая (синяя), эпическая (пурпурная), Тристопио (розовая) и легендарная (золотая). Легендарные предметы можно преобрести в магазине моего брата."
+			"Существует 6 категорий редкости: {0}, {1}, {2}, {3}, {4} и {5}. Предметы категории {3} можно получить в магазине моего брата."
 		],
 		"sv": [],
 		"tr": [
-			"5 ender sınıf vardır: yaygın (beyaz), ender (mavi), efsanevi (fuşya), Tristopio (pembe), bağışçı (yeşil). Bağışçı ögelerini kardeşimin mağazasından alabilirsin."
+			"6 ender sınıf vardır: {0}, {1}, {2}, {3}, {4} and {5}. {3} ögelerini kardeşimin mağazasından alabilirsin."
 		]
 	},
 	"studio_help_4": {
@@ -22268,11 +23126,87 @@
 			"Gráficos avançados"
 		],
 		"ru": [
-			"Улучшенная графика"
+			"Продвинутая графика"
 		],
 		"sv": [],
 		"tr": [
 			"Gelişmiş Görseller"
+		]
+	},
+	"title_iap": {
+		"de": [
+			"Käufe"
+		],
+		"el": [
+			"Αγορές"
+		],
+		"en": [
+			"Purchases"
+		],
+		"es": [
+			"Compras"
+		],
+		"fr": [
+			"Achats"
+		],
+		"id": [
+			"Pembelian"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Aankopen"
+		],
+		"pl": [
+			"Zakupy"
+		],
+		"pt": [
+			"Compras"
+		],
+		"ru": [
+			"Покупки"
+		],
+		"sv": [],
+		"tr": [
+			"Satın alımlar"
+		]
+	},
+	"title_inputs": {
+		"de": [
+			"Eingaben"
+		],
+		"el": [
+			"Εισροές"
+		],
+		"en": [
+			"Inputs"
+		],
+		"es": [
+			"Entradas"
+		],
+		"fr": [
+			"Commandes"
+		],
+		"id": [
+			"Input"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Invoer"
+		],
+		"pl": [
+			"Nakłady"
+		],
+		"pt": [
+			"Botões"
+		],
+		"ru": [
+			"Ввод"
+		],
+		"sv": [],
+		"tr": [
+			"Girişler"
 		]
 	},
 	"title_sound": {
@@ -22361,22 +23295,22 @@
 	},
 	"tristopio_no_life": {
 		"de": [
-			"Du hast alle deine Headsets verloren! Du kannst dir eine Werbung ansehen, um mehr zu bekommen."
+			"Du hast alle deine Headsets verloren!"
 		],
 		"el": [
-			"Χάσατε όλα τα ακουστικά σας! Μπορείτε να παρακολουθήσετε μια διαφήμιση για να πάρετε περισσότερα."
+			"Χάσατε όλα τα ακουστικά σας!"
 		],
 		"en": [
-			"You lost all of your headsets! You can watch an ad to get more."
+			"You lost all of your headsets!"
 		],
 		"es": [
-			"¡Has perdido todos tus cascos! Puedes ver un anuncio para obtener más."
+			"¡Perdiste todos tus cascos!"
 		],
 		"fr": [
-			"Tu as perdu tous tes casques ! Tu peux regarder une publicité pour en avoir plus."
+			"Tu as perdu tous tes casques !"
 		],
 		"id": [
-			"Kamu kehabisan headset! Kamu bisa menonton iklan untuk mendapatkan headset lagi."
+			"Kamu telah kehabisan headset!"
 		],
 		"it": [
 			"Hai perso tutti i tuoi visori! Puoi guardare un annuncio per averne altri."
@@ -22385,20 +23319,20 @@
 			"全てのヘッドセットを失ってしまいます。広告を見ると、さらに入手できます。"
 		],
 		"nl": [
-			"Je hebt al je headsets verloren! Kijk naar een advertentie om er meer te krijgen."
+			"Je bent al je headsets kwijt!"
 		],
 		"pl": [
-			"Straciłeś wszystkie zestawy Wirtualnej Rzeczywistości! Możesz obejrzeć reklamę, aby uzyskać więcej."
+			"Zgubiłeś wszystkie zestawy słuchawkowe!"
 		],
 		"pt": [
-			"Você perdeu todos os seus headsets! Você pode assistir um anúncio pra obter mais."
+			"Você perdeu todos os seus headsets!"
 		],
 		"ru": [
-			"Вы потеряли всю свою гарнитуру! Вы можете посмотреть рекламу что бы получить больше гарнитуры."
+			"Вы потеряли всю свою гарнитуру!"
 		],
 		"sv": [],
 		"tr": [
-			"Tüm kulaklıklarını kaybettin! Daha fazla almak için bir reklam izleyebilirsin."
+			"Tüm kulaklıklarını kaybettin!"
 		]
 	},
 	"tristopio_practice": {
@@ -22820,511 +23754,755 @@
 		]
 	},
 	"tutorial_sign_01": {
-		"de": [
-			"Willkommen bei Super Bear Adventure! Benutze den Joystick auf der linken Seite, um dich zu bewegen."
-		],
-		"el": [
-			"Καλώς ήρθες στο Super Bear Adventure ! Πριν πέσεις σε βαθιά νερά ,θα πρέπει να δείξεις τις ικανότητές σου σε αυτό το parkour."
-		],
-		"en": [
-			"Welcome to Super Bear Adventure! Use the joystick on the left to move around."
-		],
-		"es": [
-			"¡Bienvenido a Super Bear Adventure! Utiliza el joystick de la izquierda de la pantalla para desplazarte."
-		],
-		"fr": [
-			"Bienvenue dans Super Bear Adventure ! Utilise le joystick à gauche de l'écran pour te déplacer."
-		],
-		"id": [
-			"Selamat datang di Super Bear Adventure! Gunakan joystick di sebelah kiri untuk berjalan."
-		],
-		"it": [
-			"Benvenuti in Super Bear Adventure! Utilizza il joystick sul lato sinistro dello schermo per muoverti."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"”スーパーベアーアドベンチャー”へようこそ！左側のジョイスティックを使って移動することができます。"
 		],
-		"nl": [
-			"Welkom bij Super Bear Adventure! Gebruik de joystick aan de linkerkant om te bewegen."
-		],
-		"pl": [
-			"Witaj w Super Bear Adventure! Użyj joysticka po lewej żeby się poruszyć."
-		],
-		"pt": [
-			"Bem-vindo(a) ao Super Bear Adventure! Use o direcional à esquerda para se mover."
-		],
-		"ru": [
-			"Добро пожаловать в Super Bear Adventure! Используйте джойстик слева, чтобы передвигаться."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Super Bear Adventure hoş geldin! Soldaki yön kolunu kullanarak çevrede dolan."
-		]
+		"tr": []
 	},
 	"tutorial_sign_02": {
-		"de": [
-			"Drücke A zum Springen."
-		],
-		"el": [
-			"Αν πατήσεις A ενώ βρίσκεσαι στον αέρα, θα πραγματοποιήσεις ένα διπλό πήδημα."
-		],
-		"en": [
-			"Press A to jump."
-		],
-		"es": [
-			"Pulsa A para saltar."
-		],
-		"fr": [
-			"Appuie sur A pour sauter."
-		],
-		"id": [
-			"Tekan A untuk melompat."
-		],
-		"it": [
-			"Premi A per saltare."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"Aボタンでジャンプします。"
 		],
-		"nl": [
-			"Druk op A om te springen"
-		],
-		"pl": [
-			"Kliknij A żeby skoczyć."
-		],
-		"pt": [
-			"Pressione A para pular."
-		],
-		"ru": [
-			"Нажмите А, чтобы прыгнуть."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Tryck på A för att hoppa."
 		],
-		"tr": [
-			"Zıplamak için A ya bas."
-		]
+		"tr": []
 	},
 	"tutorial_sign_03": {
-		"de": [
-			"Drücke B, um anzugreifen, wenn du am Boden bist. Probiere es an dieser Übungspuppe aus."
-		],
-		"el": [
-			"Αν πατήσεις A ενώ κινείσαι και επιτεθείς (B), θα πραγματοποιήσεις ένα μακρύ άλμα."
-		],
-		"en": [
-			"Press B to attack when you're on the ground. Try it on this training dummy."
-		],
-		"es": [
-			"Pulsa B para atacar cuando estés en el suelo. Prueba con este maniquí."
-		],
-		"fr": [
-			"Appuie sur B pour attaquer quand tu es au sol. Essaye sur ce mannequin."
-		],
-		"id": [
-			"Tekan B untuk menyerang ketika kamu sedang di tanah. Coba lakukan kepada boneka latihan ini."
-		],
-		"it": [
-			"Premi B per attaccare menre sei a terra. Provalo su questo manichino."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"地上にいるときはBを押して攻撃します。 この訓練用のダミーで試してみよう。"
 		],
-		"nl": [
-			"Druk op B om aan te vallen als je op de grond bent. Probeer het op deze trainingspop."
-		],
-		"pl": [
-			"Naciśnij B, aby zaatakować, gdy jesteś na ziemi. Wypróbuj go na tym manekinie treningowym."
-		],
-		"pt": [
-			"Pressione B para atacar enquanto estiver no chão. Tente nesse boneco de treino."
-		],
-		"ru": [
-			"Нажмите В, чтобы атаковать, когда Вы на земле. Попробуйте на этом тренировочном манекене."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Yerdeyken saldırmak için B ye bas. Bu kukla üzerinde saldırını dene."
-		]
+		"tr": []
 	},
 	"tutorial_sign_04": {
-		"de": [
-			"Drücke in der Luft A, um doppelt zu springen."
-		],
-		"el": [
-			"Για να αρπάξεις τα αμπέλια απλά πλησίασε τα, τότε μπορείς να σκαρφαλώσεις με το joystick. Μπορείς να πατήσεις A για να πηδήξεις από τα αμπέλια."
-		],
-		"en": [
-			"Press A in the air to double jump."
-		],
-		"es": [
-			"Pulsa A en el aire para hacer un doble salto."
-		],
-		"fr": [
-			"Appuie sur A en l'air pour faire un double saut."
-		],
-		"id": [
-			"Tekan A saat melompat untuk melompat dua kali."
-		],
-		"it": [
-			"Premi A a mezzaria per fare un doppio salto."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"空中でAを押すとダブルジャンプ。"
 		],
-		"nl": [
-			"Druk op A in de lucht om dubbel te springen."
-		],
-		"pl": [
-			"Kliknij A w powietrzu żeby wykonać podwójny skok."
-		],
-		"pt": [
-			"Pressione A no ar para um salto duplo."
-		],
-		"ru": [
-			"Нажмите А в воздухе, чтобы сделать двойной прыжок."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [
 			"Tryck på A i luften för att dubbelhoppa."
 		],
-		"tr": [
-			"Havadayken çift zıplamak için A ya bas."
-		]
+		"tr": []
 	},
 	"tutorial_sign_05": {
-		"de": [
-			"Drücke B und dann A, während du dich zum Weitsprung bewegst. Drücke B in der Luft, um zu stürzen."
-		],
-		"el": [
-			"Μπορείς να περιστρέψεις την κάμερα χειροκίνητα, σύροντας το δάχτυλό σου κατά μήκος του επάνω μέρους της οθόνης."
-		],
-		"en": [
-			"Press B then A while moving to long jump. Press B in the air to dive."
-		],
-		"es": [
-			"Pulsa B y luego A mientras te mueves para hacer un salto de longitud. Pulsa B en el aire para bucear."
-		],
-		"fr": [
-			"Appuie sur B puis A en te déplaçant pour faire un saut en longueur. Appuie sur B en l'air pour plonger."
-		],
-		"id": [
-			"Tekan B lalu A sambil berjalan untuk melakukan lompatan jauh. Tekan B di saat melompat untuk berseluncur."
-		],
-		"it": [
-			"Premi B e poi A mentre corri per fare un salto in lungo. Premi B in aria per fare un tuffo."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"移動中にBを押してからAを押すと走り幅跳びになります。 空中でBを押すとダイブ。"
 		],
-		"nl": [
-			"Druk op B en dan op A terwijl je beweegt om te verspringen. Druk op B in de lucht om te duiken."
-		],
-		"pl": [
-			"Kliknij B potem A podczas poruszania się żeby zrobić długi skok. Kliknij B w powietrzu żeby wykonać dive."
-		],
-		"pt": [
-			"Pressione B e depois A enquanto anda pra fazer um salto longo. Pressione B no ar para mergulhar."
-		],
-		"ru": [
-			"Нажмите В, потом А во время движения, чтобы сделать длинный прыжок. Нажмите В в воздухе, чтобы нырнуть."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Önce B ye ve sonra A ya basarak uzun zıplayış yap. Hava dalışı yapmak için B ye bas."
-		]
+		"tr": []
 	},
 	"tutorial_sign_06": {
-		"de": [
-			"Du kannst an Lianen hochklettern, indem du auf sie zugehst."
-		],
-		"el": [
-			"Αυτός ο κόσμος είναι γεμάτος με εχθρούς. Πάτα B για να τους επιτεθείς ή πήδα πάνω στα κεφάλια τους για να τους σκοτώσεις. Δοκίμασε το σε αυτό το εκπαιδευτικό ανδρείκελο."
-		],
-		"en": [
-			"You can climb vines by walking toward it."
-		],
-		"es": [
-			"Puedes subir a las lianas moviéndote hacia ellas."
-		],
-		"fr": [
-			"Tu peux escalader les lianes en t'en approchant."
-		],
-		"id": [
-			"Kamu bisa memanjat tanaman merambat dengan berjalan ke arah tanaman itu."
-		],
-		"it": [
-			"Puoi arrampicarti sui rampicanti avvicinandoti ad essi."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"つるに向かって歩くと、 つるを登ることができます。"
 		],
-		"nl": [
-			"Je kunt vines beklimmen door ernaartoe te lopen."
-		],
-		"pl": [
-			"Możesz wspiąć się na winorośl, idąc w jej kierunku."
-		],
-		"pt": [
-			"Você pode escalar videiras caminhando em direção a elas."
-		],
-		"ru": [
-			"Вы можете взобраться по лозе, направляясь к ней."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Sarmaşıklara tırmanmak için üzerlerine yürüyebilirsin."
-		]
+		"tr": []
 	},
 	"tutorial_sign_07": {
-		"de": [
-			"Die Kamera kann gedreht werden, indem man mit dem Finger über den oberen Teil des Bildschirms fährt."
-		],
-		"el": [
-			"Ο Baaren μπορεί να κολυμπήσει και να βουτήξει κάτω απ'το νερό. Στην επιφάνεια πάτα B για βουτήξεις. Κάτω απ'το νερό, πάτα A για να πας επάνω."
-		],
-		"en": [
-			"You can rotate the camera by sliding your finger along the upper part of the screen."
-		],
-		"es": [
-			"Puedes girar la cámara deslizando el dedo por la parte superior de la pantalla."
-		],
-		"fr": [
-			"Tu peux faire tourner la caméra en faisant glisser ton doigt le long de la partie supérieure de l'écran."
-		],
-		"id": [
-			"Kamu dapat memutar kamera dengan menggeser jarimu di sepanjang bagian atas layar."
-		],
-		"it": [
-			"È possibile ruotare la telecamera facendo scorrere il dito lungo la parte superiore dello schermo."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"画面上部に沿って指をスライドさせるとカメラを回転させることができます。"
 		],
-		"nl": [
-			"Je kunt de camera draaien door met je vinger over het bovenste gedeelte van het scherm te bewegen."
-		],
-		"pl": [
-			"Możesz obracać kamerę, przesuwając palcem po górnej części ekranu."
-		],
-		"pt": [
-			"Você pode mover a câmera deslizando o dedo pela parte superior da tela."
-		],
-		"ru": [
-			"Вы можете вращать камеру, передвигая палец вдоль верхней части экрана."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Parmağını ekranın üst kısmında gezdirerek kameranın yönünü değiştirebilirsin."
-		]
+		"tr": []
 	},
 	"tutorial_sign_08": {
-		"de": [
-			"Drücke an der Oberfläche B, um zu tauchen. Drücke unter Wasser A, um aufzusteigen."
-		],
-		"el": [
-			"Στην επιφάνεια, πατήστε το B για κατάδυση. Κάτω από το νερό, πατήστε το A για να ανεβείτε."
-		],
-		"en": [
-			"At the surface, press B to dive. Underwater, press A to go up."
-		],
-		"es": [
-			"En la superficie, pulsa B para bucear. Bajo el agua, pulsa A para subir."
-		],
-		"fr": [
-			"À la surface, appuie sur B pour plonger. Sous l'eau, appuie sur A pour remonter."
-		],
-		"id": [
-			"Di permukaan air, tekan B untuk menyelam. Di bawah air, tekan A untuk naik."
-		],
-		"it": [
-			"In superficie, premi B per immergerti. Sott'acqua, premi A per risalire."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"水面では、 Bを押すと潜ることができます。 水中では、 Aを押して上に行きます。"
 		],
-		"nl": [
-			"Druk aan de oppervlakte op B om te duiken. Druk onder water op A om omhoog te gaan."
-		],
-		"pl": [
-			"Na powierzchni naciśnij B, aby zanurkować. Pod wodą naciśnij A, aby popłynąć w górę."
-		],
-		"pt": [
-			"Na superfície, pressione B para mergulhar. Estando submerso, pressione A para subir."
-		],
-		"ru": [
-			"На поверхности, нажмите В, чтобы нырнуть. Под водой, нажмите А, чтобы всплыть."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Yüzeydeyken, suya dalmak için B ye bas. Suyun altındayken, yüzeye çıkmak için A ya bas."
-		]
+		"tr": []
 	},
 	"tutorial_sign_09": {
-		"de": [
-			"Du kannst B drücken, um bestimmte Objekte zu greifen. Drücke erneut B, um sie loszulassen."
-		],
-		"el": [
-			"Μπορείτε να πατήσετε το B για να πιάσετε ορισμένα αντικείμενα. Πατήστε ξανά το B για να τα απελευθερώσετε."
-		],
-		"en": [
-			"You can press B to grab certain objects. Press B again to release them."
-		],
-		"es": [
-			"Puedes pulsar B para agarrar ciertos objetos. Pulsa B para liberarlos."
-		],
-		"fr": [
-			"Tu peux appuyer sur B pour attraper certains objets. Appuie sur B pour les relâcher."
-		],
-		"id": [
-			"Kamu dapat menekan B untuk mengambil benda tertentu. Tekan B lagi untuk melepas benda tersebut."
-		],
-		"it": [
-			"È possibile premere B per catturare determinati oggetti. Premi di nuovo B per rilasciarli."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"Bを押すと特定のオブジェクトをつかむことができます。 Bを押すと、 それらを解放することができます。"
 		],
-		"nl": [
-			"Je kunt op B drukken om bepaalde voorwerpen te pakken. Druk nogmaals op B om ze los te laten."
-		],
-		"pl": [
-			"Możesz nacisnąć B, aby złapać niektóre przedmioty. Naciśnij ponownie B, aby je puścić."
-		],
-		"pt": [
-			"Você pode pressionar B para segurar certos objetos. Pressione B de novo para soltá-los."
-		],
-		"ru": [
-			"Вы можете нажать В, чтобы брать определённые объекты. Нажмите В, чтобы отпустить их."
-		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
 		"sv": [],
-		"tr": [
-			"Bazı nesneleri sürüklemek için B ye bas. Bırakmak için yeniden B ye bas."
-		]
+		"tr": []
 	},
 	"tutorial_sign_10": {
-		"de": [
-			"Halte B in der Luft, um einen Bauchstampfer zu machen."
-		],
-		"el": [
-			"Κρατήστε το B στον αέρα για να κάνετε ένα belly stomp."
-		],
-		"en": [
-			"Hold B in the air to do a belly stomp."
-		],
-		"es": [
-			"Mantén B en el aire para hacer una carga en el suelo."
-		],
-		"fr": [
-			"Maintiens B en l'air pour faire une charge au sol."
-		],
-		"id": [
-			"Tahan B saat melompat untuk melakukan hentakan perut."
-		],
-		"it": [
-			"Tieni premuto B in aria per fare uno schianto a terra."
-		],
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
 		"ja": [
 			"空中でBボタンを押すと、 ベリーストンプをすることができます。"
 		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"tutorial_sign_11": {
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
+		"ja": [
+			"ダイブ中に二重ジャンプをして再びダイブすると、かなりの距離を飛ぶことができます。"
+		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"tutorial_sign_12": {
+		"de": [],
+		"el": [],
+		"en": [],
+		"es": [],
+		"fr": [],
+		"id": [],
+		"it": [],
+		"ja": [
+			"ベリーストンプ中に地面にぶつかった瞬間にBを離すと、 ストンプブーストをすることができます。"
+		],
+		"nl": [],
+		"pl": [],
+		"pt": [],
+		"ru": [],
+		"sv": [],
+		"tr": []
+	},
+	"tutorial_tip_01": {
+		"de": [
+			"Benutze <b> um Feinde zu schlagen"
+		],
+		"el": [
+			"Χρησιμοποιήστε το <b> για να χτυπήσετε τους εχθρούς"
+		],
+		"en": [
+			"Use <b> to punch enemies"
+		],
+		"es": [
+			"Usa <b> para golpear enemigos"
+		],
+		"fr": [
+			"Utilise <b> pour frapper les ennemis."
+		],
+		"id": [
+			"Tekan <b> untuk meninju musuh."
+		],
+		"it": [],
+		"ja": [],
 		"nl": [
-			"Houd B ingedrukt in de lucht om een ​​buikstomp te doen."
+			"Gebruik <b> om vijanden te slaan"
 		],
 		"pl": [
-			"Przytrzymaj B w powietrzu aby zrobić belly stomp."
+			"Użyj <b>, aby uderzyć wrogów"
 		],
 		"pt": [
-			"Segure B no ar para realizar uma barrigada."
+			"Use <b> pra atacar inimigos"
 		],
 		"ru": [
-			"Удерживайте В в воздухе, чтобы сделать удар животом."
+			"Используйте <b>, чтобы бить врагов"
 		],
 		"sv": [],
 		"tr": [
-			"Havadayken B ye basılı tutarak karın saldırısı yap."
+			"Düşmanları yumruklamak için <b> tuşunu kullanın"
 		]
 	},
-	"tutorial_sign_11": {
+	"tutorial_tip_02": {
 		"de": [
-			"Du kannst während eines Sturzes einen Doppelsprung machen und dann erneut stürzen, um große Entfernungen zurückzulegen!"
+			"Verwende <a> in der Luft"
 		],
 		"el": [
-			"Μπορείτε να κάνετε διπλό άλμα κατά τη διάρκεια μιας κατάδυσης και στη συνέχεια να βουτήξετε ξανά για να καλύψετε μεγάλες αποστάσεις!"
+			"Χρησιμοποιήστε το <a> ενώ βρίσκεστε στον αέρα"
 		],
 		"en": [
-			"You can double jump during a dive and then dive again to cover great distances!"
+			"Use <a> while in air"
 		],
 		"es": [
-			"Puedes hacer un doble salto durante una inmersión y volver a sumergirte para cubrir largas distancias."
+			"Usa <a> mientras estés en el aire"
+		],
+		"fr": [
+			"Utilise <a> en étant en l'air"
+		],
+		"id": [
+			"Tekan <a> dua kali"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Gebruik <a> in de lucht"
+		],
+		"pl": [
+			"Użyj <a> będąc w powietrzu"
+		],
+		"pt": [
+			"Use <a> estando no ar"
+		],
+		"ru": [
+			"Используйте <a> пока Вы в воздухе"
+		],
+		"sv": [],
+		"tr": [
+			"Havadayken için <a> tuşuna basın"
+		]
+	},
+	"tutorial_tip_03": {
+		"de": [
+			"Weitsprung: Bewege dich dann <b> dann <a>//Stürze: <b> während der Luft"
+		],
+		"el": [
+			"Άλμα εις μήκος: Μετακινηθείτε μετά <b> και μετά <a>//Κατάδυση: <b> ενώ βρίσκεστε στον αέρα"
+		],
+		"en": [
+			"Long jump: Move then <b> then <a>//Dive: <b> while in air"
+		],
+		"es": [
+			"Salto alto: Muévete, presiona <b> y después <a>//Lanzamiento: <b> mientras estés en el aire"
+		],
+		"fr": [
+			"Saut en longueur: Courir puis <b> puis <a>//Plongeon: <b> en étant en l'air"
+		],
+		"id": [
+			"Lompat jauh: Berjalan lalu <b> lalu <a>//Berseluncur: <b> saat di udara"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Verspringen: Beweeg dan <b> en dan <a>// Duik: <b> terwijl je in de lucht bent"
+		],
+		"pl": [
+			"Skok w dal: Poruszaj się, następnie <b>, a następnie <a>//Skok: <b> w powietrzu"
+		],
+		"pt": [
+			"Salto longo: Ande e então <b> e depois <a>//Mergulho: <b> estando no ar"
+		],
+		"ru": [
+			"Длинный прыжок: Двигайтесь, затем <b>, затем <a>//Нырок: <b> пока Вы в воздухе"
+		],
+		"sv": [],
+		"tr": [
+			"Uzun atlama: Hareket et, sonra <b> sonra <a> tuşuna basın //Dalış: Havadayken <b> tuşuna basılı tutun"
+		]
+	},
+	"tutorial_tip_04": {
+		"de": [
+			"Einige Objekte können mit <b> gegriffen werden//Benutze <b> erneut, um sie loszulassen"
+		],
+		"el": [
+			"Μπορείτε να πιάσετε ορισμένα αντικείμενα χρησιμοποιώντας το <b>//Χρησιμοποιήστε το <b> ξανά για να το απελευθερώσετε"
+		],
+		"en": [
+			"Some objects can be grabbed using <b>//Use <b> again to release it"
+		],
+		"es": [
+			"Puedes tomar algunos objetos usando <b>//Usa <b> de nuevo para soltarlos"
+		],
+		"fr": [
+			"Certains objets peuvent être attrapés avec <b>//Utilise <b> à nouveau pour le relacher"
+		],
+		"id": [
+			"Beberapa benda dapat diambil dengan menekan <b>//Tekan <b> lagi untuk melepaskannya"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Sommige objecten kunnen worden vastgepakt met <b>//Gebruik nogmaals <b> om ze los te laten"
+		],
+		"pl": [
+			"Niektóre obiekty można chwycić za pomocą <b>//Użyj ponownie <b>, aby je zwolnić"
+		],
+		"pt": [
+			"Alguns objetos podem ser segurados com <b>//Use <b> novamente para soltar"
+		],
+		"ru": [
+			"Некоторые объекты можно взять используя <b>//Используйте <b> снова, чтобы его отпустить"
+		],
+		"sv": [],
+		"tr": [
+			"Bazı nesneler <b>kullanarak alınır //<b> kullanılarak tekrar bırakılabilir."
+		]
+	},
+	"tutorial_tip_05": {
+		"de": [
+			"Halte <b> in der Luft"
+		],
+		"el": [
+			"Κρατήστε το <b> ενώ βρίσκεστε στον αέρα"
+		],
+		"en": [
+			"Hold <b> while in air"
+		],
+		"es": [
+			"Presiona <b> mientras estés en el aire"
+		],
+		"fr": [
+			"Maintiens <b> en l'air"
+		],
+		"id": [
+			"Tahan <b> saat di udara"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Houd <b> vast terwijl je in de lucht bent"
+		],
+		"pl": [
+			"Przytrzymaj <b> w powietrzu"
+		],
+		"pt": [
+			"Segure <b> estando no ar"
+		],
+		"ru": [
+			"Удерживайте <b> пока Вы в воздухе"
+		],
+		"sv": [],
+		"tr": [
+			"Havadayken <b> tuşunu basılı tutun"
+		]
+	},
+	"tutorial_tip_06": {
+		"de": [
+			"Du kannst während eines Tauchgangs einen Doppelsprung ausführen und dann erneut tauchen, um große Entfernungen zurückzulegen."
+		],
+		"el": [
+			"Μπορείτε να κάνετε διπλό άλμα κατά τη διάρκεια μιας κατάδυσης και στη συνέχεια να βουτήξετε ξανά για να καλύψετε μεγάλες αποστάσεις."
+		],
+		"en": [
+			"You can double jump during a dive and then dive again to cover great distances."
+		],
+		"es": [
+			"Puedes hacer un doble salto durante un lanzamiento y después lanzarte de nuevo para recorrer grandes distancias"
 		],
 		"fr": [
 			"Tu peux faire un double saut pendant un plongeon et plonger à nouveau pour couvrir de grande distances."
 		],
 		"id": [
-			"Kamu dapat meloncat dua kali saat berseluncur lalu berseluncur lagi untuk menempuh lebih jauh!"
+			"Kamu dapat melompat dua kali saat berseluncur dan kemudian berseluncur lagi untuk menempuh jarak yang jauh."
 		],
-		"it": [
-			"È possibile fare un doppio salto dopo un'immersione e tuffarsi di nuovo per coprire lunghe distanze."
-		],
-		"ja": [
-			"ダイブ中に二重ジャンプをして再びダイブすると、かなりの距離を飛ぶことができます。"
-		],
+		"it": [],
+		"ja": [],
 		"nl": [
-			"Je kunt tijdens een duik dubbel springen en dan weer duiken om grote afstanden af ​​te leggen!"
+			"Je kunt tijdens een duik dubbel springen en dan nog een keer duiken om grote afstanden af te leggen."
 		],
 		"pl": [
-			"Możesz podwójnie skoczyć podczas używania dive a potem użyć dive jeszcze raz żeby pokonywać niesamowite dystanse!"
+			"Podczas nurkowania możesz wykonać podwójny skok, a następnie ponownie zanurkować, aby pokonać duże odległości."
 		],
 		"pt": [
-			"Você pode dar um segundo salto durante um mergulho e depois mergulhar de novo para cobrir grandes distâncias!"
+			"Você pode dar um segundo pulo depois de um mergulho e então mergulhar de novo pra cobrir maiores distâncias."
 		],
 		"ru": [
-			"Вы можете сделать двойной прыжок во время нырка и затем сделать нырок снова чтобы преодолеть дальние расстояния!"
+			"Вы можете сделать двойной прыжок во время нырка и затем нырнуть снова чтобы преодолеть большие дистанции"
 		],
 		"sv": [],
 		"tr": [
-			"Suda geniş uzaklıkları katetmek için dalış sırasında iki kez zıplayın daha sonra yeniden dalış yapın."
+			"Bir dalış sırasında çift zıplayabilir ve ardından büyük mesafeleri katetmek için tekrar dalış yapabilirsiniz."
 		]
 	},
-	"tutorial_sign_12": {
+	"tutorial_tip_07": {
 		"de": [
-			"Wenn du B loslässt, sobald du beim Bauchstampfen auf dem Boden aufschlägst, erhältst du einen Stampf Boost."
+			"Lasse <b> kurz bevor du denn Boden berührst los"
 		],
 		"el": [
-			"Αν αφήσετε το B ακριβώς τη στιγμή που πέφτετε στο έδαφος κατά τη διάρκεια ενός belly stomp, θα κάνετε ένα stomp boost."
+			"Αφήστε το <b> ακριβώς καθώς χτυπάτε στο έδαφος"
 		],
 		"en": [
-			"If you release B right as you hit the ground during a belly stomp, you will do a stomp boost."
+			"Release <b> right as you hit the ground"
 		],
 		"es": [
-			"Si sueltas B en el momento en que tocas el suelo durante una carga de tierra, harás una supercarga."
+			"Suelta <b> justo cuando golpees el suelo"
 		],
 		"fr": [
-			"Si tu lâches B à l'instant où tu touches le sol pendant une charge au sol, tu feras une super charge."
+			"Super charge: Relâche <b> à l'instant où tu touches le sol pendant une charge au sol"
 		],
 		"id": [
-			"Jika kamu melepas B tepat setelah kamu menghentakkan perut ke tanah, kamu akan mendapatkan dorongan hentakan."
+			"Lepas <b> tepat setelah kamu menyentuh daratan"
 		],
-		"it": [
-			"Se lasciate andare B nell'istante in cui toccate terra durante uno schianto a terra, farai un rimbalzo più alto di un salto!"
-		],
-		"ja": [
-			"ベリーストンプ中に地面にぶつかった瞬間にBを離すと、 ストンプブーストをすることができます。"
-		],
+		"it": [],
+		"ja": [],
 		"nl": [
-			"Als je B op het goede moment loslaat als je de grond raakt tijdens een buikstomp, doe je een stompboost."
+			"Laat <b> los zodra je de grond raakt"
 		],
 		"pl": [
-			"Jeśli puścisz B zaraz po uderzeniu w ziemię podczas belly stomp, zrobisz wzmocnienie."
+			"Zwolnij <b> zaraz po uderzeniu w ziemię"
 		],
 		"pt": [
-			"Ao dar uma barrigada e soltar B antes de bater no chão, você fará um pulo concentrado."
+			"Solte <b> estando perto de bater no chão"
 		],
 		"ru": [
-			"Если Вы отпустите В, как только ударитесь о землю, то сможете прыгнуть выше."
+			"Отпустите <b> прямо в момент удара о землю"
 		],
 		"sv": [],
 		"tr": [
-			"Karın saldırısı yaparken yere çarptığın sırada B ye basmayı bırakırsan saldırı yüksekliğin artacak."
+			"Yere düşer düşmez <b>'yi bırakın"
+		]
+	},
+	"tutorial_tip_title_01": {
+		"de": [
+			"Kämpfen"
+		],
+		"el": [
+			"Μαχητικός"
+		],
+		"en": [
+			"Fighting"
+		],
+		"es": [
+			"Pelea"
+		],
+		"fr": [
+			"Combat"
+		],
+		"id": [
+			"Melawan musuh"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Vechten"
+		],
+		"pl": [
+			"Walczący"
+		],
+		"pt": [
+			"Combate"
+		],
+		"ru": [
+			"Борьба"
+		],
+		"sv": [],
+		"tr": [
+			"Dövüş"
+		]
+	},
+	"tutorial_tip_title_02": {
+		"de": [
+			"Doppelsprung"
+		],
+		"el": [
+			"Διπλό άλμα"
+		],
+		"en": [
+			"Double jump"
+		],
+		"es": [
+			"Doble salto"
+		],
+		"fr": [
+			"Double saut"
+		],
+		"id": [
+			"Melompat dua kali"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Dubbele sprong"
+		],
+		"pl": [
+			"Podwójny skok"
+		],
+		"pt": [
+			"Pulo duplo"
+		],
+		"ru": [
+			"Двойной прыжок"
+		],
+		"sv": [],
+		"tr": [
+			"Çift zıplama"
+		]
+	},
+	"tutorial_tip_title_03": {
+		"de": [
+			"Weitsprung und Stürzen"
+		],
+		"el": [
+			"Άλμα εις μήκος και βουτιά"
+		],
+		"en": [
+			"Long jump and dive"
+		],
+		"es": [
+			"Salto alto y lanzamiento"
+		],
+		"fr": [
+			"Saut en longueur et plongeon"
+		],
+		"id": [
+			"Lompatan jauh dan berseluncur"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Verspringen en duiken"
+		],
+		"pl": [
+			"Skok w dal i nurkowanie"
+		],
+		"pt": [
+			"Salto longo e mergulho"
+		],
+		"ru": [
+			"Длинный прыжок и нырок"
+		],
+		"sv": [],
+		"tr": [
+			"Uzun atlama ve Dalış"
+		]
+	},
+	"tutorial_tip_title_04": {
+		"de": [
+			"Objekte greifen"
+		],
+		"el": [
+			"Αρπάζοντας αντικείμενα"
+		],
+		"en": [
+			"Grabbing objects"
+		],
+		"es": [
+			"Recoger objetos"
+		],
+		"fr": [
+			"Attraper des objets"
+		],
+		"id": [
+			"Mengambil benda"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Voorwerpen pakken"
+		],
+		"pl": [
+			"Chwytanie przedmiotów"
+		],
+		"pt": [
+			"Segurando objetos"
+		],
+		"ru": [
+			"Брать объекты"
+		],
+		"sv": [],
+		"tr": [
+			"Objeleri almak"
+		]
+	},
+	"tutorial_tip_title_05": {
+		"de": [
+			"Bauchstampfen"
+		],
+		"el": [
+			"Κοιλιά stomp"
+		],
+		"en": [
+			"Belly stomp"
+		],
+		"es": [
+			"Salto bomba"
+		],
+		"fr": [
+			"Charge au sol"
+		],
+		"id": [
+			"Hentakan perut"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Buik stampen"
+		],
+		"pl": [
+			"Uderzenie w brzuch"
+		],
+		"pt": [
+			"Barrigada"
+		],
+		"ru": [
+			"Шлепок животом"
+		],
+		"sv": [],
+		"tr": [
+			"Göbek saldırısı"
+		]
+	},
+	"tutorial_tip_title_06": {
+		"de": [
+			"Doppelter Sturz"
+		],
+		"el": [
+			"Διπλή βουτιά"
+		],
+		"en": [
+			"Double dive"
+		],
+		"es": [
+			"Doble lanzamiento"
+		],
+		"fr": [
+			"Double plongeon"
+		],
+		"id": [
+			"Berseluncur dua kali"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Dubbele duik"
+		],
+		"pl": [
+			"Podwójne nurkowanie"
+		],
+		"pt": [
+			"Mergulho duplo"
+		],
+		"ru": [
+			"Двойной нырок"
+		],
+		"sv": [],
+		"tr": [
+			"Çift dalış"
+		]
+	},
+	"tutorial_tip_title_07": {
+		"de": [
+			"Stampf schub"
+		],
+		"el": [
+			"Stomp Boost"
+		],
+		"en": [
+			"Stomp boost"
+		],
+		"es": [
+			"Super salto"
+		],
+		"fr": [
+			"Super charge"
+		],
+		"id": [
+			"Hentakan tambahan"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Stomp boost"
+		],
+		"pl": [
+			"Wzmocnienie Stompu"
+		],
+		"pt": [
+			"Barrigada concentrada"
+		],
+		"ru": [
+			"Усиленный шлепок"
+		],
+		"sv": [],
+		"tr": [
+			"Göbek desteği"
 		]
 	},
 	"ui_100coins": {
@@ -23512,7 +24690,7 @@
 			"Ta santé maximale monte à 6 points de vie.//L'effet s'arrête quand tu meurs ou quittes le jeu."
 		],
 		"id": [
-			"Nyawa maksimum kamu menjadi 6 buah.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
+			"Nyawa maksimum kamu menjadi 6.//Efek ini berakhir ketika kamu mati atau keluar dari permainan."
 		],
 		"it": [
 			"La tua salute massima sale a 6 punti salute.//L'effetto si interrompe quando muori o lasci il gioco."
@@ -23695,7 +24873,7 @@
 			"Wejdź do świata gier by zdobyć monety przez granie w mini-gry!"
 		],
 		"pt": [
-			"Vá ao Mundo Fliperama pra ganhar moedas com mini-jogos!"
+			"Entre no Mundo Fliperama pra ganhar moedas com mini-jogos!"
 		],
 		"ru": [
 			"Посетите Аркадный мир, чтобы заработать монеты в мини-играх!"
@@ -23731,7 +24909,7 @@
 			"アラクデワールドからの脱出"
 		],
 		"nl": [
-			"Arcade wereld"
+			"Arcade wereld verlaten..."
 		],
 		"pl": [
 			"Wyjście ze świata gier"
@@ -23815,7 +24993,7 @@
 			"アーケードワールド"
 		],
 		"nl": [
-			"Arcade wereld verlaten"
+			"Arcade wereld"
 		],
 		"pl": [
 			"Świat Gier"
@@ -23905,7 +25083,7 @@
 			"uwolnione niedźwiedzie"
 		],
 		"pt": [
-			"ursos salvos"
+			"Ursos salvos"
 		],
 		"ru": [
 			"Спасено медведей"
@@ -24213,22 +25391,22 @@
 	},
 	"ui_capitalus_hint": {
 		"de": [
-			"Ist dieses Level zu schwer? Versuche, einen Gesundheitsschub von Capitalus im Hub zu bekommen!"
+			"Ist dieses Level zu schwer? Versuche, von Capitalus im Bärendorf einen Gesundheitsschub zu bekommen!"
 		],
 		"el": [
-			"Είναι αυτό το επίπεδο πολύ δύσκολο; Προσπαθήστε να πάρετε μια ενίσχυση υγείας από τον Capitalus στον κόμβο ή παρακολουθήστε μια διαφήμιση για να αναζωογονηθείτε!"
+			"Είναι αυτό το επίπεδο πολύ δύσκολο; Προσπαθήστε να πάρετε μια ενίσχυση υγείας από τον Capitalus στο χωριό της αρκούδας!"
 		],
 		"en": [
-			"Is this level too hard? Try to get a health boost from Capitalus in the hub!"
+			"Is this level too hard? Try to get a health boost from Capitalus in the Bear Village!"
 		],
 		"es": [
-			"¿Es este nivel muy difícil? Intenta conseguir una bonificación de vida de Capitalus en el centro o mira un anuncio para revivir."
+			"¿Es este nivel muy difícil? Intenta conseguir una bonificación de vida de Capitalus en la aldea de los osos."
 		],
 		"fr": [
-			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le hub !"
+			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le Village Ours !"
 		],
 		"id": [
-			"Apakah level ini terlalu susah? Coba untuk mendapatkan nyawa tambahan dari Capitalus di hub!"
+			"Apakah level ini terlalu susah? Coba untuk mendapatkan nyawa tambahan dari Capitalus di Desa Beruang!"
 		],
 		"it": [
 			"Questo livello è troppo difficile? Puoi ottenere un bonus di vita da Capitalus nell'hub o guardare un annuncio per tornare in vita!"
@@ -24237,21 +25415,20 @@
 			"このレベルは難しいですか？ハブにいるキャピタロスからヘルスブーストをもらったり、 広告を見てリバイバルしてみてください。"
 		],
 		"nl": [
-			"Is dit level te moeilijk?  Probeer een levensboost te krijgen van Capitalus in de hub!"
+			"Is dit level te moeilijk?  Probeer een levensboost te krijgen van Capitalus in het berendorp!"
 		],
 		"pl": [
-			"Czy ten poziom jest zbyt trudny? Postaraj się uzyskać poprawę zdrowia od Capitalusa w centrum lub obejrzyj reklamę, aby kontynuować"
+			"Czy ten poziom jest zbyt trudny? Postaraj się o doładowanie zdrowia od Capitalusa w Wiosce Niedźwiedzi!"
 		],
 		"pt": [
-			"Esta fase está muito difícil? Tente pegar uma bônus de vida com Capitalus no hub!"
+			"Esta fase está muito difícil? Tente pegar uma bônus de vida com Capitalus na Vila dos Ursos!"
 		],
 		"ru": [
-			"Этот уровень слишком сложен? Попробуйте получить увеличенное здоровье от Капиталуса в центре!"
+			"Этот уровень слишком сложен? Попробуйте получить увеличенное здоровье от Капиталуса в Медвежьей Деревне!"
 		],
 		"sv": [],
 		"tr": [
-			"Bu seviye çok mu zor? Başlangıç noktasındaki Capitalus'dan sağlık arttırıcı almayı dene veya canlanmak için bir reklam izle!",
-			"Bu seviye çok mu zor? Merkezdeki Capitalus'tan sağlık desteği almaya çalışın!"
+			"Bu seviye çok mu zor? Ayı Köyündeki Capitalus'dan sağlık arttırıcı almayı dene veya canlanmak için bir reklam izle!"
 		]
 	},
 	"ui_cloud": {
@@ -24622,7 +25799,7 @@
 			"Znalezione monety"
 		],
 		"pt": [
-			"Moedas coletadas"
+			"Moedas encontradas"
 		],
 		"ru": [
 			"Найдено монет"
@@ -24815,7 +25992,7 @@
 			"Tu possèdes déjà//{0} !//Tu as gagné {1} pièces à la place !"
 		],
 		"id": [
-			"Kamu sudah memiliki//{0}!///Sebagai gantinya, kamu mendapatkan koin sebanyak {1}!"
+			"Kamu sudah memiliki//{0}!//Sebagai gantinya, kamu mendapatkan koin sebanyak {1}!"
 		],
 		"it": [
 			"Possiedi già a//{0}!// Hai vinto {1} monete!"
@@ -25918,24 +27095,62 @@
 			"Kovan"
 		]
 	},
-	"ui_hubconfirm": {
+	"ui_hub": {
 		"de": [
-			"Willst du wirklich zurück zum Hauptzentrum gehen?"
+			"Bärendorf"
 		],
 		"el": [
-			"Θέλετε πραγματικά να επιστρέψετε στον κόμβο;"
+			"χωριό της αρκούδας"
 		],
 		"en": [
-			"Do you really want to go back to the hub?"
+			"Bear Village"
 		],
 		"es": [
-			"¿De verdad quieres volver al centro?"
+			"Aldea de los osos"
 		],
 		"fr": [
-			"Veux-tu vraiment retourner au hub ?"
+			"Village Ours"
 		],
 		"id": [
-			"Apa kamu yakin ingin kembali ke hub?"
+			"Desa Beruang"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Berendorp"
+		],
+		"pl": [
+			"Wioska Niedźwiedzia"
+		],
+		"pt": [
+			"Vila dos Ursos"
+		],
+		"ru": [
+			"Медвежья Деревня"
+		],
+		"sv": [],
+		"tr": [
+			"Ayı Köyü"
+		]
+	},
+	"ui_hubconfirm": {
+		"de": [
+			"Willst du wirklich zurück ins Bärendorf?"
+		],
+		"el": [
+			"Θέλεις πραγματικά να επιστρέψεις στο χωριό της αρκούδας;"
+		],
+		"en": [
+			"Do you really want to go back to the Bear Village?"
+		],
+		"es": [
+			"¿De verdad quieres volver a la aldea de los osos?"
+		],
+		"fr": [
+			"Veux-tu vraiment retourner au Village Ours ?"
+		],
+		"id": [
+			"Apa kamu yakin ingin kembali ke Desa Beruang?"
 		],
 		"it": [
 			"Vuoi davvero tornare all'hub?"
@@ -25944,20 +27159,20 @@
 			"本当にハブに戻りたいですか？"
 		],
 		"nl": [
-			"Weet je zeker dat je naar de hub wil?"
+			"Weet je zeker dat je terug wil naar het Berendorp?"
 		],
 		"pl": [
-			"Czy napewno chcesz wrócić do centrum?"
+			"Czy naprawdę chcesz wrócić do Wioski Niedźwiedzi?"
 		],
 		"pt": [
-			"Você realmente quer voltar ao hub?"
+			"Você realmente quer voltar à Vila dos Ursos?"
 		],
 		"ru": [
-			"Вы действительно хотите вернуться в центр?"
+			"Вы действительно хотите вернуться в Медвежью Деревню?"
 		],
 		"sv": [],
 		"tr": [
-			"Başlangıç'a geri dönmek istediğinizden emin misiniz?"
+			"Ayı Köyüne geri dönmek istediğinizden emin misiniz?"
 		]
 	},
 	"ui_in": {
@@ -26244,7 +27459,7 @@
 			"Kliknij wiersz, aby zobaczyć tabelę wyników"
 		],
 		"pt": [
-			"Toque em uma linha para ver a tabela de classificação"
+			"Toque em uma linha para ver a classificação"
 		],
 		"ru": [
 			"Нажмите на ряд, чтобы увидеть список лидеров"
@@ -26466,57 +27681,37 @@
 	},
 	"ui_light_probes": {
 		"de": [],
-		"el": [
-			"Φωτεινοί ανιχνευτές"
-		],
-		"en": [
-			"Light probes"
-		],
+		"el": [],
+		"en": [],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Probe cahaya"
-		],
+		"id": [],
 		"it": [],
 		"ja": [
 			"ライトプローブ"
 		],
 		"nl": [],
-		"pl": [
-			"Sondy świetlne"
-		],
+		"pl": [],
 		"pt": [],
-		"ru": [
-			"Световые зонды"
-		],
+		"ru": [],
 		"sv": [],
 		"tr": []
 	},
 	"ui_lightmaps": {
 		"de": [],
-		"el": [
-			"Χάρτες φωτός"
-		],
-		"en": [
-			"Lightmaps"
-		],
+		"el": [],
+		"en": [],
 		"es": [],
 		"fr": [],
-		"id": [
-			"Map cahaya"
-		],
+		"id": [],
 		"it": [],
 		"ja": [
 			"ライトマップ"
 		],
 		"nl": [],
-		"pl": [
-			"Mapy świetlne"
-		],
+		"pl": [],
 		"pt": [],
-		"ru": [
-			"Светотени"
-		],
+		"ru": [],
 		"sv": [],
 		"tr": []
 	},
@@ -26564,13 +27759,13 @@
 	},
 	"ui_load_ad": {
 		"de": [
-			"Lade Anzeige..."
+			"Lade Anzeige"
 		],
 		"el": [
-			"Φόρτωση διαφήμισης..."
+			"Φόρτωση διαφήμισης"
 		],
 		"en": [
-			"Loading ad..."
+			"Loading ad"
 		],
 		"es": [
 			"Cargando el anuncio..."
@@ -26579,7 +27774,7 @@
 			"Chargement de la publicité..."
 		],
 		"id": [
-			"Memuat iklan..."
+			"Memuat iklan"
 		],
 		"it": [
 			"Caricamento della pubblicità..."
@@ -26588,16 +27783,16 @@
 			"広告の読み込み..."
 		],
 		"nl": [
-			"Advertentie laden..."
+			"Advertentie laden"
 		],
 		"pl": [
-			"Ładowanie reklamy..."
+			"Ładowanie reklamy"
 		],
 		"pt": [
-			"Carregando anúncio..."
+			"Carregando anúncio"
 		],
 		"ru": [
-			"Загрузка рекламы..."
+			"Загрузка рекламы"
 		],
 		"sv": [],
 		"tr": [
@@ -26606,13 +27801,13 @@
 	},
 	"ui_loading": {
 		"de": [
-			"Lade Level..."
+			"Lade Level"
 		],
 		"el": [
-			"Φόρτωση επιπέδου..."
+			"Φόρτωση επιπέδου"
 		],
 		"en": [
-			"Loading level..."
+			"Loading level"
 		],
 		"es": [
 			"Cargando el nivel..."
@@ -26621,7 +27816,7 @@
 			"Chargement du niveau..."
 		],
 		"id": [
-			"Memuat level..."
+			"Memuat level"
 		],
 		"it": [
 			"Caricamento del livello..."
@@ -26630,16 +27825,16 @@
 			"読み込みレベル..."
 		],
 		"nl": [
-			"Level laden..."
+			"Level laden"
 		],
 		"pl": [
-			"Ładuję Poziom..."
+			"Ładuję Poziom"
 		],
 		"pt": [
-			"Carregando fase..."
+			"Carregando fase"
 		],
 		"ru": [
-			"Загрузка..."
+			"Загрузка уровня"
 		],
 		"sv": [],
 		"tr": [
@@ -26705,7 +27900,7 @@
 			"Acheter une lootbox"
 		],
 		"id": [
-			"Beli kotak jarahan"
+			"Beli loot box"
 		],
 		"it": [
 			"Compra 1 pacchetto"
@@ -26921,13 +28116,13 @@
 			"Sfocatura cinetica"
 		],
 		"ja": [],
-		"nl": [],
+		"nl": [
+			"Bewegingsonscherpte"
+		],
 		"pl": [
 			"Rozmycie ruchu"
 		],
-		"pt": [
-			"Borrão de movimento"
-		],
+		"pt": [],
 		"ru": [
 			"Размытость во время движения"
 		],
@@ -26989,7 +28184,7 @@
 			"New best!"
 		],
 		"es": [
-			"(¡Nuevo récord!)"
+			"¡Nuevo récord!"
 		],
 		"fr": [
 			"Nouveau record !"
@@ -27094,7 +28289,7 @@
 			"Brak ulepszenia monet"
 		],
 		"pt": [
-			"Sair sem boost de moedas"
+			"Sair sem bônus de moedas"
 		],
 		"ru": [
 			"Выйти без допонительных монет"
@@ -27228,6 +28423,44 @@
 			"Seçenekler"
 		]
 	},
+	"ui_own": {
+		"de": [
+			"Du besitzt"
+		],
+		"el": [
+			"Σας ανήκει"
+		],
+		"en": [
+			"You own"
+		],
+		"es": [
+			"Tú posees"
+		],
+		"fr": [
+			"Tu possèdes"
+		],
+		"id": [
+			"Kamu punya"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Je bezit"
+		],
+		"pl": [
+			"Jesteś właścicielem"
+		],
+		"pt": [
+			"Você tem"
+		],
+		"ru": [
+			"У вас"
+		],
+		"sv": [],
+		"tr": [
+			"Sahipsin"
+		]
+	},
 	"ui_oxygen": {
 		"de": [
 			"Sauerstoff"
@@ -27316,7 +28549,9 @@
 		"de": [
 			"Persönliche Bestleistung:"
 		],
-		"el": [],
+		"el": [
+			"Προσωπικό ρεκόρ:"
+		],
 		"en": [
 			"Personal best:"
 		],
@@ -27334,7 +28569,9 @@
 		"nl": [
 			"Persoonlijk record"
 		],
-		"pl": [],
+		"pl": [
+			"Najlepszy wynik w karierze:"
+		],
 		"pt": [
 			"Recorde pessoal:"
 		],
@@ -27882,6 +29119,44 @@
 			"Seviyeyi yeniden başlatmak istediğinizden emin misiniz?"
 		]
 	},
+	"ui_restore_iap": {
+		"de": [
+			"Käufe wiederherstellen"
+		],
+		"el": [
+			"Επαναφορά αγορών"
+		],
+		"en": [
+			"Restore purchases"
+		],
+		"es": [
+			"Restaurar compras"
+		],
+		"fr": [
+			"Rétablir les achats"
+		],
+		"id": [
+			"Kembalikan pembelian"
+		],
+		"it": [],
+		"ja": [],
+		"nl": [
+			"Aankopen herstellen"
+		],
+		"pl": [
+			"Przywracanie zakupów"
+		],
+		"pt": [
+			"Restaurar compras"
+		],
+		"ru": [
+			"Восстановить покупки"
+		],
+		"sv": [],
+		"tr": [
+			"Satın alımları sıfırla"
+		]
+	},
 	"ui_resume": {
 		"de": [
 			"Fortfahren"
@@ -27926,22 +29201,22 @@
 	},
 	"ui_returntohub": {
 		"de": [
-			"Zurück zum Hauptzentrum"
+			"Zurück ins//Bärendorf"
 		],
 		"el": [
-			"Επιστροφή στον κόμβο"
+			"Επιστροφή στο//χωριό της αρκούδας"
 		],
 		"en": [
-			"Return to hub"
+			"Return to the//Bear Village"
 		],
 		"es": [
-			"Volver al centro"
+			"Volver a la//aldea de los osos"
 		],
 		"fr": [
-			"Retourner au hub"
+			"Retourner au//Village Ours"
 		],
 		"id": [
-			"Kembali ke hub"
+			"Kembali ke//Desa Beruang"
 		],
 		"it": [
 			"Torna all'hub"
@@ -27950,37 +29225,37 @@
 			"ハブに戻る"
 		],
 		"nl": [
-			"Terug naar hub"
+			"Terug naar het//Berendorp"
 		],
 		"pl": [
-			"Powrót do centrum"
+			"Powrót do ekranu//Bear Village"
 		],
 		"pt": [
-			"Voltar ao hub"
+			"Voltar à//Vila dos Ursos"
 		],
 		"ru": [
-			"Вернуться в центр"
+			"Вернуться в//Медвежью Деревню"
 		],
 		"sv": [],
 		"tr": [
-			"Başlangıç'a geri dön"
+			"Ayı Köyüne geri dön"
 		]
 	},
 	"ui_returntotitle": {
 		"de": [
-			"Zurück zum Titelbildschirm"
+			"Zurück ins//Titelbildschirm"
 		],
 		"el": [
-			"Επιστροφή στην οθόνη τίτλου"
+			"Επιστροφή στην///οθόνη τίτλου"
 		],
 		"en": [
-			"Return to Title screen"
+			"Return to the//title screen"
 		],
 		"es": [
-			"Volver a la pantalla del título"
+			"Volver a la//pantalla del título"
 		],
 		"fr": [
-			"Retourner à l'écran-titre"
+			"Retourner à//l'écran-titre"
 		],
 		"id": [
 			"Kembali ke layar judul"
@@ -27992,16 +29267,16 @@
 			"タイトル画面に戻る"
 		],
 		"nl": [
-			"Terug naar titelscherm"
+			"Terug naar het//titelscherm"
 		],
 		"pl": [
 			"Powrót do ekranu tytułowego"
 		],
 		"pt": [
-			"Voltar pra Tela de Título"
+			"Voltar pra//tela de título"
 		],
 		"ru": [
-			"К начальному экрану"
+			"Вернуться к//начальному экрану"
 		],
 		"sv": [],
 		"tr": [
@@ -28244,7 +29519,7 @@
 			"Głośność efektów dzwiękowych"
 		],
 		"pt": [
-			"Volume de efeitos sonoros"
+			"Volume efeitos sonoros"
 		],
 		"ru": [
 			"Громкость звуковых эффектов"
@@ -28439,7 +29714,7 @@
 			"Regarde une publicité et Capitalus//te donnera un bonus !"
 		],
 		"id": [
-			"Lihat sebuah iklan dan Capitalus//akan memberikanmu bonus!"
+			"Tonton iklan dan Capitalus//akan memberikanmu bonus!"
 		],
 		"it": [
 			"Guardate una pubblicità e Capitalus//vi darà un bonus!"
@@ -28704,7 +29979,7 @@
 			"Timer"
 		],
 		"pt": [
-			"Temporizador"
+			"Cronômetro"
 		],
 		"ru": [
 			"Таймер"
@@ -28830,7 +30105,7 @@
 			"Przyjdź tu na nową misję każdego dnia o 10:00!//Każda udana misja daje ci jeden żeton Tristopio. Możesz wydać swoje żetony, aby odblokować unikalną odzież! Za każdym razem, gdy nie uda ci się zrealizować misji, tracisz jeden zestaw okularów wirtualnej rzeczywistości."
 		],
 		"pt": [
-			"Venha aqui para uma nova missão às 10 horas da manhã todo dia!//Cada missão concluída te dá uma Ficha do Tristopio. Você pode gastar elas pra desbloquear roupas únicas! Cada vez que falhar em uma missão, você perde um headset."
+			"Venha aqui para uma nova missão às 10 horas da manhã todo dia!//Cada missão concluída te dá uma ficha do Tristopio. Você pode gastar elas pra desbloquear roupas únicas! Cada vez que falhar em uma missão, você perde um headset."
 		],
 		"ru": [
 			"Приходите сюда каждый день чтобы получить новые миссии в 10 утра!//Каждая успешно выполненая миссия награждает вас одним Жетоном Тристопио. Вы можете потратить свои жетоны чтобы разблокировать уникальную одежду. Каждый раз когда вы проигрываете то проваливаете миссию и теряете свою гарнитуру."
@@ -29176,7 +30451,9 @@
 		"de": [
 			"Deine Zeit"
 		],
-		"el": [],
+		"el": [
+			"Ο χρόνος σας"
+		],
 		"en": [
 			"Your time"
 		],
@@ -29194,7 +30471,9 @@
 		"nl": [
 			"Jouw tijd"
 		],
-		"pl": [],
+		"pl": [
+			"Twój czas"
+		],
 		"pt": [
 			"Seu tempo"
 		],

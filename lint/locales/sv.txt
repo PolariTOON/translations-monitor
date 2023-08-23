@@ -1,4 +1,16 @@
-Translation coverage: 37 / 652 required (5.67%), 0 / 81 optional (0.00%)
+Translation coverage: 26 / 677 required (3.84%), 0 / 79 optional (0.00%)
+The following keys have extra translations:
+- loading_1
+- loading_2
+- loading_3
+- loading_4
+- loading_5
+- loading_6
+- loading_7
+- loading_8
+- loading_9
+- tutorial_sign_02
+- tutorial_sign_04
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -145,7 +157,17 @@ The following keys have missing translations:
 - cosmetic_110
 - cosmetic_111
 - cosmetic_default
+- ctokens_description
+- ctokens_name
+- ctokens_requirement
 - filter_00
+- fwheel_item_owned
+- fwheel_item_reward
+- fwheel_premium
+- fwheel_reward_none
+- fwheel_reward_normal
+- fwheel_spin
+- fwheel_title
 - help_birds
 - help_fancy_shaders
 - help_fast_restart
@@ -156,8 +178,6 @@ The following keys have missing translations:
 - help_hide_inputs
 - help_invert_camera
 - help_key_help
-- help_light_probes
-- help_lightmaps
 - help_motion_blur
 - help_shicka_tips
 - help_speedrun_mode
@@ -219,6 +239,8 @@ The following keys have missing translations:
 - hub_tristopio
 - iap_noads_desc_1
 - iap_noads_desc_2
+- iap_noads_desc_3
+- iap_noads_desc_4
 - iap_noads_status_1
 - iap_noads_status_2
 - iap_noads_title
@@ -261,7 +283,6 @@ The following keys have missing translations:
 - level1_sign_4
 - level1_sign_5
 - level1_sign_6
-- level1_stair_cutscene_1
 - level1_turtle_1
 - level1_turtle_2
 - level1_turtle_3
@@ -272,6 +293,7 @@ The following keys have missing translations:
 - level1_tutorial_1
 - level1_tutorial_2
 - level1_tutorial_3
+- level1_tutorial_exit
 - level2_boss_1
 - level2_boss_2
 - level2_boss_3
@@ -347,6 +369,15 @@ The following keys have missing translations:
 - level4_mouse_7
 - level4_mouse_8
 - level4_sign_1
+- loading_01
+- loading_02
+- loading_03
+- loading_04
+- loading_05
+- loading_06
+- loading_07
+- loading_08
+- loading_09
 - loading_10
 - merch_ad
 - mission_0_1
@@ -404,7 +435,11 @@ The following keys have missing translations:
 - photo_title
 - rarity_common
 - rarity_epic
+- rarity_legendary
 - rarity_rare
+- reward_active
+- reward_disabled
+- reward_free
 - save_bear_tip_1
 - save_bear_tip_2
 - scientist_cutscene_1_1
@@ -418,16 +453,13 @@ The following keys have missing translations:
 - scientist_cutscene_2_2
 - scientist_cutscene_3_1
 - scientist_cutscene_3_2
-- shicka_0_1
-- shicka_0_2
-- shicka_0_3
-- shicka_0_4
 - shicka_1_1
 - shicka_1_2
 - shicka_1_3
 - shicka_1_4
 - shicka_1_5
 - shicka_1_6
+- shicka_1_7
 - shicka_2_1
 - shicka_2_2
 - shicka_2_3
@@ -445,9 +477,16 @@ The following keys have missing translations:
 - shicka_4_3
 - shicka_4_4
 - shicka_4_5
+- shicka_4_6
+- shicka_4_7
+- shicka_gate_1
 - shicka_hive_1
 - shicka_hive_2
 - shicka_hive_3
+- shicka_hive_4
+- shicka_hub_1
+- splash_company
+- splash_gamepad
 - sticker_found
 - studio_help_1
 - studio_help_2
@@ -458,6 +497,8 @@ The following keys have missing translations:
 - title_gameplay
 - title_graphics1
 - title_graphics2
+- title_iap
+- title_inputs
 - title_sound
 - tristopio_ad
 - tristopio_no_life
@@ -471,16 +512,20 @@ The following keys have missing translations:
 - tutorial_shicka_4
 - tutorial_shicka_5
 - tutorial_shicka_6
-- tutorial_sign_01
-- tutorial_sign_03
-- tutorial_sign_05
-- tutorial_sign_06
-- tutorial_sign_07
-- tutorial_sign_08
-- tutorial_sign_09
-- tutorial_sign_10
-- tutorial_sign_11
-- tutorial_sign_12
+- tutorial_tip_01
+- tutorial_tip_02
+- tutorial_tip_03
+- tutorial_tip_04
+- tutorial_tip_05
+- tutorial_tip_06
+- tutorial_tip_07
+- tutorial_tip_title_01
+- tutorial_tip_title_02
+- tutorial_tip_title_03
+- tutorial_tip_title_04
+- tutorial_tip_title_05
+- tutorial_tip_title_06
+- tutorial_tip_title_07
 - ui_100coins
 - ui_100coins_desc
 - ui_2x_coins
@@ -539,6 +584,7 @@ The following keys have missing translations:
 - ui_gyroscope
 - ui_hide_inputs
 - ui_hive
+- ui_hub
 - ui_hubconfirm
 - ui_in
 - ui_introconfirm
@@ -569,6 +615,7 @@ The following keys have missing translations:
 - ui_none
 - ui_open_shop
 - ui_options
+- ui_own
 - ui_oxygen
 - ui_performance
 - ui_personal_best
@@ -585,6 +632,7 @@ The following keys have missing translations:
 - ui_respawn
 - ui_restart
 - ui_restartconfirm
+- ui_restore_iap
 - ui_resume
 - ui_returntohub
 - ui_returntotitle
@@ -695,5 +743,3 @@ The following keys have missing, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
-- ui_light_probes
-- ui_lightmaps
