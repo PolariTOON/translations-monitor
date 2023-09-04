@@ -1,6 +1,11 @@
 {
-  "type": "module",
   "dependencies": {
-    "node-fetch": "^3.2.10"
-  }
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "bind": "node bind.js",
+    "cache": "node cache.js",
+    "lint": "node lint.js"
+  },
+  "type": "module"
 }
