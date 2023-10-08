@@ -48,8 +48,12 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 			locales[locale][key].push(value);
 		}
 		console.log(`Got sheet ${locale}`);
+		await new Promise((resolve) => {
+			setTimeout(resolve, 800);
+		});
 	} catch (error) {
 		console.warn(`Error while getting sheet ${locale}`);
+		throw error;
 	}
 }
 for (const [locale, values] of Object.entries(locales)) {
