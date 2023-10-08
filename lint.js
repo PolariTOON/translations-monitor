@@ -4,7 +4,7 @@ const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
 function isRequired(locale, key) {
-	return ["en", "ja"].includes(locale) || ["filter_00"].includes(key) || !key.startsWith("char_bear_") && !key.startsWith("filter_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "char_violette", "cosmetic_094", "cosmetic_104", "iap_premium_title"].includes(key);
+	return ["el", "en", "ru", "ja"].includes(locale) || ["filter_00"].includes(key) || !key.startsWith("char_bear_") && !key.startsWith("filter_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "char_violette", "cosmetic_094", "cosmetic_104", "iap_premium_title"].includes(key);
 }
 for (const locale of Object.keys(locales)) {
 	localeWarns[locale] = Object.create(null);
