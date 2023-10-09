@@ -1,4 +1,4 @@
-Translation coverage: 676 / 677 required (99.85%), 34 / 79 optional (43.04%)
+Translation coverage: 677 / 677 required (100.00%), 34 / 79 optional (43.04%)
 The following keys have extra, but optional, translations:
 - filter_01
 - filter_02
@@ -34,8 +34,6 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
-The following keys have missing translations:
-- char_fennec
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -83,6 +81,7 @@ The following keys have missing, but optional, translations:
 - filter_24
 - filter_27
 The following keys have transparent translations:
+- char_fennec
 - cosmetic_004
 - cosmetic_006
 - cosmetic_048

@@ -1,4 +1,4 @@
-Translation coverage: 675 / 677 required (99.70%), 46 / 79 optional (58.23%)
+Translation coverage: 677 / 677 required (100.00%), 46 / 79 optional (58.23%)
 The following keys have extra, but optional, translations:
 - char_bear_04
 - char_bear_05
@@ -46,9 +46,6 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
-The following keys have missing translations:
-- char_note
-- ui_save_kingdom
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01

@@ -1,11 +1,13 @@
-Translation coverage: 666 / 677 required (98.38%), 36 / 79 optional (45.57%)
+Translation coverage: 677 / 677 required (100.00%), 40 / 79 optional (50.63%)
 The following keys have extra, but optional, translations:
 - char_bear_05
+- cosmetic_094
 - cosmetic_104
 - filter_01
 - filter_02
 - filter_03
 - filter_04
+- filter_05
 - filter_06
 - filter_07
 - filter_08
@@ -15,6 +17,7 @@ The following keys have extra, but optional, translations:
 - filter_12
 - filter_13
 - filter_14
+- filter_15
 - filter_16
 - filter_17
 - filter_18
@@ -26,6 +29,7 @@ The following keys have extra, but optional, translations:
 - filter_24
 - filter_25
 - filter_26
+- filter_27
 - filter_28
 - filter_29
 - filter_30
@@ -36,18 +40,6 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
-The following keys have missing translations:
-- arcade_race_2
-- cosmetic_006
-- cosmetic_048
-- cosmetic_071
-- cosmetic_084
-- hub_bear_15
-- hub_bear_30
-- mission_parkour
-- time_format
-- ui_game_over
-- ui_motion_blur
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -88,10 +80,20 @@ The following keys have missing, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
+The following keys have transparent translations:
+- arcade_race_2
+- cosmetic_006
+- cosmetic_048
+- cosmetic_071
 - cosmetic_094
 - filter_05
 - filter_15
 - filter_27
-The following keys have transparent translations:
+- hub_bear_15
+- hub_bear_30
 - iap_premium_title
+- mission_parkour
+- time_format
+- ui_game_over
+- ui_motion_blur
 - ui_quality1

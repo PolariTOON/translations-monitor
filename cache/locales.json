@@ -679,8 +679,6 @@
 		"help_key_help": [
 			"Wenn du einen Schlüssel erhältst, wird die Richtung des entsprechenden Käfigs angezeigt"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Sollen sich schnell bewegende Objekte unscharf sein? Die Deaktivierung dieser Funktion verbessert die Leistung."
 		],
@@ -1023,7 +1021,6 @@
 		"level1_sign_6": [
 			"Du musst mindestens 125 von 150 Münzen in diesem Level finden, um diesen Käfig zu öffnen."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Die Bewohner des Dorfes haben Angst, du musst uns helfen!"
 		],
@@ -1309,7 +1306,6 @@
 		"loading_09": [
 			"Verwende deine Münzen im Bärendorf um Kleidung freizuschalten!"
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Erkunde den Hauptzentrum und finde einige interessante Dinge!"
 		],
@@ -1322,14 +1318,6 @@
 		"loading_13": [
 			"Herze tauchen nach 30 Sekunden wieder auf."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Jetzt erhältlich bei {0}"
 		],
@@ -1552,10 +1540,6 @@
 		"scientist_cutscene_3_2": [
 			"Wenn du mutig genug bist, sie zu retten, kann ich dich schrumpfen lassen und dich hineinlassen."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Du solltest versuchen, deinen Angriff auf diesen Hebel zu richten."
 		],
@@ -1733,18 +1717,6 @@
 		"tutorial_shicka_6": [
 			"... und dann die Beemothep Wüste erkunden."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Benutze <b> um Feinde zu schlagen"
 		],
@@ -2015,8 +1987,6 @@
 		"ui_life": [
 			"Leben"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Laden"
 		],
@@ -2349,7 +2319,9 @@
 		"char_bear_30": [],
 		"char_bear_31": [],
 		"char_bear_32": [],
-		"char_bee": [],
+		"char_bee": [
+			"Μέλισσα"
+		],
 		"char_brother": [
 			"Ο αδερφός του Baaren"
 		],
@@ -2366,11 +2338,15 @@
 		"char_mouse": [
 			"Ποντίκι"
 		],
-		"char_note": [],
-		"char_penguin": [
-			"πιγκουίνος"
+		"char_note": [
+			"Σημείωση"
 		],
-		"char_queen": [],
+		"char_penguin": [
+			"Πιγκουίνος"
+		],
+		"char_queen": [
+			"Βασίλισσα Beeatrice"
+		],
 		"char_reindeer": [
 			"Τάρανδος"
 		],
@@ -2402,7 +2378,7 @@
 			"Πανκ μαλλιά"
 		],
 		"cosmetic_006": [
-			"Fez"
+			"Φέσι"
 		],
 		"cosmetic_007": [
 			"Στέμμα"
@@ -2435,7 +2411,7 @@
 			"Μυώδες σώμα"
 		],
 		"cosmetic_017": [
-			"Bowtie"
+			"Παπιγιόν"
 		],
 		"cosmetic_018": [
 			"Χρυσή αρκούδα"
@@ -2710,9 +2686,15 @@
 		"cosmetic_108": [
 			"Μαγικά βήματα"
 		],
-		"cosmetic_109": [],
-		"cosmetic_110": [],
-		"cosmetic_111": [],
+		"cosmetic_109": [
+			"Χαριτωμένο πρόσωπο"
+		],
+		"cosmetic_110": [
+			"Τούρτα γενεθλίων"
+		],
+		"cosmetic_111": [
+			"Κόκκινη αρκούδα"
+		],
 		"cosmetic_default": [
 			"Προεπιλεγμένο"
 		],
@@ -2887,8 +2869,6 @@
 		"help_key_help": [
 			"Όταν παίρνετε ένα πλήκτρο, εμφανίζεται η κατεύθυνση του αντίστοιχου κλουβιού"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Πρέπει να είναι θολά τα αντικείμενα που κινούνται γρήγορα; Η απενεργοποίηση αυτής της λειτουργίας βελτιώνει την απόδοση."
 		],
@@ -3231,7 +3211,6 @@
 		"level1_sign_6": [
 			"Πρέπει να βρεις τουλάχιστον 125 κέρματα από τα 150 σε αυτό το επίπεδο για να ανοίξεις αυτό το κλουβί."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Οι κάτοικοι του χωριού είναι φοβισμένοι, πρέπει να μας βοηθήσετε !"
 		],
@@ -3517,7 +3496,6 @@
 		"loading_09": [
 			"Χρησιμοποιήστε τα νομίσματά σας στον κόμβο για να ξεκλειδώσετε ρούχα!"
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Μη διστάσετε να εξερευνήσετε τον κόμβο για να βρείτε μερικά ενδιαφέροντα πράγματα!"
 		],
@@ -3530,14 +3508,6 @@
 		"loading_13": [
 			"Οι καρδιές ξαναζωντανεύουν μετά από 30 δευτερόλεπτα."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Διαθέσιμο τώρα στο {0}"
 		],
@@ -3760,10 +3730,6 @@
 		"scientist_cutscene_3_2": [
 			"Αν είσαι αρκετά γενναίος για να τα σώσεις, μπορώ να σε συρρικνώσω και να σε αφήσω να μπεις μέσα."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Θα πρέπει να προσπαθήσετε να χρησιμοποιήσετε την επίθεσή σας σε αυτόν τον μοχλό."
 		],
@@ -3941,18 +3907,6 @@
 		"tutorial_shicka_6": [
 			"Θα μπορούσαμε επίσης να εξερευνήσουμε την έρημο Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Χρησιμοποιήστε το <b> για να χτυπήσετε τους εχθρούς"
 		],
@@ -4223,8 +4177,6 @@
 		"ui_life": [
 			"Ζωή"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Φόρτωση"
 		],
@@ -4348,7 +4300,9 @@
 		"ui_save": [
 			"Αποθήκευση"
 		],
-		"ui_save_kingdom": [],
+		"ui_save_kingdom": [
+			"Σώστε το βασίλειο"
+		],
 		"ui_select_quality": [
 			"Επιλέξτε ποιότητα γραφικών:"
 		],
@@ -4451,7 +4405,7 @@
 			"The Race game is a time trial. After each lap, you gain coins based on the time you took to complete the lap."
 		],
 		"arcade_1_2": [
-			"Hop onto the quad bike and remember to stay balanced during jumps using your air control."
+			"Hop onto the quad bike and remember to stay balanced during jumps using air controls."
 		],
 		"arcade_2_1": [
 			"The Platform Parkour is an infinite parkour made of different platforms. The further you go in the parkour, the more coins you will get, but the more difficult the jumps will be."
@@ -5015,7 +4969,7 @@
 			"Default"
 		],
 		"ctokens_description": [
-			"Get Capitalus tokens from collecting coins in levels. You can spend your token to get various bonuses from Capitalus."
+			"Get Capitalus tokens from collecting coins in levels. You can spend your tokens to get various bonuses from Capitalus."
 		],
 		"ctokens_name": [
 			"Capitalus tokens"
@@ -5185,10 +5139,8 @@
 		"help_key_help": [
 			"When you get a key, the direction of the corresponding cage is displayed"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
-			"Should fast moving objects be blurry? Disabling this improves performance."
+			"Should fast moving objects be blurry? Disabling this improves performance"
 		],
 		"help_shicka_tips": [
 			"Shows Shicka's tips"
@@ -5221,7 +5173,7 @@
 			"Wow, that was close!"
 		],
 		"hive_boss_1_8": [
-			"Nice reflexes brother! Looks like I won't be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
+			"Nice reflexes brother! It looks like I won't be touching you with that laser, but perhaps Queen Beeatrice herself can calm you down."
 		],
 		"hive_boss_2_1": [
 			"You can't escape anymore!"
@@ -5428,7 +5380,7 @@
 			"<h>Double coins</h> for free"
 		],
 		"iap_premium_desc_7": [
-			"Get <h>Capitalus tokens</h> faster!"
+			"Get <h>Capitalus tokens</h> faster"
 		],
 		"iap_premium_status_1": [
 			"You already have SBA Gold!"
@@ -5529,7 +5481,6 @@
 		"level1_sign_6": [
 			"You need to find at least 125 coins out of 150 in this level to open this cage."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"The inhabitants of the village are afraid, you must help us!"
 		],
@@ -5561,7 +5512,7 @@
 			"Also, note that coins will reappear each time we leave the level."
 		],
 		"level1_tutorial_exit": [
-			"We can go back to the Bear Village and look for bears in other areas. We will go back to Turtletown later."
+			"We can go back to the Bear Village and look for bears in other areas. We will come back to Turtletown later."
 		],
 		"level2_boss_1": [
 			"Here is the renowned Yeti... Let's avoid its attacks for now. Wait until it's exhausted before attacking."
@@ -5815,7 +5766,6 @@
 		"loading_09": [
 			"Use your coins in the Bear Village to unlock clothing!"
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Feel free to explore the Bear Village to find some interesting stuff!"
 		],
@@ -5828,14 +5778,6 @@
 		"loading_13": [
 			"Hearts respawn after 30 seconds."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Available now on {0}"
 		],
@@ -6058,10 +6000,6 @@
 		"scientist_cutscene_3_2": [
 			"If you are brave enough to save them, I can shrink you down and let you in."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"You should try to use your attack on this lever."
 		],
@@ -6239,18 +6177,6 @@
 		"tutorial_shicka_6": [
 			"... and then explore the Beemothep Desert."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Use <b> to punch enemies"
 		],
@@ -6261,16 +6187,16 @@
 			"Long jump: Move then <b> then <a>//Dive: <b> while in air"
 		],
 		"tutorial_tip_04": [
-			"Some objects can be grabbed using <b>//Use <b> again to release it"
+			"Some objects can be grabbed using <b>//Use <b> again to release them"
 		],
 		"tutorial_tip_05": [
 			"Hold <b> while in air"
 		],
 		"tutorial_tip_06": [
-			"You can double jump during a dive and then dive again to cover great distances."
+			"You can double jump during a dive and then dive again to cover great distances"
 		],
 		"tutorial_tip_07": [
-			"Release <b> right as you hit the ground"
+			"Release <b> right as you hit the ground during a belly stomp"
 		],
 		"tutorial_tip_title_01": [
 			"Fighting"
@@ -6521,8 +6447,6 @@
 		"ui_life": [
 			"Life"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Load"
 		],
@@ -7407,8 +7331,6 @@
 		"help_key_help": [
 			"Cuando consigues una llave, se muestra la dirección de la jaula"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"¿Debería un objeto rápido en movimiento ser borroso? Deshabilitar esto mejora el rendimiento."
 		],
@@ -7751,7 +7673,6 @@
 		"level1_sign_6": [
 			"Debes encontrar al menos 125 de 150 monedas en este nivel para abrir esta jaula."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Los habitantes del pueblo están asustados, ¡debes ayudarnos!"
 		],
@@ -8037,7 +7958,6 @@
 		"loading_09": [
 			"Utiliza tus monedas en el centro para desbloquear ropa."
 		],
-		"loading_1": [],
 		"loading_10": [
 			"No dudes en explorar el centro para encontrar cosas interesantes."
 		],
@@ -8050,14 +7970,6 @@
 		"loading_13": [
 			"Los corazones reaparecerán después de 30 segundos."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Disponible para su compra en {0}"
 		],
@@ -8233,10 +8145,10 @@
 			"Raro"
 		],
 		"reward_active": [
-			"Activa"
+			"Activado"
 		],
 		"reward_disabled": [
-			"Deshabilitada"
+			"Desactivado"
 		],
 		"reward_free": [
 			"Gratis"
@@ -8280,10 +8192,6 @@
 		"scientist_cutscene_3_2": [
 			"Si eres lo suficientemente valiente como para salvarlos, puedo encogerte y dejarte entrar."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Deberías intentar usar tu ataque en esa palanca."
 		],
@@ -8461,18 +8369,6 @@
 		"tutorial_shicka_6": [
 			"... y luego explorar el desierto de Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Usa <b> para golpear enemigos"
 		],
@@ -8743,8 +8639,6 @@
 		"ui_life": [
 			"Vida"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Cargando"
 		],
@@ -8973,7 +8867,7 @@
 			"Ceci est une course contre-la-montre. Après chaque tour tu gagnes des pièces en fonction du temps mis à compléter le tour."
 		],
 		"arcade_1_2": [
-			"Monte sur le quad et n'oublie pas de rester droit pendant les sauts en utilisant le contrôle aérien."
+			"Monte sur le quad et n'oublie pas de rester droit pendant les sauts en utilisant les contrôles aériens."
 		],
 		"arcade_2_1": [
 			"La Parkour de Plateformes est un parcours infini composé de différentes plateformes. Plus tu iras loin, plus tu auras de pièces, mais les sauts deviendront plus difficiles."
@@ -9579,25 +9473,25 @@
 			"Monde néonisé"
 		],
 		"fwheel_item_owned": [
-			"Tu possèdes déjà chaque objet {0} donc tu as reçu {1} pièces à la place."
+			"Tu possèdes déjà chaque article {0} donc tu as reçu {1} pièces à la place."
 		],
 		"fwheel_item_reward": [
-			"Tu as gagné un nouvel objet {0} : {1}"
+			"Tu as gagné un nouvel article {0} : {1}"
 		],
 		"fwheel_premium": [
-			"Faire tourner la Roue de la Fortune de Capitalos nécéssite SBA Gold!"
+			"Faire tourner la Roue de la Fortune de Capitalos nécessite SBA Gold !"
 		],
 		"fwheel_reward_none": [
-			"Tu n'as rien gagné... Plus de chance la prochaine fois!"
+			"Tu n'as rien gagné... Plus de chance la prochaine fois !"
 		],
 		"fwheel_reward_normal": [
 			"Tu as gagné {0} {1}"
 		],
 		"fwheel_spin": [
-			"Tourner la roue!"
+			"Tourner la roue !"
 		],
 		"fwheel_title": [
-			"Roue de la fortune"
+			"Roue de la Fortune"
 		],
 		"help_birds": [
 			"Désactiver les oiseaux améliore les performances"
@@ -9629,10 +9523,8 @@
 		"help_key_help": [
 			"Quand tu as une clef, la direction de la cage correspondante est affichée"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
-			"Les objets qui se déplacent rapidement doivent-ils être flous ? Désactiver ceci améliore les performances"
+			"Les objets se déplaçant rapidement doivent-ils être flous ? Désactiver ceci améliore les performances"
 		],
 		"help_shicka_tips": [
 			"Montre les conseils de Shicka"
@@ -9755,7 +9647,7 @@
 			"Je suis content d'être enfin retourné ici, cette vallée était horrible."
 		],
 		"hub_bear_12": [
-			"On aurait peut-être dû ramener les manchots ici pour les sauver, non ?"
+			"Peut-être que nous aurions dû ramener les manchots ici pour les sauver ?"
 		],
 		"hub_bear_13": [
 			"Ce puzzle était vraiment compliqué, tu ne trouves pas ?"
@@ -9818,10 +9710,10 @@
 			"Moi ours."
 		],
 		"hub_capitalos": [
-			"Saluuut ! C'est moi, Capitalooos, le frère de Capitalus ! Est-ce que tu est la pour des... MEILLEURES récompeeenses ? C'est ton jour de chaaance, parce-que tu est au PLUS MEILLEUR magasin de tout le royaaaume!"
+			"Saluuut ! C'est moi, Capitalooos, le frère de Capitalus ! Es-tu là pour des... MEILLEURES récompeeenses ? C'est ton jour de chaaance, parce-que tu es au PLUS MEILLEUR magasin de tout le royaaaume !"
 		],
 		"hub_capitalus": [
-			"Saluuut ! C'est moi, Capitaluuus ! Est-ce que tu est la pour des... récompeeenses ? C'est ton jour de chaaance, parce-que tu est au meilleur magasin de tout le royaaaume!"
+			"Saluuut ! C'est moi, Capitaluuus ! Es-tu là pour des... récompeeenses ? C'est ton jour de chaaance, parce-que tu es au meilleur magasin de tout le royaaaume!"
 		],
 		"hub_scientist": [
 			"Ne t'inquiète pas, la machine rétrécissante est très probablement sûre."
@@ -9830,19 +9722,19 @@
 			"Bienvenue au Village Ours ! Place-toi sur les cercles bleus pour entrer dans un niveau."
 		],
 		"hub_tristopio": [
-			"Bonjour à toi ! Tu es à la recherche d'une mission sympa ? Je crois que j'ai ce qu'il te faut !"
+			"Bonjour à toi ! Es-tu à la recherche d'une mission sympa ? Je crois que j'ai ce qu'il te faut !"
 		],
 		"iap_noads_desc_1": [
 			"<h>Plus aucune publicité</h> entre les niveaux !"
 		],
 		"iap_noads_desc_2": [
-			"Obtiens des <h>jetons Capitalus</h> en ramassant des pièces!"
+			"Obtiens des <h>jetons Capitalus</h> en ramassant des pièces !"
 		],
 		"iap_noads_desc_3": [
-			"Les récompenses que tu obtiens en regardant des pubs peuvent être activées avec des <h>jetons Capitalus</h> à la place!"
+			"Les récompenses que tu obtiens en regardant des publicités peuvent être activées avec des <h>jetons Capitalus</h> à la place !"
 		],
 		"iap_noads_desc_4": [
-			"Si tu n'as plus aucun jeton, tu peux toujours regarder une pub pour obtenus ton bonus."
+			"Si tu n'as plus aucun jeton, tu peux toujours regarder une publicité pour obtenir ton bonus."
 		],
 		"iap_noads_status_1": [
 			"Tu as déjà retiré les publicités !"
@@ -9857,7 +9749,7 @@
 			"Inclus dans SBA Gold :"
 		],
 		"iap_premium_desc_2": [
-			"Remplace les pubs par des <h>jetons Capitalus</h>"
+			"Remplace les publicités par des <h>jetons Capitalus</h>"
 		],
 		"iap_premium_desc_3": [
 			"Débloque des <h>articles exclusifs</h>"
@@ -9869,10 +9761,10 @@
 			"Débloque la <h>Roue de la Fortune de Capitalos</h>"
 		],
 		"iap_premium_desc_6": [
-			"<h>Double tes pièces</h> gratuitement!"
+			"<h>Double tes pièces</h> gratuitement"
 		],
 		"iap_premium_desc_7": [
-			"Obtiens des <h>jetons Capitalus</h> plus rapidement!"
+			"Obtiens des <h>jetons Capitalus</h> plus rapidement"
 		],
 		"iap_premium_status_1": [
 			"Tu as déjà SBA Gold !"
@@ -9973,7 +9865,6 @@
 		"level1_sign_6": [
 			"Il faut récupérer au moins 125 pièces sur 150 dans ce niveau pour ouvrir cette cage."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Les habitants du village ont peur, vous devez nous aider !"
 		],
@@ -9987,7 +9878,7 @@
 			"Heureusement qu'il n'y a pas de miel violet dans cette partie du village."
 		],
 		"level1_turtle_5": [
-			"La partie supérieure du village est pleine de miel violet, on a abaissé l'escalier pour empêcher les tortues contaminées de venir ici."
+			"La partie supérieure du village est pleine de miel violet. Nous avons abaissé l'escalier pour empêcher les tortues contaminées de venir ici."
 		],
 		"level1_turtle_6": [
 			"Les habitants étaient joyeux avant que les abeilles ne se mettent à fabriquer ce miel violet..."
@@ -10005,7 +9896,7 @@
 			"Aussi, note que les pièces réapparaîtront à chaque fois que nous quitterons le niveau."
 		],
 		"level1_tutorial_exit": [
-			"On peut aller au Village Ours and chercher des ours dans un autre endroit. On retournera à Tortibourg plus tard."
+			"Nous pouvons retourner au Village Ours et chercher des ours dans d'autres endroits. Nous reviendrons à Tortibourg plus tard."
 		],
 		"level2_boss_1": [
 			"Voici le fameux Yéti. Évitons ses attaques pour le moment. Attends qu'il s'épuise avant d'attaquer."
@@ -10089,7 +9980,7 @@
 			"S'il te plaît, trouve un moyen de me faire sortir d'ici pour que nous puissions rentrer chez nous !"
 		],
 		"level3_boss_2_1": [
-			"Ouf, c'était terrifiant. Le Kernel n'est pas ici, les abeilles ont dû le voler avant que l'on arrive ici."
+			"Ouf, c'était terrifiant. Le Kernel n'est pas ici, les abeilles ont dû le voler avant que nous arrivions ici."
 		],
 		"level3_boss_2_2": [
 			"Le scientifique au Village Ours sait probablement quelque chose sur cet artefact."
@@ -10104,7 +9995,7 @@
 			"Depuis la construction du mur, il est devenu difficile de trouver à manger..."
 		],
 		"level3_crocodile_4": [
-			"Tu ressembles aux statues dans les ruines. Les abeilles ont construit ce mur avant ma naissance, je n'ai jamais rien connu du reste du monde."
+			"Tu ressembles aux statues dans les ruines ! Les abeilles ont construit ce mur avant ma naissance, je n'ai jamais rien connu du reste du monde."
 		],
 		"level3_fennec_1": [
 			"Depuis l'arrivée des abeilles, certains de nos confrères ont été contaminés. Ils errent en dehors du village en attaquant tout ce qui s'y approche."
@@ -10131,10 +10022,10 @@
 			"Dans des temps anciens, avant l'arrivée de la dynastie des abeilles, les ours ont apporté la paix dans ce désert. Les nombreuses statues en témoignent."
 		],
 		"level3_intro_1": [
-			"Le Désert Beemothep est une région plus grande que ce que l'on a exploré jusqu'à présent."
+			"Le Désert Beemothep est une région plus grande que ce que nous avons exploré jusqu'à présent."
 		],
 		"level3_intro_2": [
-			"Nous pourrons aller faire un tour à l'oasis, au Village Crocodile, au Village Fennec, à une des nombreuses ruines ou encore au temple."
+			"Nous pouvons aller faire un tour à l'oasis, au Village Crocodile, au Village Fennec, à une des nombreuses ruines ou encore au temple !"
 		],
 		"level3_intro_3": [
 			"Les abeilles semblent avoir construit un mur autour des villages. Elles s'intéressent à la pyramide. Demandons des informations aux habitants."
@@ -10221,7 +10112,7 @@
 			"Marcher sur ces briques me fait vraiment mal aux pieds !"
 		],
 		"level4_mouse_6": [
-			"Vivre dans un château de briques c'est comme jouer à ce jeu super connu avec des cubes."
+			"Vivre dans un château de briques c'est comme jouer à ce jeu super connu avec des cubes !"
 		],
 		"level4_mouse_7": [
 			"Je suis le meilleur à cache-cache !"
@@ -10257,14 +10148,13 @@
 			"Certaines choses peuvent être détruites avec une charge au sol."
 		],
 		"loading_09": [
-			"Utilise tes pièces dans le Village Ours pour débloquer des vêtements."
+			"Utilise tes pièces au Village Ours pour débloquer des vêtements !"
 		],
-		"loading_1": [],
 		"loading_10": [
-			"N'hésite pas à explorer le Village Ours pour trouver des choses intéressantes."
+			"N'hésite pas à explorer le Village Ours pour trouver des choses intéressantes !"
 		],
 		"loading_11": [
-			"Tu peux obtenir beaucoup de pièces en jouant dans le Monde Arcade."
+			"Tu peux obtenir beaucoup de pièces en jouant dans le Monde Arcade !"
 		],
 		"loading_12": [
 			"Surveille la jauge d'oxygène lorsque tu vas sous l'eau, les ours doivent respirer eux aussi !"
@@ -10272,14 +10162,6 @@
 		"loading_13": [
 			"Les cœurs réapparaissent après 30 secondes."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Disponible à l'achat sur {0}"
 		],
@@ -10314,7 +10196,7 @@
 			"Bienvenue dans ma mission : parkour ! Cette mission est plutôt simple, suis juste le parcours pour me rejoindre."
 		],
 		"mission_6_2": [
-			"Je te suggère d'éviter de toucher l'eau. Bonne chance !"
+			"Je te suggère d'éviter de toucher l'eau..."
 		],
 		"mission_airplane": [
 			"Voltige"
@@ -10488,7 +10370,7 @@
 			"Je pourrais t'en dire plus à propos du Kernel, mais je suis quelque peu dans le pétrin en ce moment. Les abeilles ne savaient pas quoi faire des oursons, et donc les ont rétrécis et cachés dans ma maison."
 		],
 		"scientist_cutscene_1_7": [
-			"Peut-être qu'elles pensaient qu'elle était abandonnée ou quelque chose comme ça ? C'est si sale que ça ? Peu importe..."
+			"Peut-être qu'elles pensaient qu'elle était abandonnée ou quelque chose comme ça ? Est-ce si sale que ça ? Peu importe..."
 		],
 		"scientist_cutscene_2_1": [
 			"Ok, donc tout ce bazar est lié au Kernel. Nous devons le reprendre à Reine Mirabeille et qui que soit cet ours violet..."
@@ -10502,10 +10384,6 @@
 		"scientist_cutscene_3_2": [
 			"Si tu es assez courageux pour les sauver, je peux te rétrécir et te laisser entrer."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Tu devrais essayer d'utiliser ton attaque sur ce levier."
 		],
@@ -10537,7 +10415,7 @@
 			"Nous devons trouver un levier pour activer l'ascenseur."
 		],
 		"shicka_2_4": [
-			"Il est trop grand pour simplement le frapper, trouve un moyen de prendre de la hauteur pour sauter sur sa tête."
+			"Il est trop grand pour simplement le frapper ! Trouve un moyen de prendre de la hauteur pour sauter sur sa tête."
 		],
 		"shicka_2_5": [
 			"La clef n'est pas à l'intérieur, je pense qu'elle doit être proche de l'entrée."
@@ -10564,22 +10442,22 @@
 			"Je suis content que nous soyons enfin sortis."
 		],
 		"shicka_4_1": [
-			"Je pense que tu peux faire une charge au sol pour détruire l'évacuation d'eau. (maintiens <b>)"
+			"Je pense que tu peux faire une charge au sol pour détruire l'évacuation d'eau... (maintiens <b>)"
 		],
 		"shicka_4_2": [
 			"Le four est très chaud ! Marche sur l'assiette si tu veux ne pas te brûler."
 		],
 		"shicka_4_3": [
-			"Nous pourrions utiliser ce canon pour monter l'escalier plus rapidement."
+			"Nous pourrions utiliser ce canon pour monter l'escalier plus rapidement !"
 		],
 		"shicka_4_4": [
 			"La clef est coincée dans ce cube de glace. Trouvons quelque chose de chaud pour le faire fondre."
 		],
 		"shicka_4_5": [
-			"Tu peux faire une charge au sol pour rebondir plus haut."
+			"Tu peux faire une charge au sol pour rebondir plus haut !"
 		],
 		"shicka_4_6": [
-			"Ne touches pas à l'acide, tu te blesserais ! Il faut qu'on trouve un moyen de l'évacuer d'ici."
+			"Ne touches pas à l'acide, ça te blesserait ! Il faut que trouvions un moyen de l'évacuer d'ici."
 		],
 		"shicka_4_7": [
 			"Utilise <b> pour tirer ou <a> pour sortir du canon."
@@ -10600,7 +10478,7 @@
 			"Je pense que je peux le pousser dans ce trou !"
 		],
 		"shicka_hub_1": [
-			"On doit aller à Tortibourg pour aider nos amis d'abord !"
+			"Nous devons aller à Tortibourg pour aider nos amis d'abord !"
 		],
 		"splash_company": [
 			"{0} présente"
@@ -10615,7 +10493,7 @@
 			"Saluuut et bienvenuuue dans mon serviiice de personnalisation d'ouuurs !"
 		],
 		"studio_help_2": [
-			"Dans la boutique, tu peux acheter de nouveaux articles en échanges de pièces. De nouveaux articles sont disponibles toutes les 6 heures. Tu peux aussi ouvrir une lootbox pour obtenir un article aléatoire qui peut ne pas être dans la boutique."
+			"Dans la boutique, tu peux acheter de nouveaux articles en échanges de pièces. De nouveaux articles sont disponibles toutes les 6 heures. Tu peux aussi ouvrir une lootbox pour obtenir un article aléatoire qui peut ne pas être dans la boutique !"
 		],
 		"studio_help_3": [
 			"Il existe 6 niveaux de rareté : {0}, {1}, {2}, {3}, {4} et {5}. Les articles {3}(s) peuvent être obtenus à la boutique de mon frère."
@@ -10683,38 +10561,26 @@
 		"tutorial_shicka_6": [
 			"... et ensuite explorer le Désert Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
-			"Utilise <b> pour frapper les ennemis."
+			"Utilise <b> pour frapper les ennemis"
 		],
 		"tutorial_tip_02": [
 			"Utilise <a> en étant en l'air"
 		],
 		"tutorial_tip_03": [
-			"Saut en longueur: Courir puis <b> puis <a>//Plongeon: <b> en étant en l'air"
+			"Saut en longueur : Se déplacer puis <b> puis <a>//Plongeon : <b> en étant en l'air"
 		],
 		"tutorial_tip_04": [
-			"Certains objets peuvent être attrapés avec <b>//Utilise <b> à nouveau pour le relacher"
+			"Certains objets peuvent être attrapés avec <b>//Utilise <b> à nouveau pour les relâcher"
 		],
 		"tutorial_tip_05": [
 			"Maintiens <b> en l'air"
 		],
 		"tutorial_tip_06": [
-			"Tu peux faire un double saut pendant un plongeon et plonger à nouveau pour couvrir de grande distances."
+			"Tu peux faire un double saut pendant un plongeon et plonger à nouveau pour couvrir de grande distances"
 		],
 		"tutorial_tip_07": [
-			"Super charge: Relâche <b> à l'instant où tu touches le sol pendant une charge au sol"
+			"Relâche <b> à l'instant où tu touches le sol pendant une charge au sol"
 		],
 		"tutorial_tip_title_01": [
 			"Combat"
@@ -10801,7 +10667,7 @@
 			"Annuler"
 		],
 		"ui_capitalus_hint": [
-			"Ce niveau est trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus dans le Village Ours !"
+			"Ce niveau est-il trop difficile ? Essaye d'obtenir un bonus de vie auprès de Capitalus au Village Ours !"
 		],
 		"ui_cloud": [
 			"Sauvegardes cloud"
@@ -10870,7 +10736,7 @@
 			"Déconnecté"
 		],
 		"ui_discord": [
-			"Discord officiel//Rejoins pour des nouvelles du développement"
+			"Discord officiel//Rejoins pour des nouvelles du développement !"
 		],
 		"ui_empty": [
 			"Vide"
@@ -10965,16 +10831,14 @@
 		"ui_life": [
 			"Vie"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Charger"
 		],
 		"ui_load_ad": [
-			"Chargement de la publicité..."
+			"Chargement de la publicité"
 		],
 		"ui_loading": [
-			"Chargement du niveau..."
+			"Chargement du niveau"
 		],
 		"ui_loading_google": [
 			"Connexion à Google Play..."
@@ -11311,7 +11175,9 @@
 			"Buaya"
 		],
 		"char_crogo": [],
-		"char_fennec": [],
+		"char_fennec": [
+			"Fennec"
+		],
 		"char_maybee": [],
 		"char_mouse": [
 			"Curut"
@@ -11837,8 +11703,6 @@
 		"help_key_help": [
 			"Saat kamu mendapat sebuah kunci, akan ditampilkan panah yang mengarah ke kandang yang sesuai."
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Haruskah objek yang bergerak cepat menjadi kabur? Menonaktifkan ini meningkatkan performa."
 		],
@@ -12181,7 +12045,6 @@
 		"level1_sign_6": [
 			"Kamu perlu menemukan setidaknya 125 dari 150 koin di level ini untuk membuka kandang ini."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Penduduk desa ketakutan, kau harus membantu kami!"
 		],
@@ -12467,7 +12330,6 @@
 		"loading_09": [
 			"Gunakan koin mu di Desa Beruang untuk membuka pakaian baru!"
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Coba jelajahi Desa Beruang untuk menemukan beberapa hal menarik!"
 		],
@@ -12480,14 +12342,6 @@
 		"loading_13": [
 			"Nyawa muncul kembali setelah 30 detik."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Tersedia sekarang di {0}"
 		],
@@ -12710,10 +12564,6 @@
 		"scientist_cutscene_3_2": [
 			"Kalau Anda cukup berani untuk menyelamatkan mereka, saya bisa mengecilkan Anda dan membiarkan Anda masuk."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Kau harus mencoba melakukan serangan pada tuas ini."
 		],
@@ -12891,18 +12741,6 @@
 		"tutorial_shicka_6": [
 			"...dan kemudian menjelajahi Gurun Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Tekan <b> untuk meninju musuh."
 		],
@@ -13173,8 +13011,6 @@
 		"ui_life": [
 			"Nyawa"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Mulai"
 		],
@@ -13403,7 +13239,7 @@
 			"La Gara è una corsa contro il tempo. Dopo aver completato un giro, si vincono monete in base al tempo fatto."
 		],
 		"arcade_1_2": [
-			"Entra nel veicolo premendo il tasto B. Mentre sei a mezzaria, cerca di bilanciarti controllando il movimento."
+			"Salite sul quad e non dimenticate di rimanere in piedi durante i salti usando i comandi dell'aria."
 		],
 		"arcade_2_1": [
 			"Il Parkour è un percorso infinito composto da diverse piattaforme. Più arrivi lontano, più monete otterrai, ma i salti diventeranno più difficili."
@@ -13421,7 +13257,7 @@
 			"Le monete appariranno regolarmente su queste piattaforme."
 		],
 		"arcade_intro_1": [
-			"Benvenuti nel mondo arcade! Questo mondo è ancora in beta e probabilmente cambierà in futuro."
+			"Benvenuti nel Mondo Arcade! Puoi giocare a dei minigiochi per guadagnare monete. Una volta ottenuta la giusta quantità di monete, si può andare a questa macchina per tornare al Villaggio degli Orsi."
 		],
 		"arcade_intro_2": [
 			"Per leggere le regole dei vari giochi, cammina su questi pulsanti."
@@ -13528,7 +13364,9 @@
 		"char_mouse": [
 			"Topo"
 		],
-		"char_note": [],
+		"char_note": [
+			"Nota"
+		],
 		"char_penguin": [
 			"Pinguino"
 		],
@@ -13874,15 +13712,27 @@
 		"cosmetic_108": [
 			"Impronte magiche"
 		],
-		"cosmetic_109": [],
-		"cosmetic_110": [],
-		"cosmetic_111": [],
+		"cosmetic_109": [
+			"Viso carino"
+		],
+		"cosmetic_110": [
+			"Torta di compleanno"
+		],
+		"cosmetic_111": [
+			"Orso rosso"
+		],
 		"cosmetic_default": [
 			"Difetto"
 		],
-		"ctokens_description": [],
-		"ctokens_name": [],
-		"ctokens_requirement": [],
+		"ctokens_description": [
+			"Ottenete i gettoni Capitalus raccogliendo monete nei livelli. I gettoni possono essere spesi per ottenere vari bonus da Capitalus."
+		],
+		"ctokens_name": [
+			"Gettoni Capitalus"
+		],
+		"ctokens_requirement": [
+			"Nuovo gettone in {0} monete"
+		],
 		"filter_00": [
 			"Nessun filtro"
 		],
@@ -13994,13 +13844,27 @@
 		"filter_36": [
 			"Mondo Neonizzato"
 		],
-		"fwheel_item_owned": [],
-		"fwheel_item_reward": [],
-		"fwheel_premium": [],
-		"fwheel_reward_none": [],
-		"fwheel_reward_normal": [],
-		"fwheel_spin": [],
-		"fwheel_title": [],
+		"fwheel_item_owned": [
+			"Possedete già ogni oggetto {0}, quindi avete ricevuto {1} monete."
+		],
+		"fwheel_item_reward": [
+			"Hai vinto un nuovo oggetto {0} : {1}"
+		],
+		"fwheel_premium": [
+			"Per far girare la Ruota della Fortuna di Capitalos serve SBA Gold!"
+		],
+		"fwheel_reward_none": [
+			"Non hai vinto nulla... Andrà meglio la prossima volta!"
+		],
+		"fwheel_reward_normal": [
+			"Hai vinto {0} {1}"
+		],
+		"fwheel_spin": [
+			"Gira la ruota!"
+		],
+		"fwheel_title": [
+			"La ruota della fortuna"
+		],
 		"help_birds": [
 			"Disattivare gli uccelli migliora le prestazioni."
 		],
@@ -14031,8 +13895,6 @@
 		"help_key_help": [
 			"Quando ottieni una chiave, viene mostrata la direzione della gabbia corrispondente."
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Gli oggetti in rapido movimento devono essere sfocati? Disattivando questa funzione si migliorano le prestazioni"
 		],
@@ -14220,16 +14082,16 @@
 			"Io orso."
 		],
 		"hub_capitalos": [
-			"Ciao! Sono io, Capitalooos, il fratello di Capitalus! Se sostieni lo sviluuuuppatore del gioco, riceverai dei regali molto speciaaaali!"
+			"Ciao a tutti! Sono io, Capitalooos, il fratello di Capitalus! Siete qui per... le MIGLIORI ricompense? È il vostro giorno fortunato, perché siete nel miglior negozio di tutto il regno!"
 		],
 		"hub_capitalus": [
-			"Saluti! Sono io, Capitaluuuus! Se accetti di guardare una puuuubblicità, ti farò dei reeeegali!"
+			"Ciao a tutti! Sono io, Capitaluuus! Siete qui per qualche... ricompensa? È il vostro giorno fortunato, perché siete nel miglior negozio di tutto il regno!"
 		],
 		"hub_scientist": [
 			"Tranquilli, il Rimpicciolitore è... probabilmente... senza problemi."
 		],
 		"hub_sign_1": [
-			"Benvenuto nell'hub! Sali sulle pedane blu per entrare in un livello."
+			"Benvenuti al Villaggio degli Orsi! Posizionatevi sui cerchi blu per entrare in un livello."
 		],
 		"hub_tristopio": [
 			"Ehilà! Siete alla ricerca di una bella sfida? Penso di avere quello che vi serve!"
@@ -14240,8 +14102,12 @@
 		"iap_noads_desc_2": [
 			"Gli annunci premiati saranno comunque disponibili."
 		],
-		"iap_noads_desc_3": [],
-		"iap_noads_desc_4": [],
+		"iap_noads_desc_3": [
+			"I premi che si ottengono guardando le pubblicità possono essere attivati con i <h>gettoni Capitalus</h>!"
+		],
+		"iap_noads_desc_4": [
+			"Se si esauriscono le fiches, si può sempre guardare un annuncio per ottenere il bonus."
+		],
 		"iap_noads_status_1": [
 			"Hai già rimosso gli annunci!"
 		],
@@ -14255,22 +14121,22 @@
 			"Incluso in SBA Gold:"
 		],
 		"iap_premium_desc_2": [
-			"<h>Rimuove gli annunci indesiderati</h>."
+			"Sostituisce gli annunci con <h>gettoni Capitalus</h>"
 		],
 		"iap_premium_desc_3": [
-			"Sblocca <h>articoli esclusivi</h>."
+			"Sblocca <h>articoli esclusivi</h>"
 		],
 		"iap_premium_desc_4": [
-			"Sblocca <h>filtri per la modalità Foto</h>."
+			"Sblocca <h>filtri per la modalità Foto</h>"
 		],
 		"iap_premium_desc_5": [
-			"<h>Monete × 2</h> senza pubblicità"
+			"Sblocca la <h>Ruota della fortuna di Capitalos</h>"
 		],
 		"iap_premium_desc_6": [
-			"<h>Doppia</h> il massimo della <h>salute</h>."
+			"<Doppia le tue monete</h> gratuitamente"
 		],
 		"iap_premium_desc_7": [
-			"Prima <h>resurrezione gratuita</h>"
+			"Ottieni <h>gettoni Capitalus</h> più velocemente"
 		],
 		"iap_premium_status_1": [
 			"Hai già SBA Gold!"
@@ -14314,8 +14180,12 @@
 		"intro_4_3": [
 			"Ci salverai, Baaren?"
 		],
-		"lab_note_1": [],
-		"lab_note_2": [],
+		"lab_note_1": [
+			"La ricetta del miele viola sembra funzionare... ma non con gli orsi. Ne ho dato un po' a mio fratello mentre dormiva; quando si è svegliato era ancora tranquillo, ma sembra che abbia problemi a ricordare le cose. Sono necessari altri test."
+		],
+		"lab_note_2": [
+			"I ripetuti esperimenti con il miele viola sembrano far diventare gradualmente viola la mia pelliccia. Lascerò presto il Villaggio degli Orsi per evitare che gli orsi sospettino qualcosa."
+		],
 		"level1_boss_1_1": [
 			"Baaren! Sei venuto a salvarmi! Fate attenzione, il Golem della Tartaruga è molto pericoloso!"
 		],
@@ -14367,7 +14237,6 @@
 		"level1_sign_6": [
 			"Almeno 125 delle 150 monete di questo livello devono essere recuperate per aprire questa gabbia."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Gli abitanti del villaggio hanno paura, vi prego di aiutarci!"
 		],
@@ -14398,7 +14267,9 @@
 		"level1_tutorial_3": [
 			"Inoltre, notate che le monete riappariranno ogni volta che lasceremo il livello."
 		],
-		"level1_tutorial_exit": [],
+		"level1_tutorial_exit": [
+			"Possiamo tornare al Villaggio degli Orsi e cercare gli orsi in altri luoghi. Torneremo a Tortibourg più tardi."
+		],
 		"level2_boss_1": [
 			"Questo è il celeberrimo Yeti. Evitiamo i suoi attacchi per ora. Aspetta che si stanchi prima di attaccare."
 		],
@@ -14649,11 +14520,10 @@
 			"Alcune cose possono essere distrutte con una carica a terra."
 		],
 		"loading_09": [
-			"Usa le tue monete nell'hub per sbloccare i vestiti."
+			"Usa le monete nel Villaggio degli Orsi per sbloccare i vestiti!"
 		],
-		"loading_1": [],
 		"loading_10": [
-			"Sentiti libero di esplorare l'hub alla ricerca di cose interessanti."
+			"Sentitevi liberi di esplorare il Villaggio degli Orsi per trovare cose interessanti!"
 		],
 		"loading_11": [
 			"Si possono ottenere molte monete giocando nel Mondo Arcade."
@@ -14664,14 +14534,6 @@
 		"loading_13": [
 			"I cuori si rigenerano ogni 30 secondi."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Disponibile per l'acquisto su {0}"
 		],
@@ -14840,13 +14702,21 @@
 		"rarity_epic": [
 			"Epico"
 		],
-		"rarity_legendary": [],
+		"rarity_legendary": [
+			"Leggendario"
+		],
 		"rarity_rare": [
 			"Raro"
 		],
-		"reward_active": [],
-		"reward_disabled": [],
-		"reward_free": [],
+		"reward_active": [
+			"Attività"
+		],
+		"reward_disabled": [
+			"Spento"
+		],
+		"reward_free": [
+			"Gratuito"
+		],
 		"save_bear_tip_1": [
 			"Abbiamo liberato un orso! Dovremmo continuare a cercare nel Villaggio delle Tartarughe prima di andare altrove."
 		],
@@ -14886,10 +14756,6 @@
 		"scientist_cutscene_3_2": [
 			"Se sei abbastanza coraggioso da salvarli, posso rimpicciolirti e farti entrare."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Dovresti provare a usare il tuo attacco su quella leva."
 		],
@@ -14948,7 +14814,7 @@
 			"Sono contento che finalmente siamo fuori di qui."
 		],
 		"shicka_4_1": [
-			"Prova a colpire lo scarico dell'acqua con una mossa delle tue! (Tieni premuto B)"
+			"Prova a colpire lo scarico dell'acqua con una mossa delle tue! (Tieni premuto <b>)"
 		],
 		"shicka_4_2": [
 			"Il forno scotta! Sali sul piatto se non vuoi finire cotto a puntino."
@@ -14962,7 +14828,9 @@
 		"shicka_4_5": [
 			"Puoi fare uno schianto a terra per farti rimbalzare più in alto."
 		],
-		"shicka_4_6": [],
+		"shicka_4_6": [
+			"Non toccate l'acido, vi farà male! Dobbiamo trovare un modo per portarlo via da qui."
+		],
 		"shicka_4_7": [
 			"Usate <b> per sparare o <a> per saltare dal barile."
 		],
@@ -14979,13 +14847,17 @@
 			"Se colpiamo quelle palle viola, possiamo rilanciarle a lui!"
 		],
 		"shicka_hive_4": [
-			"Penso di poterlo spingere giù dalla piattaforma!"
+			"Penso di poterlo spingere in questo buco!"
 		],
 		"shicka_hub_1": [
 			"Segui le frecce blu fino all'ingresso del Villaggio delle Tartarughe."
 		],
-		"splash_company": [],
-		"splash_gamepad": [],
+		"splash_company": [
+			"{0} presenta"
+		],
+		"splash_gamepad": [
+			"Si consiglia l'uso di un joystick"
+		],
 		"sticker_found": [
 			"Hai trovato un adesivo nascosto!"
 		],
@@ -15016,8 +14888,12 @@
 		"title_graphics2": [
 			"Grafica avanzata"
 		],
-		"title_iap": [],
-		"title_inputs": [],
+		"title_iap": [
+			"Acquisto"
+		],
+		"title_inputs": [
+			"Controlli"
+		],
 		"title_sound": [
 			"Audio"
 		],
@@ -15025,7 +14901,7 @@
 			"Ottieni 5 visori"
 		],
 		"tristopio_no_life": [
-			"Hai perso tutti i tuoi visori! Puoi guardare un annuncio per averne altri."
+			"Avete perso tutti i caschi!"
 		],
 		"tristopio_practice": [
 			"Modalità d'esercizio"
@@ -15057,32 +14933,48 @@
 		"tutorial_shicka_6": [
 			"Potremmo anche esplorare il Deserto Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
-		"tutorial_tip_01": [],
-		"tutorial_tip_02": [],
-		"tutorial_tip_03": [],
-		"tutorial_tip_04": [],
-		"tutorial_tip_05": [],
-		"tutorial_tip_06": [],
-		"tutorial_tip_07": [],
-		"tutorial_tip_title_01": [],
-		"tutorial_tip_title_02": [],
-		"tutorial_tip_title_03": [],
-		"tutorial_tip_title_04": [],
-		"tutorial_tip_title_05": [],
-		"tutorial_tip_title_06": [],
-		"tutorial_tip_title_07": [],
+		"tutorial_tip_01": [
+			"Usa <b> per colpire i nemici"
+		],
+		"tutorial_tip_02": [
+			"Usa <a> mentre sei in aria"
+		],
+		"tutorial_tip_03": [
+			"Salto in lungo: Muoversi, poi <b>, poi <a>//Diffondersi: <b> mentre si è in aria"
+		],
+		"tutorial_tip_04": [
+			"Alcuni oggetti possono essere afferrati con <b>//Usare di nuovo <b> per rilasciarli"
+		],
+		"tutorial_tip_05": [
+			"Mantenere <b> in aria"
+		],
+		"tutorial_tip_06": [
+			"È possibile eseguire un doppio salto durante un tuffo e un altro tuffo per coprire lunghe distanze."
+		],
+		"tutorial_tip_07": [
+			"Rilasciare <b> nell'istante in cui si tocca il suolo durante una carica a terra"
+		],
+		"tutorial_tip_title_01": [
+			"Combattimento"
+		],
+		"tutorial_tip_title_02": [
+			"Doppio salto"
+		],
+		"tutorial_tip_title_03": [
+			"Salto in lungo e tuffo"
+		],
+		"tutorial_tip_title_04": [
+			"Cattura di oggetti"
+		],
+		"tutorial_tip_title_05": [
+			"Carica a terra"
+		],
+		"tutorial_tip_title_06": [
+			"Doppio tuffo"
+		],
+		"tutorial_tip_title_07": [
+			"Super carica"
+		],
 		"ui_100coins": [
 			"100 monete"
 		],
@@ -15147,7 +15039,7 @@
 			"Annulla"
 		],
 		"ui_capitalus_hint": [
-			"Questo livello è troppo difficile? Puoi ottenere un bonus di vita da Capitalus nell'hub o guardare un annuncio per tornare in vita!"
+			"Questo livello è troppo difficile? Cerca di ottenere un bonus vita da Capitalus nel Villaggio degli Orsi!"
 		],
 		"ui_cloud": [
 			"Salva nel Cloud"
@@ -15269,9 +15161,11 @@
 		"ui_hive": [
 			"L'Alveare"
 		],
-		"ui_hub": [],
+		"ui_hub": [
+			"Villaggio degli Orsi"
+		],
 		"ui_hubconfirm": [
-			"Vuoi davvero tornare all'hub?"
+			"Vuoi davvero tornare al Villaggio degli Orsi?"
 		],
 		"ui_in": [
 			"nel"
@@ -15309,8 +15203,6 @@
 		"ui_life": [
 			"Vita"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Carica"
 		],
@@ -15362,14 +15254,18 @@
 		"ui_options": [
 			"Impostazioni"
 		],
-		"ui_own": [],
+		"ui_own": [
+			"Avete"
+		],
 		"ui_oxygen": [
 			"Ossigeno"
 		],
 		"ui_performance": [
 			"Prestazioni"
 		],
-		"ui_personal_best": [],
+		"ui_personal_best": [
+			"Miglior risultato personale:"
+		],
 		"ui_photo_error_1": [
 			"Per utilizzare la Modalità Foto è necessario salvare ogni orso di questo livello."
 		],
@@ -15409,15 +15305,17 @@
 		"ui_restartconfirm": [
 			"Vuoi davvero riavviare il livello?"
 		],
-		"ui_restore_iap": [],
+		"ui_restore_iap": [
+			"Ripristino degli acquisti"
+		],
 		"ui_resume": [
 			"Continua"
 		],
 		"ui_returntohub": [
-			"Torna all'hub"
+			"Torna a//Villaggio Nostro"
 		],
 		"ui_returntotitle": [
-			"Torna al menu principale"
+			"Torna al//menu principale"
 		],
 		"ui_reversed": [
 			"Invertito"
@@ -15428,7 +15326,9 @@
 		"ui_save": [
 			"Salvataggio"
 		],
-		"ui_save_kingdom": [],
+		"ui_save_kingdom": [
+			"Salvare il regno"
+		],
 		"ui_select_quality": [
 			"Seleziona la qualità grafica"
 		],
@@ -15486,7 +15386,9 @@
 		"ui_vehicle_controls": [
 			"Controlli del veicolo"
 		],
-		"ui_version": [],
+		"ui_version": [
+			"Versione {0}"
+		],
 		"ui_watch": [
 			"Guarda"
 		],
@@ -15499,7 +15401,9 @@
 		"ui_yes": [
 			"Sì"
 		],
-		"ui_your_time": []
+		"ui_your_time": [
+			"Il vostro tempo"
+		]
 	},
 	"ja": {
 		"action_attack": [],
@@ -15821,12 +15725,6 @@
 		"help_key_help": [
 			"キーを取得すると、 対応するかごの方向が表示されます。"
 		],
-		"help_light_probes": [
-			"ライトプローブは、 動いているオブジェクトにベイクドライトを表示するために使用されます。 このオプションは、 古いデバイスでは便利ですが、 パフォーマンスには影響しません。"
-		],
-		"help_lightmaps": [
-			"ライトマップは、 静的なオブジェクトにベイクドライトを表示するために使用されます。 このオプションは古いデバイスで便利で、 パフォーマンスには影響しません。"
-		],
 		"help_motion_blur": [],
 		"help_shicka_tips": [
 			"シッカのヒントを表示します。"
@@ -16016,9 +15914,6 @@
 		],
 		"level1_sign_6": [
 			"このレベルの150枚のコインのうち、 少なくとも125枚のコインを見つけなければ、 この檻を開けることができません。"
-		],
-		"level1_stair_cutscene_1": [
-			"汚染されたカメを隔離するために、 村の上部への道をカメが塞いでいる。"
 		],
 		"level1_turtle_1": [
 			"村の人たちが怖がっています。"
@@ -16236,17 +16131,32 @@
 		"level4_sign_1": [
 			"この檻を開けるには、 このレベルの200枚のうち、 少なくとも175枚のコインを見つける必要があります。"
 		],
-		"loading_01": [],
-		"loading_02": [],
-		"loading_03": [],
-		"loading_04": [],
-		"loading_05": [],
-		"loading_06": [],
-		"loading_07": [],
-		"loading_08": [],
-		"loading_09": [],
-		"loading_1": [
+		"loading_01": [
 			"ゲームの動作が遅い場合は、 オプションメニューを見てみてください。"
+		],
+		"loading_02": [
+			"このゲームはまだベータ版なので、 バグを見つけたらDiscordサーバーに報告してください。"
+		],
+		"loading_03": [
+			"クマを救うには、 レベルのコインドアのロックを解除する必要があります。"
+		],
+		"loading_04": [
+			"敵を殴ったり、 飛び込んだり、 頭の上に飛び乗ったりして攻撃することができます。"
+		],
+		"loading_05": [
+			"Capitalus は、 レベルが難しすぎる場合はボーナスを与えることができます。"
+		],
+		"loading_06": [
+			"スピードランニングをしたい場合は、 一時停止メニューにオプションがあります。"
+		],
+		"loading_07": [
+			"Discordサーバーでコミュニティに参加しよう リンクは一時停止メニューにあります。"
+		],
+		"loading_08": [
+			"ベリーストンプで破壊できるものもあります。"
+		],
+		"loading_09": [
+			"ハブでコインを使って服のロックを解除しましょう。"
 		],
 		"loading_10": [
 			"ハブを自由に探索して面白いものを見つけよう。"
@@ -16259,30 +16169,6 @@
 		],
 		"loading_13": [
 			"ハートは30秒後に復活します。"
-		],
-		"loading_2": [
-			"このゲームはまだベータ版なので、 バグを見つけたらDiscordサーバーに報告してください。"
-		],
-		"loading_3": [
-			"クマを救うには、 レベルのコインドアのロックを解除する必要があります。"
-		],
-		"loading_4": [
-			"敵を殴ったり、 飛び込んだり、 頭の上に飛び乗ったりして攻撃することができます。"
-		],
-		"loading_5": [
-			"Capitalus は、 レベルが難しすぎる場合はボーナスを与えることができます。"
-		],
-		"loading_6": [
-			"スピードランニングをしたい場合は、 一時停止メニューにオプションがあります。"
-		],
-		"loading_7": [
-			"Discordサーバーでコミュニティに参加しよう リンクは一時停止メニューにあります。"
-		],
-		"loading_8": [
-			"ベリーストンプで破壊できるものもあります。"
-		],
-		"loading_9": [
-			"ハブでコインを使って服のロックを解除しましょう。"
 		],
 		"merch_ad": [],
 		"mission_0_1": [
@@ -16404,18 +16290,6 @@
 		"scientist_cutscene_2_2": [],
 		"scientist_cutscene_3_1": [],
 		"scientist_cutscene_3_2": [],
-		"shicka_0_1": [
-			"青い矢印に沿って進むと亀の村に行く事が出来るよ"
-		],
-		"shicka_0_2": [
-			"彼を傷付けることは出来ない...とりあえず生き延びよう！"
-		],
-		"shicka_0_3": [
-			"この台から突き落とすことが出来るはずだ！"
-		],
-		"shicka_0_4": [
-			"コインの扉を開けるには60枚のコインを集める必要みたいだ..."
-		],
 		"shicka_1_1": [
 			"このレバーを使って攻撃してみよう"
 		],
@@ -16488,12 +16362,18 @@
 		],
 		"shicka_4_6": [],
 		"shicka_4_7": [],
-		"shicka_gate_1": [],
+		"shicka_gate_1": [
+			"コインの扉を開けるには60枚のコインを集める必要みたいだ..."
+		],
 		"shicka_hive_1": [],
 		"shicka_hive_2": [],
 		"shicka_hive_3": [],
-		"shicka_hive_4": [],
-		"shicka_hub_1": [],
+		"shicka_hive_4": [
+			"この台から突き落とすことが出来るはずだ！"
+		],
+		"shicka_hub_1": [
+			"青い矢印に沿って進むと亀の村に行く事が出来るよ"
+		],
 		"splash_company": [],
 		"splash_gamepad": [],
 		"sticker_found": [
@@ -16562,42 +16442,6 @@
 		],
 		"tutorial_shicka_6": [
 			"”ビーモテップ砂漠”へも探しに行こう！"
-		],
-		"tutorial_sign_01": [
-			"”スーパーベアーアドベンチャー”へようこそ！左側のジョイスティックを使って移動することができます。"
-		],
-		"tutorial_sign_02": [
-			"Aボタンでジャンプします。"
-		],
-		"tutorial_sign_03": [
-			"地上にいるときはBを押して攻撃します。 この訓練用のダミーで試してみよう。"
-		],
-		"tutorial_sign_04": [
-			"空中でAを押すとダブルジャンプ。"
-		],
-		"tutorial_sign_05": [
-			"移動中にBを押してからAを押すと走り幅跳びになります。 空中でBを押すとダイブ。"
-		],
-		"tutorial_sign_06": [
-			"つるに向かって歩くと、 つるを登ることができます。"
-		],
-		"tutorial_sign_07": [
-			"画面上部に沿って指をスライドさせるとカメラを回転させることができます。"
-		],
-		"tutorial_sign_08": [
-			"水面では、 Bを押すと潜ることができます。 水中では、 Aを押して上に行きます。"
-		],
-		"tutorial_sign_09": [
-			"Bを押すと特定のオブジェクトをつかむことができます。 Bを押すと、 それらを解放することができます。"
-		],
-		"tutorial_sign_10": [
-			"空中でBボタンを押すと、 ベリーストンプをすることができます。"
-		],
-		"tutorial_sign_11": [
-			"ダイブ中に二重ジャンプをして再びダイブすると、かなりの距離を飛ぶことができます。"
-		],
-		"tutorial_sign_12": [
-			"ベリーストンプ中に地面にぶつかった瞬間にBを離すと、 ストンプブーストをすることができます。"
 		],
 		"tutorial_tip_01": [],
 		"tutorial_tip_02": [],
@@ -16818,12 +16662,6 @@
 		],
 		"ui_life": [
 			"体力"
-		],
-		"ui_light_probes": [
-			"ライトプローブ"
-		],
-		"ui_lightmaps": [
-			"ライトマップ"
 		],
 		"ui_load": [
 			"ロード"
@@ -17481,10 +17319,18 @@
 		"cosmetic_103": [
 			"Kat hoofd"
 		],
-		"cosmetic_104": [],
-		"cosmetic_105": [],
-		"cosmetic_106": [],
-		"cosmetic_107": [],
+		"cosmetic_104": [
+			"Deal with it"
+		],
+		"cosmetic_105": [
+			"Noire visie"
+		],
+		"cosmetic_106": [
+			"Huisdier vogel"
+		],
+		"cosmetic_107": [
+			"Huisdier Violette"
+		],
 		"cosmetic_108": [
 			"Magische voetstappen"
 		],
@@ -17607,8 +17453,6 @@
 		"help_key_help": [
 			"Als je een sleutel krijgt, wordt de richting van de bijbehorende kooi weergegeven."
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Moeten snel bewegende objecten wazig zijn? Als je dit uitschakelt, worden de prestaties verbeterd."
 		],
@@ -17951,7 +17795,6 @@
 		"level1_sign_6": [
 			"Je hebt minstens 125 van de 150 munten nodig om deze kooi te openen."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"De inwoners van het dorp zijn bang, je moet ze helpen!"
 		],
@@ -18235,11 +18078,10 @@
 			"Sommige dingen kunnen worden vernietigd met een buikstomp."
 		],
 		"loading_09": [
-			"Gebruik je munten in de hub om kleding te ontgrendelen!"
+			"Gebruik je munten in het Berendorp om kleding vrij te spelen!"
 		],
-		"loading_1": [],
 		"loading_10": [
-			"Voel je vrij om de hub te verkennen om wat interessante dingen te vinden!"
+			"Voel je vrij om het Berendorp te verkennen op zoek naar interessante dingen!"
 		],
 		"loading_11": [
 			"Je kunt veel munten krijgen door in de Arcade Wereld te spelen!"
@@ -18250,14 +18092,6 @@
 		"loading_13": [
 			"Harten respawnen na 30 seconden."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Nu beschikbaar op {0}"
 		],
@@ -18396,8 +18230,12 @@
 		"party_turtle_6": [
 			"Het heeft me zes maanden gekost om hier boven te komen."
 		],
-		"photo_contribution": [],
-		"photo_dof": [],
+		"photo_contribution": [
+			"Filterbijdrage"
+		],
+		"photo_dof": [
+			"Scherptediepte"
+		],
 		"photo_guidelines": [
 			"Hulplijnen"
 		],
@@ -18422,7 +18260,9 @@
 		"rarity_epic": [
 			"Episch"
 		],
-		"rarity_legendary": [],
+		"rarity_legendary": [
+			"Legendarisch"
+		],
 		"rarity_rare": [
 			"Zeldzaam"
 		],
@@ -18474,10 +18314,6 @@
 		"scientist_cutscene_3_2": [
 			"Als je dapper genoeg bent om ze te redden, kan ik je verkleinen en je binnenlaten."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Je moet proberen je aanval op deze hendel te gebruiken."
 		],
@@ -18550,7 +18386,9 @@
 		"shicka_4_5": [
 			"Je kunt een buikstomp doen om hoger te stuiteren!"
 		],
-		"shicka_4_6": [],
+		"shicka_4_6": [
+			"Raak het zuur niet aan, het zal je pijn doen! We moeten een manier vinden om het hier weg te laten lopen."
+		],
 		"shicka_4_7": [
 			"Gebruik <b> om te schieten of <a> om van de ton te springen."
 		],
@@ -18653,18 +18491,6 @@
 		"tutorial_shicka_6": [
 			"... en vervolgens de Beemothepwoestijn verkennen."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Gebruik <b> om vijanden te slaan"
 		],
@@ -18935,8 +18761,6 @@
 		"ui_life": [
 			"Levens"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Laden"
 		],
@@ -19302,7 +19126,9 @@
 		"char_mouse": [
 			"Mysz"
 		],
-		"char_note": [],
+		"char_note": [
+			"Uwaga"
+		],
 		"char_penguin": [
 			"Pingwin"
 		],
@@ -19831,8 +19657,6 @@
 		"help_key_help": [
 			"Po dostaniu się klawisza wyświetlany jest kierunek odpowiedniej klatki"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Czy szybko poruszające się obiekty powinny być rozmyte? Wyłączenie tego poprawia wydajność."
 		],
@@ -20175,7 +19999,6 @@
 		"level1_sign_6": [
 			"Musisz znaleźć co najmniej 125 monet na 150 w tym poziomie, aby otworzyć tę klatkę."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Mieszkańcy wsi boją się, musicie nam pomóc!"
 		],
@@ -20461,7 +20284,6 @@
 		"loading_09": [
 			"Użyj monet w centrum, aby odblokować odzież!"
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Zapraszamy do zwiedzania centrum, aby znaleźć kilka ciekawych rzeczy!"
 		],
@@ -20474,14 +20296,6 @@
 		"loading_13": [
 			"Serca pojawiają się po 30 sekundach."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Dostępne teraz na{0}"
 		],
@@ -20704,10 +20518,6 @@
 		"scientist_cutscene_3_2": [
 			"Jeżeli jesteś wystarczająco odważny żeby je ocalić, mogę cię więc pomniejszyć i cię wpuścić."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Powinieneś spróbować użyć ataku na tej dźwigni."
 		],
@@ -20885,18 +20695,6 @@
 		"tutorial_shicka_6": [
 			"... a potem eksploruj Pustynię Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Użyj <b>, aby uderzyć wrogów"
 		],
@@ -21167,8 +20965,6 @@
 		"ui_life": [
 			"Życie"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Załaduj"
 		],
@@ -21292,7 +21088,9 @@
 		"ui_save": [
 			"Zapis"
 		],
-		"ui_save_kingdom": [],
+		"ui_save_kingdom": [
+			"Uratuj królestwo"
+		],
 		"ui_select_quality": [
 			"Wybierz jakość grafiki"
 		],
@@ -21421,7 +21219,9 @@
 		"arcade_race_1": [
 			"Clássico"
 		],
-		"arcade_race_2": [],
+		"arcade_race_2": [
+			"Looping"
+		],
 		"arcade_race_3": [
 			"Deserto"
 		],
@@ -21557,7 +21357,9 @@
 		"cosmetic_005": [
 			"Cabelo punk"
 		],
-		"cosmetic_006": [],
+		"cosmetic_006": [
+			"Fez"
+		],
 		"cosmetic_007": [
 			"Coroa"
 		],
@@ -21681,7 +21483,9 @@
 		"cosmetic_047": [
 			"Camisa SBA"
 		],
-		"cosmetic_048": [],
+		"cosmetic_048": [
+			"Panda"
+		],
 		"cosmetic_049": [
 			"Cabeça do Capitalus"
 		],
@@ -21748,7 +21552,9 @@
 		"cosmetic_070": [
 			"Urso 8-bit"
 		],
-		"cosmetic_071": [],
+		"cosmetic_071": [
+			"Sackbear"
+		],
 		"cosmetic_072": [
 			"Torre de Hanói"
 		],
@@ -21785,7 +21591,9 @@
 		"cosmetic_083": [
 			"Chapéu de futebol"
 		],
-		"cosmetic_084": [],
+		"cosmetic_084": [
+			"Cabeça bobble"
+		],
 		"cosmetic_085": [
 			"Shicka bobble"
 		],
@@ -21813,7 +21621,9 @@
 		"cosmetic_093": [
 			"Shicka cósmica"
 		],
-		"cosmetic_094": [],
+		"cosmetic_094": [
+			"IMABEAR"
+		],
 		"cosmetic_095": [
 			"Cachecol (vermelho)"
 		],
@@ -21892,7 +21702,9 @@
 		"filter_04": [
 			"Dramático"
 		],
-		"filter_05": [],
+		"filter_05": [
+			"Flashback"
+		],
 		"filter_06": [
 			"Colorido"
 		],
@@ -21920,7 +21732,9 @@
 		"filter_14": [
 			"Noturno"
 		],
-		"filter_15": [],
+		"filter_15": [
+			"Hacker"
+		],
 		"filter_16": [
 			"Posterizar"
 		],
@@ -21954,7 +21768,9 @@
 		"filter_26": [
 			"Fogo"
 		],
-		"filter_27": [],
+		"filter_27": [
+			"Gameboy"
+		],
 		"filter_28": [
 			"Binário"
 		],
@@ -22033,8 +21849,6 @@
 		"help_key_help": [
 			"Ao pegar uma chave, é exibida a direção da jaula correspondente"
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Coisas rápidas devem ficar borradas? Desativar melhora o desempenho."
 		],
@@ -22167,7 +21981,9 @@
 		"hub_bear_14": [
 			"Vladimir não tem medo de monstros sob a neve."
 		],
-		"hub_bear_15": [],
+		"hub_bear_15": [
+			"The bear goes skrrrahh, pap, pap, ka-ka-ka. Skidiki-pap-pap, and a pu-pu-pudrrrr-boom!"
+		],
 		"hub_bear_16": [
 			"Você não sabe de nada, Urso Baaren."
 		],
@@ -22210,7 +22026,9 @@
 		"hub_bear_29": [
 			"*olhar confuso*"
 		],
-		"hub_bear_30": [],
+		"hub_bear_30": [
+			"Abacadaba!"
+		],
 		"hub_bear_31": [
 			"*peido*"
 		],
@@ -22373,7 +22191,6 @@
 		"level1_sign_6": [
 			"Você precisa pegar pelo menos 125 moedas de 150 nesta fase para abrir esta jaula."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Os habitantes da aldeia estão com medo, você tem que nos ajudar!"
 		],
@@ -22659,7 +22476,6 @@
 		"loading_09": [
 			"Use suas moedas na Vila dos Ursos para desbloquear roupas!"
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Sinta-se livre pra explorar a Vila dos Ursos e encontrar coisas interessantes!"
 		],
@@ -22672,14 +22488,6 @@
 		"loading_13": [
 			"Corações reaparecem após 30 segundos."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Já disponível em {0}"
 		],
@@ -22731,7 +22539,9 @@
 		"mission_lava": [
 			"O Chão é Lava"
 		],
-		"mission_parkour": [],
+		"mission_parkour": [
+			"Parkour"
+		],
 		"mission_race": [
 			"Rali"
 		],
@@ -22853,7 +22663,7 @@
 			"Raro"
 		],
 		"reward_active": [
-			"Ativo"
+			"Ativado"
 		],
 		"reward_disabled": [
 			"Desativado"
@@ -22900,10 +22710,6 @@
 		"scientist_cutscene_3_2": [
 			"Se vocês forem corajosos o suficiente para salvá-los, eu posso encolher vocês e deixar entrar."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Você devia tentar usar seu ataque nessa alavanca."
 		],
@@ -23024,7 +22830,9 @@
 		"studio_help_5": [
 			"Certo, espero que esteja tudo claro. Uh, quero dizer... Ceeerto, espero que esteja tudo clarooo!"
 		],
-		"time_format": [],
+		"time_format": [
+			"{0}h{1}min{2}s"
+		],
 		"title_gameplay": [
 			"Jogabilidade"
 		],
@@ -23079,18 +22887,6 @@
 		"tutorial_shicka_6": [
 			"...e depois explorar o Deserto Beemothep."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Use <b> pra atacar inimigos"
 		],
@@ -23107,7 +22903,7 @@
 			"Segure <b> estando no ar"
 		],
 		"tutorial_tip_06": [
-			"Você pode dar um segundo pulo depois de um mergulho e então mergulhar de novo pra cobrir maiores distâncias."
+			"Você pode dar um segundo pulo durante um mergulho e então mergulhar de novo pra cobrir maiores distâncias."
 		],
 		"tutorial_tip_07": [
 			"Solte <b> estando perto de bater no chão"
@@ -23301,7 +23097,9 @@
 		"ui_game_creator": [
 			"Jogo feito por {0}"
 		],
-		"ui_game_over": [],
+		"ui_game_over": [
+			"Game over"
+		],
 		"ui_go": [
 			"Começar!"
 		],
@@ -23359,8 +23157,6 @@
 		"ui_life": [
 			"Vida"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Carregar"
 		],
@@ -23388,7 +23184,9 @@
 		"ui_mission_win": [
 			"Missão concluída!"
 		],
-		"ui_motion_blur": [],
+		"ui_motion_blur": [
+			"Motion blur"
+		],
 		"ui_music": [
 			"Volume de músicas"
 		],
@@ -23468,7 +23266,7 @@
 			"Continuar"
 		],
 		"ui_returntohub": [
-			"Voltar à//Vila dos Ursos"
+			"Voltar pra//Vila dos Ursos"
 		],
 		"ui_returntotitle": [
 			"Voltar pra//tela de título"
@@ -24321,8 +24119,6 @@
 		"help_key_help": [
 			"Когда у Вас есть ключ, показывается направление к нужной клетке."
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Следует ли быстро двигающемуся объекту быть размытым? Отключение этого улучшает производительность."
 		],
@@ -24665,7 +24461,6 @@
 		"level1_sign_6": [
 			"Вам нужно найти не менее 125 монет из 150 на этом уровне, чтобы открыть эту клетку."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Жители деревни напуганы, Вы должны нам помочь!"
 		],
@@ -24951,7 +24746,6 @@
 		"loading_09": [
 			"Используйте свои монеты в центре, чтобы покупать одежду."
 		],
-		"loading_1": [],
 		"loading_10": [
 			"Не стесняйтесь исследовать центр, Вы можете найти немного интересных вещей."
 		],
@@ -24964,14 +24758,6 @@
 		"loading_13": [
 			"Сердечки на уровнях восстанавливаются через 30 секунд."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"Уже доступно на {0}"
 		],
@@ -25194,10 +24980,6 @@
 		"scientist_cutscene_3_2": [
 			"Если ты достаточно смелый, чтобы спасти их, то я могу уменьшить тебя и позволить войти."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Попытайся использовать свою атаку на этом рычаге."
 		],
@@ -25375,18 +25157,6 @@
 		"tutorial_shicka_6": [
 			"... и затем исследовать Бимотепскую пустыню."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Используйте <b>, чтобы бить врагов"
 		],
@@ -25657,8 +25427,6 @@
 		"ui_life": [
 			"Жизни"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Загрузить"
 		],
@@ -26133,8 +25901,6 @@
 		"help_hide_inputs": [],
 		"help_invert_camera": [],
 		"help_key_help": [],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [],
 		"help_shicka_tips": [],
 		"help_speedrun_mode": [],
@@ -26265,7 +26031,6 @@
 		"level1_sign_4": [],
 		"level1_sign_5": [],
 		"level1_sign_6": [],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [],
 		"level1_turtle_2": [],
 		"level1_turtle_3": [],
@@ -26352,17 +26117,32 @@
 		"level4_mouse_7": [],
 		"level4_mouse_8": [],
 		"level4_sign_1": [],
-		"loading_01": [],
-		"loading_02": [],
-		"loading_03": [],
-		"loading_04": [],
-		"loading_05": [],
-		"loading_06": [],
-		"loading_07": [],
-		"loading_08": [],
-		"loading_09": [],
-		"loading_1": [
+		"loading_01": [
 			"Om spelet går för långsamt, ta en titt på alternativ i menyn."
+		],
+		"loading_02": [
+			"Spelet är fortfarande i betaversion så om du hittar en bugg, snällla raportera det på Discord servern."
+		],
+		"loading_03": [
+			"Du måste låsa upp myntdörren i banan före du räddar björnarna där."
+		],
+		"loading_04": [
+			"Du kan attackera fiender genom att slå dem, dyka in i dem eller hoppa på deras huvuden."
+		],
+		"loading_05": [
+			"Capitalus kan ge dig bonusar om en bana är för svår."
+		],
+		"loading_06": [
+			"Om du vill speedrunna så finns det alternativ för det i pause menyn."
+		],
+		"loading_07": [
+			"Gå med i gemenskapen på Discord servern! Länken finns i pause menyn!"
+		],
+		"loading_08": [
+			"Vissa saker kan bli förstörda med en magattack."
+		],
+		"loading_09": [
+			"Använd dina mynt i hubben för att låsa upp nya kläder!"
 		],
 		"loading_10": [],
 		"loading_11": [
@@ -26373,30 +26153,6 @@
 		],
 		"loading_13": [
 			"Hjärtan kommer tillbaka efter 30 sekunder."
-		],
-		"loading_2": [
-			"Spelet är fortfarande i betaversion så om du hittar en bugg, snällla raportera det på Discord servern."
-		],
-		"loading_3": [
-			"Du måste låsa upp myntdörren i banan före du räddar björnarna där."
-		],
-		"loading_4": [
-			"Du kan attackera fiender genom att slå dem, dyka in i dem eller hoppa på deras huvuden."
-		],
-		"loading_5": [
-			"Capitalus kan ge dig bonusar om en bana är för svår."
-		],
-		"loading_6": [
-			"Om du vill speedrunna så finns det alternativ för det i pause menyn."
-		],
-		"loading_7": [
-			"Gå med i gemenskapen på Discord servern! Länken finns i pause menyn!"
-		],
-		"loading_8": [
-			"Vissa saker kan bli förstörda med en magattack."
-		],
-		"loading_9": [
-			"Använd dina mynt i hubben för att låsa upp nya kläder!"
 		],
 		"merch_ad": [],
 		"mission_0_1": [],
@@ -26472,10 +26228,6 @@
 		"scientist_cutscene_2_2": [],
 		"scientist_cutscene_3_1": [],
 		"scientist_cutscene_3_2": [],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [],
 		"shicka_1_2": [],
 		"shicka_1_3": [],
@@ -26535,22 +26287,6 @@
 		"tutorial_shicka_4": [],
 		"tutorial_shicka_5": [],
 		"tutorial_shicka_6": [],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [
-			"Tryck på A för att hoppa."
-		],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [
-			"Tryck på A i luften för att dubbelhoppa."
-		],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [],
 		"tutorial_tip_02": [],
 		"tutorial_tip_03": [],
@@ -26649,8 +26385,6 @@
 		"ui_level3": [],
 		"ui_level4": [],
 		"ui_life": [],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [],
 		"ui_load_ad": [],
 		"ui_loading": [],
@@ -26853,7 +26587,9 @@
 		"char_bear_30": [],
 		"char_bear_31": [],
 		"char_bear_32": [],
-		"char_bee": [],
+		"char_bee": [
+			"Arı"
+		],
 		"char_brother": [
 			"Baaren'in erkek kardeşi"
 		],
@@ -27351,7 +27087,7 @@
 			"Neon Dünya"
 		],
 		"fwheel_item_owned": [
-			"Her {0} öğeye zaten sahipsiniz, dolayısıyla bunun yerine {1} jeton kazandınız."
+			"Tüm {0} öğeye zaten sahipsiniz, dolayısıyla bunun yerine {1} jeton kazandınız."
 		],
 		"fwheel_item_reward": [
 			"Yeni bir {0} öğe kazandınız: {1}"
@@ -27401,8 +27137,6 @@
 		"help_key_help": [
 			"Anahtar aldığınızda, anahtara uyan kafesin yönünü gösterir."
 		],
-		"help_light_probes": [],
-		"help_lightmaps": [],
 		"help_motion_blur": [
 			"Hızlı hareket eden nesne bulanık olmalı mı? Bunu devre dışı bırakmak performansı artırır."
 		],
@@ -27745,7 +27479,6 @@
 		"level1_sign_6": [
 			"Kafesi açabilmek için bu seviyede 150 akçeden en az 125'ini toplamalısınız."
 		],
-		"level1_stair_cutscene_1": [],
 		"level1_turtle_1": [
 			"Köyün yerlileri korkuyor, bize yardım etmelisin!"
 		],
@@ -28031,7 +27764,6 @@
 		"loading_09": [
 			"Değişik kostümleri açmak için akçelerini kullan."
 		],
-		"loading_1": [],
 		"loading_10": [
 			"İlginç şeyler bulmak için Başlangıç'ı keşfetmekten çekinmeyin."
 		],
@@ -28044,14 +27776,6 @@
 		"loading_13": [
 			"Canlar 30 saniye sonra yeniden dolar."
 		],
-		"loading_2": [],
-		"loading_3": [],
-		"loading_4": [],
-		"loading_5": [],
-		"loading_6": [],
-		"loading_7": [],
-		"loading_8": [],
-		"loading_9": [],
 		"merch_ad": [
 			"{0} ile indirin"
 		],
@@ -28274,10 +27998,6 @@
 		"scientist_cutscene_3_2": [
 			"Eğer onları kurtaracak kadar cesursan, seni küçültüp içeri alabilirim."
 		],
-		"shicka_0_1": [],
-		"shicka_0_2": [],
-		"shicka_0_3": [],
-		"shicka_0_4": [],
 		"shicka_1_1": [
 			"Bu kolu kaldırmak için ona doğru saldır."
 		],
@@ -28354,7 +28074,7 @@
 			"Aside dokunma, sana zarar verir! Onu buradan boşaltmanın bir yolunu bulmalıyız."
 		],
 		"shicka_4_7": [
-			"Bence o engeli yok etmek için karın saldırısı yapabilirsin... (<b>'yi basılı tut)"
+			"Ateş etmek için <b> veya varilden atlamak için <a> tuşlarını kullanın."
 		],
 		"shicka_gate_1": [
 			"Ayı kapısını açmak için 3 ayı kurtarmamız gerekiyor."
@@ -28455,18 +28175,6 @@
 		"tutorial_shicka_6": [
 			"Ve daha sonra da Beemothep Çölü'ne gidelim."
 		],
-		"tutorial_sign_01": [],
-		"tutorial_sign_02": [],
-		"tutorial_sign_03": [],
-		"tutorial_sign_04": [],
-		"tutorial_sign_05": [],
-		"tutorial_sign_06": [],
-		"tutorial_sign_07": [],
-		"tutorial_sign_08": [],
-		"tutorial_sign_09": [],
-		"tutorial_sign_10": [],
-		"tutorial_sign_11": [],
-		"tutorial_sign_12": [],
 		"tutorial_tip_01": [
 			"Düşmanları yumruklamak için <b> tuşunu kullanın"
 		],
@@ -28737,8 +28445,6 @@
 		"ui_life": [
 			"Can"
 		],
-		"ui_light_probes": [],
-		"ui_lightmaps": [],
 		"ui_load": [
 			"Yükle"
 		],

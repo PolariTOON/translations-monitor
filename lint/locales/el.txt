@@ -1,4 +1,4 @@
-Translation coverage: 709 / 756 required (93.78%), 0 / 0 optional (100.00%)
+Translation coverage: 716 / 756 required (94.71%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - char_baaren
 - char_bear_01
@@ -33,26 +33,17 @@ The following keys have missing translations:
 - char_bear_30
 - char_bear_31
 - char_bear_32
-- char_bee
 - char_capitalos
 - char_capitalus
 - char_crogo
 - char_maybee
-- char_note
-- char_queen
 - char_shicka
 - char_tristopio
 - char_violette
-- cosmetic_109
-- cosmetic_110
-- cosmetic_111
-- ui_save_kingdom
 The following keys have transparent translations:
 - arcade_race_2
 - arcade_race_3
 - arcade_race_4
-- cosmetic_006
-- cosmetic_017
 - cosmetic_071
 - cosmetic_094
 - cosmetic_104

@@ -1,16 +1,4 @@
-Translation coverage: 26 / 677 required (3.84%), 0 / 79 optional (0.00%)
-The following keys have extra translations:
-- loading_1
-- loading_2
-- loading_3
-- loading_4
-- loading_5
-- loading_6
-- loading_7
-- loading_8
-- loading_9
-- tutorial_sign_02
-- tutorial_sign_04
+Translation coverage: 35 / 677 required (5.17%), 0 / 79 optional (0.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -369,15 +357,6 @@ The following keys have missing translations:
 - level4_mouse_7
 - level4_mouse_8
 - level4_sign_1
-- loading_01
-- loading_02
-- loading_03
-- loading_04
-- loading_05
-- loading_06
-- loading_07
-- loading_08
-- loading_09
 - loading_10
 - merch_ad
 - mission_0_1

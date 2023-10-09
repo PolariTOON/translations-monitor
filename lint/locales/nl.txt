@@ -1,20 +1,13 @@
-Translation coverage: 670 / 677 required (98.97%), 7 / 79 optional (8.86%)
+Translation coverage: 677 / 677 required (100.00%), 8 / 79 optional (10.13%)
 The following keys have extra, but optional, translations:
 - char_crogo
 - cosmetic_094
+- cosmetic_104
 - filter_21
 - filter_22
 - filter_23
 - filter_25
 - iap_premium_title
-The following keys have missing translations:
-- cosmetic_105
-- cosmetic_106
-- cosmetic_107
-- photo_contribution
-- photo_dof
-- rarity_legendary
-- shicka_4_6
 The following keys have missing, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -55,7 +48,6 @@ The following keys have missing, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
-- cosmetic_104
 - filter_01
 - filter_02
 - filter_03
@@ -100,6 +92,7 @@ The following keys have transparent translations:
 - cosmetic_081
 - cosmetic_085
 - cosmetic_094
+- cosmetic_104
 - iap_premium_title
 - mission_parkour
 - mission_race
