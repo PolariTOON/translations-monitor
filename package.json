@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "cld": "^2.9.0",
     "node-fetch": "^3.3.2"
   },
   "scripts": {
