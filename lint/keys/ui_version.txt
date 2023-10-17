@@ -5,3 +5,5 @@ The following locales have missing translations:
 The following locales have transparent translations:
 - de
 - fr
+The following locales have English-looking translations:
+- id

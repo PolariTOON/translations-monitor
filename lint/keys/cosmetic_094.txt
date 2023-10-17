@@ -23,3 +23,9 @@ The following locales have transparent translations:
 - pt
 - ru
 - tr
+The following locales have English-looking translations:
+- es
+- fr
+- nl
+- pt
+- tr

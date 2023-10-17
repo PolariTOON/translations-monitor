@@ -19,3 +19,6 @@ The following locales have transparent translations:
 - es
 - pl
 - tr
+The following locales have English-looking translations:
+- pl
+- tr

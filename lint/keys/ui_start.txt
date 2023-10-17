@@ -5,3 +5,5 @@ The following locales have transparent translations:
 - de
 - nl
 - pl
+The following locales have English-looking translations:
+- nl

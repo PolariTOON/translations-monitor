@@ -16,3 +16,6 @@ The following locales have missing, but optional, translations:
 The following locales have transparent translations:
 - fr
 - tr
+The following locales have English-looking translations:
+- id
+- tr
