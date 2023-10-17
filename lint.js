@@ -64,7 +64,18 @@ for (const [key, locales] of Object.entries(keys)) {
 					return false;
 				}
 			})();
-			return englishLooking;
+			return englishLooking && await asyncFilter(locales["en"], async (value) => {
+				const englishLooking = await (async () => {
+					try {
+						return (await cld.detect(value)).languages.filter((language) => {
+							return language.code === "en";
+						}).length > 0;
+					} catch {
+						return false;
+					}
+				})();
+				return englishLooking;
+			}).length > 0;
 		}).length > 0;
 	});
 	for (const locale of extraLocales) {
