@@ -104,4 +104,3 @@ The following keys have English-looking translations:
 - cosmetic_104
 - filter_16
 - ui_6hp
-- ui_life

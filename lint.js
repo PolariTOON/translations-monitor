@@ -53,7 +53,12 @@ for (const [key, locales] of Object.entries(keys)) {
 			const identifier = cldFactory.create(0, 1024);
 			const englishLooking = identifier.findLanguage(value).language === "en";
 			identifier.dispose();
-			return englishLooking;
+			return englishLooking && locales["en"].filter((value) => {
+				const identifier = cldFactory.create(0, 1024);
+				const englishLooking = identifier.findLanguage(value).language === "en";
+				identifier.dispose();
+				return englishLooking;
+			}).length > 0;
 		}).length > 0;
 	});
 	for (const locale of extraLocales) {

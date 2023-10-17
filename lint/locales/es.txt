@@ -103,4 +103,3 @@ The following keys have English-looking translations:
 - binding_axis
 - cosmetic_104
 - ctokens_name
-- ui_shadows

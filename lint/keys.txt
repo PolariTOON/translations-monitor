@@ -22,7 +22,6 @@ arcade_race_3 has missing translations ja, sv
 arcade_race_3 has transparent translations el
 arcade_race_4 has missing translations ja, sv
 arcade_race_4 has transparent translations el, fr
-arcade_race_4 has English-looking translations nl
 arcade_timer has missing translations ja, sv
 binding_alt_1 has missing translations ja, sv
 binding_alt_2 has missing translations ja, sv
@@ -134,13 +133,11 @@ char_shicka has missing translations el, ja
 char_shicka has missing, but optional, translations de, es, fr, id, it, nl, pl, pt, sv, tr
 char_tristopio has missing translations el, ja
 char_tristopio has missing, but optional, translations de, es, fr, id, it, nl, pl, pt, sv, tr
-char_turtle has English-looking translations fr
 char_violette has extra, but optional, translations de
 char_violette has missing translations el, ja
 char_violette has missing, but optional, translations es, fr, id, it, nl, pl, pt, sv, tr
 cosmetic_001 has missing translations ja, sv
 cosmetic_002 has missing translations ja, sv
-cosmetic_002 has English-looking translations de
 cosmetic_003 has missing translations ja, sv
 cosmetic_004 has missing translations ja, sv
 cosmetic_004 has transparent translations id
@@ -148,17 +145,13 @@ cosmetic_005 has missing translations ja, sv
 cosmetic_006 has missing translations ja, sv
 cosmetic_006 has transparent translations es, fr, id, it, nl, pl, pt, tr
 cosmetic_007 has missing translations ja, sv
-cosmetic_007 has English-looking translations fr
 cosmetic_008 has missing translations ja, sv
-cosmetic_008 has English-looking translations fr
 cosmetic_009 has missing translations ja, sv
-cosmetic_009 has English-looking translations fr
 cosmetic_010 has missing translations ja, sv
 cosmetic_011 has missing translations ja, sv
 cosmetic_012 has missing translations ja, sv
 cosmetic_013 has missing translations ja, sv
 cosmetic_014 has missing translations ja, sv
-cosmetic_014 has English-looking translations fr
 cosmetic_015 has missing translations ja, sv
 cosmetic_016 has missing translations ja, sv
 cosmetic_017 has missing translations ja, sv
@@ -169,7 +162,6 @@ cosmetic_020 has transparent translations it
 cosmetic_020 has English-looking translations fr, it
 cosmetic_021 has missing translations ja, sv
 cosmetic_022 has missing translations ja, sv
-cosmetic_022 has English-looking translations fr
 cosmetic_023 has missing translations ja, sv
 cosmetic_024 has missing translations ja, sv
 cosmetic_025 has missing translations ja, sv
@@ -177,13 +169,11 @@ cosmetic_026 has missing translations ja, sv
 cosmetic_027 has missing translations ja, sv
 cosmetic_028 has missing translations ja, sv
 cosmetic_029 has missing translations ja, sv
-cosmetic_029 has English-looking translations de, nl
 cosmetic_030 has missing translations ja, sv
 cosmetic_031 has missing translations ja, sv
 cosmetic_032 has missing translations ja, sv
 cosmetic_033 has missing translations ja, sv
 cosmetic_034 has missing translations ja, sv
-cosmetic_034 has English-looking translations fr
 cosmetic_035 has missing translations ja, sv
 cosmetic_036 has missing translations ja, sv
 cosmetic_036 has transparent translations es, it, nl, pl
@@ -191,13 +181,11 @@ cosmetic_037 has missing translations ja, sv
 cosmetic_038 has missing translations ja, sv
 cosmetic_039 has missing translations ja, sv
 cosmetic_040 has missing translations ja, sv
-cosmetic_040 has English-looking translations fr
 cosmetic_041 has missing translations ja, sv
 cosmetic_042 has missing translations ja, sv
 cosmetic_042 has English-looking translations pl
 cosmetic_043 has missing translations ja, sv
 cosmetic_044 has missing translations ja, sv
-cosmetic_044 has English-looking translations fr
 cosmetic_045 has missing translations ja, sv
 cosmetic_046 has missing translations ja, sv
 cosmetic_047 has missing translations ja, sv
@@ -208,7 +196,6 @@ cosmetic_049 has missing translations ja, sv
 cosmetic_050 has missing translations ja, sv
 cosmetic_051 has missing translations ja, sv
 cosmetic_052 has missing translations ja, sv
-cosmetic_052 has English-looking translations fr
 cosmetic_053 has missing translations ja, sv
 cosmetic_054 has missing translations ja, sv
 cosmetic_055 has missing translations ja, sv
@@ -226,31 +213,24 @@ cosmetic_065 has missing translations ja, sv
 cosmetic_066 has missing translations ja, sv
 cosmetic_067 has missing translations ja, sv
 cosmetic_068 has missing translations ja, sv
-cosmetic_068 has English-looking translations de
 cosmetic_069 has missing translations ja, sv
 cosmetic_069 has transparent translations nl, tr
 cosmetic_070 has missing translations ja, sv
 cosmetic_070 has transparent translations nl
-cosmetic_070 has English-looking translations fr
 cosmetic_071 has missing translations ja, sv
 cosmetic_071 has transparent translations el, pt, tr
 cosmetic_072 has missing translations ja, sv
 cosmetic_073 has missing translations ja, sv
 cosmetic_074 has missing translations ja, sv
-cosmetic_074 has English-looking translations fr, nl
 cosmetic_075 has missing translations ja, sv
-cosmetic_075 has English-looking translations it
 cosmetic_076 has missing translations ja, sv
 cosmetic_077 has missing translations ja, sv
 cosmetic_078 has missing translations ja, sv
-cosmetic_078 has English-looking translations fr
 cosmetic_079 has missing translations ja, sv
-cosmetic_079 has English-looking translations fr
 cosmetic_080 has missing translations ja, sv
 cosmetic_081 has missing translations ja, sv
 cosmetic_081 has transparent translations nl
 cosmetic_082 has missing translations ja, sv
-cosmetic_082 has English-looking translations fr
 cosmetic_083 has missing translations ja, sv
 cosmetic_084 has missing translations ja, sv
 cosmetic_085 has missing translations ja, sv
@@ -259,7 +239,6 @@ cosmetic_086 has missing translations ja, sv
 cosmetic_087 has missing translations ja, sv
 cosmetic_087 has English-looking translations nl
 cosmetic_088 has missing translations ja, sv
-cosmetic_088 has English-looking translations fr
 cosmetic_089 has missing translations ja, sv
 cosmetic_090 has missing translations ja, sv
 cosmetic_091 has missing translations ja, sv
@@ -276,7 +255,6 @@ cosmetic_098 has missing translations ja, sv
 cosmetic_099 has missing translations ja, sv
 cosmetic_100 has missing translations ja, sv
 cosmetic_101 has missing translations ja, sv
-cosmetic_101 has English-looking translations fr
 cosmetic_102 has missing translations ja, sv
 cosmetic_103 has missing translations ja, sv
 cosmetic_104 has extra, but optional, translations es, fr, it, nl, pl, pt, tr
@@ -293,7 +271,6 @@ cosmetic_108 has missing translations ja, sv
 cosmetic_109 has missing translations ja, sv
 cosmetic_110 has missing translations ja, sv
 cosmetic_111 has missing translations ja, sv
-cosmetic_111 has English-looking translations fr
 cosmetic_default has missing translations ja, sv
 ctokens_description has missing translations ja, sv
 ctokens_name has missing translations ja, sv
@@ -391,7 +368,6 @@ filter_24 has transparent translations de, el, es, pl, tr
 filter_25 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_25 has missing translations ja
 filter_25 has missing, but optional, translations sv
-filter_25 has English-looking translations pl
 filter_26 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
 filter_26 has missing translations ja
 filter_26 has missing, but optional, translations nl, sv
@@ -504,12 +480,10 @@ hub_bear_27 has transparent translations el
 hub_bear_27 has English-looking translations el
 hub_bear_28 has missing translations ja, sv
 hub_bear_29 has missing translations ja, sv
-hub_bear_29 has English-looking translations pt
 hub_bear_30 has missing translations ja, sv
 hub_bear_30 has transparent translations el, es, it, pt
 hub_bear_31 has missing translations ja, sv
 hub_bear_32 has missing translations ja, sv
-hub_bear_32 has English-looking translations fr
 hub_capitalos has missing translations sv
 hub_capitalus has missing translations sv
 hub_scientist has missing translations sv
@@ -779,12 +753,10 @@ title_gameplay has missing translations sv
 title_gameplay has transparent translations el, nl
 title_graphics1 has missing translations sv
 title_graphics1 has transparent translations nl
-title_graphics1 has English-looking translations fr
 title_graphics2 has missing translations sv
 title_iap has missing translations ja, sv
 title_inputs has missing translations ja, sv
 title_sound has missing translations sv
-title_sound has English-looking translations pt
 tristopio_ad has missing translations sv
 tristopio_no_life has missing translations sv
 tristopio_practice has missing translations sv
@@ -806,7 +778,6 @@ tutorial_tip_06 has missing translations ja, sv
 tutorial_tip_07 has missing translations ja, sv
 tutorial_tip_title_01 has missing translations ja, sv
 tutorial_tip_title_02 has missing translations ja, sv
-tutorial_tip_title_02 has English-looking translations nl
 tutorial_tip_title_03 has missing translations ja, sv
 tutorial_tip_title_04 has missing translations ja, sv
 tutorial_tip_title_05 has missing translations ja, sv
@@ -814,7 +785,6 @@ tutorial_tip_title_05 has English-looking translations fr
 tutorial_tip_title_06 has missing translations ja, sv
 tutorial_tip_title_07 has missing translations ja, sv
 tutorial_tip_title_07 has transparent translations nl
-tutorial_tip_title_07 has English-looking translations fr
 ui_100coins has missing translations sv
 ui_100coins_desc has missing translations sv
 ui_2x_coins has missing translations sv
@@ -835,7 +805,6 @@ ui_best_time has missing translations sv
 ui_bestcoins has missing translations sv
 ui_binding has missing translations ja, sv
 ui_birds has missing translations sv
-ui_birds has English-looking translations it
 ui_camera_sensitivity has missing translations sv
 ui_cancel has missing translations sv
 ui_capitalus_hint has missing translations sv
@@ -849,7 +818,6 @@ ui_coin_detector_desc has missing translations sv
 ui_coins_found has missing translations ja, sv
 ui_connected has missing translations sv
 ui_continue has missing translations ja, sv
-ui_continue has English-looking translations fr
 ui_cosm_buy has missing translations sv
 ui_cosm_new has missing translations sv
 ui_cosm_owned has missing translations sv
@@ -885,7 +853,6 @@ ui_gyroscope has transparent translations fr
 ui_hide_inputs has missing translations sv
 ui_hive has missing translations sv
 ui_hub has missing translations ja, sv
-ui_hub has English-looking translations fr
 ui_hubconfirm has missing translations sv
 ui_in has missing translations sv
 ui_in has transparent translations de, nl
@@ -893,7 +860,6 @@ ui_introconfirm has missing translations sv
 ui_invert_camera has missing translations sv
 ui_item_time has missing translations sv
 ui_key_help has missing translations sv
-ui_key_help has English-looking translations fr
 ui_language has missing translations sv
 ui_leaderboard_help has missing translations sv
 ui_level1 has missing translations sv
@@ -904,12 +870,9 @@ ui_level3 has missing translations sv
 ui_level4 has missing translations sv
 ui_level4 has transparent translations el
 ui_life has missing translations sv
-ui_life has English-looking translations tr
 ui_load has missing translations sv
-ui_load has English-looking translations fr
 ui_load_ad has missing translations sv
 ui_loading has missing translations sv
-ui_loading has English-looking translations de
 ui_loading_google has missing translations sv
 ui_lootbox has missing translations sv
 ui_main_menu_1 has missing translations sv
@@ -938,7 +901,6 @@ ui_quality has missing translations sv
 ui_quality0 has missing translations sv
 ui_quality1 has missing translations sv
 ui_quality1 has transparent translations de, es, fr, pt
-ui_quality1 has English-looking translations it
 ui_quality2 has missing translations sv
 ui_quitconfirm has missing translations sv
 ui_rate_game has missing translations sv
@@ -947,7 +909,6 @@ ui_restart has missing translations sv
 ui_restartconfirm has missing translations sv
 ui_restore_iap has missing translations ja, sv
 ui_resume has missing translations sv
-ui_resume has English-looking translations fr
 ui_returntohub has missing translations sv
 ui_returntotitle has missing translations sv
 ui_reversed has missing translations sv
@@ -957,10 +918,8 @@ ui_save_kingdom has missing translations ja, sv
 ui_select_quality has missing translations sv
 ui_sfx_volume has missing translations sv
 ui_shadows has missing translations sv
-ui_shadows has English-looking translations es, fr, it, pt
 ui_shicka_tips has missing translations sv
 ui_shicka_tips has transparent translations nl
-ui_shicka_tips has English-looking translations de
 ui_shop has missing translations sv
 ui_shop_future has missing translations sv
 ui_shopinfo has missing translations sv

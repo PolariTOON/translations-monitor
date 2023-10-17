@@ -96,10 +96,5 @@ The following keys have transparent translations:
 - ui_timer
 - ui_version
 The following keys have English-looking translations:
-- cosmetic_002
-- cosmetic_029
-- cosmetic_068
 - party_turtle_4
 - ui_game_over
-- ui_loading
-- ui_shicka_tips

@@ -108,4 +108,3 @@ The following keys have English-looking translations:
 - cosmetic_104
 - filter_16
 - filter_18
-- filter_25
