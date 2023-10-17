@@ -48,7 +48,7 @@ function bind(array) {
 	return binding;
 }
 function supports(locale) {
-	return ["en-US", "fr", "pt-BR"].includes(locale);
+	return ["en-US", "fr", "pt-BR", "ru"].includes(locale);
 }
 function merge(original, override) {
 	for (const [index, value] of override.entries()) {
