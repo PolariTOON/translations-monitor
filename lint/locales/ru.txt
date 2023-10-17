@@ -6,3 +6,6 @@ The following keys have transparent translations:
 - filter_20
 - filter_27
 - iap_premium_title
+The following keys have English-looking translations:
+- cosmetic_104
+- ui_yes

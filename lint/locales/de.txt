@@ -95,3 +95,6 @@ The following keys have transparent translations:
 - ui_start
 - ui_timer
 - ui_version
+The following keys have English-looking translations:
+- party_turtle_4
+- ui_game_over

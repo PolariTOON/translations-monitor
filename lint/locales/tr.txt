@@ -100,3 +100,7 @@ The following keys have transparent translations:
 - filter_35
 - iap_premium_title
 - ui_motion_blur
+The following keys have English-looking translations:
+- cosmetic_104
+- filter_16
+- ui_6hp

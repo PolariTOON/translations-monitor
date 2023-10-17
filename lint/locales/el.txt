@@ -69,3 +69,7 @@ The following keys have transparent translations:
 - ui_level4
 - ui_revive
 - ui_watch
+The following keys have English-looking translations:
+- cosmetic_104
+- filter_16
+- hub_bear_27

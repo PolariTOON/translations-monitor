@@ -104,3 +104,13 @@ The following keys have transparent translations:
 - ui_performance
 - ui_quality1
 - ui_version
+The following keys have English-looking translations:
+- char_note
+- cosmetic_020
+- cosmetic_104
+- filter_21
+- photo_guidelines
+- tutorial_tip_title_05
+- ui_arcade_stay
+- ui_game_over
+- ui_gold_time

@@ -5,6 +5,7 @@ action_gas has missing translations ja, sv
 action_jump has missing translations ja, sv
 action_move_x has missing translations ja, sv
 action_move_y has missing translations ja, sv
+action_move_y has English-looking translations es, pt
 arcade_1_1 has missing translations sv
 arcade_1_2 has missing translations sv
 arcade_2_1 has missing translations sv
@@ -26,12 +27,14 @@ binding_alt_1 has missing translations ja, sv
 binding_alt_2 has missing translations ja, sv
 binding_axis has missing translations ja, sv
 binding_axis has transparent translations es
+binding_axis has English-looking translations es
 binding_button has missing translations ja, sv
 binding_negative has missing translations ja, sv
 binding_positive has missing translations ja, sv
 boss_guardian has missing translations sv
 boss_queen has missing translations sv
 boss_rat has transparent translations nl
+boss_rat has English-looking translations nl
 boss_turtle_golem has missing translations sv
 boss_yeti has missing translations sv
 char_baaren has missing translations el, ja
@@ -48,6 +51,7 @@ char_bear_04 has missing, but optional, translations de, es, fr, id, it, nl, pt,
 char_bear_05 has extra, but optional, translations pl, pt
 char_bear_05 has missing translations el, ja
 char_bear_05 has missing, but optional, translations de, es, fr, id, it, nl, sv, tr
+char_bear_05 has English-looking translations pt
 char_bear_06 has missing translations el, ja
 char_bear_06 has missing, but optional, translations de, es, fr, id, it, nl, pl, pt, sv, tr
 char_bear_07 has missing translations el, ja
@@ -123,6 +127,7 @@ char_maybee has missing translations el, ja
 char_maybee has missing, but optional, translations de, id, nl, pl, pt, sv, tr
 char_note has missing translations ja, sv
 char_note has transparent translations fr
+char_note has English-looking translations fr
 char_queen has missing translations ja, sv
 char_shicka has missing translations el, ja
 char_shicka has missing, but optional, translations de, es, fr, id, it, nl, pl, pt, sv, tr
@@ -154,6 +159,7 @@ cosmetic_018 has missing translations ja, sv
 cosmetic_019 has missing translations ja, sv
 cosmetic_020 has missing translations ja, sv
 cosmetic_020 has transparent translations it
+cosmetic_020 has English-looking translations fr, it
 cosmetic_021 has missing translations ja, sv
 cosmetic_022 has missing translations ja, sv
 cosmetic_023 has missing translations ja, sv
@@ -177,6 +183,7 @@ cosmetic_039 has missing translations ja, sv
 cosmetic_040 has missing translations ja, sv
 cosmetic_041 has missing translations ja, sv
 cosmetic_042 has missing translations ja, sv
+cosmetic_042 has English-looking translations pl
 cosmetic_043 has missing translations ja, sv
 cosmetic_044 has missing translations ja, sv
 cosmetic_045 has missing translations ja, sv
@@ -230,6 +237,7 @@ cosmetic_085 has missing translations ja, sv
 cosmetic_085 has transparent translations nl, tr
 cosmetic_086 has missing translations ja, sv
 cosmetic_087 has missing translations ja, sv
+cosmetic_087 has English-looking translations nl
 cosmetic_088 has missing translations ja, sv
 cosmetic_089 has missing translations ja, sv
 cosmetic_090 has missing translations ja, sv
@@ -253,6 +261,7 @@ cosmetic_104 has extra, but optional, translations es, fr, it, nl, pl, pt, tr
 cosmetic_104 has missing translations ja
 cosmetic_104 has missing, but optional, translations de, id, sv
 cosmetic_104 has transparent translations el, es, fr, it, nl, pl, ru, tr
+cosmetic_104 has English-looking translations el, es, fr, it, nl, pl, ru, tr
 cosmetic_105 has missing translations ja, sv
 cosmetic_106 has missing translations ja, sv
 cosmetic_106 has transparent translations pl
@@ -265,6 +274,7 @@ cosmetic_111 has missing translations ja, sv
 cosmetic_default has missing translations ja, sv
 ctokens_description has missing translations ja, sv
 ctokens_name has missing translations ja, sv
+ctokens_name has English-looking translations es
 ctokens_requirement has missing translations ja, sv
 filter_00 has missing translations ja, sv
 filter_01 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
@@ -324,6 +334,7 @@ filter_16 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
 filter_16 has missing translations ja
 filter_16 has missing, but optional, translations nl, sv
 filter_16 has transparent translations el, pl, tr
+filter_16 has English-looking translations el, pl, tr
 filter_17 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
 filter_17 has missing translations ja
 filter_17 has missing, but optional, translations nl, sv
@@ -332,6 +343,7 @@ filter_18 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
 filter_18 has missing translations ja
 filter_18 has missing, but optional, translations nl, sv
 filter_18 has transparent translations pl
+filter_18 has English-looking translations pl
 filter_19 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
 filter_19 has missing translations ja
 filter_19 has missing, but optional, translations nl, sv
@@ -342,6 +354,7 @@ filter_20 has transparent translations el, pl, ru
 filter_21 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_21 has missing translations ja
 filter_21 has missing, but optional, translations sv
+filter_21 has English-looking translations fr, nl
 filter_22 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_22 has missing translations ja
 filter_22 has missing, but optional, translations sv
@@ -413,6 +426,7 @@ help_invert_camera has missing translations sv
 help_key_help has missing translations sv
 help_motion_blur has missing translations ja, sv
 help_shicka_tips has missing translations sv
+help_shicka_tips has English-looking translations nl
 help_speedrun_mode has missing translations sv
 help_timer has missing translations sv
 hive_boss_1_1 has missing translations ja, sv
@@ -463,6 +477,7 @@ hub_bear_25 has missing translations ja, sv
 hub_bear_26 has missing translations ja, sv
 hub_bear_27 has missing translations ja, sv
 hub_bear_27 has transparent translations el
+hub_bear_27 has English-looking translations el
 hub_bear_28 has missing translations ja, sv
 hub_bear_29 has missing translations ja, sv
 hub_bear_30 has missing translations ja, sv
@@ -633,6 +648,7 @@ mission_race has missing translations sv
 mission_race has transparent translations it, nl
 party_bee_1 has missing translations ja, sv
 party_bee_2 has missing translations ja, sv
+party_bee_2 has English-looking translations nl
 party_bee_3 has missing translations ja, sv
 party_capitalos has missing translations ja, sv
 party_capitalus has missing translations ja, sv
@@ -657,11 +673,13 @@ party_turtle_1 has missing translations ja, sv
 party_turtle_2 has missing translations ja, sv
 party_turtle_3 has missing translations ja, sv
 party_turtle_4 has missing translations ja, sv
+party_turtle_4 has English-looking translations de
 party_turtle_5 has missing translations ja, sv
 party_turtle_6 has missing translations ja, sv
 photo_contribution has missing translations ja, sv
 photo_dof has missing translations ja, sv
 photo_guidelines has missing translations ja, sv
+photo_guidelines has English-looking translations fr
 photo_iap_blocker has missing translations ja, sv
 photo_save has missing translations ja, sv
 photo_saved has missing translations ja, sv
@@ -763,6 +781,7 @@ tutorial_tip_title_02 has missing translations ja, sv
 tutorial_tip_title_03 has missing translations ja, sv
 tutorial_tip_title_04 has missing translations ja, sv
 tutorial_tip_title_05 has missing translations ja, sv
+tutorial_tip_title_05 has English-looking translations fr
 tutorial_tip_title_06 has missing translations ja, sv
 tutorial_tip_title_07 has missing translations ja, sv
 tutorial_tip_title_07 has transparent translations nl
@@ -770,13 +789,16 @@ ui_100coins has missing translations sv
 ui_100coins_desc has missing translations sv
 ui_2x_coins has missing translations sv
 ui_6hp has missing translations sv
+ui_6hp has English-looking translations tr
 ui_6hp_desc has missing translations sv
 ui_aboutbutton has missing translations sv
+ui_aboutbutton has English-looking translations nl
 ui_achievements has missing translations sv
 ui_ad_text has missing translations sv
 ui_arcade_enter has missing translations sv
 ui_arcade_exit has missing translations sv
 ui_arcade_stay has missing translations sv
+ui_arcade_stay has English-looking translations fr
 ui_arcade_world has missing translations sv
 ui_bear_name has missing translations sv
 ui_best_time has missing translations sv
@@ -804,6 +826,7 @@ ui_credits has missing translations ja, sv
 ui_day_0 has missing translations ja, sv
 ui_day_1 has missing translations ja, sv
 ui_day_2 has missing translations ja, sv
+ui_day_2 has English-looking translations pt
 ui_delete has missing translations sv
 ui_deleteconfirm has missing translations sv
 ui_disconnected has missing translations sv
@@ -821,8 +844,10 @@ ui_freed has missing translations sv
 ui_game_creator has missing translations ja, sv
 ui_game_over has missing translations ja, sv
 ui_game_over has transparent translations fr, it, nl, pt
+ui_game_over has English-looking translations de, fr, it, nl, pt
 ui_go has missing translations sv
 ui_gold_time has missing translations sv
+ui_gold_time has English-looking translations fr
 ui_gyroscope has missing translations sv
 ui_gyroscope has transparent translations fr
 ui_hide_inputs has missing translations sv
@@ -919,4 +944,5 @@ ui_watch has missing translations sv
 ui_watch has transparent translations el
 ui_watch_trailer has missing translations ja, sv
 ui_website has missing translations sv
+ui_yes has English-looking translations ru
 ui_your_time has missing translations ja, sv

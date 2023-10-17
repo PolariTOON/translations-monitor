@@ -103,3 +103,8 @@ The following keys have transparent translations:
 - photo_title
 - ui_start
 - ui_timer
+The following keys have English-looking translations:
+- cosmetic_042
+- cosmetic_104
+- filter_16
+- filter_18
