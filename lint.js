@@ -12,7 +12,6 @@ for (const locale of Object.keys(locales)) {
 	localeWarns[locale]["extra, but optional,"] = [];
 	localeWarns[locale].missing = [];
 	localeWarns[locale]["missing, but optional,"] = [];
-	localeWarns[locale].multiple = [];
 	localeWarns[locale].transparent = [];
 }
 for (const [key, locales] of Object.entries(keys)) {
@@ -21,28 +20,22 @@ for (const [key, locales] of Object.entries(keys)) {
 	keyWarns[key]["extra, but optional,"] = [];
 	keyWarns[key].missing = [];
 	keyWarns[key]["missing, but optional,"] = [];
-	keyWarns[key].multiple = [];
 	keyWarns[key].transparent = [];
-	const length = locales["en"].length;
+	const source = locales["en"];
 	const extraLocales = Object.keys(locales).filter((locale) => {
-		return length < 1 && locales[locale].length > 0;
+		return source == null && locales[locale] != null;
 	});
 	const extraButOptionalLocales = Object.keys(locales).filter((locale) => {
-		return length > 0 && !isRequired(locale, key) && locales[locale].length > 0;
+		return source != null && !isRequired(locale, key) && locales[locale] != null;
 	});
 	const missingLocales = Object.keys(locales).filter((locale) => {
-		return length > 0 && isRequired(locale, key) && locales[locale].length < 1;
+		return source != null && isRequired(locale, key) && locales[locale] == null;
 	});
 	const missingButOptionalLocales = Object.keys(locales).filter((locale) => {
-		return length > 0 && !isRequired(locale, key) && locales[locale].length < 1;
-	});
-	const multipleLocales = Object.keys(locales).filter((locale) => {
-		return locales[locale].length > 1;
+		return source != null && !isRequired(locale, key) && locales[locale] == null;
 	});
 	const transparentLocales = Object.keys(locales).filter((locale) => {
-		return locale !== "en" && locales[locale].filter((transparent) => {
-			return locales["en"].includes(transparent);
-		}).length > 0;
+		return locale !== "en" && source != null && locales[locale] != null && source === locales[locale];
 	});
 	for (const locale of extraLocales) {
 		localeWarns[locale].extra.push(key);
@@ -59,11 +52,6 @@ for (const [key, locales] of Object.entries(keys)) {
 	for (const locale of missingButOptionalLocales) {
 		localeWarns[locale]["missing, but optional,"].push(key);
 		keyWarns[key]["missing, but optional,"].push(locale);
-	}
-	for (const locale of multipleLocales) {
-		const {length} = locales[locale];
-		localeWarns[locale].multiple.push(`${key} (${length})`);
-		keyWarns[key].multiple.push(`${locale} (${length})`);
 	}
 	for (const locale of transparentLocales) {
 		localeWarns[locale].transparent.push(key);
@@ -93,11 +81,13 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 	const formattedLocaleWarn = [];
 	const requiredMissingKeyCount = warns.missing.length;
 	const requiredKeyCount = Object.keys(keys).filter((key) => {
-		return keys[key]["en"].length > 0 && isRequired(locale, key);
+		const source = keys[key]["en"];
+		return source != null && isRequired(locale, key);
 	}).length;
 	const optionalMissingKeyCount = warns["missing, but optional,"].length;
 	const optionalKeyCount = Object.keys(keys).filter((key) => {
-		return keys[key]["en"].length > 0 && !isRequired(locale, key);
+		const source = keys[key]["en"];
+		return source != null && !isRequired(locale, key);
 	}).length;
 	const levels = [
 		`${requiredKeyCount - requiredMissingKeyCount} / ${requiredKeyCount} required (${((1 - (requiredKeyCount > 0 ? requiredMissingKeyCount / requiredKeyCount : 0)) * 100).toFixed(2)}%)`,
@@ -119,11 +109,13 @@ for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
 	const requiredMissingLocaleCount = warns.missing.length;
 	const requiredLocaleCount = Object.keys(locales).filter((locale) => {
-		return keys[key]["en"].length > 0 && isRequired(locale, key);
+		const source = keys[key]["en"];
+		return source != null && isRequired(locale, key);
 	}).length;
 	const optionalMissingLocaleCount = warns["missing, but optional,"].length;
 	const optionalLocaleCount = Object.keys(locales).filter((locale) => {
-		return keys[key]["en"].length > 0 && !isRequired(locale, key);
+		const source = keys[key]["en"];
+		return source != null && !isRequired(locale, key);
 	}).length;
 	const levels = [
 		`${requiredLocaleCount - requiredMissingLocaleCount} / ${requiredLocaleCount} required (${((1 - (requiredLocaleCount > 0 ? requiredMissingLocaleCount / requiredLocaleCount : 0)) * 100).toFixed(2)}%)`,

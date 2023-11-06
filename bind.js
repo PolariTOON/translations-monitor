@@ -34,12 +34,13 @@ function bind(array) {
 	const binding = [];
 	for (const value of array) {
 		binding.push(Object.fromEntries(Object.entries(value).map(([key, locales]) => {
+			const source = locales["en"];
 			return [
 				key,
 				Object.fromEntries(Object.entries(locales).map(([locale, words]) => {
 					return [
 						relocalize(locale),
-						words[0] ?? locales["en"][0] ?? null,
+						words ?? source ?? null,
 					];
 				})),
 			];
@@ -59,9 +60,9 @@ function merge(original, override) {
 		}
 		for (const [key, locales] of Object.entries(value)) {
 			original[index][key] = Object.create(null);
-			for (const [locale, word] of Object.entries(locales)) {
+			for (const [locale, words] of Object.entries(locales)) {
 				if (supports(locale)) {
-					original[index][key][locale] = word;
+					original[index][key][locale] = words;
 				}
 			}
 		}
@@ -160,9 +161,11 @@ function computeParts() {
 	for (const partOutfits of outfitsByPart) {
 		const partCounts = Object.create(null);
 		for (const locales of partOutfits) {
+			const source = locales["en"];
 			for (const locale of Object.keys(locales)) {
 				partCounts[locale] ??= Object.create(null);
-				for (const word of (locales[locale][0] ?? locales["en"][0]).split(/ +/)) {
+				const words = locales[locale];
+				for (const word of (words ?? source).split(/ +/)) {
 					const lowerCaseWord = word.toLocaleLowerCase(locale);
 					partCounts[locale][lowerCaseWord] ??= 0;
 					partCounts[locale][lowerCaseWord] += 1;
@@ -180,7 +183,7 @@ function computeParts() {
 				}
 			}
 			if (maxWord != null) {
-				part[locale] = [capitalize(maxWord, locale)];
+				part[locale] = capitalize(maxWord, locale);
 			}
 		}
 		parts.push({

@@ -43,9 +43,9 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 				continue;
 			}
 			for (const locale of Object.keys(sheets)) {
-				locales[locale][key] ??= [];
+				locales[locale][key] ??= null;
 			}
-			locales[locale][key].push(value);
+			locales[locale][key] ??= value;
 		}
 		console.log(`Got sheet ${locale}`);
 		await new Promise((resolve) => {
