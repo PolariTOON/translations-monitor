@@ -1,12 +1,23 @@
-Translation coverage: 677 / 677 required (100.00%), 46 / 79 optional (58.23%)
+Translation coverage: 674 / 674 required (100.00%), 57 / 79 optional (72.15%)
 The following keys have extra, but optional, translations:
+- char_baaren
+- char_bear_02
+- char_bear_03
 - char_bear_04
 - char_bear_05
 - char_bear_08
 - char_bear_10
+- char_bear_11
 - char_bear_17
 - char_bear_19
 - char_bear_26
+- char_bear_27
+- char_bear_29
+- char_bear_32
+- char_capitalos
+- char_capitalus
+- char_crogo
+- char_tristopio
 - cosmetic_094
 - cosmetic_104
 - filter_01
@@ -47,14 +58,10 @@ The following keys have extra, but optional, translations:
 - filter_36
 - iap_premium_title
 The following keys have missing, but optional, translations:
-- char_baaren
 - char_bear_01
-- char_bear_02
-- char_bear_03
 - char_bear_06
 - char_bear_07
 - char_bear_09
-- char_bear_11
 - char_bear_12
 - char_bear_13
 - char_bear_14
@@ -67,20 +74,26 @@ The following keys have missing, but optional, translations:
 - char_bear_23
 - char_bear_24
 - char_bear_25
-- char_bear_27
 - char_bear_28
-- char_bear_29
 - char_bear_30
 - char_bear_31
-- char_bear_32
-- char_capitalos
-- char_capitalus
-- char_crogo
 - char_maybee
 - char_shicka
-- char_tristopio
 - char_violette
 The following keys have transparent translations:
+- char_baaren
+- char_bear_02
+- char_bear_03
+- char_bear_05
+- char_bear_08
+- char_bear_10
+- char_bear_11
+- char_bear_17
+- char_bear_19
+- char_bear_26
+- char_bear_27
+- char_bear_29
+- char_tristopio
 - cosmetic_006
 - cosmetic_036
 - cosmetic_048
@@ -90,7 +103,6 @@ The following keys have transparent translations:
 - cosmetic_107
 - filter_05
 - filter_08
-- filter_14
 - filter_16
 - filter_17
 - filter_18
@@ -98,7 +110,6 @@ The following keys have transparent translations:
 - filter_24
 - filter_27
 - filter_31
-- filter_32
 - iap_premium_title
 - photo_title
 - ui_start

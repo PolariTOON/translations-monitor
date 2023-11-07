@@ -1,4 +1,4 @@
-Translation coverage: 716 / 756 required (94.71%), 0 / 0 optional (100.00%)
+Translation coverage: 713 / 753 required (94.69%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - char_baaren
 - char_bear_01
@@ -65,7 +65,5 @@ The following keys have transparent translations:
 - title_gameplay
 - ui_framerate
 - ui_level1
-- ui_level2
-- ui_level4
 - ui_revive
 - ui_watch

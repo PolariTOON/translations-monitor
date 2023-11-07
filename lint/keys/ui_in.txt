@@ -1,4 +1,0 @@
-Translation coverage: 12 / 12 required (100.00%), 0 / 0 optional (100.00%)
-The following locales have transparent translations:
-- de
-- nl

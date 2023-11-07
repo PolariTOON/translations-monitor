@@ -1,13 +1,20 @@
-Translation coverage: 2 / 3 required (66.67%), 0 / 9 optional (0.00%)
+Translation coverage: 2 / 3 required (66.67%), 6 / 9 optional (66.67%)
+The following locales have extra, but optional, translations:
+- es
+- fr
+- id
+- nl
+- pt
+- tr
 The following locales have missing translations:
 - el
 The following locales have missing, but optional, translations:
 - de
+- it
+- pl
+The following locales have transparent translations:
 - es
 - fr
 - id
-- it
-- nl
-- pl
 - pt
 - tr

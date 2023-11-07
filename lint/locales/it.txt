@@ -1,4 +1,4 @@
-Translation coverage: 677 / 677 required (100.00%), 40 / 79 optional (50.63%)
+Translation coverage: 674 / 674 required (100.00%), 40 / 79 optional (50.63%)
 The following keys have extra, but optional, translations:
 - char_maybee
 - cosmetic_094

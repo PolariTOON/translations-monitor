@@ -1,4 +1,4 @@
-Translation coverage: 677 / 677 required (100.00%), 39 / 79 optional (49.37%)
+Translation coverage: 674 / 674 required (100.00%), 39 / 79 optional (49.37%)
 The following keys have extra, but optional, translations:
 - char_violette
 - cosmetic_094
@@ -90,7 +90,6 @@ The following keys have transparent translations:
 - iap_premium_title
 - mission_parkour
 - party_tristopio
-- ui_in
 - ui_quality1
 - ui_start
 - ui_timer
