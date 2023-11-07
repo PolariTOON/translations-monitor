@@ -37,7 +37,7 @@ function bind(array) {
 				Object.fromEntries(Object.entries(locales).map(([locale, words]) => {
 					return [
 						relocalize(locale),
-						words ?? source ?? null,
+						(words ?? source).split(/.^/ms)[0].replaceAll(/<("[^"]*"|[^"<>]*)*>/g, ""),
 					];
 				})),
 			];
@@ -162,7 +162,7 @@ function computeParts() {
 			for (const locale of Object.keys(locales)) {
 				partCounts[locale] ??= Object.create(null);
 				const words = locales[locale];
-				for (const word of (words ?? source).split(/ +/)) {
+				for (const word of (words ?? source).split(/.^/ms)[0].replaceAll(/<("[^"]*"|[^"<>]*)*>/g, "").split(/ +/)) {
 					const lowerCaseWord = word.toLocaleLowerCase(locale);
 					partCounts[locale][lowerCaseWord] ??= 0;
 					partCounts[locale][lowerCaseWord] += 1;
