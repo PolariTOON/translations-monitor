@@ -8,12 +8,10 @@ const sheets = Object.assign(Object.create(null), {
 	"fr": process.env.SBA_TRANSLATION_SHEET_FR_ID,
 	"id": process.env.SBA_TRANSLATION_SHEET_ID_ID,
 	"it": process.env.SBA_TRANSLATION_SHEET_IT_ID,
-	"ja": process.env.SBA_TRANSLATION_SHEET_JA_ID,
 	"nl": process.env.SBA_TRANSLATION_SHEET_NL_ID,
 	"pl": process.env.SBA_TRANSLATION_SHEET_PL_ID,
 	"pt": process.env.SBA_TRANSLATION_SHEET_PT_ID,
 	"ru": process.env.SBA_TRANSLATION_SHEET_RU_ID,
-	"sv": process.env.SBA_TRANSLATION_SHEET_SV_ID,
 	"tr": process.env.SBA_TRANSLATION_SHEET_TR_ID,
 });
 const locales = Object.create(null);

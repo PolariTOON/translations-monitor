@@ -12,12 +12,10 @@ $ export SBA_TRANSLATION_SHEET_ES_ID=<your-spanish-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_FR_ID=<your-french-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_ID_ID=<your-indonesian-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_IT_ID=<your-italian-translation-sheet-id-here>
-$ export SBA_TRANSLATION_SHEET_JA_ID=<your-japanese-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_NL_ID=<your-dutch-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_PL_ID=<your-polish-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_PT_ID=<your-portuguese-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_RU_ID=<your-russian-translation-sheet-id-here>
-$ export SBA_TRANSLATION_SHEET_SV_ID=<your-swedish-translation-sheet-id-here>
 $ export SBA_TRANSLATION_SHEET_TR_ID=<your-turkish-translation-sheet-id-here>
 ```
 

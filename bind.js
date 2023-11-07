@@ -25,9 +25,6 @@ function relocalize(locale) {
 	if (locale === "pt") {
 		return "pt-BR";
 	}
-	if (locale === "sv") {
-		return "sv-SE";
-	}
 	return locale;
 }
 function bind(array) {
