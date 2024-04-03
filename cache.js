@@ -83,12 +83,10 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 	try {
 		const text = await sheet.async("text");
 		const json = JSON.parse(text);
-		for (const cells of Object.entries(json)) {
-			const key = cells[0].replaceAll(/^ *(.*?) *$/gm, "$1");
-			if (typeof cells[1] !== "string") {
+		for (const [key, value] of Object.entries(json)) {
+			if (typeof value !== "string") {
 				continue;
 			}
-			const value = cells[1].replaceAll(/^ *(.*?) *$/gm, "$1");
 			for (const locale of Object.keys(sheets)) {
 				locales[locale][key] ??= null;
 			}

@@ -30,7 +30,9 @@ function bind(array) {
 				Object.fromEntries(Object.entries(locales).map(([locale, words]) => {
 					return [
 						relocalize(locale),
-						(words ?? source).split(/.^/ms)[0].replaceAll(/<("[^"]*"|[^"<>]*)*>/g, ""),
+						(words ?? source).split(/.^/ms)[0].replaceAll(/<a>|<b>/g, ($0) => {
+							return $0[1].toLocaleUpperCase();
+						}).replaceAll(/<("[^"]*"|[^"<>]*)*>/g, ""),
 					];
 				})),
 			];
