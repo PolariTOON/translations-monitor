@@ -1,4 +1,4 @@
-Translation coverage: 674 / 674 required (100.00%), 47 / 79 optional (59.49%)
+Translation coverage: 764 / 764 required (100.00%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -42,12 +42,6 @@ The following keys have extra, but optional, translations:
 - char_violette
 - cosmetic_094
 - cosmetic_104
-- filter_21
-- filter_22
-- filter_23
-- filter_25
-- iap_premium_title
-The following keys have missing, but optional, translations:
 - filter_01
 - filter_02
 - filter_03
@@ -68,7 +62,11 @@ The following keys have missing, but optional, translations:
 - filter_18
 - filter_19
 - filter_20
+- filter_21
+- filter_22
+- filter_23
 - filter_24
+- filter_25
 - filter_26
 - filter_27
 - filter_28
@@ -80,6 +78,11 @@ The following keys have missing, but optional, translations:
 - filter_34
 - filter_35
 - filter_36
+- iap_premium_title
+- pmk_bear_1
+- pmk_bear_2
+- pmk_bear_3
+- pmk_bear_4
 The following keys have transparent translations:
 - arcade_race_2
 - boss_rat
@@ -99,6 +102,9 @@ The following keys have transparent translations:
 - char_bear_14
 - char_bear_15
 - char_bear_16
+- char_bear_17
+- char_bear_18
+- char_bear_19
 - char_bear_20
 - char_bear_21
 - char_bear_22
@@ -118,7 +124,9 @@ The following keys have transparent translations:
 - char_shicka
 - char_tristopio
 - char_violette
+- cosm_category_pet
 - cosmetic_006
+- cosmetic_034
 - cosmetic_036
 - cosmetic_047
 - cosmetic_048
@@ -126,13 +134,53 @@ The following keys have transparent translations:
 - cosmetic_070
 - cosmetic_081
 - cosmetic_085
+- cosmetic_087
 - cosmetic_094
+- cosmetic_096
 - cosmetic_104
+- cosmetic_120
+- cosmetic_127
+- cosmetic_136
+- filter_05
+- filter_06
+- filter_07
+- filter_08
+- filter_09
+- filter_10
+- filter_11
+- filter_12
+- filter_13
+- filter_14
+- filter_15
+- filter_16
+- filter_17
+- filter_18
+- filter_19
+- filter_20
+- filter_24
+- filter_27
+- filter_28
+- filter_29
+- filter_30
+- filter_31
+- filter_32
+- filter_33
+- filter_34
+- filter_35
+- filter_36
 - iap_premium_title
+- lootbox_name_10x
+- lootbox_name_pmk
 - mission_parkour
 - mission_race
+- pmk_bear_1
+- pmk_bear_2
+- pmk_bear_3
+- studio_filter
+- studio_level
 - title_gameplay
 - title_graphics1
+- title_privacy
 - tutorial_tip_title_07
 - ui_framerate
 - ui_game_over

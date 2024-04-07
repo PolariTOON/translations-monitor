@@ -5,16 +5,9 @@ const challenges = await (await fetch("https://raw.githubusercontent.com/SuperBe
 const levels = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/levels.json")).json();
 const missions = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/missions.json")).json();
 const outfits = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/outfits.json")).json();
-const parts = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/parts.json")).json();
 const rarities = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/rarities.json")).json();
 const updates = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/updates.json")).json();
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
-function capitalize(word, locale) {
-	const characters = [...word];
-	const firstCharacter = characters.slice(0, 1).join("").toLocaleUpperCase(locale);
-	const lastCharacters = characters.slice(1).join("");
-	return `${firstCharacter}${lastCharacters}`;
-}
 function relocalize(locale) {
 	if (locale === "en") {
 		return "en-US";
@@ -129,71 +122,15 @@ function computeLevels() {
 }
 function computeOutfits() {
 	const outfits = [];
-	for (let k = 0; k < 5; ++k) {
-		outfits.push({
-			name: keys["cosmetic_default"],
-		});
-	}
-	for (let k = 0; k < 111; ++k) {
+	for (let k = 0; k < 139; ++k) {
 		outfits.push({
 			name: keys[`cosmetic_${`${k + 1}`.padStart(3, "0")}`],
 		});
 	}
 	return outfits;
 }
-function computeParts() {
-	const parts = [];
-	const outfitsByPart = [
-		[13, 28, 32, 41, 49, 54, 59, 63, 84, 90, 103],
-		[15, 16, 52, 64],
-		[14, 18, 22, 35, 39, 40, 43, 70, 73, 74, 79, 82, 101, 111],
-		[19, 20, 21, 29, 36, 42, 68, 69, 77, 78, 80, 85, 93],
-	].map((partOutfits) => {
-		return partOutfits.map((index) => {
-			return keys[`cosmetic_${`${index}`.padStart(3, "0")}`];
-		})
-	}).concat([
-		[keys["filter_00"], keys["photo_contribution"]],
-	]);
-	for (const partOutfits of outfitsByPart) {
-		const partCounts = Object.create(null);
-		for (const locales of partOutfits) {
-			const source = locales["en"];
-			for (const locale of Object.keys(locales)) {
-				partCounts[locale] ??= Object.create(null);
-				const words = locales[locale];
-				for (const word of (words ?? source).split(/.^/ms)[0].replaceAll(/<("[^"]*"|[^"<>]*)*>/g, "").split(/ +/)) {
-					const lowerCaseWord = word.toLocaleLowerCase(locale);
-					partCounts[locale][lowerCaseWord] ??= 0;
-					partCounts[locale][lowerCaseWord] += 1;
-				}
-			}
-		}
-		const part = Object.create(null);
-		for (const [locale, counts] of Object.entries(partCounts)) {
-			let maxWord = null;
-			let maxCount = -1;
-			for (const [word, count] of Object.entries(counts)) {
-				if (count > maxCount) {
-					maxWord = word;
-					maxCount = count;
-				}
-			}
-			if (maxWord != null) {
-				part[locale] = capitalize(maxWord, locale);
-			}
-		}
-		parts.push({
-			name: part,
-		});
-	}
-	return parts;
-}
 function computeRarities() {
 	const rarities = [];
-	rarities.push({
-		name: keys["cosmetic_default"],
-	});
 	rarities.push({
 		name: keys["rarity_common"],
 	});
@@ -210,7 +147,14 @@ function computeRarities() {
 		name: keys["rarity_legendary"],
 	});
 	rarities.push({
-		name: keys["char_maybee"],
+		name: keys["ui_hive"],
+	});
+	rarities.push({
+		name: {
+			"en-US": "PMK Vol.1",
+			"fr": "PMK Vol.1",
+			"pt-BR": "PMK Vol.1"
+		},
 	});
 	return rarities;
 }
@@ -218,7 +162,6 @@ merge(bears, bind(computeBears()));
 merge(challenges, bind(computeChallenges()));
 merge(levels, bind(computeLevels()));
 merge(outfits, bind(computeOutfits()));
-merge(parts, bind(computeParts()));
 merge(rarities, bind(computeRarities()));
 await fs.promises.mkdir("bind", {
 	recursive: true,
@@ -228,6 +171,5 @@ await fs.promises.writeFile(`bind/challenges.json`, `${JSON.stringify(challenges
 await fs.promises.writeFile(`bind/levels.json`, `${JSON.stringify(levels, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/missions.json`, `${JSON.stringify(missions, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/outfits.json`, `${JSON.stringify(outfits, null, "\t")}\n`);
-await fs.promises.writeFile(`bind/parts.json`, `${JSON.stringify(parts, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/rarities.json`, `${JSON.stringify(rarities, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/updates.json`, `${JSON.stringify(updates, null, "\t")}\n`);

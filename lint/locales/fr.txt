@@ -1,4 +1,4 @@
-Translation coverage: 674 / 674 required (100.00%), 79 / 79 optional (100.00%)
+Translation coverage: 764 / 764 required (100.00%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -79,6 +79,10 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
+- pmk_bear_1
+- pmk_bear_2
+- pmk_bear_3
+- pmk_bear_4
 The following keys have transparent translations:
 - arcade_race_2
 - arcade_race_4
@@ -118,8 +122,11 @@ The following keys have transparent translations:
 - char_violette
 - cosmetic_006
 - cosmetic_048
+- cosmetic_087
 - cosmetic_094
+- cosmetic_096
 - cosmetic_104
+- cosmetic_138
 - filter_03
 - filter_05
 - filter_11
@@ -127,6 +134,10 @@ The following keys have transparent translations:
 - filter_27
 - iap_premium_title
 - mission_parkour
+- pmk_bear_1
+- pmk_bear_2
+- pmk_bear_3
+- pmk_bear_4
 - rarity_rare
 - time_format
 - ui_game_over

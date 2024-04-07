@@ -60,6 +60,9 @@ try {
 		if (sheet.dir) {
 			return;
 		}
+		if (path.includes("/store-")) {
+			return;
+		}
 		const locale = path.split("/")[0].split("-")[0];
 		sheets[locale] ??= sheet;
 	});

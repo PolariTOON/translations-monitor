@@ -3,297 +3,370 @@ arcade_race_3 has transparent translations el
 arcade_race_4 has transparent translations el, fr
 binding_axis has transparent translations es
 boss_rat has transparent translations nl
-char_baaren has extra, but optional, translations es, fr, id, nl, pl, pt, tr
-char_baaren has missing translations el
-char_baaren has missing, but optional, translations de, it
-char_baaren has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_01 has extra, but optional, translations es, fr, id, nl, pt, tr
-char_bear_01 has missing translations el
-char_bear_01 has missing, but optional, translations de, it, pl
-char_bear_01 has transparent translations es, fr, id, nl, pt, tr
-char_bear_02 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
-char_bear_02 has missing translations el
-char_bear_02 has missing, but optional, translations de, it
-char_bear_02 has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_03 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_baaren has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+char_baaren has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_01 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_01 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_02 has transparent translations de, es, fr, id, nl, pl, pt, tr
+char_bear_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_03 has missing translations el
-char_bear_03 has missing, but optional, translations de, it
 char_bear_03 has transparent translations fr, id, nl, pl, pt
-char_bear_04 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_04 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_04 has missing translations el
-char_bear_04 has missing, but optional, translations de, it
-char_bear_04 has transparent translations es, fr, id, nl, pt, tr
-char_bear_05 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_04 has transparent translations de, es, fr, id, it, nl, pt, tr
+char_bear_05 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_05 has missing translations el
-char_bear_05 has missing, but optional, translations de, it
-char_bear_05 has transparent translations id, nl, pl, tr
-char_bear_06 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_05 has transparent translations id, it, nl, pl, tr
+char_bear_06 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_06 has missing translations el
-char_bear_06 has missing, but optional, translations de, it, pl
-char_bear_06 has transparent translations es, fr, id, nl, pt, tr
-char_bear_07 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_06 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_07 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_07 has missing translations el
-char_bear_07 has missing, but optional, translations de, it, pl
-char_bear_07 has transparent translations es, fr, id, nl, pt, tr
-char_bear_08 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_07 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_08 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_08 has missing translations el
-char_bear_08 has missing, but optional, translations de, it
-char_bear_08 has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_09 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_08 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_09 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_09 has missing translations el
-char_bear_09 has missing, but optional, translations de, it, pl
-char_bear_09 has transparent translations es, fr, id, nl, pt, tr
-char_bear_10 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_09 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_10 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_10 has missing translations el
-char_bear_10 has missing, but optional, translations de, it
-char_bear_10 has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_11 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_10 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_11 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_11 has missing translations el
-char_bear_11 has missing, but optional, translations de, it
-char_bear_11 has transparent translations es, id, pl, pt, tr
-char_bear_12 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_11 has transparent translations de, es, id, it, pl, pt, tr
+char_bear_12 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_12 has missing translations el
-char_bear_12 has missing, but optional, translations de, it, pl
-char_bear_12 has transparent translations es, fr, id, nl, pt, tr
-char_bear_13 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_12 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_13 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_13 has missing translations el
-char_bear_13 has missing, but optional, translations de, it, pl
-char_bear_13 has transparent translations es, fr, id, nl, pt, tr
-char_bear_14 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_13 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_14 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_14 has missing translations el
-char_bear_14 has missing, but optional, translations de, it, pl
-char_bear_14 has transparent translations es, fr, id, nl, pt, tr
-char_bear_15 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_14 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_15 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_15 has missing translations el
-char_bear_15 has missing, but optional, translations de, it, pl
-char_bear_15 has transparent translations es, fr, id, nl, pt, tr
-char_bear_16 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_15 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_16 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_16 has missing translations el
-char_bear_16 has missing, but optional, translations de, it, pl
-char_bear_16 has transparent translations es, fr, id, nl, pt, tr
-char_bear_17 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_16 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_17 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_17 has missing translations el
-char_bear_17 has missing, but optional, translations de, it
-char_bear_17 has transparent translations es, fr, id, pl, pt, tr
-char_bear_18 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_17 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_18 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_18 has missing translations el
-char_bear_18 has missing, but optional, translations de, it, pl
-char_bear_18 has transparent translations es, fr, id, pt, tr
-char_bear_19 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_18 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_19 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_19 has missing translations el
-char_bear_19 has missing, but optional, translations de, it
-char_bear_19 has transparent translations es, id, pl, pt, tr
-char_bear_20 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_19 has transparent translations de, es, id, it, nl, pl, pt, tr
+char_bear_20 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_20 has missing translations el
-char_bear_20 has missing, but optional, translations de, it, pl
-char_bear_20 has transparent translations es, id, nl, pt, tr
-char_bear_21 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_20 has transparent translations de, es, id, it, nl, pl, pt, tr
+char_bear_21 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_21 has missing translations el
-char_bear_21 has missing, but optional, translations de, it, pl
-char_bear_21 has transparent translations es, fr, id, nl, pt, tr
-char_bear_22 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_21 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_22 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_22 has missing translations el
-char_bear_22 has missing, but optional, translations de, it, pl
-char_bear_22 has transparent translations es, id, nl, pt, tr
-char_bear_23 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_22 has transparent translations de, es, id, it, nl, pl, pt, tr
+char_bear_23 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_23 has missing translations el
-char_bear_23 has missing, but optional, translations de, it, pl
-char_bear_23 has transparent translations es, id, nl, pt, tr
-char_bear_24 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_23 has transparent translations de, es, id, it, nl, pl, pt, tr
+char_bear_24 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_24 has missing translations el
-char_bear_24 has missing, but optional, translations de, it, pl
-char_bear_24 has transparent translations es, id, nl, pt, tr
-char_bear_25 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_24 has transparent translations de, es, id, it, nl, pl, pt, tr
+char_bear_25 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_25 has missing translations el
-char_bear_25 has missing, but optional, translations de, it, pl
-char_bear_25 has transparent translations es, fr, id, nl, pt, tr
-char_bear_26 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_25 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_26 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_26 has missing translations el
-char_bear_26 has missing, but optional, translations de, it
-char_bear_26 has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_27 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_26 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_27 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_27 has missing translations el
-char_bear_27 has missing, but optional, translations de, it
-char_bear_27 has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_28 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_27 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_28 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_28 has missing translations el
-char_bear_28 has missing, but optional, translations de, it, pl
-char_bear_28 has transparent translations es, fr, id, nl, pt, tr
-char_bear_29 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_28 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_29 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_29 has missing translations el
-char_bear_29 has missing, but optional, translations de, it
-char_bear_29 has transparent translations es, fr, id, nl, pl, pt, tr
-char_bear_30 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_29 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_30 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_30 has missing translations el
-char_bear_30 has missing, but optional, translations de, it, pl
-char_bear_30 has transparent translations es, fr, id, nl, pt, tr
-char_bear_31 has extra, but optional, translations es, fr, id, nl, pt, tr
+char_bear_30 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_31 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_31 has missing translations el
-char_bear_31 has missing, but optional, translations de, it, pl
-char_bear_31 has transparent translations es, fr, id, nl, pt, tr
-char_bear_32 has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_31 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_32 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_32 has missing translations el
-char_bear_32 has missing, but optional, translations de, it
-char_bear_32 has transparent translations es, id, nl, pt, tr
-char_capitalos has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_bear_32 has transparent translations de, es, id, it, nl, pt, tr
+char_bouncer has missing translations el
+char_capitalos has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_capitalos has missing translations el
-char_capitalos has missing, but optional, translations de, it
-char_capitalos has transparent translations es, fr, id, nl, pt, tr
-char_capitalus has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_capitalos has transparent translations de, es, fr, id, it, nl, pt, tr
+char_capitalus has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_capitalus has missing translations el
-char_capitalus has missing, but optional, translations de, it
-char_capitalus has transparent translations es, fr, id, nl, pt
+char_capitalus has transparent translations de, es, fr, id, it, nl, pt
 char_crocodile has transparent translations fr
-char_crogo has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_crogo has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_crogo has missing translations el
-char_crogo has missing, but optional, translations de, it
-char_crogo has transparent translations es, fr, id, pt, tr
+char_crogo has transparent translations de, es, fr, id, it, pt, tr
 char_fennec has transparent translations fr, id, it
-char_maybee has extra, but optional, translations es, fr, id, it, nl, pt, tr
+char_maybee has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_maybee has missing translations el
-char_maybee has missing, but optional, translations de, pl
-char_maybee has transparent translations id, nl, pt, tr
+char_maybee has transparent translations de, id, nl, pl, pt, tr
 char_note has transparent translations fr
-char_shicka has extra, but optional, translations es, fr, id, nl, pt, tr
+char_shicka has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_shicka has missing translations el
-char_shicka has missing, but optional, translations de, it, pl
-char_shicka has transparent translations es, fr, id, nl, pt, tr
-char_tristopio has extra, but optional, translations es, fr, id, nl, pl, pt, tr
+char_shicka has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_tristopio has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_tristopio has missing translations el
-char_tristopio has missing, but optional, translations de, it
-char_tristopio has transparent translations es, fr, id, nl, pl, pt, tr
-char_violette has extra, but optional, translations de, es, fr, id, nl, pt, tr
+char_tristopio has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+char_violette has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_violette has missing translations el
-char_violette has missing, but optional, translations it, pl
-char_violette has transparent translations es, fr, id, nl, pt, tr
+char_violette has transparent translations es, fr, id, it, nl, pl, pt, tr
+cosm_category has missing translations el, it
+cosm_category_bodyaccessory has missing translations el, it
+cosm_category_bodyclothing has missing translations el, it
+cosm_category_bodyshape has missing translations el, it
+cosm_category_eyes has missing translations el, it
+cosm_category_hair has missing translations el, it
+cosm_category_handsfeet has missing translations el, it
+cosm_category_hat has missing translations el, it
+cosm_category_head has missing translations el, it
+cosm_category_mask has missing translations el, it
+cosm_category_mouth has missing translations el, it
+cosm_category_music has missing translations el, it
+cosm_category_others has missing translations el, it
+cosm_category_pet has missing translations el, it
+cosm_category_pet has transparent translations nl, pt
+cosm_category_skin has missing translations el, it
+cosm_category_skin has transparent translations de, id, pl
+cosm_category_trails has missing translations el, it
+cosm_category_weather has missing translations el, it
+cosmetic_002 has missing translations el, it
+cosmetic_003 has missing translations el, it
 cosmetic_004 has transparent translations id
 cosmetic_006 has transparent translations es, fr, id, it, nl, pl, pt, tr
+cosmetic_011 has missing translations el, it
 cosmetic_020 has transparent translations it
-cosmetic_036 has transparent translations es, it, nl, pl
+cosmetic_027 has missing translations el, it
+cosmetic_030 has missing translations el, it
+cosmetic_031 has missing translations el, it
+cosmetic_032 has missing translations el, it
+cosmetic_034 has missing translations el, it
+cosmetic_034 has transparent translations de, nl
+cosmetic_036 has transparent translations it, nl, pl
 cosmetic_047 has transparent translations nl
 cosmetic_048 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+cosmetic_053 has missing translations el, it
 cosmetic_056 has transparent translations de, ru, tr
 cosmetic_069 has transparent translations nl, tr
 cosmetic_070 has transparent translations nl
 cosmetic_071 has transparent translations el, pt, tr
+cosmetic_075 has missing translations el, it
+cosmetic_076 has missing translations el, it
 cosmetic_081 has transparent translations nl
 cosmetic_085 has transparent translations nl, tr
+cosmetic_087 has missing translations el, it
+cosmetic_087 has transparent translations fr, nl
+cosmetic_088 has missing translations el, it
 cosmetic_094 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 cosmetic_094 has transparent translations el, es, fr, id, it, nl, pl, pt, ru, tr
-cosmetic_104 has extra, but optional, translations es, fr, id, it, nl, pl, pt, tr
-cosmetic_104 has missing, but optional, translations de
-cosmetic_104 has transparent translations el, es, fr, id, it, nl, pl, ru, tr
+cosmetic_095 has missing translations el, it
+cosmetic_096 has missing translations el, it
+cosmetic_096 has transparent translations de, fr, id, nl, pl, tr
+cosmetic_104 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+cosmetic_104 has transparent translations de, el, es, fr, id, it, nl, pl, ru, tr
 cosmetic_106 has transparent translations pl
 cosmetic_107 has transparent translations pl
-filter_01 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_01 has missing, but optional, translations nl
-filter_02 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_02 has missing, but optional, translations nl
-filter_03 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_03 has missing, but optional, translations nl
+cosmetic_112 has missing translations el, it
+cosmetic_113 has missing translations el, it
+cosmetic_114 has missing translations el, it
+cosmetic_115 has missing translations el, it
+cosmetic_116 has missing translations el, it
+cosmetic_117 has missing translations el, it
+cosmetic_118 has missing translations el, it
+cosmetic_119 has missing translations el, it
+cosmetic_120 has missing translations el, it
+cosmetic_120 has transparent translations nl
+cosmetic_121 has missing translations el, it
+cosmetic_122 has missing translations el, it
+cosmetic_123 has missing translations el, it
+cosmetic_124 has missing translations el, it
+cosmetic_125 has missing translations el, it
+cosmetic_126 has missing translations el, it
+cosmetic_127 has missing translations el, it
+cosmetic_127 has transparent translations de, nl, tr
+cosmetic_128 has missing translations el, it
+cosmetic_129 has missing translations el, it
+cosmetic_130 has missing translations el, it
+cosmetic_131 has missing translations el, it
+cosmetic_132 has missing translations el, it
+cosmetic_133 has missing translations el, it
+cosmetic_134 has missing translations el, it
+cosmetic_135 has missing translations el, it
+cosmetic_136 has missing translations el, it
+cosmetic_136 has transparent translations nl
+cosmetic_137 has missing translations el, it
+cosmetic_138 has missing translations el, it
+cosmetic_138 has transparent translations de, es, fr, id
+cosmetic_139 has missing translations el, it
+filter_01 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_03 has transparent translations fr, tr
-filter_04 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_04 has missing, but optional, translations nl
-filter_05 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_05 has missing, but optional, translations nl
-filter_05 has transparent translations es, fr, it, pl, pt, tr
-filter_06 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_06 has missing, but optional, translations nl
-filter_07 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_07 has missing, but optional, translations nl
-filter_08 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_08 has missing, but optional, translations nl
-filter_08 has transparent translations pl
-filter_09 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_09 has missing, but optional, translations nl
-filter_09 has transparent translations el
-filter_10 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_10 has missing, but optional, translations nl
-filter_11 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_11 has missing, but optional, translations nl
-filter_11 has transparent translations fr
-filter_12 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_12 has missing, but optional, translations nl
-filter_13 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_13 has missing, but optional, translations nl
-filter_13 has transparent translations el
-filter_14 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_14 has missing, but optional, translations nl
-filter_15 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_15 has missing, but optional, translations nl
-filter_15 has transparent translations de, el, es, fr, id, it, pt, tr
-filter_16 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_16 has missing, but optional, translations nl
-filter_16 has transparent translations el, pl, tr
-filter_17 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_17 has missing, but optional, translations nl
-filter_17 has transparent translations el, pl
-filter_18 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_18 has missing, but optional, translations nl
-filter_18 has transparent translations pl
-filter_19 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_19 has missing, but optional, translations nl
-filter_20 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_20 has missing, but optional, translations nl
-filter_20 has transparent translations el, pl, ru
+filter_04 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_05 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_05 has transparent translations es, fr, it, nl, pl, pt, tr
+filter_06 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_06 has transparent translations nl
+filter_07 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_07 has transparent translations nl
+filter_08 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_08 has transparent translations nl, pl
+filter_09 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_09 has transparent translations el, nl
+filter_10 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_10 has transparent translations nl
+filter_11 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_11 has transparent translations fr, nl
+filter_12 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_12 has transparent translations nl
+filter_13 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_13 has transparent translations el, nl
+filter_14 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_14 has transparent translations nl
+filter_15 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_15 has transparent translations de, el, es, fr, id, it, nl, pt, tr
+filter_16 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_16 has transparent translations el, nl, pl, tr
+filter_17 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_17 has transparent translations el, nl, pl
+filter_18 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_18 has transparent translations nl, pl
+filter_19 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_19 has transparent translations nl
+filter_20 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_20 has transparent translations el, nl, pl, ru
 filter_21 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_22 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_23 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
-filter_24 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_24 has missing, but optional, translations nl
-filter_24 has transparent translations de, el, es, id, pl, tr
+filter_24 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_24 has transparent translations de, el, es, id, nl, pl, tr
 filter_25 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
-filter_26 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_26 has missing, but optional, translations nl
-filter_27 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_27 has missing, but optional, translations nl
-filter_27 has transparent translations de, el, es, fr, id, it, pl, pt, ru, tr
-filter_28 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_28 has missing, but optional, translations nl
-filter_29 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_29 has missing, but optional, translations nl
-filter_30 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_30 has missing, but optional, translations nl
-filter_30 has transparent translations tr
-filter_31 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_31 has missing, but optional, translations nl
-filter_31 has transparent translations el, pl
-filter_32 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_32 has missing, but optional, translations nl
-filter_32 has transparent translations el
-filter_33 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_33 has missing, but optional, translations nl
-filter_34 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_34 has missing, but optional, translations nl
-filter_34 has transparent translations tr
-filter_35 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_35 has missing, but optional, translations nl
-filter_35 has transparent translations tr
-filter_36 has extra, but optional, translations de, es, fr, id, it, pl, pt, tr
-filter_36 has missing, but optional, translations nl
+filter_26 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_27 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_27 has transparent translations de, el, es, fr, id, it, nl, pl, pt, ru, tr
+filter_28 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_28 has transparent translations nl
+filter_29 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_29 has transparent translations nl
+filter_30 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_30 has transparent translations nl, tr
+filter_31 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_31 has transparent translations el, nl, pl
+filter_32 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_32 has transparent translations el, nl
+filter_33 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_33 has transparent translations nl
+filter_34 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_34 has transparent translations nl, tr
+filter_35 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_35 has transparent translations nl, tr
+filter_36 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+filter_36 has transparent translations nl
+help_hide_inputs has missing translations el, it
+hub_bear_06 has missing translations el, it
 hub_bear_15 has transparent translations es, pt
 hub_bear_27 has transparent translations el
 hub_bear_30 has transparent translations el, es, it, pt
+iap_error_1 has missing translations el, it
+iap_error_2 has missing translations el, it
+iap_error_3 has missing translations el, it
+iap_error_4 has missing translations el, it
+iap_pending has missing translations el, it
+iap_pmk_status_1 has missing translations el, it
+iap_pmk_status_2 has missing translations el, it
 iap_premium_title has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 iap_premium_title has transparent translations de, el, es, fr, id, it, nl, pl, pt, ru, tr
+iap_restore_error has missing translations el, it
+iap_restore_success has missing translations el, it
+intro_2_1 has missing translations el, it
+lootbox_content_many has missing translations el, it
+lootbox_content_single has missing translations el, it
+lootbox_name_10x has missing translations el, it
+lootbox_name_10x has transparent translations nl, pt
+lootbox_name_gold has missing translations el, it
+lootbox_name_normal has missing translations el, it
+lootbox_name_pmk has missing translations el, it
+lootbox_name_pmk has transparent translations de, nl, pl
+lootbox_result_10x has missing translations el, it
+lootbox_view has missing translations el, it
 mission_parkour has transparent translations de, el, es, fr, id, it, nl, pt
 mission_race has transparent translations it, nl
 party_tristopio has transparent translations de
 photo_title has transparent translations pl
+pmk_bear_1 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_1 has missing translations el
+pmk_bear_1 has missing, but optional, translations it
+pmk_bear_1 has transparent translations fr, id, nl, pt
+pmk_bear_2 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_2 has missing translations el
+pmk_bear_2 has missing, but optional, translations it
+pmk_bear_2 has transparent translations fr, id, nl, pt
+pmk_bear_3 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_3 has missing translations el
+pmk_bear_3 has missing, but optional, translations it
+pmk_bear_3 has transparent translations de, fr, id, nl, pt
+pmk_bear_4 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_4 has missing translations el
+pmk_bear_4 has missing, but optional, translations it
+pmk_bear_4 has transparent translations fr, id, pt
+pmk_bear_desc_1 has missing translations el, it
+pmk_bear_desc_2 has missing translations el, it
+pmk_bear_desc_3 has missing translations el, it
+pmk_bear_desc_4 has missing translations el, it
+pmk_bouncer_1 has missing translations el, it
+pmk_bouncer_2 has missing translations el, it
+pmk_bouncer_3 has missing translations el, it
+pmk_bouncer_4 has missing translations el, it
+pmk_bouncer_5 has missing translations el, it
+pmk_buy_bear has missing translations el, it
+pmk_desc has missing translations el, it
+pmk_lootbox_count has missing translations el, it
 rarity_rare has transparent translations fr
+studio_equipped has missing translations el, it
+studio_filter has missing translations el, it
+studio_filter has transparent translations nl
+studio_filter_equip has missing translations el, it
+studio_filter_unlocked has missing translations el, it
+studio_help_2 has missing translations el, it
+studio_level has missing translations el, it
+studio_level has transparent translations de, id, nl, tr
+studio_outfit_copied has missing translations el, it
+studio_outfit_copy has missing translations el, it
+studio_outfit_load has missing translations el, it
+studio_outfit_title has missing translations el, it
+studio_upgrade_help has missing translations el, it
+studio_upgrade_title has missing translations el, it
 time_format has transparent translations el, es, fr, it, pt
 title_gameplay has transparent translations el, nl
 title_graphics1 has transparent translations nl
+title_privacy has transparent translations nl
 tutorial_tip_title_07 has transparent translations nl
 ui_framerate has transparent translations el, nl
 ui_game_over has transparent translations fr, it, nl, pt
 ui_gyroscope has transparent translations fr
+ui_leaderboard has missing translations el, it
 ui_level1 has transparent translations el, nl
+ui_medals has missing translations el, it
+ui_medals_help has missing translations el, it
 ui_motion_blur has transparent translations pt, tr
 ui_performance has transparent translations fr
 ui_quality1 has transparent translations de, es, fr, pt
 ui_revive has transparent translations el
 ui_shicka_tips has transparent translations nl
+ui_speedrun_counter has missing translations el, it
 ui_start has transparent translations de, nl, pl
 ui_timer has transparent translations de, id, nl, pl
 ui_tokens has transparent translations nl
