@@ -1,4 +1,4 @@
-Translation coverage: 847 / 847 required (100.00%), 0 / 0 optional (100.00%)
+Translation coverage: 853 / 853 required (100.00%), 0 / 0 optional (100.00%)
 The following keys have transparent translations:
 - cosmetic_056
 - cosmetic_094

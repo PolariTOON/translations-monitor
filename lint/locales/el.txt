@@ -1,5 +1,8 @@
-Translation coverage: 697 / 847 required (82.29%), 0 / 0 optional (100.00%)
+Translation coverage: 688 / 853 required (80.66%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
+- char_baaren
+- char_bear_01
+- char_bear_02
 - char_bear_03
 - char_bear_04
 - char_bear_05
@@ -110,6 +113,8 @@ The following keys have missing translations:
 - iap_restore_error
 - iap_restore_success
 - intro_2_1
+- level3_fennec_ship_1
+- level3_fennec_ship_2
 - lootbox_content_many
 - lootbox_content_single
 - lootbox_name_10x
@@ -134,22 +139,32 @@ The following keys have missing translations:
 - pmk_buy_bear
 - pmk_desc
 - pmk_lootbox_count
+- pmk_title
 - studio_equipped
 - studio_filter
 - studio_filter_equip
 - studio_filter_unlocked
 - studio_help_2
+- studio_legendary_warning
 - studio_level
+- studio_locked_list
 - studio_outfit_copied
 - studio_outfit_copy
 - studio_outfit_load
 - studio_outfit_title
 - studio_upgrade_help
 - studio_upgrade_title
+- studio_vehicle_skin_info
+- title_privacy
+- ui_consent_desc
+- ui_consent_title
+- ui_crowdin
 - ui_leaderboard
 - ui_medals
 - ui_medals_help
+- ui_privacy_settings
 - ui_speedrun_counter
+- ui_use_controller
 The following keys have transparent translations:
 - arcade_race_2
 - arcade_race_3

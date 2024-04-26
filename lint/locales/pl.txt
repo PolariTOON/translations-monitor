@@ -1,4 +1,4 @@
-Translation coverage: 764 / 764 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 770 / 770 required (100.00%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -140,5 +140,6 @@ The following keys have transparent translations:
 - iap_premium_title
 - lootbox_name_pmk
 - photo_title
+- pmk_title
 - ui_start
 - ui_timer

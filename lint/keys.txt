@@ -4,14 +4,17 @@ arcade_race_4 has transparent translations el, fr
 binding_axis has transparent translations es
 boss_rat has transparent translations nl
 char_baaren has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+char_baaren has missing translations el
 char_baaren has transparent translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_01 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_01 has missing translations el
 char_bear_01 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+char_bear_02 has missing translations el
 char_bear_02 has transparent translations de, es, fr, id, nl, pl, pt, tr
 char_bear_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_03 has missing translations el
-char_bear_03 has transparent translations fr, id, nl, pl, pt
+char_bear_03 has transparent translations de, fr, id, nl, pl, pt
 char_bear_04 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_04 has missing translations el
 char_bear_04 has transparent translations de, es, fr, id, it, nl, pt, tr
@@ -124,93 +127,93 @@ char_tristopio has transparent translations de, es, fr, id, it, nl, pl, pt, tr
 char_violette has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_violette has missing translations el
 char_violette has transparent translations es, fr, id, it, nl, pl, pt, tr
-cosm_category has missing translations el, it
-cosm_category_bodyaccessory has missing translations el, it
-cosm_category_bodyclothing has missing translations el, it
-cosm_category_bodyshape has missing translations el, it
-cosm_category_eyes has missing translations el, it
-cosm_category_hair has missing translations el, it
-cosm_category_handsfeet has missing translations el, it
-cosm_category_hat has missing translations el, it
-cosm_category_head has missing translations el, it
-cosm_category_mask has missing translations el, it
-cosm_category_mouth has missing translations el, it
-cosm_category_music has missing translations el, it
-cosm_category_others has missing translations el, it
-cosm_category_pet has missing translations el, it
+cosm_category has missing translations el
+cosm_category_bodyaccessory has missing translations el
+cosm_category_bodyclothing has missing translations el
+cosm_category_bodyshape has missing translations el
+cosm_category_eyes has missing translations el
+cosm_category_hair has missing translations el
+cosm_category_handsfeet has missing translations el
+cosm_category_hat has missing translations el
+cosm_category_head has missing translations el
+cosm_category_mask has missing translations el
+cosm_category_mouth has missing translations el
+cosm_category_music has missing translations el
+cosm_category_others has missing translations el
+cosm_category_pet has missing translations el
 cosm_category_pet has transparent translations nl, pt
-cosm_category_skin has missing translations el, it
+cosm_category_skin has missing translations el
 cosm_category_skin has transparent translations de, id, pl
-cosm_category_trails has missing translations el, it
-cosm_category_weather has missing translations el, it
-cosmetic_002 has missing translations el, it
-cosmetic_003 has missing translations el, it
+cosm_category_trails has missing translations el
+cosm_category_weather has missing translations el
+cosmetic_002 has missing translations el
+cosmetic_003 has missing translations el
 cosmetic_004 has transparent translations id
 cosmetic_006 has transparent translations es, fr, id, it, nl, pl, pt, tr
-cosmetic_011 has missing translations el, it
+cosmetic_011 has missing translations el
 cosmetic_020 has transparent translations it
-cosmetic_027 has missing translations el, it
-cosmetic_030 has missing translations el, it
-cosmetic_031 has missing translations el, it
-cosmetic_032 has missing translations el, it
-cosmetic_034 has missing translations el, it
+cosmetic_027 has missing translations el
+cosmetic_030 has missing translations el
+cosmetic_031 has missing translations el
+cosmetic_032 has missing translations el
+cosmetic_034 has missing translations el
 cosmetic_034 has transparent translations de, nl
 cosmetic_036 has transparent translations it, nl, pl
 cosmetic_047 has transparent translations nl
 cosmetic_048 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
-cosmetic_053 has missing translations el, it
+cosmetic_053 has missing translations el
 cosmetic_056 has transparent translations de, ru, tr
 cosmetic_069 has transparent translations nl, tr
 cosmetic_070 has transparent translations nl
 cosmetic_071 has transparent translations el, pt, tr
-cosmetic_075 has missing translations el, it
-cosmetic_076 has missing translations el, it
+cosmetic_075 has missing translations el
+cosmetic_076 has missing translations el
 cosmetic_081 has transparent translations nl
 cosmetic_085 has transparent translations nl, tr
-cosmetic_087 has missing translations el, it
+cosmetic_087 has missing translations el
 cosmetic_087 has transparent translations fr, nl
-cosmetic_088 has missing translations el, it
+cosmetic_088 has missing translations el
 cosmetic_094 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 cosmetic_094 has transparent translations el, es, fr, id, it, nl, pl, pt, ru, tr
-cosmetic_095 has missing translations el, it
-cosmetic_096 has missing translations el, it
-cosmetic_096 has transparent translations de, fr, id, nl, pl, tr
+cosmetic_095 has missing translations el
+cosmetic_096 has missing translations el
+cosmetic_096 has transparent translations de, fr, id, it, nl, pl, tr
 cosmetic_104 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 cosmetic_104 has transparent translations de, el, es, fr, id, it, nl, pl, ru, tr
 cosmetic_106 has transparent translations pl
 cosmetic_107 has transparent translations pl
-cosmetic_112 has missing translations el, it
-cosmetic_113 has missing translations el, it
-cosmetic_114 has missing translations el, it
-cosmetic_115 has missing translations el, it
-cosmetic_116 has missing translations el, it
-cosmetic_117 has missing translations el, it
-cosmetic_118 has missing translations el, it
-cosmetic_119 has missing translations el, it
-cosmetic_120 has missing translations el, it
+cosmetic_112 has missing translations el
+cosmetic_113 has missing translations el
+cosmetic_114 has missing translations el
+cosmetic_115 has missing translations el
+cosmetic_116 has missing translations el
+cosmetic_117 has missing translations el
+cosmetic_118 has missing translations el
+cosmetic_119 has missing translations el
+cosmetic_120 has missing translations el
 cosmetic_120 has transparent translations nl
-cosmetic_121 has missing translations el, it
-cosmetic_122 has missing translations el, it
-cosmetic_123 has missing translations el, it
-cosmetic_124 has missing translations el, it
-cosmetic_125 has missing translations el, it
-cosmetic_126 has missing translations el, it
-cosmetic_127 has missing translations el, it
+cosmetic_121 has missing translations el
+cosmetic_122 has missing translations el
+cosmetic_123 has missing translations el
+cosmetic_124 has missing translations el
+cosmetic_125 has missing translations el
+cosmetic_126 has missing translations el
+cosmetic_127 has missing translations el
 cosmetic_127 has transparent translations de, nl, tr
-cosmetic_128 has missing translations el, it
-cosmetic_129 has missing translations el, it
-cosmetic_130 has missing translations el, it
-cosmetic_131 has missing translations el, it
-cosmetic_132 has missing translations el, it
-cosmetic_133 has missing translations el, it
-cosmetic_134 has missing translations el, it
-cosmetic_135 has missing translations el, it
-cosmetic_136 has missing translations el, it
+cosmetic_128 has missing translations el
+cosmetic_129 has missing translations el
+cosmetic_130 has missing translations el
+cosmetic_131 has missing translations el
+cosmetic_132 has missing translations el
+cosmetic_133 has missing translations el
+cosmetic_134 has missing translations el
+cosmetic_135 has missing translations el
+cosmetic_136 has missing translations el
 cosmetic_136 has transparent translations nl
-cosmetic_137 has missing translations el, it
-cosmetic_138 has missing translations el, it
-cosmetic_138 has transparent translations de, es, fr, id
-cosmetic_139 has missing translations el, it
+cosmetic_137 has missing translations el
+cosmetic_138 has missing translations el
+cosmetic_138 has transparent translations de, es, fr, id, it
+cosmetic_139 has missing translations el
 filter_01 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
@@ -275,100 +278,109 @@ filter_35 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, 
 filter_35 has transparent translations nl, tr
 filter_36 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_36 has transparent translations nl
-help_hide_inputs has missing translations el, it
-hub_bear_06 has missing translations el, it
+help_hide_inputs has missing translations el
+hub_bear_06 has missing translations el
 hub_bear_15 has transparent translations es, pt
 hub_bear_27 has transparent translations el
 hub_bear_30 has transparent translations el, es, it, pt
-iap_error_1 has missing translations el, it
-iap_error_2 has missing translations el, it
-iap_error_3 has missing translations el, it
-iap_error_4 has missing translations el, it
-iap_pending has missing translations el, it
-iap_pmk_status_1 has missing translations el, it
-iap_pmk_status_2 has missing translations el, it
+iap_error_1 has missing translations el
+iap_error_2 has missing translations el
+iap_error_3 has missing translations el
+iap_error_4 has missing translations el
+iap_pending has missing translations el
+iap_pmk_status_1 has missing translations el
+iap_pmk_status_2 has missing translations el
 iap_premium_title has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 iap_premium_title has transparent translations de, el, es, fr, id, it, nl, pl, pt, ru, tr
-iap_restore_error has missing translations el, it
-iap_restore_success has missing translations el, it
-intro_2_1 has missing translations el, it
-lootbox_content_many has missing translations el, it
-lootbox_content_single has missing translations el, it
-lootbox_name_10x has missing translations el, it
+iap_restore_error has missing translations el
+iap_restore_success has missing translations el
+intro_2_1 has missing translations el
+level3_fennec_ship_1 has missing translations el
+level3_fennec_ship_2 has missing translations el
+lootbox_content_many has missing translations el
+lootbox_content_single has missing translations el
+lootbox_name_10x has missing translations el
 lootbox_name_10x has transparent translations nl, pt
-lootbox_name_gold has missing translations el, it
-lootbox_name_normal has missing translations el, it
-lootbox_name_pmk has missing translations el, it
+lootbox_name_gold has missing translations el
+lootbox_name_normal has missing translations el
+lootbox_name_pmk has missing translations el
 lootbox_name_pmk has transparent translations de, nl, pl
-lootbox_result_10x has missing translations el, it
-lootbox_view has missing translations el, it
+lootbox_result_10x has missing translations el
+lootbox_view has missing translations el
 mission_parkour has transparent translations de, el, es, fr, id, it, nl, pt
 mission_race has transparent translations it, nl
 party_tristopio has transparent translations de
 photo_title has transparent translations pl
-pmk_bear_1 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_1 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 pmk_bear_1 has missing translations el
-pmk_bear_1 has missing, but optional, translations it
 pmk_bear_1 has transparent translations fr, id, nl, pt
-pmk_bear_2 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_2 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 pmk_bear_2 has missing translations el
-pmk_bear_2 has missing, but optional, translations it
 pmk_bear_2 has transparent translations fr, id, nl, pt
-pmk_bear_3 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_3 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 pmk_bear_3 has missing translations el
-pmk_bear_3 has missing, but optional, translations it
-pmk_bear_3 has transparent translations de, fr, id, nl, pt
-pmk_bear_4 has extra, but optional, translations de, es, fr, id, nl, pl, pt, tr
+pmk_bear_3 has transparent translations fr, id, nl, pt
+pmk_bear_4 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 pmk_bear_4 has missing translations el
-pmk_bear_4 has missing, but optional, translations it
 pmk_bear_4 has transparent translations fr, id, pt
-pmk_bear_desc_1 has missing translations el, it
-pmk_bear_desc_2 has missing translations el, it
-pmk_bear_desc_3 has missing translations el, it
-pmk_bear_desc_4 has missing translations el, it
-pmk_bouncer_1 has missing translations el, it
-pmk_bouncer_2 has missing translations el, it
-pmk_bouncer_3 has missing translations el, it
-pmk_bouncer_4 has missing translations el, it
-pmk_bouncer_5 has missing translations el, it
-pmk_buy_bear has missing translations el, it
-pmk_desc has missing translations el, it
-pmk_lootbox_count has missing translations el, it
+pmk_bear_desc_1 has missing translations el
+pmk_bear_desc_2 has missing translations el
+pmk_bear_desc_3 has missing translations el
+pmk_bear_desc_4 has missing translations el
+pmk_bouncer_1 has missing translations el
+pmk_bouncer_2 has missing translations el
+pmk_bouncer_3 has missing translations el
+pmk_bouncer_4 has missing translations el
+pmk_bouncer_5 has missing translations el
+pmk_buy_bear has missing translations el
+pmk_desc has missing translations el
+pmk_lootbox_count has missing translations el
+pmk_title has missing translations el
+pmk_title has transparent translations de, fr, nl, pl, pt
 rarity_rare has transparent translations fr
-studio_equipped has missing translations el, it
-studio_filter has missing translations el, it
+studio_equipped has missing translations el
+studio_filter has missing translations el
 studio_filter has transparent translations nl
-studio_filter_equip has missing translations el, it
-studio_filter_unlocked has missing translations el, it
-studio_help_2 has missing translations el, it
-studio_level has missing translations el, it
+studio_filter_equip has missing translations el
+studio_filter_unlocked has missing translations el
+studio_help_2 has missing translations el
+studio_legendary_warning has missing translations el
+studio_level has missing translations el
 studio_level has transparent translations de, id, nl, tr
-studio_outfit_copied has missing translations el, it
-studio_outfit_copy has missing translations el, it
-studio_outfit_load has missing translations el, it
-studio_outfit_title has missing translations el, it
-studio_upgrade_help has missing translations el, it
-studio_upgrade_title has missing translations el, it
+studio_locked_list has missing translations el
+studio_outfit_copied has missing translations el
+studio_outfit_copy has missing translations el
+studio_outfit_load has missing translations el
+studio_outfit_title has missing translations el
+studio_upgrade_help has missing translations el
+studio_upgrade_title has missing translations el
+studio_vehicle_skin_info has missing translations el
 time_format has transparent translations el, es, fr, it, pt
 title_gameplay has transparent translations el, nl
 title_graphics1 has transparent translations nl
+title_privacy has missing translations el
 title_privacy has transparent translations nl
 tutorial_tip_title_07 has transparent translations nl
+ui_consent_desc has missing translations el
+ui_consent_title has missing translations el
+ui_crowdin has missing translations el
 ui_framerate has transparent translations el, nl
 ui_game_over has transparent translations fr, it, nl, pt
 ui_gyroscope has transparent translations fr
-ui_leaderboard has missing translations el, it
+ui_leaderboard has missing translations el
 ui_level1 has transparent translations el, nl
-ui_medals has missing translations el, it
-ui_medals_help has missing translations el, it
+ui_medals has missing translations el
+ui_medals_help has missing translations el
 ui_motion_blur has transparent translations pt, tr
 ui_performance has transparent translations fr
+ui_privacy_settings has missing translations el
 ui_quality1 has transparent translations de, es, fr, pt
 ui_revive has transparent translations el
 ui_shicka_tips has transparent translations nl
-ui_speedrun_counter has missing translations el, it
+ui_speedrun_counter has missing translations el
 ui_start has transparent translations de, nl, pl
 ui_timer has transparent translations de, id, nl, pl
 ui_tokens has transparent translations nl
+ui_use_controller has missing translations el
 ui_version has transparent translations de, fr
 ui_watch has transparent translations el

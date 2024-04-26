@@ -152,11 +152,7 @@ function computeRarities() {
 		name: keys["ui_hive"],
 	});
 	rarities.push({
-		name: {
-			"en-US": "PMK Vol.1",
-			"fr": "PMK Vol.1",
-			"pt-BR": "PMK Vol.1"
-		},
+		name: keys["pmk_title"],
 	});
 	return rarities;
 }
