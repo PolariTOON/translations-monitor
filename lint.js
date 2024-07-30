@@ -135,3 +135,29 @@ for (const [key, warns] of Object.entries(keyWarns)) {
 }
 await fs.promises.writeFile("lint/locales.txt", formattedLocaleWarns.length > 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
 await fs.promises.writeFile("lint/keys.txt", formattedKeyWarns.length > 0 ? `${formattedKeyWarns.join("\n")}\n` : "");
+await fs.promises.writeFile(`lint/readme.md`, `\
+# Lint
+
+- [Translation report by locale](locales.txt)
+- [Translation report by key](keys.txt)
+- [Locales](locales)
+- [Keys](keys)
+`);
+await fs.promises.writeFile(`lint/locales/readme.md`, `\
+# Locales
+
+${Object.keys(locales).map((locale) => {
+	return `\
+- [Translation coverage for locale \`${locale}\`](${locale}.txt)
+`;
+}).join("")}\
+`);
+await fs.promises.writeFile(`lint/keys/readme.md`, `\
+# Keys
+
+${Object.keys(keys).map((key) => {
+	return `\
+- [Translation coverage for key \`${key}\`](${key}.txt)
+`;
+}).join("")}\
+`);
