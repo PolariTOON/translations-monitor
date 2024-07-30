@@ -135,3 +135,9 @@ await fs.promises.mkdir("cache", {
 });
 await fs.promises.writeFile(`cache/locales.json`, `${JSON.stringify(sortedLocales, null, "\t")}\n`);
 await fs.promises.writeFile(`cache/keys.json`, `${JSON.stringify(sortedKeys, null, "\t")}\n`);
+await fs.promises.writeFile(`cache/readme.md`, `\
+# Cache
+
+- [Locales](locales.json)
+- [Keys](keys.json)
+`);
