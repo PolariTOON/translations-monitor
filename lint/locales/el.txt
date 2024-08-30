@@ -1,4 +1,4 @@
-Translation coverage: 688 / 853 required (80.66%), 0 / 0 optional (100.00%)
+Translation coverage: 688 / 857 required (80.28%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - char_baaren
 - char_bear_01
@@ -101,6 +101,10 @@ The following keys have missing translations:
 - cosmetic_137
 - cosmetic_138
 - cosmetic_139
+- cosmetic_140
+- cosmetic_141
+- cosmetic_142
+- cosmetic_143
 - help_hide_inputs
 - hub_bear_06
 - iap_error_1

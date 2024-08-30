@@ -124,7 +124,7 @@ function computeLevels() {
 }
 function computeOutfits() {
 	const outfits = [];
-	for (let k = 0; k < 139; ++k) {
+	for (let k = 0; k < 143; ++k) {
 		outfits.push({
 			name: keys[`cosmetic_${`${k + 1}`.padStart(3, "0")}`],
 		});

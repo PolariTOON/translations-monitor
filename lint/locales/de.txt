@@ -1,4 +1,4 @@
-Translation coverage: 770 / 770 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 770 / 774 required (99.48%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -83,6 +83,11 @@ The following keys have extra, but optional, translations:
 - pmk_bear_2
 - pmk_bear_3
 - pmk_bear_4
+The following keys have missing translations:
+- cosmetic_140
+- cosmetic_141
+- cosmetic_142
+- cosmetic_143
 The following keys have transparent translations:
 - arcade_race_2
 - char_baaren

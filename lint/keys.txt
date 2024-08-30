@@ -151,7 +151,6 @@ cosmetic_003 has missing translations el
 cosmetic_004 has transparent translations id
 cosmetic_006 has transparent translations es, fr, id, it, nl, pl, pt, tr
 cosmetic_011 has missing translations el
-cosmetic_020 has transparent translations it
 cosmetic_027 has missing translations el
 cosmetic_030 has missing translations el
 cosmetic_031 has missing translations el
@@ -191,7 +190,7 @@ cosmetic_117 has missing translations el
 cosmetic_118 has missing translations el
 cosmetic_119 has missing translations el
 cosmetic_120 has missing translations el
-cosmetic_120 has transparent translations nl
+cosmetic_120 has transparent translations it, nl
 cosmetic_121 has missing translations el
 cosmetic_122 has missing translations el
 cosmetic_123 has missing translations el
@@ -214,6 +213,10 @@ cosmetic_137 has missing translations el
 cosmetic_138 has missing translations el
 cosmetic_138 has transparent translations de, es, fr, id, it
 cosmetic_139 has missing translations el
+cosmetic_140 has missing translations de, el, it, nl, tr
+cosmetic_141 has missing translations de, el, it, nl, tr
+cosmetic_142 has missing translations de, el, it, nl, tr
+cosmetic_143 has missing translations de, el, it, nl, tr
 filter_01 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
