@@ -1,6 +1,6 @@
-import fs from "fs";
-const locales = JSON.parse(await fs.promises.readFile("cache/locales.json"));
-const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
+import {mkdir, rm, writeFile} from "node:fs/promises";
+import locales from "./cache/locales.json" with {type: "json"};
+import keys from "./cache/keys.json" with {type: "json"};
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
 function isRequired(locale, key) {
@@ -58,21 +58,21 @@ for (const [key, locales] of Object.entries(keys)) {
 		keyWarns[key].transparent.push(locale);
 	}
 }
-await fs.promises.mkdir("lint", {
+await mkdir("lint", {
 	recursive: true,
 });
-await fs.promises.rm("lint/locales", {
+await rm("lint/locales", {
 	force: true,
 	recursive: true,
 });
-await fs.promises.mkdir("lint/locales", {
+await mkdir("lint/locales", {
 	recursive: true,
 });
-await fs.promises.rm("lint/keys", {
+await rm("lint/keys", {
 	force: true,
 	recursive: true,
 });
-await fs.promises.mkdir("lint/keys", {
+await mkdir("lint/keys", {
 	recursive: true,
 });
 const formattedLocaleWarns = [];
@@ -103,7 +103,7 @@ for (const [locale, warns] of Object.entries(localeWarns)) {
 			return `- ${key}`;
 		}).join("\n")}\n`);
 	}
-	await fs.promises.writeFile(`lint/locales/${locale.replace(/[./]/g, "_")}.txt`, formattedLocaleWarn.join(""));
+	await writeFile(`lint/locales/${locale.replace(/[./]/g, "_")}.txt`, formattedLocaleWarn.join(""));
 }
 for (const [key, warns] of Object.entries(keyWarns)) {
 	const formattedKeyWarn = [];
@@ -131,11 +131,11 @@ for (const [key, warns] of Object.entries(keyWarns)) {
 			return `- ${locale}`;
 		}).join("\n")}\n`);
 	}
-	await fs.promises.writeFile(`lint/keys/${key.replace(/[./]/g, "_")}.txt`, formattedKeyWarn.join(""));
+	await writeFile(`lint/keys/${key.replace(/[./]/g, "_")}.txt`, formattedKeyWarn.join(""));
 }
-await fs.promises.writeFile("lint/locales.txt", formattedLocaleWarns.length > 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
-await fs.promises.writeFile("lint/keys.txt", formattedKeyWarns.length > 0 ? `${formattedKeyWarns.join("\n")}\n` : "");
-await fs.promises.writeFile(`lint/readme.md`, `\
+await writeFile("lint/locales.txt", formattedLocaleWarns.length > 0 ? `${formattedLocaleWarns.join("\n")}\n` : "");
+await writeFile("lint/keys.txt", formattedKeyWarns.length > 0 ? `${formattedKeyWarns.join("\n")}\n` : "");
+await writeFile(`lint/readme.md`, `\
 # Lint
 
 - [Translation report by locale](locales.txt)
@@ -143,7 +143,7 @@ await fs.promises.writeFile(`lint/readme.md`, `\
 - [Locales](locales)
 - [Keys](keys)
 `);
-await fs.promises.writeFile(`lint/locales/readme.md`, `\
+await writeFile(`lint/locales/readme.md`, `\
 # Locales
 
 ${Object.keys(locales).map((locale) => {
@@ -152,7 +152,7 @@ ${Object.keys(locales).map((locale) => {
 `;
 }).join("")}\
 `);
-await fs.promises.writeFile(`lint/keys/readme.md`, `\
+await writeFile(`lint/keys/readme.md`, `\
 # Keys
 
 ${Object.keys(keys).map((key) => {

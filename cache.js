@@ -1,6 +1,5 @@
-import fs from "fs";
-import fetch from "node-fetch";
-import jszip from "jszip";
+import {mkdir, writeFile} from "node:fs/promises";
+import {BlobReader, TextWriter, ZipReader} from "@zip.js/zip.js";
 const sheets = Object.create(null);
 const token = process.env.SBA_CROWDIN_TOKEN;
 const projectId = 610515;
@@ -54,18 +53,17 @@ try {
 	if (!response.ok) {
 		throw new Error(response.statusText);
 	}
-	const buffer = Buffer.from(await response.arrayBuffer());
-	const zip = await jszip.loadAsync(buffer);
-	zip.forEach((path, sheet) => {
-		if (sheet.dir) {
-			return;
+	const blob = await response.blob();
+	for await (const sheet of new ZipReader(new BlobReader(blob)).getEntriesGenerator()) {
+		if (sheet.directory) {
+			continue;
 		}
-		if (path.includes("/store-")) {
-			return;
+		if (sheet.filename.includes("/store-")) {
+			continue;
 		}
-		const locale = path.split("/")[0].split("-")[0];
+		const locale = sheet.filename.split("/")[0].split("-")[0];
 		sheets[locale] ??= sheet;
-	});
+	}
 	console.log(`Got zip`);
 	await new Promise((resolve) => {
 		setTimeout(resolve, 800);
@@ -81,7 +79,7 @@ for (const locale of Object.keys(sheets)) {
 }
 for (const [locale, sheet] of Object.entries(sheets)) {
 	try {
-		const text = await sheet.async("text");
+		const text = await sheet.getData(new TextWriter());
 		const json = JSON.parse(text);
 		for (const [key, value] of Object.entries(json)) {
 			if (typeof value !== "string") {
@@ -130,12 +128,12 @@ const sortedKeys = Object.fromEntries(sortEntries(Object.entries(keys).map(([key
 		Object.fromEntries(sortEntries(Object.entries(locales))),
 	];
 })));
-await fs.promises.mkdir("cache", {
+await mkdir("cache", {
 	recursive: true,
 });
-await fs.promises.writeFile(`cache/locales.json`, `${JSON.stringify(sortedLocales, null, "\t")}\n`);
-await fs.promises.writeFile(`cache/keys.json`, `${JSON.stringify(sortedKeys, null, "\t")}\n`);
-await fs.promises.writeFile(`cache/readme.md`, `\
+await writeFile(`cache/locales.json`, `${JSON.stringify(sortedLocales, null, "\t")}\n`);
+await writeFile(`cache/keys.json`, `${JSON.stringify(sortedKeys, null, "\t")}\n`);
+await writeFile(`cache/readme.md`, `\
 # Cache
 
 - [Locales](locales.json)
