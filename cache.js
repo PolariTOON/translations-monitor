@@ -44,7 +44,7 @@ try {
 	if (!downloadResponse.ok) {
 		throw new Error(downloadResponse.statusText);
 	}
-	const {data: downloadData} = await buildResponse.json();
+	const {data: downloadData} = await downloadResponse.json();
 	const {url: downloadUrl} = downloadData;
 	console.log(`Got download url ${downloadUrl}`);
 	await new Promise((resolve) => {

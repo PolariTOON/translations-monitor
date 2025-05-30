@@ -5,6 +5,7 @@ const challenges = await (await fetch("https://raw.githubusercontent.com/SuperBe
 const levels = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/levels.json")).json();
 const missions = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/missions.json")).json();
 const outfits = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/outfits.json")).json();
+const races = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/races.json")).json();
 const rarities = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/rarities.json")).json();
 const updates = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/updates.json")).json();
 const keys = JSON.parse(await fs.promises.readFile("cache/keys.json"));
@@ -131,6 +132,15 @@ function computeOutfits() {
 	}
 	return outfits;
 }
+function computeRaces() {
+	const races = [];
+	for (let k = 0; k < 4; ++k) {
+		races.push({
+			name: keys[`arcade_race_${k + 1}`],
+		});
+	}
+	return races;
+}
 function computeRarities() {
 	const rarities = [];
 	rarities.push({
@@ -160,6 +170,7 @@ merge(bears, bind(computeBears()));
 merge(challenges, bind(computeChallenges()));
 merge(levels, bind(computeLevels()));
 merge(outfits, bind(computeOutfits()));
+merge(races, bind(computeRaces()));
 merge(rarities, bind(computeRarities()));
 await fs.promises.mkdir("bind", {
 	recursive: true,
@@ -169,5 +180,18 @@ await fs.promises.writeFile(`bind/challenges.json`, `${JSON.stringify(challenges
 await fs.promises.writeFile(`bind/levels.json`, `${JSON.stringify(levels, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/missions.json`, `${JSON.stringify(missions, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/outfits.json`, `${JSON.stringify(outfits, null, "\t")}\n`);
+await fs.promises.writeFile(`bind/races.json`, `${JSON.stringify(races, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/rarities.json`, `${JSON.stringify(rarities, null, "\t")}\n`);
 await fs.promises.writeFile(`bind/updates.json`, `${JSON.stringify(updates, null, "\t")}\n`);
+await fs.promises.writeFile(`bind/readme.md`, `\
+# Bind
+
+- [Bears](bears.json)
+- [Challenges](challenges.json)
+- [Levels](levels.json)
+- [Missions](missions.json)
+- [Outfits](outfits.json)
+- [Races](races.json)
+- [Rarities](rarities.json)
+- [Updates](updates.json)
+`);
