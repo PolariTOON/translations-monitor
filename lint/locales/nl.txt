@@ -1,4 +1,4 @@
-Translation coverage: 770 / 774 required (99.48%), 83 / 83 optional (100.00%)
+Translation coverage: 949 / 949 required (100.00%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -40,8 +40,8 @@ The following keys have extra, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
-- cosmetic_094
-- cosmetic_104
+- cosmetic_glasses_dealwithit
+- cosmetic_glasses_imabear
 - filter_01
 - filter_02
 - filter_03
@@ -83,11 +83,6 @@ The following keys have extra, but optional, translations:
 - pmk_bear_2
 - pmk_bear_3
 - pmk_bear_4
-The following keys have missing translations:
-- cosmetic_140
-- cosmetic_141
-- cosmetic_142
-- cosmetic_143
 The following keys have transparent translations:
 - arcade_race_2
 - boss_rat
@@ -130,22 +125,30 @@ The following keys have transparent translations:
 - char_tristopio
 - char_violette
 - cosm_category_pet
-- cosmetic_006
-- cosmetic_034
-- cosmetic_036
-- cosmetic_047
-- cosmetic_048
-- cosmetic_069
-- cosmetic_070
-- cosmetic_081
-- cosmetic_085
-- cosmetic_087
-- cosmetic_094
-- cosmetic_096
-- cosmetic_104
-- cosmetic_120
-- cosmetic_127
-- cosmetic_136
+- cosmetic_bandana
+- cosmetic_cape
+- cosmetic_car_muscle
+- cosmetic_glasses_dealwithit
+- cosmetic_glasses_imabear
+- cosmetic_hat_fez
+- cosmetic_hat_sombrero
+- cosmetic_headset_vr
+- cosmetic_helmer_miner
+- cosmetic_helmet_aquarium
+- cosmetic_hoodie_rapper
+- cosmetic_poncho
+- cosmetic_shicka_8bit
+- cosmetic_shicka_bobble
+- cosmetic_shicka_retro
+- cosmetic_shirt_number
+- cosmetic_shirt_sba
+- cosmetic_skin_8bit
+- cosmetic_skin_gummy
+- cosmetic_skin_panda
+- emote_text_help
+- emote_text_no
+- emote_text_prop_hunt
+- emote_text_stop
 - filter_05
 - filter_06
 - filter_07
@@ -178,6 +181,8 @@ The following keys have transparent translations:
 - lootbox_name_pmk
 - mission_parkour
 - mission_race
+- net_stats_client
+- net_stats_in
 - pmk_bear_1
 - pmk_bear_2
 - pmk_bear_3
@@ -191,7 +196,9 @@ The following keys have transparent translations:
 - ui_framerate
 - ui_game_over
 - ui_level1
+- ui_lobby
 - ui_shicka_tips
 - ui_start
 - ui_timer
 - ui_tokens
+- ui_volume_ui

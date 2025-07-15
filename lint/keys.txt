@@ -1,3 +1,4 @@
+arcade_no_multiplayer has missing translations el
 arcade_race_2 has transparent translations de, el, es, fr, nl, pt
 arcade_race_3 has transparent translations el
 arcade_race_4 has transparent translations el, fr
@@ -11,7 +12,7 @@ char_bear_01 has missing translations el
 char_bear_01 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_02 has missing translations el
-char_bear_02 has transparent translations de, es, fr, id, nl, pl, pt, tr
+char_bear_02 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_03 has missing translations el
 char_bear_03 has transparent translations de, fr, id, nl, pl, pt
@@ -102,6 +103,7 @@ char_bear_31 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_32 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_bear_32 has missing translations el
 char_bear_32 has transparent translations de, es, id, it, nl, pt, tr
+char_bear_spirit has missing translations el
 char_bouncer has missing translations el
 char_capitalos has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_capitalos has missing translations el
@@ -110,13 +112,17 @@ char_capitalus has extra, but optional, translations de, es, fr, id, it, nl, pl,
 char_capitalus has missing translations el
 char_capitalus has transparent translations de, es, fr, id, it, nl, pt
 char_crocodile has transparent translations fr
+char_crocodile_spirit has missing translations el
 char_crogo has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_crogo has missing translations el
 char_crogo has transparent translations de, es, fr, id, it, pt, tr
 char_fennec has transparent translations fr, id, it
+char_fennec_spirit has missing translations el
 char_maybee has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_maybee has missing translations el
 char_maybee has transparent translations de, id, nl, pl, pt, tr
+char_mole has missing translations el
+char_mole_old has missing translations el
 char_note has transparent translations fr
 char_shicka has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 char_shicka has missing translations el
@@ -146,77 +152,146 @@ cosm_category_skin has missing translations el
 cosm_category_skin has transparent translations de, id, pl
 cosm_category_trails has missing translations el
 cosm_category_weather has missing translations el
-cosmetic_002 has missing translations el
-cosmetic_003 has missing translations el
-cosmetic_004 has transparent translations id
-cosmetic_006 has transparent translations es, fr, id, it, nl, pl, pt, tr
-cosmetic_011 has missing translations el
-cosmetic_027 has missing translations el
-cosmetic_030 has missing translations el
-cosmetic_031 has missing translations el
-cosmetic_032 has missing translations el
-cosmetic_034 has missing translations el
-cosmetic_034 has transparent translations de, nl
-cosmetic_036 has transparent translations it, nl, pl
-cosmetic_047 has transparent translations nl
-cosmetic_048 has transparent translations de, es, fr, id, it, nl, pl, pt, tr
-cosmetic_053 has missing translations el
-cosmetic_056 has transparent translations de, ru, tr
-cosmetic_069 has transparent translations nl, tr
-cosmetic_070 has transparent translations nl
-cosmetic_071 has transparent translations el, pt, tr
-cosmetic_075 has missing translations el
-cosmetic_076 has missing translations el
-cosmetic_081 has transparent translations nl
-cosmetic_085 has transparent translations nl, tr
-cosmetic_087 has missing translations el
-cosmetic_087 has transparent translations fr, nl
-cosmetic_088 has missing translations el
-cosmetic_094 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
-cosmetic_094 has transparent translations el, es, fr, id, it, nl, pl, pt, ru, tr
-cosmetic_095 has missing translations el
-cosmetic_096 has missing translations el
-cosmetic_096 has transparent translations de, fr, id, it, nl, pl, tr
-cosmetic_104 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
-cosmetic_104 has transparent translations de, el, es, fr, id, it, nl, pl, ru, tr
-cosmetic_106 has transparent translations pl
-cosmetic_107 has transparent translations pl
-cosmetic_112 has missing translations el
-cosmetic_113 has missing translations el
-cosmetic_114 has missing translations el
-cosmetic_115 has missing translations el
-cosmetic_116 has missing translations el
-cosmetic_117 has missing translations el
-cosmetic_118 has missing translations el
-cosmetic_119 has missing translations el
-cosmetic_120 has missing translations el
-cosmetic_120 has transparent translations it, nl
-cosmetic_121 has missing translations el
-cosmetic_122 has missing translations el
-cosmetic_123 has missing translations el
-cosmetic_124 has missing translations el
-cosmetic_125 has missing translations el
-cosmetic_126 has missing translations el
-cosmetic_127 has missing translations el
-cosmetic_127 has transparent translations de, nl, tr
-cosmetic_128 has missing translations el
-cosmetic_129 has missing translations el
-cosmetic_130 has missing translations el
-cosmetic_131 has missing translations el
-cosmetic_132 has missing translations el
-cosmetic_133 has missing translations el
-cosmetic_134 has missing translations el
-cosmetic_135 has missing translations el
-cosmetic_136 has missing translations el
-cosmetic_136 has transparent translations nl
-cosmetic_137 has missing translations el
-cosmetic_138 has missing translations el
-cosmetic_138 has transparent translations de, es, fr, id, it
-cosmetic_139 has missing translations el
-cosmetic_140 has missing translations de, el, it, nl, tr
-cosmetic_141 has missing translations de, el, it, nl, tr
-cosmetic_142 has missing translations de, el, it, nl, tr
-cosmetic_143 has missing translations de, el, it, nl, tr
+cosmetic_balloon has missing translations el
+cosmetic_bandana has missing translations el
+cosmetic_bandana has transparent translations de, fr, id, it, nl, pl, tr
+cosmetic_bandana_miner has missing translations el
+cosmetic_beard has missing translations el
+cosmetic_body_robot has missing translations el
+cosmetic_cape has missing translations el
+cosmetic_cape has transparent translations fr, nl
+cosmetic_cape_damaged has missing translations el
+cosmetic_car_muscle has missing translations el
+cosmetic_car_muscle has transparent translations it, nl
+cosmetic_coat_rain has missing translations el
+cosmetic_coat_winter has missing translations el
+cosmetic_ears_ring has missing translations el
+cosmetic_eyes_feminine has missing translations el
+cosmetic_eyes_manga has missing translations el
+cosmetic_feet_robot has missing translations el
+cosmetic_fx_night has missing translations el
+cosmetic_fx_tumbleweeds has missing translations el
+cosmetic_glasses_dealwithit has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+cosmetic_glasses_dealwithit has transparent translations de, el, es, fr, id, it, nl, pl, ru, tr
+cosmetic_glasses_imabear has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
+cosmetic_glasses_imabear has transparent translations el, es, fr, id, it, nl, pl, pt, ru, tr
+cosmetic_glasses_miner has missing translations el
+cosmetic_glasses_robot has missing translations el
+cosmetic_glasses_screen has missing translations el
+cosmetic_glasses_shutter has missing translations el
+cosmetic_glasses_sunset has missing translations el
+cosmetic_gloves_boxing has missing translations el
+cosmetic_gloves_fingerless has missing translations el
+cosmetic_hair_clown has missing translations el
+cosmetic_hair_long has missing translations el
+cosmetic_hair_ponytail has missing translations el
+cosmetic_hair_short has missing translations el
+cosmetic_hands_maracas has missing translations el
+cosmetic_hands_maracas has transparent translations de, es, fr, id, it, pt
+cosmetic_hands_robot has missing translations el
+cosmetic_hat_cap_classic has missing translations el
+cosmetic_hat_cap_modern has missing translations el
+cosmetic_hat_cowboy has missing translations el
+cosmetic_hat_crab has missing translations el
+cosmetic_hat_crown_bee has missing translations el
+cosmetic_hat_fez has transparent translations es, fr, id, it, nl, pl, pt, tr
+cosmetic_hat_sombrero has missing translations el
+cosmetic_hat_sombrero has transparent translations de, es, id, it, nl, pl, pt, tr
+cosmetic_hat_unicorn has transparent translations id
+cosmetic_hat_winter_coat has missing translations el
+cosmetic_head_child has missing translations el
+cosmetic_head_dog has missing translations el
+cosmetic_head_flower has missing translations el
+cosmetic_head_robot has missing translations el
+cosmetic_headband_ninja has missing translations el
+cosmetic_headbow has missing translations el
+cosmetic_headset_dj has missing translations el
+cosmetic_headset_vr has transparent translations nl
+cosmetic_helmer_miner has missing translations el
+cosmetic_helmer_miner has transparent translations nl
+cosmetic_helmet_aquarium has missing translations el
+cosmetic_helmet_aquarium has transparent translations de, fr, nl
+cosmetic_helmet_knight has missing translations el
+cosmetic_hoodie_rapper has missing translations el
+cosmetic_hoodie_rapper has transparent translations de, nl, tr
+cosmetic_horns_reindeer has missing translations el
+cosmetic_jacket has missing translations el
+cosmetic_jacket_cowboy has missing translations el
+cosmetic_jacket_night has missing translations el
+cosmetic_mask_necromancer has missing translations el
+cosmetic_mask_papercraft has missing translations el
+cosmetic_mask_sandstorm has missing translations el
+cosmetic_mask_wrestler has missing translations el
+cosmetic_mouth_wheat has missing translations el
+cosmetic_music_night has missing translations el
+cosmetic_music_rapper has missing translations el
+cosmetic_music_sheriff has missing translations el
+cosmetic_music_summer has missing translations el
+cosmetic_mustache has missing translations el
+cosmetic_necklace_dollar has missing translations el
+cosmetic_necklace_shark has missing translations el
+cosmetic_nose_clown has missing translations el
+cosmetic_pet_bird has transparent translations pl
+cosmetic_pet_violette has transparent translations pl
+cosmetic_poncho has missing translations el
+cosmetic_poncho has transparent translations de, es, fr, id, nl, pt
+cosmetic_poncho_festive has missing translations el
+cosmetic_pyjama_duck has missing translations el
+cosmetic_scarf has missing translations el
+cosmetic_shicka_8bit has transparent translations nl, tr
+cosmetic_shicka_baguette has missing translations el
+cosmetic_shicka_baguette has transparent translations de, es, fr, id, it
+cosmetic_shicka_bobble has transparent translations nl, tr
+cosmetic_shicka_caiman has missing translations el
+cosmetic_shicka_frog has missing translations el
+cosmetic_shicka_koala has missing translations el
+cosmetic_shicka_narwhal has missing translations el
+cosmetic_shicka_pickaxe has missing translations el
+cosmetic_shicka_pig has missing translations el
+cosmetic_shicka_retro has transparent translations it, nl, pl
+cosmetic_shicka_seagull has missing translations el
+cosmetic_shirt_hawaiian has missing translations el
+cosmetic_shirt_number has missing translations el
+cosmetic_shirt_number has transparent translations de, nl
+cosmetic_shirt_sba has transparent translations nl
+cosmetic_shirt_spooky has missing translations el
+cosmetic_shoes_cowboy has missing translations el
+cosmetic_shoes_flipflop has missing translations el
+cosmetic_skin_8bit has transparent translations nl
+cosmetic_skin_badger has missing translations el
+cosmetic_skin_clown has missing translations el
+cosmetic_skin_gummy has missing translations el
+cosmetic_skin_gummy has transparent translations nl
+cosmetic_skin_leopard has missing translations el
+cosmetic_skin_panda has transparent translations de, es, fr, id, it, nl, pl, pt, tr
+cosmetic_skin_racoon has missing translations el
+cosmetic_skin_sackbear has transparent translations el, pt, tr
+cosmetic_skin_spectacled has missing translations el
+cosmetic_surfboard has missing translations el
+cosmetic_toothpick has missing translations el
+cosmetic_vest_police has missing translations el
+cosmetic_watch_golden has missing translations el
+emote_text_brb has missing translations el
+emote_text_follow_me has missing translations el
+emote_text_goodbye has missing translations el
+emote_text_great has missing translations el
+emote_text_help has missing translations el
+emote_text_help has transparent translations nl
+emote_text_hide_n_seek has missing translations el
+emote_text_hiding_request has missing translations el
+emote_text_no has missing translations el
+emote_text_no has transparent translations es, it, nl
+emote_text_oops has missing translations el
+emote_text_oops has transparent translations es
+emote_text_prop_hunt has missing translations el
+emote_text_prop_hunt has transparent translations de, id, nl
+emote_text_seeking_request has missing translations el
+emote_text_soccer has missing translations el
+emote_text_stop has missing translations el
+emote_text_stop has transparent translations it, nl
+emote_text_thank_you has missing translations el
+emote_text_wait has missing translations el
+emote_text_yes has missing translations el
 filter_01 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_02 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_03 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
@@ -282,10 +357,13 @@ filter_35 has transparent translations nl, tr
 filter_36 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
 filter_36 has transparent translations nl
 help_hide_inputs has missing translations el
+help_show_network_stats has missing translations el
 hub_bear_06 has missing translations el
 hub_bear_15 has transparent translations es, pt
 hub_bear_27 has transparent translations el
 hub_bear_30 has transparent translations el, es, it, pt
+hub_mole_1 has missing translations el
+hub_tristopio_multiplayer has missing translations el
 iap_error_1 has missing translations el
 iap_error_2 has missing translations el
 iap_error_3 has missing translations el
@@ -298,8 +376,39 @@ iap_premium_title has transparent translations de, el, es, fr, id, it, nl, pl, p
 iap_restore_error has missing translations el
 iap_restore_success has missing translations el
 intro_2_1 has missing translations el
+level2_giant_mole has missing translations el
+level2_mole_1 has missing translations el
+level2_mole_10 has missing translations el
+level2_mole_2 has missing translations el
+level2_mole_3 has missing translations el
+level2_mole_4 has missing translations el
+level2_mole_5 has missing translations el
+level2_mole_6 has missing translations el
+level2_mole_7 has missing translations el
+level2_mole_8 has missing translations el
+level2_mole_9 has missing translations el
+level3_bear_astral_1 has missing translations el
+level3_crocodile_5 has missing translations el
+level3_crocodile_6 has missing translations el
+level3_crocodile_astral_1 has missing translations el
+level3_fennec_10 has missing translations el
+level3_fennec_9 has missing translations el
 level3_fennec_ship_1 has missing translations el
 level3_fennec_ship_2 has missing translations el
+level3_fennec_ship_astral_1 has missing translations el
+level3_mole_1 has missing translations el
+level3_mole_2 has missing translations el
+level3_mole_3 has missing translations el
+level3_mole_4 has missing translations el
+level3_mole_5 has missing translations el
+level3_stele_life has missing translations el
+level3_stele_life_1 has missing translations el
+level3_stele_space has missing translations el
+level3_stele_space_1 has missing translations el
+level3_stele_spirit has missing translations el
+level3_stele_spirit_1 has missing translations el
+level3_stele_time has missing translations el
+level3_stele_time_1 has missing translations el
 lootbox_content_many has missing translations el
 lootbox_content_single has missing translations el
 lootbox_name_10x has missing translations el
@@ -312,6 +421,24 @@ lootbox_result_10x has missing translations el
 lootbox_view has missing translations el
 mission_parkour has transparent translations de, el, es, fr, id, it, nl, pt
 mission_race has transparent translations it, nl
+net_stats_client has missing translations el
+net_stats_client has transparent translations fr, nl
+net_stats_host has missing translations el
+net_stats_host has transparent translations id, it, pl, pt
+net_stats_in has missing translations el
+net_stats_in has transparent translations de, nl, pl, pt
+net_stats_out has missing translations el
+net_stats_out has transparent translations pl, pt
+net_stats_player_count has missing translations el
+network_error_alone has missing translations el
+network_error_ccu has missing translations el
+network_error_closed has missing translations el
+network_error_dns has missing translations el
+network_error_game_not_found has missing translations el
+network_error_kicked has missing translations el
+network_error_timeout has missing translations el
+notification_player_join has missing translations el
+notification_player_left has missing translations el
 party_tristopio has transparent translations de
 photo_title has transparent translations pl
 pmk_bear_1 has extra, but optional, translations de, es, fr, id, it, nl, pl, pt, tr
@@ -341,6 +468,7 @@ pmk_lootbox_count has missing translations el
 pmk_title has missing translations el
 pmk_title has transparent translations de, fr, nl, pl, pt
 rarity_rare has transparent translations fr
+shicka_astral_1 has missing translations el
 studio_equipped has missing translations el
 studio_filter has missing translations el
 studio_filter has transparent translations nl
@@ -364,26 +492,96 @@ title_graphics1 has transparent translations nl
 title_privacy has missing translations el
 title_privacy has transparent translations nl
 tutorial_tip_title_07 has transparent translations nl
+ui_accept has missing translations el
+ui_close has missing translations el
+ui_connected_region has missing translations el
 ui_consent_desc has missing translations el
 ui_consent_title has missing translations el
+ui_create_party has missing translations el
+ui_create_party_info has missing translations el
 ui_crowdin has missing translations el
+ui_decline has missing translations el
+ui_disconnected_reason has missing translations el
+ui_disconnected_title has missing translations el
+ui_emote_favorites has missing translations el
+ui_emote_page has missing translations el
+ui_emote_page has transparent translations fr
+ui_enter_invite_code has missing translations el
+ui_exitconfirm has missing translations el
 ui_framerate has transparent translations el, nl
 ui_game_over has transparent translations fr, it, nl, pt
+ui_gamerules has missing translations el
+ui_gamerules_attack_others has missing translations el
+ui_gamerules_collisions_others has missing translations el
+ui_gamerules_damage_others has missing translations el
+ui_greeting has missing translations el
 ui_gyroscope has transparent translations fr
+ui_join_party has missing translations el
+ui_join_party_info has missing translations el
+ui_kick_confirm has missing translations el
 ui_leaderboard has missing translations el
 ui_level1 has transparent translations el, nl
+ui_level_mole2 has missing translations el
+ui_level_mole3 has missing translations el
+ui_level_transition_enter has missing translations el
+ui_level_transition_exit has missing translations el
+ui_lobby has missing translations el
+ui_lobby has transparent translations de, es, fr, id, it, nl, tr
+ui_lobby_leave_confirm has missing translations el
+ui_lobby_loading_create has missing translations el
+ui_lobby_loading_join has missing translations el
+ui_lobby_loading_server has missing translations el
+ui_lobby_starting has missing translations el
+ui_lobby_wait_alone has missing translations el
+ui_lobby_wait_players has missing translations el
 ui_medals has missing translations el
 ui_medals_help has missing translations el
+ui_mole_info has missing translations el
+ui_mole_leave has missing translations el
 ui_motion_blur has transparent translations pt, tr
+ui_multiplayer_mode has missing translations el
+ui_multiplayer_time has missing translations el
+ui_network_error has missing translations el
+ui_network_error_format has missing translations el
+ui_network_error_format has transparent translations es
+ui_new_emote has missing translations el
+ui_not_ready has missing translations el
 ui_performance has transparent translations fr
 ui_privacy_settings has missing translations el
 ui_quality1 has transparent translations de, es, fr, pt
+ui_ready has missing translations el
+ui_region_warning has missing translations el
 ui_revive has transparent translations el
+ui_server_region has missing translations el
+ui_server_region has transparent translations de
 ui_shicka_tips has transparent translations nl
+ui_show_network_stats has missing translations el
 ui_speedrun_counter has missing translations el
 ui_start has transparent translations de, nl, pl
 ui_timer has transparent translations de, id, nl, pl
 ui_tokens has transparent translations nl
 ui_use_controller has missing translations el
 ui_version has transparent translations de, fr
+ui_volume_dialog has missing translations el
+ui_volume_dialog has transparent translations de, id
+ui_volume_emote has missing translations el
+ui_volume_emote has transparent translations fr, it, pt
+ui_volume_environment has missing translations el
+ui_volume_master has missing translations el
+ui_volume_music has missing translations el
+ui_volume_player_voice has missing translations el
+ui_volume_sfx has missing translations el
+ui_volume_ui has missing translations el
+ui_volume_ui has transparent translations fr, nl, pt
+ui_volume_vehicle has missing translations el
+ui_waiting_players has missing translations el
 ui_watch has transparent translations el
+ui_your_invite_code has missing translations el
+vote_caller has missing translations el
+vote_help_controller has missing translations el
+vote_help_touchscreen has missing translations el
+vote_progress has missing translations el
+vote_title_boss has missing translations el
+vote_title_enter has missing translations el
+vote_title_exit has missing translations el
+vote_title_restart has missing translations el

@@ -16,6 +16,7 @@ The following locales have transparent translations:
 - es
 - fr
 - id
+- it
 - nl
 - pl
 - pt

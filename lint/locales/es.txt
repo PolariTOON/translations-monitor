@@ -1,4 +1,4 @@
-Translation coverage: 774 / 774 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 949 / 949 required (100.00%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -40,8 +40,8 @@ The following keys have extra, but optional, translations:
 - char_shicka
 - char_tristopio
 - char_violette
-- cosmetic_094
-- cosmetic_104
+- cosmetic_glasses_dealwithit
+- cosmetic_glasses_imabear
 - filter_01
 - filter_02
 - filter_03
@@ -123,11 +123,16 @@ The following keys have transparent translations:
 - char_shicka
 - char_tristopio
 - char_violette
-- cosmetic_006
-- cosmetic_048
-- cosmetic_094
-- cosmetic_104
-- cosmetic_138
+- cosmetic_glasses_dealwithit
+- cosmetic_glasses_imabear
+- cosmetic_hands_maracas
+- cosmetic_hat_fez
+- cosmetic_hat_sombrero
+- cosmetic_poncho
+- cosmetic_shicka_baguette
+- cosmetic_skin_panda
+- emote_text_no
+- emote_text_oops
 - filter_05
 - filter_15
 - filter_24
@@ -137,4 +142,6 @@ The following keys have transparent translations:
 - iap_premium_title
 - mission_parkour
 - time_format
+- ui_lobby
+- ui_network_error_format
 - ui_quality1
