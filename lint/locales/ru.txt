@@ -1,4 +1,4 @@
-Translation coverage: 1032 / 1032 required (100.00%), 0 / 0 optional (100.00%)
+Translation coverage: 1066 / 1066 required (100.00%), 0 / 0 optional (100.00%)
 The following keys have transparent translations:
 - cosmetic_glasses_dealwithit
 - cosmetic_glasses_imabear

@@ -54,15 +54,16 @@ try {
 		throw new Error(response.statusText);
 	}
 	const blob = await response.blob();
-	for await (const sheet of new ZipReader(new BlobReader(blob)).getEntriesGenerator()) {
-		if (sheet.directory) {
+	for await (const entry of new ZipReader(new BlobReader(blob)).getEntriesGenerator()) {
+		if (entry.directory) {
 			continue;
 		}
-		if (sheet.filename.includes("/store-")) {
+		if (entry.filename.includes("/store.json")) {
 			continue;
 		}
-		const locale = sheet.filename.split("/")[0].split("-")[0];
-		sheets[locale] ??= sheet;
+		const locale = entry.filename.split("/")[0].split("-")[0];
+		sheets[locale] ??= [];
+		sheets[locale].push(entry);
 	}
 	console.log(`Got zip`);
 	await new Promise((resolve) => {
@@ -77,18 +78,20 @@ const keys = Object.create(null);
 for (const locale of Object.keys(sheets)) {
 	locales[locale] = Object.create(null);
 }
-for (const [locale, sheet] of Object.entries(sheets)) {
+for (const [locale, entries] of Object.entries(sheets)) {
 	try {
-		const text = await sheet.getData(new TextWriter());
-		const json = JSON.parse(text);
-		for (const [key, value] of Object.entries(json)) {
-			if (typeof value !== "string") {
-				continue;
+		for (const entry of entries) {
+			const text = await entry.getData(new TextWriter());
+			const json = JSON.parse(text);
+			for (const [key, value] of Object.entries(json)) {
+				if (typeof value !== "string") {
+					continue;
+				}
+				for (const locale of Object.keys(sheets)) {
+					locales[locale][key] ??= null;
+				}
+				locales[locale][key] ??= value;
 			}
-			for (const locale of Object.keys(sheets)) {
-				locales[locale][key] ??= null;
-			}
-			locales[locale][key] ??= value;
 		}
 		console.log(`Got sheet ${locale}`);
 		await new Promise((resolve) => {
@@ -101,7 +104,8 @@ for (const [locale, sheet] of Object.entries(sheets)) {
 }
 for (const [locale, values] of Object.entries(locales)) {
 	for (const [key, value] of Object.entries(values)) {
-		(keys[key] ??= Object.create(null))[locale] ??= value;
+		keys[key] ??= Object.create(null)
+		keys[key][locale] ??= value;
 	}
 }
 function sortEntries(entries) {

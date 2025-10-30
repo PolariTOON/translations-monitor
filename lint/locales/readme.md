@@ -1,5 +1,6 @@
 # Locales
 
+- [Translation coverage for locale `ar`](ar.txt)
 - [Translation coverage for locale `de`](de.txt)
 - [Translation coverage for locale `el`](el.txt)
 - [Translation coverage for locale `en`](en.txt)

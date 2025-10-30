@@ -1,4 +1,4 @@
-Translation coverage: 949 / 949 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 968 / 983 required (98.47%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -83,6 +83,22 @@ The following keys have extra, but optional, translations:
 - pmk_bear_2
 - pmk_bear_3
 - pmk_bear_4
+The following keys have missing translations:
+- emote_tooltip_flag_color
+- emote_tooltip_flag_race
+- emote_tooltip_group
+- emote_tooltip_hide
+- emote_tooltip_thermometer
+- emote_tooltip_thermometer_hint
+- emote_tooltip_timer_start
+- emote_tooltip_timer_stop
+- emote_tooltip_timer_stop_flag
+- mission_7_1
+- mission_8_2
+- mission_9_1
+- mission_penalty
+- ui_gamerules_btn_infect_1
+- ui_gamerules_btn_infect_2
 The following keys have transparent translations:
 - char_baaren
 - char_bear_01

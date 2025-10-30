@@ -1,4 +1,4 @@
-Translation coverage: 949 / 949 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 983 / 983 required (100.00%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -142,6 +142,7 @@ The following keys have transparent translations:
 - filter_34
 - filter_35
 - iap_premium_title
+- mission_kart
 - studio_level
 - ui_lobby
 - ui_motion_blur

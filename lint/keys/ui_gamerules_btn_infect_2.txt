@@ -1,0 +1,6 @@
+Translation coverage: 9 / 13 required (69.23%), 0 / 0 optional (100.00%)
+The following locales have missing translations:
+- ar
+- el
+- nl
+- pl

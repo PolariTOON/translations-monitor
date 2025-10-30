@@ -1,4 +1,4 @@
-Translation coverage: 949 / 949 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 950 / 983 required (96.64%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01
@@ -83,6 +83,40 @@ The following keys have extra, but optional, translations:
 - pmk_bear_2
 - pmk_bear_3
 - pmk_bear_4
+The following keys have missing translations:
+- emote_tooltip_ball
+- emote_tooltip_egg_count
+- emote_tooltip_egg_place
+- emote_tooltip_flag_color
+- emote_tooltip_flag_race
+- emote_tooltip_goal
+- emote_tooltip_group
+- emote_tooltip_hide
+- emote_tooltip_key
+- emote_tooltip_prop
+- emote_tooltip_rps
+- emote_tooltip_seek
+- emote_tooltip_tag_spread
+- emote_tooltip_tag_transfer
+- emote_tooltip_thermometer
+- emote_tooltip_thermometer_hint
+- emote_tooltip_timer_start
+- emote_tooltip_timer_stop
+- emote_tooltip_timer_stop_flag
+- emote_tooltip_toys
+- help_show_emote_bubbles
+- mission_7_1
+- mission_8_1
+- mission_8_2
+- mission_9_1
+- mission_kart
+- mission_penalty
+- mission_sleeping_moles
+- ui_gamerules_btn_infect_1
+- ui_gamerules_btn_infect_2
+- ui_gamerules_btn_infect_3
+- ui_gamerules_infect
+- ui_show_emote_bubbles
 The following keys have transparent translations:
 - arcade_race_2
 - boss_rat
@@ -195,6 +229,7 @@ The following keys have transparent translations:
 - tutorial_tip_title_07
 - ui_framerate
 - ui_game_over
+- ui_help
 - ui_level1
 - ui_lobby
 - ui_shicka_tips

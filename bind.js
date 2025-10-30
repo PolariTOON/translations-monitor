@@ -1,4 +1,5 @@
 import {mkdir, writeFile} from "node:fs/promises";
+import locales from "./cache/locales.json" with {type: "json"};
 import keys from "./cache/keys.json" with {type: "json"};
 const bears = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/bears.json")).json();
 const challenges = await (await fetch("https://raw.githubusercontent.com/SuperBearAdventure/shicka/master/src/bindings/challenges.json")).json();
@@ -78,13 +79,45 @@ function merge(original, override) {
 }
 function computeBears() {
 	const bears = [];
-	for (let k = 0; k < 32; ++k) {
+	bears.push({
+		name: keys["char_bear_01"],
+		boss: keys["boss_turtle_golem"],
+	});
+	for (let k = 1; k < 8; ++k) {
+		bears.push({
+			name: keys[`char_bear_${`${k + 1}`.padStart(2, "0")}`],
+		});
+	}
+	bears.push({
+		name: keys["char_bear_09"],
+		boss: keys["boss_yeti"],
+	});
+	for (let k = 9; k < 16; ++k) {
+		bears.push({
+			name: keys[`char_bear_${`${k + 1}`.padStart(2, "0")}`],
+		});
+	}
+	bears.push({
+		name: keys["char_bear_17"],
+		boss: keys["boss_guardian"],
+	});
+	for (let k = 17; k < 24; ++k) {
+		bears.push({
+			name: keys[`char_bear_${`${k + 1}`.padStart(2, "0")}`],
+		});
+	}
+	bears.push({
+		name: keys["char_bear_25"],
+		boss: keys["boss_rat"],
+	});
+	for (let k = 25; k < 32; ++k) {
 		bears.push({
 			name: keys[`char_bear_${`${k + 1}`.padStart(2, "0")}`],
 		});
 	}
 	bears.push({
 		name: keys["char_brother"],
+		boss: keys["char_queen"],
 	});
 	return bears;
 }
@@ -100,10 +133,16 @@ function computeChallenges() {
 		name: keys["mission_egg"],
 	});
 	challenges.push({
+		name: keys["mission_sleeping_moles"],
+	});
+	challenges.push({
 		name: keys["mission_parkour"],
 	});
 	challenges.push({
 		name: keys["mission_electricity"],
+	});
+	challenges.push({
+		name: keys["mission_kart"],
 	});
 	challenges.push({
 		name: keys["mission_flooding"],
@@ -111,29 +150,44 @@ function computeChallenges() {
 	challenges.push({
 		name: keys["mission_race"],
 	});
+	challenges.push({
+		name: keys["mission_penalty"],
+	});
 	return challenges;
 }
 function computeLevels() {
 	const levels = [];
 	levels.push({
+		name: keys["ui_hub"],
+	});
+	levels.push({
+		name: Object.fromEntries(Object.keys(locales).map((locale) => {
+			return [locale, "Backrooms"];
+		})),
+	});
+	levels.push({
 		name: keys["ui_level1"],
-		boss: keys["boss_turtle_golem"],
+	});
+	levels.push({
+		name: keys["ui_arcade_world"],
 	});
 	levels.push({
 		name: keys["ui_level2"],
-		boss: keys["boss_yeti"],
 	});
 	levels.push({
 		name: keys["ui_level3"],
-		boss: keys["boss_guardian"],
 	});
 	levels.push({
 		name: keys["ui_level4"],
-		boss: keys["boss_rat"],
 	});
 	levels.push({
 		name: keys["ui_hive"],
-		boss: keys["char_queen"],
+	});
+	levels.push({
+		name: keys["ui_level_mole2"],
+	});
+	levels.push({
+		name: keys["ui_level_mole3"],
 	});
 	return levels;
 }
@@ -174,9 +228,6 @@ function computeOutfits() {
 	};
 	outfits["headbandNinja"] = {
 		name: keys["cosmetic_headband_ninja"],
-	};
-	outfits["maskPapercraft"] = {
-		name: keys["cosmetic_mask_papercraft"],
 	};
 	outfits["hornsReindeer"] = {
 		name: keys["cosmetic_horns_reindeer"],
@@ -249,6 +300,9 @@ function computeOutfits() {
 	};
 	outfits["maskNecromancer"] = {
 		name: keys["cosmetic_mask_necromancer"],
+	};
+	outfits["maskPapercraft"] = {
+		name: keys["cosmetic_mask_papercraft"],
 	};
 	outfits["headsetVr"] = {
 		name: keys["cosmetic_headset_vr"],
@@ -375,6 +429,9 @@ function computeOutfits() {
 	};
 	outfits["maskYeti"] = {
 		name: keys["cosmetic_mask_yeti"],
+	};
+	outfits["headSnowman"] = {
+		name: keys["cosmetic_head_snowman"],
 	};
 	outfits["jacket"] = {
 		name: keys["cosmetic_jacket"],
@@ -700,23 +757,12 @@ function computeRarities() {
 	});
 	return rarities;
 }
-function computeSublevels() {
-	const sublevels = [];
-	sublevels.push({
-		name: keys["ui_level_mole2"],
-	});
-	sublevels.push({
-		name: keys["ui_level_mole3"],
-	});
-	return sublevels;
-}
 merge(bears, bind(computeBears()));
 merge(challenges, bind(computeChallenges()));
 merge(levels, bind(computeLevels()));
 merge(outfits, bind(computeOutfits()));
 merge(races, bind(computeRaces()));
 merge(rarities, bind(computeRarities()));
-merge(sublevels, bind(computeSublevels()));
 await mkdir("bind", {
 	recursive: true,
 });
