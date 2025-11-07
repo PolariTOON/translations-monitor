@@ -58,9 +58,6 @@ try {
 		if (entry.directory) {
 			continue;
 		}
-		if (entry.filename.includes("/store.json")) {
-			continue;
-		}
 		const locale = entry.filename.split("/")[0].split("-")[0];
 		sheets[locale] ??= [];
 		sheets[locale].push(entry);

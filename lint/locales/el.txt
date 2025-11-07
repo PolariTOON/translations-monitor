@@ -1,4 +1,4 @@
-Translation coverage: 0 / 1066 required (0.00%), 0 / 0 optional (100.00%)
+Translation coverage: 0 / 1068 required (0.00%), 0 / 0 optional (100.00%)
 The following keys have missing translations:
 - action_attack
 - action_brake
@@ -802,6 +802,8 @@ The following keys have missing translations:
 - splash_company
 - splash_gamepad
 - sticker_found
+- store_long_desc
+- store_short_desc
 - studio_equipped
 - studio_filter
 - studio_filter_equip

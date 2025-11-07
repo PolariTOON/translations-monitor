@@ -802,6 +802,8 @@
 - [Translation coverage for key `splash_company`](splash_company.txt)
 - [Translation coverage for key `splash_gamepad`](splash_gamepad.txt)
 - [Translation coverage for key `sticker_found`](sticker_found.txt)
+- [Translation coverage for key `store_long_desc`](store_long_desc.txt)
+- [Translation coverage for key `store_short_desc`](store_short_desc.txt)
 - [Translation coverage for key `studio_equipped`](studio_equipped.txt)
 - [Translation coverage for key `studio_filter`](studio_filter.txt)
 - [Translation coverage for key `studio_filter_equip`](studio_filter_equip.txt)

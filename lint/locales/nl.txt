@@ -1,4 +1,4 @@
-Translation coverage: 950 / 983 required (96.64%), 83 / 83 optional (100.00%)
+Translation coverage: 952 / 985 required (96.65%), 83 / 83 optional (100.00%)
 The following keys have extra, but optional, translations:
 - char_baaren
 - char_bear_01

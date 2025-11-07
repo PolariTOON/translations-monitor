@@ -1011,6 +1011,8 @@ shicka_hub_1 has missing translations ar, el
 splash_company has missing translations ar, el
 splash_gamepad has missing translations ar, el
 sticker_found has missing translations ar, el
+store_long_desc has missing translations ar, el
+store_short_desc has missing translations ar, el
 studio_equipped has missing translations ar, el
 studio_filter has missing translations ar, el
 studio_filter has transparent translations nl
