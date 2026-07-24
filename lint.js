@@ -4,7 +4,7 @@ import keys from "./cache/keys.json" with {type: "json"};
 const localeWarns = Object.create(null);
 const keyWarns = Object.create(null);
 function isRequired(locale, key) {
-	return ["ar", "el", "en", "ru"].includes(locale) || ["char_bear_spirit", "filter_00"].includes(key) || !key.startsWith("char_bear_") && !key.startsWith("filter_") && !["char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_maybee", "char_shicka", "char_tristopio", "char_violette", "cosmetic_glasses_dealwithit", "cosmetic_glasses_imabear", "iap_premium_title", "pmk_bear_1", "pmk_bear_2", "pmk_bear_3", "pmk_bear_4"].includes(key);
+	return ["ar", "el", "en", "ru"].includes(locale) || ["char_bear_spirit", "filter_00"].includes(key) || !key.startsWith("char_bear_") && !key.startsWith("filter_") && !["bundle_cosmic_title", "char_baaren", "char_capitalos", "char_capitalus", "char_crogo", "char_grannytalus", "char_maybee", "char_mole_wizard", "char_shicka", "char_tristopio", "char_violette", "cosmetic_glasses_dealwithit", "cosmetic_glasses_imabear", "iap_premium_title", "outfit_cosmic_1", "outfit_cosmic_2", "outfit_cosmic_3", "outfit_cosmic_4", "outfit_latino_3", "outfit_latino_4", "pmk_bear_1", "pmk_bear_2", "pmk_bear_3", "pmk_bear_4"].includes(key);
 }
 for (const locale of Object.keys(locales)) {
 	localeWarns[locale] = Object.create(null);

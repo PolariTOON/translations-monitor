@@ -1,5 +1,6 @@
-Translation coverage: 985 / 985 required (100.00%), 83 / 83 optional (100.00%)
+Translation coverage: 1230 / 1230 required (100.00%), 92 / 92 optional (100.00%)
 The following keys have extra, but optional, translations:
+- bundle_cosmic_title
 - char_baaren
 - char_bear_01
 - char_bear_02
@@ -36,7 +37,9 @@ The following keys have extra, but optional, translations:
 - char_capitalos
 - char_capitalus
 - char_crogo
+- char_grannytalus
 - char_maybee
+- char_mole_wizard
 - char_shicka
 - char_tristopio
 - char_violette
@@ -79,6 +82,12 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
+- outfit_cosmic_1
+- outfit_cosmic_2
+- outfit_cosmic_3
+- outfit_cosmic_4
+- outfit_latino_3
+- outfit_latino_4
 - pmk_bear_1
 - pmk_bear_2
 - pmk_bear_3
@@ -123,12 +132,17 @@ The following keys have transparent translations:
 - char_shicka
 - char_tristopio
 - char_violette
+- cosmetic_chapka
 - cosmetic_glasses_dealwithit
 - cosmetic_glasses_imabear
+- cosmetic_hair_banana
 - cosmetic_hands_maracas
 - cosmetic_hat_fez
 - cosmetic_hat_sombrero
+- cosmetic_parka
 - cosmetic_poncho
+- cosmetic_shemagh
+- cosmetic_shicka_alien
 - cosmetic_shicka_baguette
 - cosmetic_skin_panda
 - emote_text_no
@@ -142,6 +156,12 @@ The following keys have transparent translations:
 - iap_premium_title
 - mission_kart
 - mission_parkour
+- outfit_cosmic_1
+- outfit_cosmic_2
+- outfit_cosmic_3
+- outfit_latino_1
+- outfit_latino_4
+- outfit_santa
 - time_format
 - ui_lobby
 - ui_network_error_format

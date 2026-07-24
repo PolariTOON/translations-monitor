@@ -1,1 +1,1 @@
-Translation coverage: 1068 / 1068 required (100.00%), 0 / 0 optional (100.00%)
+Translation coverage: 1322 / 1322 required (100.00%), 0 / 0 optional (100.00%)

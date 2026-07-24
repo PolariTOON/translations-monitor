@@ -1,7 +1,10 @@
-Translation coverage: 1068 / 1068 required (100.00%), 0 / 0 optional (100.00%)
+Translation coverage: 1322 / 1322 required (100.00%), 0 / 0 optional (100.00%)
 The following keys have transparent translations:
+- bundle_latino_title
 - cosmetic_glasses_dealwithit
 - cosmetic_glasses_imabear
 - filter_20
 - filter_27
 - iap_premium_title
+- net_stats_in
+- net_stats_out

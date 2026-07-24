@@ -1,5 +1,6 @@
-Translation coverage: 970 / 985 required (98.48%), 83 / 83 optional (100.00%)
+Translation coverage: 1230 / 1230 required (100.00%), 92 / 92 optional (100.00%)
 The following keys have extra, but optional, translations:
+- bundle_cosmic_title
 - char_baaren
 - char_bear_01
 - char_bear_02
@@ -36,7 +37,9 @@ The following keys have extra, but optional, translations:
 - char_capitalos
 - char_capitalus
 - char_crogo
+- char_grannytalus
 - char_maybee
+- char_mole_wizard
 - char_shicka
 - char_tristopio
 - char_violette
@@ -79,27 +82,18 @@ The following keys have extra, but optional, translations:
 - filter_35
 - filter_36
 - iap_premium_title
+- outfit_cosmic_1
+- outfit_cosmic_2
+- outfit_cosmic_3
+- outfit_cosmic_4
+- outfit_latino_3
+- outfit_latino_4
 - pmk_bear_1
 - pmk_bear_2
 - pmk_bear_3
 - pmk_bear_4
-The following keys have missing translations:
-- emote_tooltip_flag_color
-- emote_tooltip_flag_race
-- emote_tooltip_group
-- emote_tooltip_hide
-- emote_tooltip_thermometer
-- emote_tooltip_thermometer_hint
-- emote_tooltip_timer_start
-- emote_tooltip_timer_stop
-- emote_tooltip_timer_stop_flag
-- mission_7_1
-- mission_8_2
-- mission_9_1
-- mission_penalty
-- ui_gamerules_btn_infect_1
-- ui_gamerules_btn_infect_2
 The following keys have transparent translations:
+- bundle_latino_title
 - char_baaren
 - char_bear_01
 - char_bear_02
@@ -132,18 +126,26 @@ The following keys have transparent translations:
 - char_bear_30
 - char_bear_31
 - char_maybee
+- char_mole_wizard
 - char_shicka
 - char_tristopio
 - char_violette
 - cosm_category_skin
 - cosmetic_bandana
+- cosmetic_beanie
 - cosmetic_glasses_dealwithit
 - cosmetic_glasses_imabear
+- cosmetic_hair_banana
+- cosmetic_hat_beret
 - cosmetic_hat_fez
 - cosmetic_hat_sombrero
+- cosmetic_parka
 - cosmetic_pet_bird
 - cosmetic_pet_violette
+- cosmetic_shemagh
+- cosmetic_shicka_alien
 - cosmetic_shicka_retro
+- cosmetic_shicken
 - cosmetic_skin_panda
 - filter_05
 - filter_08
@@ -155,10 +157,17 @@ The following keys have transparent translations:
 - filter_27
 - filter_31
 - iap_premium_title
-- lootbox_name_pmk
 - net_stats_host
 - net_stats_in
 - net_stats_out
+- outfit_cosmic_1
+- outfit_cosmic_2
+- outfit_cosmic_3
+- outfit_cosmic_4
+- outfit_latino_1
+- outfit_latino_2
+- outfit_latino_3
+- outfit_latino_4
 - photo_title
 - pmk_title
 - ui_start
